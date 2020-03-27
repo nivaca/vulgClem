@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Osee</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Verbum Domini, quod factum est ad Osee, filium Beeri, in diebus
+          Oziae, Joathan, Achaz, Ezechiae, regum Juda ; et in diebus Jeroboam, filii Joas, regis
+            Israël.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e37" n="2"> Principium loquendi Domino in Osee. Et dixit Dominus ad Osee :
+          Vade, sume tibi uxorem fornicationum, et fac tibi filios fornicationum, quia fornicans
+          fornicabitur terra a Domino.</ab>
+        <ab xml:id="d1e40" n="3"> Et abiit, et accepit Gomer, filiam Debelaim : et concepit, et
+          peperit ei filium.</ab>
+        <ab xml:id="d1e43" n="4"> Et dixit Dominus ad eum : Voca nomen ejus Jezrahel, quoniam adhuc
+          modicum, et visitabo sanguinem Jezrahel super domum Jehu, et quiescere faciam regnum domus
+          Israël.</ab>
+        <ab xml:id="d1e46" n="5"> Et in illa die conteram arcum Israël in valle Jezrahel.</ab>
+        <ab xml:id="d1e50" n="6"> Et concepit adhuc, et peperit filiam. Et dixit ei : Voca nomen
+          ejus, Absque misericordia, quia non addam ultra misereri domui Israël, sed oblivione
+          obliviscar eorum.</ab>
+        <ab xml:id="d1e53" n="7"> Et domui Juda miserebor, et salvabo eos in Domino Deo suo ; et non
+          salvabo eos in arcu et gladio, et in bello, et in equis, et in equitibus.</ab>
+        <ab xml:id="d1e56" n="8"> Et ablactavit eam quae erat Absque misericordia. Et concepit, et
+          peperit filium.</ab>
+        <ab xml:id="d1e59" n="9"> Et dixit : Voca nomen ejus, Non populus meus, quia vos non populus
+          meus, et ego non ero vester.</ab>
+        <ab xml:id="d1e62" n="10"> Et erit numerus filiorum Israël quasi arena maris, quae sine
+          mensura est, et non numerabitur. Et erit in loco ubi dicetur eis : Non populus meus vos :
+          dicetur eis : Filii Dei viventis.</ab>
+        <ab xml:id="d1e65" n="11"> Et congregabuntur filii Juda et filii Israël pariter ; et ponent
+          sibimet caput unum, et ascendent de terra, quia magnus dies Jezrahel.</ab>
+      </div>
+      <div xml:id="d1e69" type="chap" n="2">
+        <ab xml:id="d1e71" n="1"> Dicite fratribus vestris : Populus meus ; et sorori vestrae :
+          Misericordiam consecuta.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e75" n="2"> [Judicate matrem vestram, judicate,/ quoniam ipsa non uxor mea,/
+          et ego non vir ejus./ Auferat fornicationes suas a facie sua,/ et adulteria sua de medio
+          uberum suorum ;/</ab>
+        <ab xml:id="d1e78" n="3"> ne forte expoliem eam nudam,/ et statuam eam secundum diem
+          nativitatis suae,/ et ponam eam quasi solitudinem,/ et statuam eam velut terram inviam,/
+          et interficiam eam siti./</ab>
+        <ab xml:id="d1e81" n="4"> Et filiorum illius non miserebor,/ quoniam filii fornicationum
+          sunt./</ab>
+        <ab xml:id="d1e84" n="5"> Quia fornicata est mater eorum,/ confusa est quae concepit eos ;/
+          quia dixit : Vadam post amatores meos,/ qui dant panes mihi, et aquas meas,/ lanam meam,
+          et linum meum,/ oleum meum, et potum meum./</ab>
+        <ab xml:id="d1e88" n="6"> Propter hoc ecce ego sepiam viam tuam spinis,/ et sepiam eam
+          maceria, et semitas suas non inveniet./</ab>
+        <ab xml:id="d1e91" n="7"> Et sequetur amatores suos, et non apprehendet eos ;/ et quaeret
+          eos, et non inveniet :/ et dicet : Vadam, et revertar ad virum meum priorem,/ quia bene
+          mihi erat tunc magis quam nunc./</ab>
+        <ab xml:id="d1e94" n="8"> Et haec nescivit, quia ego dedi ei frumentum, et vinum, et oleum,/
+          et argentum multiplicavi ei, et aurum,/ quae fecerunt Baal./</ab>
+        <ab xml:id="d1e97" n="9"> Idcirco convertar, et sumam frumentum meum in tempore suo,/ et
+          vinum meum in tempore suo./ Et liberabo lanam meam et linum meum,/ quae operiebant
+          ignominiam ejus./</ab>
+        <ab xml:id="d1e100" n="10"> Et nunc revelabo stultitiam ejus in oculis amatorum ejus ;/ et
+          vir non eruet eam de manu mea ;/</ab>
+        <ab xml:id="d1e103" n="11"> et cessare faciam omne gaudium ejus,/ solemnitatem ejus,
+          neomeniam ejus, sabbatum ejus,/ et omnia festa tempora ejus./</ab>
+        <ab xml:id="d1e107" n="12"> Et corrumpam vineam ejus, et ficum ejus,/ de quibus dixit :
+          Mercedes hae meae sunt,/ quas dederunt mihi amatores mei ;/ et ponam eam in saltum,/ et
+          comedet eam bestia agri./</ab>
+        <ab xml:id="d1e110" n="13"> Et visitabo super eam dies Baalim,/ quibus accendebat incensum,/
+          et ornabatur in aure sua, et monili suo./ Et ibat post amatores suos,/ et mei
+          obliviscebatur, dicit Dominus./</ab>
+        <ab xml:id="d1e113" n="14"> Propter hoc ecce ego lactabo eam,/ et ducam eam in solitudinem,/
+          et loquar ad cor ejus./</ab>
+        <ab xml:id="d1e116" n="15"> Et dabo ei vinitores ejus ex eodem loco,/ et vallem Achor, ad
+          aperiendam spem ;/ et canet ibi juxta dies juventutis suae,/ et juxta dies ascensionis
+          suae de terra Aegypti./</ab>
+        <ab xml:id="d1e119" n="16"> Et erit in die illa, ait Dominus :/ vocabit me, Vir meus,/ et
+          non vocabit me ultra Baali./</ab>
+        <ab xml:id="d1e122" n="17"> Et auferam nomina Baalim de ore ejus,/ et non recordabitur ultra
+          nominis eorum./</ab>
+        <ab xml:id="d1e126" n="18"> Et percutiam cum eis foedus in die illa, cum bestia agri,/ et
+          cum volucre caeli, et cum reptili terrae ;/ et arcum, et gladium, et bellum conteram de
+          terra,/ et dormire eos faciam fiducialiter./</ab>
+        <ab xml:id="d1e129" n="19"> Et sponsabo te mihi in sempiternum ;/ et sponsabo te mihi in
+          justitia, et judicio,/ et in misericordia, et in miserationibus./</ab>
+        <ab xml:id="d1e132" n="20"> Et sponsabo te mihi in fide ;/ et scies quia ego Dominus./</ab>
+        <ab xml:id="d1e135" n="21"> Et erit in die illa :/ exaudiam, dicit Dominus, exaudiam
+          caelos,/ et illi exaudient terram./</ab>
+        <ab xml:id="d1e138" n="22"> Et terra exaudiet triticum, et vinum, et oleum,/ et haec
+          exaudient Jezrahel./</ab>
+        <ab xml:id="d1e141" n="23"> Et seminabo eam mihi in terra,/ et miserebor ejus quae fuit
+          Absque misericordia./</ab>
+        <ab xml:id="d1e145" n="24"> Et dicam Non populo meo : Populus meus es tu ;/ et ipse dicet :
+          Deus meus es tu.]</ab>
+      </div>
+      <div xml:id="d1e149" type="chap" n="3">
+        <ab xml:id="d1e151" n="1"> Et dixit Dominus ad me : Adhuc vade, et dilige mulierem dilectam
+          amico et adulteram, sicut diligit Dominus filios Israël, et ipsi respiciunt ad deos
+          alienos, et diligunt vinacia uvarum.</ab>
+        <ab xml:id="d1e154" n="2"> Et fodi eam mihi quindecim argenteis, et coro hordei, et dimidio
+          coro hordaei.</ab>
+        <ab xml:id="d1e157" n="3"> Et dixi ad eam : Dies multos exspectabis me ; non fornicaberis,
+          et non eris viro ; sed et ego exspectabo te.</ab>
+        <ab xml:id="d1e160" n="4"> Quia dies multos sedebunt filii Israël sine rege, et sine
+          principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim.</ab>
+        <ab xml:id="d1e163" n="5"> Et post haec revertentur filii Israël, et quaerent Dominum Deum
+          suum, et David regem suum : et pavebunt ad Dominum, et ad bonum ejus, in novissimo
+          dierum.</ab>
+      </div>
+      <div xml:id="d1e167" type="chap" n="4">
+        <ab xml:id="d1e169" n="1"> [Audite verbum Domini, filii Israël,/ quia judicium Domino cum
+          habitatoribus terrae :/ non est enim veritas, et non est misericordia,/ et non est
+          scientia Dei in terra./</ab>
+        <ab xml:id="d1e172" n="2"> Maledictum, et mendacium,/ et homicidium, et furtum, et
+          adulterium inundaverunt,/ et sanguis sanguinem tetigit./</ab>
+        <ab xml:id="d1e175" n="3"> Propter hoc lugebit terra,/ et infirmabitur omnis qui habitat in
+          ea,/ in bestia agri, et in volucre caeli ;/ sed et pisces maris congregabuntur./</ab>
+        <ab xml:id="d1e178" n="4"> Verumtamen unusquisque non judicet,/ et non arguatur vir :/
+          populus enim tuus sicut hi qui contradicunt sacerdoti./</ab>
+        <ab xml:id="d1e181" n="5"> Et corrues hodie,/ et corruet etiam propheta tecum./ Nocte tacere
+          feci matrem tuam./</ab>
+        <ab xml:id="d1e185" n="6"> Conticuit populus meus,/ eo quod non habuerit scientiam :/ quia
+          tu scientiam repulisti,/ repellam te, ne sacerdotio fungaris mihi ;/ et oblita es legis
+          Dei tui,/ obliviscar filiorum tuorum et ego./</ab>
+        <ab xml:id="d1e188" n="7"> Secundum multitudinem eorum sic peccaverunt mihi :/ gloriam eorum
+          in ignominiam commutabo./</ab>
+        <ab xml:id="d1e191" n="8"> Peccata populi mei comedent,/ et ad iniquitatem eorum sublevabunt
+          animas eorum./</ab>
+        <ab xml:id="d1e194" n="9"> Et erit sicut populus, sic sacerdos ;/ et visitabo super eum vias
+          ejus,/ et cogitationes ejus reddam ei./</ab>
+        <ab xml:id="d1e197" n="10"> Et comedent, et non saturabuntur ;/ fornicati sunt, et non
+          cessaverunt :/ quoniam Dominum dereliquerunt in non custodiendo./</ab>
+        <ab xml:id="d1e200" n="11"> Fornicatio, et vinum, et ebrietas auferunt cor./</ab>
+        <ab xml:id="d1e204" n="12"> Populus meus in ligno suo interrogavit,/ et baculus ejus
+          annuntiavit ei ;/ spiritus enim fornicationum decepit eos,/ et fornicati sunt a Deo
+          suo./</ab>
+        <ab xml:id="d1e207" n="13"> Super capita montium sacrificabant,/ et super colles ascendebant
+          thymiama ;/ subtus quercum, et populum, et terebinthum,/ quia bona erat umbra ejus ;/ ideo
+          fornicabuntur filiae vestrae,/ et sponsae vestrae adulterae erunt./</ab>
+        <ab xml:id="d1e210" n="14"> Non visitabo super filias vestras cum fuerint fornicatae,/ et
+          super sponsas vestras cum adulteraverint,/ quoniam ipsi cum meretricibus conversabantur,/
+          et cum effeminatis sacrificabant ;/ et populus non intelligens vapulabit./</ab>
+        <ab xml:id="d1e213" n="15"> Si fornicaris tu, Israël,/ non delinquat saltem Juda ;/ et
+          nolite ingredi in Galgala,/ et ne ascenderitis in Bethaven,/ neque juraveritis : Vivit
+          Dominus !/</ab>
+        <ab xml:id="d1e216" n="16"> Quoniam sicut vacca lasciviens declinavit Israël ;/ nunc pascet
+          eos Dominus, quasi agnum in latitudine./</ab>
+        <ab xml:id="d1e219" n="17"> Particeps idolorum Ephraim : dimitte eum./</ab>
+        <ab xml:id="d1e223" n="18"> Separatum est convivium eorum ;/ fornicatione fornicati sunt :/
+          dilexerunt afferre ignominiam protectores ejus./</ab>
+        <ab xml:id="d1e226" n="19"> Ligavit eum spiritus in alis suis,/ et confundentur a
+          sacrificiis suis.]</ab>
+      </div>
+      <div xml:id="d1e230" type="chap" n="5">
+        <ab xml:id="d1e232" n="1"> [Audite hoc, sacerdotes, / et attendite, domus Israël,/ et domus
+          regis, auscultate :/ quia vobis judicium est,/ quoniam laqueus facti estis speculationi,/
+          et rete expansum super Thabor./</ab>
+        <ab xml:id="d1e235" n="2"> Et victimas declinastis in profundum ;/ et ego eruditor omnium
+          eorum./</ab>
+        <ab xml:id="d1e238" n="3"> Ego scio Ephraim,/ et Israël non est absconditus a me :/ quia
+          nunc fornicatus est Ephraim ;/ contaminatus est Israël./</ab>
+        <ab xml:id="d1e241" n="4"> Non dabunt cogitationes suas ut revertantur ad Deum suum,/ quia
+          spiritus fornicationum in medio eorum,/ et Dominum non cognoverunt./</ab>
+        <ab xml:id="d1e244" n="5"> Et respondebit arrogantia Israël in facie ejus,/ et Israël et
+          Ephraim ruent in iniquitate sua :/ ruet etiam Judas cum eis./</ab>
+        <ab xml:id="d1e248" n="6"> In gregibus suis et in armentis suis vadent ad quaerendum
+          Dominum,/ et non invenient :/ ablatus est ab eis./</ab>
+        <ab xml:id="d1e251" n="7"> In Dominum praevaricati sunt,/ quia filios alienos genuerunt :/
+          nunc devorabit eos mensis, cum partibus suis./</ab>
+        <ab xml:id="d1e254" n="8"> Clangite buccina in Gabaa,/ tuba in Rama ;/ ululate in Bethaven,/
+          post tergum tuum, Benjamin./</ab>
+        <ab xml:id="d1e257" n="9"> Ephraim in desolatione erit in die correptionis ;/ in tribubus
+          Israël ostendi fidem./</ab>
+        <ab xml:id="d1e260" n="10"> Facti sunt principes Juda quasi assumentes terminum ;/ super eos
+          effundam quasi aquam iram meam./</ab>
+        <ab xml:id="d1e263" n="11"> Calumniam patiens est Ephraim, fractus judicio,/ quoniam coepit
+          abire post sordes./</ab>
+        <ab xml:id="d1e267" n="12"> Et ego quasi tinea Ephraim,/ et quasi putredo domui Juda./</ab>
+        <ab xml:id="d1e270" n="13"> Et vidit Ephraim languorem suum,/ et Juda vinculum suum ;/ et
+          abiit Ephraim ad Assur,/ et misit ad regem ultorem :/ et ipse non poterit sanare vos,/ nec
+          solvere poterit a vobis vinculum./</ab>
+        <ab xml:id="d1e273" n="14"> Quoniam ego quasi leaena Ephraim,/ et quasi catulus leonis domui
+          Juda./ Ego, ego capiam, et vadam ;/ tollam, et non est qui eruat./</ab>
+        <ab xml:id="d1e276" n="15"> Vadens revertar ad locum meum,/ donec deficiatis, et quaeratis
+          faciem meam.]</ab>
+      </div>
+      <div xml:id="d1e281" type="chap" n="6">
+        <ab xml:id="d1e283" n="1"> [In tribulatione sua mane consurgent ad me :/ Venite, et
+          revertamur ad Dominum,/</ab>
+        <ab xml:id="d1e286" n="2"> quia ipse cepit, et sanabit nos ;/ percutiet, et curabit
+          nos./</ab>
+        <ab xml:id="d1e289" n="3"> Vivificabit nos post duos dies ;/ in die tertia suscitabit nos,/
+          et vivemus in conspectu ejus./ Sciemus, sequemurque ut cognoscamus Dominum :/ quasi
+          diluculum praeparatus est egressus ejus,/ et veniet quasi imber nobis temporaneus et
+          serotinus terrae./</ab>
+        <ab xml:id="d1e292" n="4"> Quid faciam tibi, Ephraim ?/ quid faciam tibi, Juda ?/
+          misericordia vestra quasi nubes matutina,/ et quasi ros mane pertransiens./</ab>
+        <ab xml:id="d1e295" n="5"> Propter hoc dolavi in prophetis ;/ occidi eos in verbis oris mei
+          :/ et judicia tua quasi lux egredientur./</ab>
+        <ab xml:id="d1e299" n="6"> Quia misericordiam volui, et non sacrificium ;/ et scientiam Dei
+          plus quam holocausta./</ab>
+        <ab xml:id="d1e302" n="7"> Ipsi autem sicut Adam transgressi sunt pactum :/ ibi praevaricati
+          sunt in me./</ab>
+        <ab xml:id="d1e305" n="8"> Galaad civitas operantium idolum,/ supplantata sanguine./</ab>
+        <ab xml:id="d1e308" n="9"> Et quasi fauces virorum latronum,/ particeps sacerdotum, in via
+          interficientium pergentes de Sichem :/ quia scelus operati sunt./</ab>
+        <ab xml:id="d1e311" n="10"> In domo Israël vidi horrendum :/ ibi fornicationes Ephraim,/
+          contaminatus est Israël./</ab>
+        <ab xml:id="d1e314" n="11"> Sed et Juda, pone messem tibi,/ cum convertero captivitatem
+          populi mei.]</ab>
+      </div>
+      <div xml:id="d1e318" type="chap" n="7">
+        <ab xml:id="d1e320" n="1"> [Cum sanare vellem Israël,/ revelata est iniquitas Ephraim,/ et
+          malitia Samariae,/ quia operati sunt mendacium ;/ et fur ingressus est spolians,/
+          latrunculus foris./</ab>
+        <ab xml:id="d1e323" n="2"> Et ne forte dicant in cordibus suis,/ omnem malitiam eorum me
+          recordatum,/ nunc circumdederunt eos adinventiones suae :/ coram facie mea factae
+          sunt./</ab>
+        <ab xml:id="d1e326" n="3"> In malitia sua laetificaverunt regem,/ et in mendaciis suis
+          principes./</ab>
+        <ab xml:id="d1e329" n="4"> Omnes adulterantes,/ quasi clibanus succensus a coquente ;/
+          quievit paululum civitas a commistione fermenti,/ donec fermentaretur totum./</ab>
+        <ab xml:id="d1e332" n="5"> Dies regis nostri : coeperunt principes furere a vino ;/ extendit
+          manum suam cum illusoribus./</ab>
+        <ab xml:id="d1e336" n="6"> Quia applicuerunt quasi clibanum cor suum,/ cum insidiaretur eis
+          ;/ tota nocte dormivit coquens eos :/ mane ipse succensus quasi ignis flammae./</ab>
+        <ab xml:id="d1e339" n="7"> Omnes calefacti sunt quasi clibanus,/ et devoraverunt judices
+          suos :/ omnes reges eorum ceciderunt ;/ non est qui clamat in eis ad me./</ab>
+        <ab xml:id="d1e342" n="8"> Ephraim in populis ipse commiscebatur ;/ Ephraim factus est
+          subcinericius panis, qui non reversatur./</ab>
+        <ab xml:id="d1e345" n="9"> Comederunt alieni robur ejus, et ipse nescivit ;/ sed et cani
+          effusi sunt in eo, et ipse ignoravit./</ab>
+        <ab xml:id="d1e348" n="10"> Et humiliabitur superbia Israël in facie ejus ;/ nec reversi
+          sunt ad Dominum Deum suum,/ et non quaesierunt eum in omnibus his./</ab>
+        <ab xml:id="d1e351" n="11"> Et factus est Ephraim quasi columba seducta non habens cor./
+          Aegyptum invocabant ; ad Assyrios abierunt./</ab>
+        <ab xml:id="d1e355" n="12"> Et cum profecti fuerint,/ expandam super eos rete meum :/ quasi
+          volucrem caeli detraham eos ;/ caedam eos secundum auditionem coetus eorum./</ab>
+        <ab xml:id="d1e358" n="13"> Vae eis, quoniam recesserunt a me !/ vastabuntur, quia
+          praevaricati sunt in me,/ et ego redemi eos,/ et ipsi locuti sunt contra me
+          mendacia./</ab>
+        <ab xml:id="d1e361" n="14"> Et non clamaverunt ad me in corde suo,/ sed ululabant in
+          cubilibus suis :/ super triticum et vinum ruminabant ;/ recesserunt a me./</ab>
+        <ab xml:id="d1e364" n="15"> Et ego erudivi eos, et confortavi brachia eorum,/ et in me
+          cogitaverunt malitiam./</ab>
+        <ab xml:id="d1e367" n="16"> Reversi sunt ut essent absque jugo ;/ facti sunt quasi arcus
+          dolosus :/ cadent in gladio principes eorum, a furore linguae suae./ Ista subsannatio
+          eorum in terra Aegypti.]</ab>
+      </div>
+      <div xml:id="d1e371" type="chap" n="8">
+        <ab xml:id="d1e373" n="1"> [In gutture tuo sit tuba/ quasi aquila super domum Domini,/ pro
+          eo quod transgressi sunt foedus meum,/ et legem meam praevaricati sunt./</ab>
+        <ab xml:id="d1e376" n="2"> Me invocabunt : Deus meus,/ cognovimus te Israël./</ab>
+        <ab xml:id="d1e379" n="3"> Projecit Israël bonum :/ inimicus persequetur eum./</ab>
+        <ab xml:id="d1e382" n="4"> Ipsi regnaverunt, et non ex me ;/ principes exstiterunt, et non
+          cognovi :/ argentum suum et aurum suum fecerunt sibi idola,/ ut interirent./</ab>
+        <ab xml:id="d1e385" n="5"> Projectus est vitulus tuus, Samaria ;/ iratus est furor meus in
+          eos./ Usquequo non poterunt emundari ?/</ab>
+        <ab xml:id="d1e389" n="6"> Quia ex Israël et ipse est :/ artifex fecit illum, et non est
+          deus ;/ quoniam in aranearum telas erit vitulus Samariae./</ab>
+        <ab xml:id="d1e392" n="7"> Quia ventum seminabunt,/ et turbinem metent :/ culmus stans non
+          est in eo ;/ germen non faciet farinam :/ quod etsi fecerit, alieni comedent eam./</ab>
+        <ab xml:id="d1e395" n="8"> Devoratus est Israël ;/ nunc factus est in nationibus quasi vas
+          immundum./</ab>
+        <ab xml:id="d1e398" n="9"> Quia ipsi ascenderunt ad Assur,/ onager solitarius sibi ;/
+          Ephraim munera dederunt amatoribus./</ab>
+        <ab xml:id="d1e401" n="10"> Sed et cum mercede conduxerint nationes,/ nunc congregabo eos,/
+          et quiescent paulisper ab onere regis et principum./</ab>
+        <ab xml:id="d1e404" n="11"> Quia multiplicavit Ephraim altaria ad peccandum ;/ factae sunt
+          ei arae in delictum./</ab>
+        <ab xml:id="d1e408" n="12"> Scribam ei multiplices leges meas,/ quae velut alienae
+          computatae sunt./</ab>
+        <ab xml:id="d1e411" n="13"> Hostias offerent,/ immolabunt carnes et comedent,/ et Dominus
+          non suscipiet eas :/ nunc recordabitur iniquitatis eorum,/ et visitabit peccata eorum :/
+          ipsi in Aegyptum convertentur./</ab>
+        <ab xml:id="d1e414" n="14"> Et oblitus est Israël factoris sui,/ et aedificavit delubra ;/
+          et Judas multiplicavit urbes munitas ;/ et mittam ignem in civitates ejus,/ et devorabit
+          aedes illius.]</ab>
+      </div>
+      <div xml:id="d1e418" type="chap" n="9">
+        <ab xml:id="d1e420" n="1"> [Noli laetari, Israël ;/ noli exsultare sicut populi :/ quia
+          fornicatus es a Deo tuo ;/ dilexisti mercedem super omnes areas tritici./</ab>
+        <ab xml:id="d1e423" n="2"> Area et torcular non pascet eos,/ et vinum mentietur eis :/</ab>
+        <ab xml:id="d1e426" n="3"> non habitabunt in terra Domini./ Reversus est Ephraim in
+          Aegyptum,/ et in Assyriis pollutum comedit./</ab>
+        <ab xml:id="d1e429" n="4"> Non libabunt Domino vinum,/ et non placebunt ei./ Sacrificia
+          eorum quasi panis lugentium ;/ omnes qui comedent eum, contaminabuntur :/ quia panis eorum
+          animae ipsorum :/ non intrabit in domum Domini./</ab>
+        <ab xml:id="d1e432" n="5"> Quid facietis in die solemni,/ in die festivitatis Domini ?/</ab>
+        <ab xml:id="d1e436" n="6"> Ecce enim profecti sunt a vastitate :/ Aegyptus congregabit eos
+          ;/ Memphis sepeliet eos :/ desiderabile argentum eorum urtica haereditabit,/ lappa in
+          tabernaculis eorum./</ab>
+        <ab xml:id="d1e439" n="7"> Venerunt dies visitationis,/ venerunt dies retributionis./
+          Scitote, Israël,/ stultum prophetam,/ insanum virum spiritualem,/ propter multitudinem
+          iniquitatis tuae,/ et multitudinem amentiae./</ab>
+        <ab xml:id="d1e442" n="8"> Speculator Ephraim cum Deo meo,/ propheta laqueus ruinae factus
+          est super omnes vias ejus ;/ insania in domo Dei ejus./</ab>
+        <ab xml:id="d1e445" n="9"> Profunde peccaverunt, sicut in diebus Gabaa./ Recordabitur
+          iniquitatis eorum,/ et visitabit peccata eorum./</ab>
+        <ab xml:id="d1e448" n="10"> Quasi uvas in deserto inveni Israël,/ quasi prima poma ficulneae
+          in cacumine ejus vidi patres eorum :/ ipsi autem intraverunt ad Beelphegor,/ et abalienati
+          sunt in confusionem,/ et facti sunt abominabiles sicut ea quae dilexerunt./</ab>
+        <ab xml:id="d1e451" n="11"> Ephraim quasi avis avolavit ;/ gloria eorum a partu, et ab
+          utero, et a conceptu./</ab>
+        <ab xml:id="d1e455" n="12"> Quod etsi enutrierint filios suos,/ absque liberis eos faciam in
+          hominibus ;/ sed et vae eis cum recessero ab eis !/</ab>
+        <ab xml:id="d1e458" n="13"> Ephraim, ut vidi, Tyrus erat fundata in pulchritudine ;/ et
+          Ephraim educet ad interfectorem filios suos./</ab>
+        <ab xml:id="d1e461" n="14"> Da eis, Domine. Quid dabis eis ?/ da eis vulvam sine liberis, et
+          ubera arentia./</ab>
+        <ab xml:id="d1e464" n="15"> Omnes nequitiae eorum in Galgal,/ quia ibi exosos habui eos./
+          Propter malitiam adinventionum eorum,/ de domo mea ejiciam eos ;/ non addam ut diligam eos
+          :/ omnes principes eorum recedentes./</ab>
+        <ab xml:id="d1e467" n="16"> Percussus est Ephraim ;/ radix eorum exsiccata est :/ fructum
+          nequaquam facient,/ quod etsi genuerint,/ interficiam amantissima uteri eorum./</ab>
+        <ab xml:id="d1e470" n="17"> Abjiciet eos Deus meus, quia non audierunt eum,/ et erunt vagi
+          in nationibus.]</ab>
+      </div>
+      <div xml:id="d1e474" type="chap" n="10">
+        <ab xml:id="d1e476" n="1"> [Vitis frondosa Israël,/ fructus adaequatus est ei :/ secundum
+          multitudinem fructus sui multiplicavit altaria,/ juxta ubertatem terrae suae exuberavit
+          simulacris./</ab>
+        <ab xml:id="d1e479" n="2"> Divisum est cor eorum, nunc interibunt ;/ ipse confringet
+          simulacra eorum,/ depopulabitur aras eorum./</ab>
+        <ab xml:id="d1e482" n="3"> Quia nunc dicent : Non est rex nobis,/ non enim timemus Dominum
+          ;/ et rex quid faciet nobis ?/</ab>
+        <ab xml:id="d1e485" n="4"> Loquimini verba visionis inutilis, et ferietis foedus ;/ et
+          germinabit quasi amaritudo judicium super sulcos agri./</ab>
+        <ab xml:id="d1e488" n="5"> Vaccas Bethaven coluerunt habitatores Samariae ;/ quia luxit
+          super eum populus ejus,/ et aeditui ejus super eum exsultaverunt/ in gloria ejus, quia
+          migravit ab eo./</ab>
+        <ab xml:id="d1e492" n="6"> Siquidem et ipse in Assur delatus est,/ munus regi ultori./
+          Confusio Ephraim capiet,/ et confundetur Israël in voluntate sua./</ab>
+        <ab xml:id="d1e495" n="7"> Transire fecit Samaria regem suum/ quasi spumam super faciem
+          aquae./</ab>
+        <ab xml:id="d1e498" n="8"> Et disperdentur excelsa idoli, peccatum Israël ;/ lappa et
+          tribulus ascendet super aras eorum :/ et dicent montibus : Operite nos,/ et collibus :
+          Cadite super nos./</ab>
+        <ab xml:id="d1e501" n="9"> Ex diebus Gabaa peccavit Israël ;/ ibi steterunt./ Non
+          comprehendet eos in Gabaa/ praelium super filios iniquitatis./</ab>
+        <ab xml:id="d1e504" n="10"> Juxta desiderium meum corripiam eos :/ congregabuntur super eos
+          populi,/ cum corripientur propter duas iniquitates suas./</ab>
+        <ab xml:id="d1e507" n="11"> Ephraim vitula docta diligere trituram,/ et ego transivi super
+          pulchritudinem colli ejus :/ ascendam super Ephraim,/ arabit Judas ;/ confringet sibi
+          sulcos Jacob./</ab>
+        <ab xml:id="d1e511" n="12"> Seminate vobis in justitia,/ et metite in ore misericordiae./
+          Innovate vobis novale ;/ tempus autem requirendi Dominum,/ cum venerit qui docebit vos
+          justitiam./</ab>
+        <ab xml:id="d1e514" n="13"> Arastis impietatem,/ iniquitatem messuistis :/ comedistis frugem
+          mendacii,/ quia confisus es in viis tuis,/ in multitudine fortium tuorum./</ab>
+        <ab xml:id="d1e517" n="14"> Consurget tumultus in populo tuo ;/ et omnes munitiones tuae
+          vastabuntur,/ sicut vastatus est Salmana a domo ejus qui judicavit Baal/ in die praelii,
+          matre super filios allisa./</ab>
+        <ab xml:id="d1e520" n="15"> Sic fecit vobis Bethel,/ a facie malitiae nequitiarum
+          vestrarum.]</ab>
+      </div>
+      <div xml:id="d1e524" type="chap" n="11">
+        <ab xml:id="d1e526" n="1"> [Sicut mane transiit, pertransiit rex Israël./ Quia puer Israël,
+          et dilexi eum ;/ et ex Aegypto vocavi filium meum./</ab>
+        <ab xml:id="d1e529" n="2"> Vocaverunt eos, sic abierunt a facie eorum ;/ Baalim immolabant,
+          et simulacris sacrificabant./</ab>
+        <ab xml:id="d1e532" n="3"> Et ego quasi nutritius Ephraim :/ portabam eos in brachiis meis,/
+          et nescierunt quod curarem eos./</ab>
+        <ab xml:id="d1e535" n="4"> In funiculis Adam traham eos,/ in vinculis caritatis ;/ et ero
+          eis quasi exaltans jugum super maxillas eorum,/ et declinavi ad eum ut vesceretur./</ab>
+        <ab xml:id="d1e538" n="5"> Non revertetur in terram Aegypti, et Assur ipse rex ejus,/
+          quoniam noluerunt converti./</ab>
+        <ab xml:id="d1e542" n="6"> Coepit gladius in civitatibus ejus,/ et consumet electos ejus,/
+          et comedet capita eorum./</ab>
+        <ab xml:id="d1e545" n="7"> Et populus meus pendebit ad reditum meum ;/ jugum autem imponetur
+          eis simul, quod non auferetur./</ab>
+        <ab xml:id="d1e548" n="8"> Quomodo dabo te, Ephraim ?/ protegam te, Israël ?/ Quomodo dabo
+          te sicut Adama,/ ponam te ut Seboim ?/ Conversum est in me cor meum,/ pariter conturbata
+          est poenitudo mea./</ab>
+        <ab xml:id="d1e551" n="9"> Non faciam furorem irae meae ;/ non convertar ut disperdam
+          Ephraim,/ quoniam Deus ego, et non homo ;/ in medio tui sanctus,/ et non ingrediar
+          civitatem./</ab>
+        <ab xml:id="d1e554" n="10"> Post Dominum ambulabunt ;/ quasi leo rugiet,/ quia ipse rugiet,/
+          et formidabunt filii maris./</ab>
+        <ab xml:id="d1e557" n="11"> Et avolabunt quasi avis ex Aegypto,/ et quasi columba de terra
+          Assyriorum :/ et collocabo eos in domibus suis, dicit Dominus.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e562" n="12"> [Circumdedit me in negatione Ephraim,/ et in dolo domus Israël
+          ;/ Judas autem testis descendit cum Deo,/ et cum sanctis fidelis.]</ab>
+      </div>
+      <div xml:id="d1e567" type="chap" n="12">
+        <ab xml:id="d1e569" n="1"> [Ephraim pascit ventum,/ et sequitur aestum ;/ tota die mendacium
+          et vastitatem multiplicat :/ et foedus cum Assyriis iniit,/ et oleum in Aegyptum
+          ferebat./</ab>
+        <ab xml:id="d1e572" n="2"> Judicium ergo Domini cum Juda,/ et visitatio super Jacob :/ juxta
+          vias ejus, et juxta adinventiones ejus reddet ei./</ab>
+        <ab xml:id="d1e575" n="3"> In utero supplantavit fratrem suum,/ et in fortitudine sua
+          directus est cum angelo./</ab>
+        <ab xml:id="d1e578" n="4"> Et invaluit ad angelum, et confortatus est ;/ flevit, et rogavit
+          eum./ In Bethel invenit eum,/ et ibi locutus est nobiscum./</ab>
+        <ab xml:id="d1e581" n="5"> Et Dominus Deus exercituum,/ Dominus memoriale ejus./</ab>
+        <ab xml:id="d1e585" n="6"> Et tu ad Deum tuum converteris ;/ misericordiam et judicium
+          custodi,/ et spera in Deo tuo semper./</ab>
+        <ab xml:id="d1e588" n="7"> Chanaan, in manu ejus statera dolosa,/ calumniam dilexit./</ab>
+        <ab xml:id="d1e591" n="8"> Et dixit Ephraim : Verumtamen dives effectus sum ;/ inveni idolum
+          mihi :/ omnes labores mei non invenient mihi iniquitatem quam peccavi./</ab>
+        <ab xml:id="d1e594" n="9"> Et ego Dominus Deus tuus ex terra Aegypti :/ adhuc sedere te
+          faciam in tabernaculis, sicut in diebus festivitatis./</ab>
+        <ab xml:id="d1e597" n="10"> Et locutus sum super prophetas,/ et ego visionem multiplicavi,/
+          et in manu prophetarum assimilatus sum./</ab>
+        <ab xml:id="d1e600" n="11"> Si Galaad idolum, ergo frustra erant in Galgal bobus immolantes
+          ;/ nam et altaria eorum quasi acervi super sulcos agri./</ab>
+        <ab xml:id="d1e604" n="12"> Fugit Jacob in regionem Syriae,/ et servivit Israël in uxorem,/
+          et in uxorem servavit./</ab>
+        <ab xml:id="d1e607" n="13"> In propheta autem eduxit Dominus Israël de Aegypto,/ et in
+          propheta servatus est./</ab>
+        <ab xml:id="d1e610" n="14"> Ad iracundiam me provocavit Ephraim in amaritudinibus suis :/ et
+          sanguis ejus super eum veniet,/ et opprobrium ejus restituet ei Dominus suus.]</ab>
+      </div>
+      <div xml:id="d1e614" type="chap" n="13">
+        <ab xml:id="d1e616" n="1"> [Loquente Ephraim, horror invasit Israël ;/ et deliquit in Baal,
+          et mortuus est./</ab>
+        <ab xml:id="d1e619" n="2"> Et nunc addiderunt ad peccandum ;/ feceruntque sibi conflatile de
+          argento suo/ quasi similitudinem idolorum :/ factura artificum totum est :/ his ipsi
+          dicunt : Immolate homines, vitulos adorantes./</ab>
+        <ab xml:id="d1e622" n="3"> Idcirco erunt quasi nubes matutina,/ et sicut ros matutinus
+          praeteriens ;/ sicut pulvis turbine raptus ex area,/ et sicut fumus de fumario./</ab>
+        <ab xml:id="d1e625" n="4"> Ego autem Dominus Deus tuus, ex terra Aegypti ;/ et Deum absque
+          me nescies,/ et salvator non est praeter me./</ab>
+        <ab xml:id="d1e628" n="5"> Ego cognovi te in deserto,/ in terra solitudinis./</ab>
+        <ab xml:id="d1e632" n="6"> Juxta pascua sua adimpleti sunt et saturati sunt ;/ et levaverunt
+          cor suum, et obliti sunt mei./</ab>
+        <ab xml:id="d1e635" n="7"> Et ego ero eis quasi leaena,/ sicut pardus in via
+          Assyriorum./</ab>
+        <ab xml:id="d1e638" n="8"> Occurram eis quasi ursa raptis catulis,/ et dirumpam interiora
+          jecoris eorum,/ et consumam eos ibi quasi leo :/ bestia agri scindet eos./</ab>
+        <ab xml:id="d1e641" n="9"> Perditio tua, Israël : tantummodo in me auxilium tuum./</ab>
+        <ab xml:id="d1e644" n="10"> Ubi est rex tuus ?/ maxime nunc salvet te in omnibus urbibus
+          tuis ;/ et judices tui, de quibus dixisti :/ Da mihi regem et principes./</ab>
+        <ab xml:id="d1e647" n="11"> Dabo tibi regem in furore meo,/ et auferam in indignatione
+          mea./</ab>
+        <ab xml:id="d1e651" n="12"> Colligata est iniquitas Ephraim ;/ absconditum peccatum
+          ejus./</ab>
+        <ab xml:id="d1e654" n="13"> Dolores parturientis venient ei :/ ipse filius non sapiens :/
+          nunc enim non stabit in contritione filiorum./</ab>
+        <ab xml:id="d1e657" n="14"> De manu mortis liberabo eos ;/ de morte redimam eos./ Ero mors
+          tua, o mors !/ morsus tuus ero, inferne !/ consolatio abscondita est ab oculis meis./</ab>
+        <ab xml:id="d1e660" n="15"> Quia ipse inter fratres dividet :/ adducet urentem ventum
+          Dominus de deserto ascendentem,/ et siccabit venas ejus,/ et desolabit fontem ejus :/ et
+          ipse diripiet thesaurum omnis vasis desiderabilis.]</ab>
+      </div>
+      <div xml:id="d1e664" type="chap" n="14">
+        <ab xml:id="d1e666" n="1"> [Pereat Samaria, quoniam ad amaritudinem concitavit Deum suum !/
+          in gladio pereant,/ parvuli eorum elidantur,/ et foetae ejus discindantur !]<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e670" n="2"> [Convertere, Israël, ad Dominum Deum tuum,/ quoniam corruisti in
+          iniquitate tua./</ab>
+        <ab xml:id="d1e673" n="3"> Tollite vobiscum verba,/ et convertimini ad Dominum ; et dicite
+          ei :/ Omnem aufer iniquitatem, accipe bonum,/ et reddemus vitulos labiorum
+          nostrorum./</ab>
+        <ab xml:id="d1e676" n="4"> Assur non salvabit nos :/ super equum non ascendemus,/ nec
+          dicemus ultra, Dii nostri opera manuum nostrarum :/ quia ejus, qui in te est, misereberis
+          pupilli./</ab>
+        <ab xml:id="d1e679" n="5"> Sanabo contritiones eorum ;/ diligam eos spontanee :/ quia
+          aversus est furor meus ab eis./</ab>
+        <ab xml:id="d1e683" n="6"> Ero quasi ros ;/ Israël germinabit sicut lilium,/ et erumpet
+          radix ejus ut Libani./</ab>
+        <ab xml:id="d1e686" n="7"> Ibunt rami ejus,/ et erit quasi oliva gloria ejus,/ et odor ejus
+          ut Libani./</ab>
+        <ab xml:id="d1e689" n="8"> Convertentur sedentes in umbra ejus ;/ vivent tritico, et
+          germinabunt quasi vinea ;/ memoriale ejus sicut vinum Libani./</ab>
+        <ab xml:id="d1e692" n="9"> Ephraim, quid mihi ultra idola ?/ Ego exaudiam, et dirigam eum
+          ego ut abietem virentem ;/ ex me fructus tuus inventus est./</ab>
+        <ab xml:id="d1e695" n="10"> Quis sapiens, et intelliget ista ? intelligens, et sciet haec ?/
+          quia rectae viae Domini,/ et justi ambulabunt in eis ;/ praevaricatores vero corruent in
+          eis.]</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

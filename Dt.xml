@@ -1,0 +1,2367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Deuteronomium</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Haec sunt verba quae locutus est Moyses ad omnem Israël trans
+          Jordanem in solitudine campestri, contra mare Rubrum, inter Pharan et Tophel et Laban et
+          Haseroth, ubi auri est plurimum :</ab>
+        <ab xml:id="d1e36" n="2"> undecim diebus de Horeb per viam montis Seir usque ad
+          Cadesbarne.</ab>
+        <ab xml:id="d1e39" n="3"> Quadragesimo anno, undecimo mense, prima die mensis, locutus est
+          Moyses ad filios Israël omnia quae praeceperat illi Dominus, ut diceret eis,</ab>
+        <ab xml:id="d1e42" n="4"> postquam percussit Sehon regem Amorrhaeorum, qui habitabat in
+          Hesebon, et Og regem Basan, qui mansit in Astaroth, et in Edrai,</ab>
+        <ab xml:id="d1e45" n="5"> trans Jordanem in terra Moab. Coepitque Moyses explanare legem, et
+          dicere :<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e50" n="6"> Dominus Deus noster locutus est ad nos in Horeb, dicens : Sufficit
+          vobis quod in hoc monte mansistis :</ab>
+        <ab xml:id="d1e53" n="7"> revertimini, et venite ad montem Amorrhaeorum, et ad cetera quae
+          ei proxima sunt campestria atque montana et humiliora loca contra meridiem, et juxta
+          littus maris, terram Chananaeorum, et Libani usque ad flumen magnum Euphraten.</ab>
+        <ab xml:id="d1e56" n="8"> En, inquit, tradidi vobis : ingredimini et possidete eam, super
+          qua juravit Dominus patribus vestris Abraham, Isaac, et Jacob, ut daret illam eis, et
+          semini eorum post eos.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e60" n="9"> Dixique vobis illo in tempore :</ab>
+        <ab xml:id="d1e63" n="10"> Non possum solus sustinere vos : quia Dominus Deus vester
+          multiplicavit vos, et estis hodie sicut stellae caeli, plurimi.</ab>
+        <ab xml:id="d1e66" n="11"> (Dominus Deus patrum vestrorum addat ad hunc numerum multa
+          millia, et benedicat vobis sicut locutus est.)</ab>
+        <ab xml:id="d1e70" n="12"> Non valeo solus negotia vestra sustinere, et pondus ac
+          jurgia.</ab>
+        <ab xml:id="d1e73" n="13"> Date ex vobis viros sapientes et gnaros, et quorum conversatio
+          sit probata in tribubus vestris, ut ponam eos vobis principes.</ab>
+        <ab xml:id="d1e76" n="14"> Tunc respondistis mihi : Bona res est, quam vis facere.</ab>
+        <ab xml:id="d1e79" n="15"> Tulique de tribubus vestris viros sapientes et nobiles, et
+          constitui eos principes, tribunos, et centuriones, et quinquagenarios ac decanos, qui
+          docerent vos singula.</ab>
+        <ab xml:id="d1e82" n="16"> Praecepique eis, dicens : Audite illos, et quod justum est
+          judicate : sive civis sit ille, sive peregrinus.</ab>
+        <ab xml:id="d1e85" n="17"> Nulla erit distantia personarum : ita parvum audietis ut magnum,
+          nec accipietis cujusquam personam, quia Dei judicium est. Quod si difficile vobis visum
+          aliquid fuerit, referte ad me, et ego audiam.</ab>
+        <ab xml:id="d1e89" n="18"> Praecepique omnia quae facere deberetis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e93" n="19"> Profecti autem de Horeb, transivimus per eremum terribilem et
+          maximam, quam vidistis, per viam montis Amorrhaei, sicut praeceperat Dominus Deus noster
+          nobis. Cumque venissemus in Cadesbarne,</ab>
+        <ab xml:id="d1e96" n="20"> dixi vobis : Venistis ad montem Amorrhaei, quem Dominus Deus
+          noster daturus est nobis :</ab>
+        <ab xml:id="d1e99" n="21"> vide terram, quam Dominus Deus tuus dat tibi : ascende et posside
+          eam, sicut locutus est Dominus Deus noster patribus tuis : noli timere, nec quidquam
+          paveas.</ab>
+        <ab xml:id="d1e102" n="22"> Et accessistis ad me omnes, atque dixistis : Mittamus viros qui
+          considerent terram : et renuntient per quod iter debeamus ascendere, et ad quas pergere
+          civitates.</ab>
+        <ab xml:id="d1e105" n="23"> Cumque mihi sermo placuisset, misi ex vobis duodecim viros,
+          singulos de tribubus suis.</ab>
+        <ab xml:id="d1e109" n="24"> Qui cum perrexissent, et ascendissent in montana, venerunt usque
+          ad Vallem botri : et considerata terra,</ab>
+        <ab xml:id="d1e112" n="25"> sumentes de fructibus ejus, ut ostenderent ubertatem, attulerunt
+          ad nos, atque dixerunt : Bona est terra, quam Dominus Deus noster daturus est nobis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e116" n="26"> Et noluistis ascendere, sed increduli ad sermonem Domini Dei
+          nostri,</ab>
+        <ab xml:id="d1e119" n="27"> murmurastis in tabernaculis vestris, atque dixistis : Odit nos
+          Dominus, et idcirco eduxit nos de terra Aegypti, ut traderet nos in manu Amorrhaei, atque
+          deleret.</ab>
+        <ab xml:id="d1e122" n="28"> Quo ascendemus ? nuntii terruerunt cor nostrum, dicentes :
+          Maxima multitudo est, et nobis statura procerior ; urbes magnae, et ad caelum usque
+          munitae : filios Enacim vidimus ibi.</ab>
+        <ab xml:id="d1e125" n="29"> Et dixi vobis : Nolite metuere, nec timeatis eos :</ab>
+        <ab xml:id="d1e129" n="30"> Dominus Deus, qui ductor est vester, pro vobis ipse pugnabit,
+          sicut fecit in Aegypto cunctis videntibus.</ab>
+        <ab xml:id="d1e132" n="31"> Et in solitudine (ipse vidisti) portavit te Dominus Deus tuus,
+          ut solet homo gestare parvulum filium suum, in omni via per quam ambulastis, donec
+          veniretis ad locum istum.</ab>
+        <ab xml:id="d1e135" n="32"> Et nec sic quidem credidistis Domino Deo vestro,</ab>
+        <ab xml:id="d1e138" n="33"> qui praecessit vos in via, et metatus est locum in quo tentoria
+          figere deberetis, nocte ostendens vobis iter per ignem, et die per columnam nubis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e142" n="34"> Cumque audisset Dominus vocem sermonum vestrorum, iratus
+          juravit, et ait :</ab>
+        <ab xml:id="d1e145" n="35"> Non videbit quispiam de hominibus generationis hujus pessimae
+          terram bonam, quam sub juramento pollicitus sum patribus vestris,</ab>
+        <ab xml:id="d1e149" n="36"> praeter Caleb filium Jephone : ipse enim videbit eam, et ipsi
+          dabo terram, quam calcavit, et filiis ejus, quia secutus est Dominum.</ab>
+        <ab xml:id="d1e152" n="37"> Nec miranda indignatio in populum, cum mihi quoque iratus
+          Dominus propter vos dixerit : Nec tu ingredieris illuc :</ab>
+        <ab xml:id="d1e155" n="38"> sed Josue filius Nun minister tuus, ipse intrabit pro te. Hunc
+          exhortare et robora, et ipse sorte terram dividet Israëli.</ab>
+        <ab xml:id="d1e158" n="39"> Parvuli vestri, de quibus dixistis quod captivi ducerentur, et
+          filii qui hodie boni ac mali ignorant distantiam, ipsi ingredientur : et ipsis dabo
+          terram, et possidebunt eam.</ab>
+        <ab xml:id="d1e161" n="40"> Vos autem revertimini, et abite in solitudinem per viam maris
+            Rubri.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e165" n="41"> Et respondistis mihi : Peccavimus Domino : ascendemus et
+          pugnabimus, sicut praecepit Dominus Deus noster. Cumque instructi armis pergeretis in
+          montem,</ab>
+        <ab xml:id="d1e169" n="42"> ait mihi Dominus : Dic ad eos : Nolite ascendere, neque pugnetis
+          : non enim sum vobiscum : ne cadatis coram inimicis vestris.</ab>
+        <ab xml:id="d1e172" n="43"> Locutus sum, et non audistis : sed adversantes imperio Domini,
+          et tumentes superbia, ascendistis in montem.</ab>
+        <ab xml:id="d1e175" n="44"> Itaque egressus Amorrhaeus, qui habitabat in montibus, et obviam
+          veniens, persecutus est vos, sicut solent apes persequi : et cecidit de Seir usque
+          Horma.</ab>
+        <ab xml:id="d1e178" n="45"> Cumque reversi ploraretis coram Domino, non audivit vos, nec
+          voci vestrae voluit acquiescere.</ab>
+        <ab xml:id="d1e181" n="46"> Sedistis ergo in Cadesbarne multo tempore.</ab>
+      </div>
+      <div xml:id="d1e185" type="chap" n="2">
+        <ab xml:id="d1e187" n="1"> Profectique inde, venimus in solitudinem, quae ducit ad mare
+          Rubrum, sicut mihi dixerat Dominus : et circuivimus montem Seir longo tempore.</ab>
+        <ab xml:id="d1e190" n="2"> Dixitque Dominus ad me :</ab>
+        <ab xml:id="d1e193" n="3"> Sufficit vobis circuire montem istum : ite contra aquilonem
+          :</ab>
+        <ab xml:id="d1e196" n="4"> et populo praecipe, dicens : Transibitis per terminos fratrum
+          vestrorum filiorum Esau, qui habitant in Seir, et timebunt vos.</ab>
+        <ab xml:id="d1e199" n="5"> Videte ergo diligenter ne moveamini contra eos. Neque enim dabo
+          vobis de terra eorum quantum potest unius pedis calcare vestigium, quia in possessionem
+          Esau dedi montem Seir.</ab>
+        <ab xml:id="d1e203" n="6"> Cibos emetis ab eis pecunia, et comedetis : aquam emptam
+          haurietis, et bibetis.</ab>
+        <ab xml:id="d1e206" n="7"> Dominus Deus tuus benedixit tibi in omni opere manuum tuarum :
+          novit iter tuum, quomodo transieris solitudinem hanc magnam, per quadraginta annos
+          habitans tecum Dominus Deus tuus, et nihil tibi defuit.</ab>
+        <ab xml:id="d1e209" n="8"> Cumque transissemus fratres nostros filios Esau, qui habitabant
+          in Seir, per viam campestrem de Elath, et de Asiongaber, venimus ad iter quod ducit in
+          desertum Moab.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e213" n="9"> Dixitque Dominus ad me : Non pugnes contra Moabitas, nec ineas
+          adversus eos praelium : non enim dabo tibi quidquam de terra eorum, quia filiis Loth
+          tradidi Ar in possessionem.</ab>
+        <ab xml:id="d1e216" n="10"> Emim primi fuerunt habitatores ejus, populus magnus, et validus,
+          et tam excelsus ut de Enacim stirpe,</ab>
+        <ab xml:id="d1e219" n="11"> quasi gigantes crederentur, et essent similes filiorum Enacim.
+          Denique Moabitae appellant eos Emim.</ab>
+        <ab xml:id="d1e223" n="12"> In Seir autem prius habitaverunt Horrhaei : quibus expulsis
+          atque deletis, habitaverunt filii Esau, sicut fecit Israël in terra possessionis suae,
+          quam dedit illi Dominus.</ab>
+        <ab xml:id="d1e226" n="13"> Surgentes ergo ut transiremus torrentem Zared, venimus ad
+          eum.</ab>
+        <ab xml:id="d1e229" n="14"> Tempus autem, quo ambulavimus de Cadesbarne usque ad transitum
+          torrentis Zared, triginta et octo annorum fuit : donec consumeretur omnis generatio
+          hominum bellatorum de castris, sicut juraverat Dominus :</ab>
+        <ab xml:id="d1e232" n="15"> cujus manus fuit adversum eos, ut interirent de castrorum
+            medio.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e236" n="16"> Postquam autem universi ceciderunt pugnatores,</ab>
+        <ab xml:id="d1e239" n="17"> locutus est Dominus ad me, dicens :</ab>
+        <ab xml:id="d1e243" n="18"> Tu transibis hodie terminos Moab, urbem nomine Ar :</ab>
+        <ab xml:id="d1e246" n="19"> et accedens in vicina filiorum Ammon, cave ne pugnes contra eos,
+          nec movearis ad praelium : non enim dabo tibi de terra filiorum Ammon, quia filiis Loth
+          dedi eam in possessionem.</ab>
+        <ab xml:id="d1e249" n="20"> Terra gigantum reputata est : et in ipsa olim habitaverunt
+          gigantes, quos Ammonitae vocant Zomzommim,</ab>
+        <ab xml:id="d1e252" n="21"> populus magnus, et multus, et procerae longitudinis, sicut
+          Enacim, quos delevit Dominus a facie eorum : et fecit illos habitare pro eis,</ab>
+        <ab xml:id="d1e255" n="22"> sicut fecerat filiis Esau, qui habitant in Seir, delens
+          Horrhaeos, et terram eorum illis tradens, quam possident usque in praesens.</ab>
+        <ab xml:id="d1e258" n="23"> Hevaeos quoque, qui habitabant in Haserim usque Gazan,
+          Cappadoces expulerunt : qui egressi de Cappadocia deleverunt eos, et habitaverunt pro
+          illis.</ab>
+        <ab xml:id="d1e262" n="24"> Surgite, et transite torrentem Arnon : ecce tradidi in manu tua
+          Sehon regem Hesebon Amorrhaeum, et terram ejus incipe possidere, et committe adversus eum
+          praelium.</ab>
+        <ab xml:id="d1e265" n="25"> Hodie incipiam mittere terrorem atque formidinem tuam in
+          populos, qui habitant sub omni caelo : ut audito nomine tuo paveant, et in morem
+          parturientium contremiscant, et dolore teneantur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e269" n="26"> Misi ergo nuntios de solitudine Cademoth ad Sehon regem Hesebon
+          verbis pacificis, dicens :</ab>
+        <ab xml:id="d1e272" n="27"> Transibimus per terram tuam : publica gradiemur via ; non
+          declinabimus neque ad dexteram, neque ad sinistram.</ab>
+        <ab xml:id="d1e275" n="28"> Alimenta pretio vende nobis, ut vescamur : aquam pecunia tribue,
+          et sic bibemus. Tantum est ut nobis concedas transitum,</ab>
+        <ab xml:id="d1e278" n="29"> sicut fecerunt filii Esau, qui habitant in Seir, et Moabitae,
+          qui morantur in Ar : donec veniamus ad Jordanem, et transeamus ad terram, quam Dominus
+          Deus noster daturus est nobis.</ab>
+        <ab xml:id="d1e282" n="30"> Noluitque Sehon rex Hesebon dare nobis transitum : quia
+          induraverat Dominus Deus tuus spiritum ejus, et obfirmaverat cor illius, ut traderetur in
+          manus tuas, sicut nunc vides.</ab>
+        <ab xml:id="d1e285" n="31"> Dixitque Dominus ad me : Ecce coepi tibi tradere Sehon, et
+          terram ejus : incipe possidere eam.</ab>
+        <ab xml:id="d1e288" n="32"> Egressusque est Sehon obviam nobis cum omni populo suo ad
+          praelium in Jasa.</ab>
+        <ab xml:id="d1e291" n="33"> Et tradidit eum Dominus Deus noster nobis : percussimusque eum
+          cum filiis suis et omni populo suo.</ab>
+        <ab xml:id="d1e294" n="34"> Cunctasque urbes in tempore illo cepimus, interfectis
+          habitatoribus earum, viris ac mulieribus et parvulis : non reliquimus in eis
+          quidquam,</ab>
+        <ab xml:id="d1e297" n="35"> absque jumentis, quae in partem venere praedantium : et spoliis
+          urbium, quas cepimus</ab>
+        <ab xml:id="d1e301" n="36"> ab Aroër, quae est super ripam torrentis Arnon, oppido quod in
+          valle situm est, usque Galaad. Non fuit vicus et civitas, quae nostras effugeret manus :
+          omnes tradidit Dominus Deus noster nobis,</ab>
+        <ab xml:id="d1e304" n="37"> absque terra filiorum Ammon, ad quam non accessimus : et cunctis
+          quae adjacent torrenti Jeboc, et urbibus montanis, universisque locis, a quibus nos
+          prohibuit Dominus Deus noster.</ab>
+      </div>
+      <div xml:id="d1e308" type="chap" n="3">
+        <ab xml:id="d1e310" n="1"> Itaque conversi ascendimus per iter Basan : egressusque est Og
+          rex Basan in occursum nobis cum populo suo ad bellandum in Edrai.</ab>
+        <ab xml:id="d1e313" n="2"> Dixitque Dominus ad me : Ne timeas eum : quia in manu tua
+          traditus est cum omni populo ac terra sua : faciesque ei sicut fecisti Sehon regi
+          Amorrhaeorum, qui habitavit in Hesebon.</ab>
+        <ab xml:id="d1e316" n="3"> Tradidit ergo Dominus Deus noster in manibus nostris etiam Og
+          regem Basan, et universum populum ejus : percussimusque eos usque ad internecionem,</ab>
+        <ab xml:id="d1e319" n="4"> vastantes cunctas civitates illius uno tempore. Non fuit oppidum,
+          quod nos effugeret : sexaginta urbes, omnem regionem Argob regni Og in Basan.</ab>
+        <ab xml:id="d1e322" n="5"> Cunctae urbes erant munitae muris altissimis, portisque et
+          vectibus, absque oppidis innumeris, quae non habebant muros.</ab>
+        <ab xml:id="d1e326" n="6"> Et delevimus eos, sicut feceramus Sehon regi Hesebon,
+          disperdentes omnem civitatem, virosque ac mulieres et parvulos :</ab>
+        <ab xml:id="d1e329" n="7"> jumenta autem et spolia urbium diripuimus.</ab>
+        <ab xml:id="d1e332" n="8"> Tulimusque illo in tempore terram de manu duorum regum
+          Amorrhaeorum, qui erant trans Jordanem : a torrente Arnon usque ad montem Hermon,</ab>
+        <ab xml:id="d1e335" n="9"> quem Sidonii Sarion vocant, et Amorrhaei Sanir :</ab>
+        <ab xml:id="d1e338" n="10"> omnes civitates, quae sitae sunt in planitie, et universam
+          terram Galaad et Basan usque ad Selcha, et Edrai civitates regni Og in Basan.</ab>
+        <ab xml:id="d1e341" n="11"> Solus quippe Og rex Basan restiterat de stirpe gigantum.
+          Monstratur lectus ejus ferreus, qui est in Rabbath filiorum Ammon, novem cubitos habens
+          longitudinis, et quatuor latitudinis ad mensuram cubiti virilis manus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e346" n="12"> Terramque possedimus tempore illo ab Aroër, quae est super ripam
+          torrentis Arnon, usque ad mediam partem montis Galaad : et civitates illius dedi Ruben et
+          Gad.</ab>
+        <ab xml:id="d1e349" n="13"> Reliquam autem partem Galaad, et omnem Basan regni Og, tradidi
+          mediae tribui Manasse, omnem regionem Argob : cunctaque Basan vocatur Terra gigantum.</ab>
+        <ab xml:id="d1e352" n="14"> Jair filius Manasse possedit omnem regionem Argob usque ad
+          terminos Gessuri et Machati. Vocavitque ex nomine suo Basan, Havoth Jair, id est, Villas
+          Jair, usque in praesentem diem.</ab>
+        <ab xml:id="d1e355" n="15"> Machir quoque dedi Galaad.</ab>
+        <ab xml:id="d1e358" n="16"> Et tribubus Ruben et Gad dedi de terra Galaad usque ad torrentem
+          Arnon medium torrentis, et confinium usque ad torrentem Jeboc, qui est terminus filiorum
+          Ammon :</ab>
+        <ab xml:id="d1e361" n="17"> et planitiem solitudinis, atque Jordanem, et terminos Cenereth
+          usque ad mare deserti, quod est salsissimum, ad radices montis Phasga contra
+          orientem.</ab>
+        <ab xml:id="d1e365" n="18"> Praecepique vobis in tempore illo, dicens : Dominus Deus vester
+          dat vobis terram hanc in haereditatem : expediti praecedite fratres vestros filios Israël
+          omnes viri robusti,</ab>
+        <ab xml:id="d1e368" n="19"> absque uxoribus, et parvulis, atque jumentis. Novi enim quod
+          plura habeatis pecora, et in urbibus remanere debebunt, quas tradidi vobis,</ab>
+        <ab xml:id="d1e371" n="20"> donec requiem tribuat Dominus fratribus vestris, sicut vobis
+          tribuit : et possideant ipsi etiam terram, quam daturus est eis trans Jordanem : tunc
+          revertetur unusquisque in possessionem suam, quam dedi vobis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e375" n="21"> Josue quoque in tempore illo praecepi, dicens : Oculi tui
+          viderunt quae fecit Dominus Deus vester duobus his regibus : sic faciet omnibus regnis, ad
+          quae transiturus es.</ab>
+        <ab xml:id="d1e378" n="22"> Ne timeas eos : Dominus enim Deus vester pugnabit pro
+          vobis.</ab>
+        <ab xml:id="d1e381" n="23"> Precatusque sum Dominum in tempore illo, dicens :</ab>
+        <ab xml:id="d1e385" n="24"> Domine Deus, tu coepisti ostendere servo tuo magnitudinem tuam,
+          manumque fortissimam : neque enim est alius deus vel in caelo, vel in terra, qui possit
+          facere opera tua, et comparari fortitudini tuae.</ab>
+        <ab xml:id="d1e388" n="25"> Transibo igitur, et videbo terram hanc optimam trans Jordanem,
+          et montem istum egregium, et Libanum.</ab>
+        <ab xml:id="d1e391" n="26"> Iratusque est Dominus mihi propter vos, nec exaudivit me, sed
+          dixit mihi : Sufficit tibi : nequaquam ultra loquaris de hac re ad me.</ab>
+        <ab xml:id="d1e394" n="27"> Ascende cacumen Phasgae, et oculos tuos circumfer ad occidentem,
+          et ad aquilonem, austrumque et orientem, et aspice ; nec enim transibis Jordanem
+          istum.</ab>
+        <ab xml:id="d1e397" n="28"> Praecipe Josue, et corrobora eum atque conforta : quia ipse
+          praecedet populum istum, et dividet eis terram quam visurus es.</ab>
+        <ab xml:id="d1e400" n="29"> Mansimusque in valle contra fanum Phogor.</ab>
+      </div>
+      <div xml:id="d1e404" type="chap" n="4">
+        <ab xml:id="d1e406" n="1"> Et nunc, Israël, audi praecepta et judicia, quae ego doceo te :
+          ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum
+          daturus est vobis.</ab>
+        <ab xml:id="d1e409" n="2"> Non addetis ad verbum, quod vobis loquor, nec auferetis ex eo :
+          custodite mandata Domini Dei vestri, quae ego praecipio vobis.</ab>
+        <ab xml:id="d1e412" n="3"> Oculi vestri viderunt omnia quae fecit Dominus contra Beelphegor,
+          quomodo contriverit omnes cultores ejus de medio vestri.</ab>
+        <ab xml:id="d1e415" n="4"> Vos autem qui adhaeretis Domino Deo vestro, vivitis universi
+          usque in praesentem diem.</ab>
+        <ab xml:id="d1e418" n="5"> Scitis quod docuerim vos praecepta atque justitias, sicut
+          mandavit mihi Dominus Deus meus : sic facietis ea in terra, quam possessuri estis :</ab>
+        <ab xml:id="d1e422" n="6"> et observabitis et implebitis opere. Haec est enim vestra
+          sapientia, et intellectus coram populis, ut audientes universa praecepta haec, dicant : En
+          populus sapiens et intelligens, gens magna.</ab>
+        <ab xml:id="d1e425" n="7"> Nec est alia natio tam grandis, quae habeat deos appropinquantes
+          sibi, sicut Deus noster adest cunctis obsecrationibus nostris.</ab>
+        <ab xml:id="d1e428" n="8"> Quae est enim alia gens sic inclyta, ut habeat caeremonias,
+          justaque judicia, et universam legem, quam ego proponam hodie ante oculos vestros ?<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e432" n="9"> Custodi igitur temetipsum, et animam tuam sollicite. Ne
+          obliviscaris verborum, quae viderunt oculi tui, et ne excidant de corde tuo cunctis diebus
+          vitae tuae. Docebis ea filios ac nepotes tuos,</ab>
+        <ab xml:id="d1e435" n="10"> a die in quo stetisti coram Domino Deo tuo in Horeb, quando
+          Dominus locutus est mihi, dicens : Congrega ad me populum, ut audiant sermones meos, et
+          discant timere me omni tempore quo vivunt in terra, doceantque filios suos.</ab>
+        <ab xml:id="d1e438" n="11"> Et accessistis ad radices montis, qui ardebat usque ad caelum :
+          erantque in eo tenebrae, et nubes, et caligo.</ab>
+        <ab xml:id="d1e442" n="12"> Locutusque est Dominus ad vos de medio ignis. Vocem verborum
+          ejus audistis, et formam penitus non vidistis.</ab>
+        <ab xml:id="d1e445" n="13"> Et ostendit vobis pactum suum, quod praecepit ut faceretis, et
+          decem verba, quae scripsit in duabus tabulis lapideis.</ab>
+        <ab xml:id="d1e448" n="14"> Mihique mandavit in illo tempore ut docerem vos caeremonias et
+          judicia, quae facere deberetis in terra, quam possessuri estis.</ab>
+        <ab xml:id="d1e451" n="15"> Custodite igitur sollicite animas vestras. Non vidistis aliquam
+          similitudinem in die, qua locutus est vobis Dominus in Horeb de medio ignis :</ab>
+        <ab xml:id="d1e454" n="16"> ne forte decepti faciatis vobis sculptam similitudinem, aut
+          imaginem masculi vel feminae :</ab>
+        <ab xml:id="d1e457" n="17"> similitudinem omnium jumentorum, quae sunt super terram, vel
+          avium sub caelo volantium,</ab>
+        <ab xml:id="d1e461" n="18"> atque reptilium, quae moventur in terra, sive piscium qui sub
+          terra morantur in aquis :</ab>
+        <ab xml:id="d1e464" n="19"> ne forte elevatis oculis ad caelum, videas solem et lunam, et
+          omnia astra caeli, et errore deceptus adores ea, et colas quae creavit Dominus Deus tuus
+          in ministerium cunctis gentibus, quae sub caelo sunt.</ab>
+        <ab xml:id="d1e467" n="20"> Vos autem tulit Dominus, et eduxit de fornace ferrea Aegypti, ut
+          haberet populum haereditarium, sicut est in praesenti die.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e471" n="21"> Iratusque est Dominus contra me propter sermones vestros, et
+          juravit ut non transirem Jordanem, nec ingrederer terram optimam, quam daturus est
+          vobis.</ab>
+        <ab xml:id="d1e474" n="22"> Ecce morior in hac humo ; non transibo Jordanem : vos
+          transibitis, et possidebitis terram egregiam.</ab>
+        <ab xml:id="d1e477" n="23"> Cave nequando obliviscaris pacti Domini Dei tui, quod pepigit
+          tecum, et facias tibi sculptam similitudinem eorum, quae fieri Dominus prohibuit :</ab>
+        <ab xml:id="d1e481" n="24"> quia Dominus Deus tuus ignis consumens est, Deus aemulator.</ab>
+        <ab xml:id="d1e484" n="25"> Si genueritis filios ac nepotes, et morati fueritis in terra,
+          deceptique feceritis vobis aliquam similitudinem, patrantes malum coram Domino Deo vestro,
+          ut eum ad iracundiam provocetis :</ab>
+        <ab xml:id="d1e487" n="26"> testes invoco hodie caelum et terram, cito perituros vos esse de
+          terra, quam transito Jordane possessuri estis : non habitabitis in ea longo tempore, sed
+          delebit vos Dominus,</ab>
+        <ab xml:id="d1e490" n="27"> atque disperget in omnes gentes, et remanebitis pauci in
+          nationibus, ad quas vos ducturus est Dominus.</ab>
+        <ab xml:id="d1e493" n="28"> Ibique servietis diis, qui hominum manu fabricati sunt, ligno et
+          lapidi qui non vident, nec audiunt, nec comedunt, nec odorantur.</ab>
+        <ab xml:id="d1e496" n="29"> Cumque quaesieris ibi Dominum Deum tuum, invenies eum : si tamen
+          toto corde quaesieris, et tota tribulatione animae tuae.</ab>
+        <ab xml:id="d1e500" n="30"> Postquam te invenerint omnia quae praedicta sunt, novissimo
+          tempore reverteris ad Dominum Deum tuum, et audies vocem ejus.</ab>
+        <ab xml:id="d1e503" n="31"> Quia Deus misericors Dominus Deus tuus est : non dimittet te,
+          nec omnino delebit, neque obliviscetur pacti, in quo juravit patribus tuis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e507" n="32"> Interroga de diebus antiquis, qui fuerunt ante te ex die quo
+          creavit Deus hominem super terram, a summo caelo usque ad summum ejus, si facta est
+          aliquando hujuscemodi res, aut umquam cognitum est,</ab>
+        <ab xml:id="d1e510" n="33"> ut audiret populus vocem Dei loquentis de medio ignis, sicut tu
+          audisti, et vixisti :</ab>
+        <ab xml:id="d1e513" n="34"> si fecit Deus ut ingrederetur, et tolleret sibi gentem de medio
+          nationum, per tentationes, signa atque portenta, per pugnam et robustam manum, extentumque
+          brachium, et horribiles visiones juxta omnia quae fecit pro vobis Dominus Deus vester in
+          Aegypto, videntibus oculis tuis :</ab>
+        <ab xml:id="d1e516" n="35"> ut scires quoniam Dominus ipse est Deus, et non est alius
+          praeter eum.</ab>
+        <ab xml:id="d1e520" n="36"> De caelo te fecit audire vocem suam, ut doceret te, et in terra
+          ostendit tibi ignem suum maximum, et audisti verba illius de medio ignis :</ab>
+        <ab xml:id="d1e523" n="37"> quia dilexit patres tuos, et elegit semen eorum post eos.
+          Eduxitque te praecedens in virtute sua magna ex Aegypto,</ab>
+        <ab xml:id="d1e526" n="38"> ut deleret nationes maximas et fortiores te in introitu tuo : et
+          introduceret te, daretque tibi terram earum in possessionem, sicut cernis in praesenti
+          die.</ab>
+        <ab xml:id="d1e529" n="39"> Scito ergo hodie, et cogitato in corde tuo quod Dominus ipse sit
+          Deus in caelo sursum, et in terra deorsum, et non sit alius.</ab>
+        <ab xml:id="d1e532" n="40"> Custodi praecepta ejus atque mandata, quae ego praecipio tibi :
+          ut bene sit tibi, et filiis tuis post te, et permaneas multo tempore super terram, quam
+          Dominus Deus tuus daturus est tibi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e536" n="41"> Tunc separavit Moyses tres civitates trans Jordanem ad
+          orientalem plagam,</ab>
+        <ab xml:id="d1e540" n="42"> ut confugiat ad eas qui occiderit nolens proximum suum, nec sibi
+          fuerit inimicus ante unum et alterum diem, et ad harum aliquam urbium possit evadere
+          :</ab>
+        <ab xml:id="d1e543" n="43"> Bosor in solitudine, quae sita est in terra campestri de tribu
+          Ruben : et Ramoth in Galaad, quae est in tribu Gad : et Golan in Basan, quae est in tribu
+            Manasse.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e547" n="44"> Ista est lex, quam proposuit Moyses coram filiis Israël :</ab>
+        <ab xml:id="d1e550" n="45"> et haec testimonia et caeremoniae atque judicia, quae locutus
+          est ad filios Israël, quando egressi sunt de Aegypto,</ab>
+        <ab xml:id="d1e553" n="46"> trans Jordanem in valle contra fanum Phogor in terra Sehon regis
+          Amorrhaei, qui habitavit in Hesebon, quem percussit Moyses. Filii quoque Israël egressi ex
+          Aegypto</ab>
+        <ab xml:id="d1e556" n="47"> possederunt terram ejus, et terram Og regis Basan, duorum regum
+          Amorrhaeorum, qui erant trans Jordanem ad solis ortum :</ab>
+        <ab xml:id="d1e560" n="48"> ab Aroër, quae sita est super ripam torrentis Arnon, usque ad
+          montem Sion, qui est et Hermon,</ab>
+        <ab xml:id="d1e563" n="49"> omnem planitiem trans Jordanem ad orientalem plagam, usque ad
+          mare solitudinis, et usque ad radices montis Phasga.</ab>
+      </div>
+      <div xml:id="d1e567" type="chap" n="5">
+        <ab xml:id="d1e569" n="1"> Vocavitque Moyses omnem Israëlem, et dixit ad eum : Audi, Israël,
+          caeremonias atque judicia, quae ego loquor in auribus vestris hodie : discite ea, et opere
+          complete.</ab>
+        <ab xml:id="d1e572" n="2"> Dominus Deus noster pepigit nobiscum foedus in Horeb.</ab>
+        <ab xml:id="d1e575" n="3"> Non cum patribus nostris iniit pactum, sed nobiscum qui in
+          praesentiarum sumus, et vivimus.</ab>
+        <ab xml:id="d1e578" n="4"> Facie ad faciem locutus est nobis in monte de medio ignis.</ab>
+        <ab xml:id="d1e581" n="5"> Ego sequester et medius fui inter Dominum et vos in tempore illo,
+          ut annuntiarem vobis verba ejus : timuistis enim ignem, et non ascendistis in montem. Et
+          ait :</ab>
+        <ab xml:id="d1e585" n="6"> Ego Dominus Deus tuus, qui eduxi te de terra Aegypti, de domo
+          servitutis.</ab>
+        <ab xml:id="d1e588" n="7"> Non habebis deos alienos in conspectu meo.</ab>
+        <ab xml:id="d1e591" n="8"> Non facies tibi sculptile, nec similitudinem omnium, quae in
+          caelo sunt desuper, et quae in terra deorsum, et quae versantur in aquis sub terra.</ab>
+        <ab xml:id="d1e594" n="9"> Non adorabis ea, et non coles. Ego enim sum Dominus Deus tuus :
+          Deus aemulator, reddens iniquitatem patrum super filios in tertiam et quartam generationem
+          his qui oderunt me :</ab>
+        <ab xml:id="d1e597" n="10"> et faciens misericordiam in multa millia diligentibus me, et
+          custodientibus praecepta mea.</ab>
+        <ab xml:id="d1e600" n="11"> Non usurpabis nomen Domini Dei tui frustra : quia non erit
+          impunitus qui super re vana nomen ejus assumpserit.</ab>
+        <ab xml:id="d1e604" n="12"> Observa diem sabbati, ut sanctifices eum, sicut praecepit tibi
+          Dominus Deus tuus.</ab>
+        <ab xml:id="d1e607" n="13"> Sex diebus operaberis, et facies omnia opera tua.</ab>
+        <ab xml:id="d1e610" n="14"> Septimus dies sabbati est, id est, requies Domini Dei tui. Non
+          facies in eo quidquam operis tu, et filius tuus, et filia, servus et ancilla, et bos, et
+          asinus, et omne jumentum tuum, et peregrinus qui est intra portas tuas : ut requiescat
+          servus tuus, et ancilla tua, sicut et tu.</ab>
+        <ab xml:id="d1e613" n="15"> Memento quod et ipse servieris in Aegypto, et eduxerit te inde
+          Dominus Deus tuus in manu forti, et brachio extento. Idcirco praecepit tibi ut observares
+          diem sabbati.</ab>
+        <ab xml:id="d1e616" n="16"> Honora patrem tuum et matrem, sicut praecepit tibi Dominus Deus
+          tuus, ut longo vivas tempore, et bene sit tibi in terra, quam Dominus Deus tuus daturus
+          est tibi.</ab>
+        <ab xml:id="d1e619" n="17"> Non occides,</ab>
+        <ab xml:id="d1e623" n="18"> neque moechaberis,</ab>
+        <ab xml:id="d1e626" n="19"> furtumque non facies :</ab>
+        <ab xml:id="d1e629" n="20"> nec loqueris contra proximum tuum falsum testimonium.</ab>
+        <ab xml:id="d1e632" n="21"> Non concupisces uxorem proximi tui : non domum, non agrum, non
+          servum, non ancillam, non bovem, non asinum, et universa quae illius sunt.</ab>
+        <ab xml:id="d1e635" n="22"> Haec verba locutus est Dominus ad omnem multitudinem vestram in
+          monte de medio ignis et nubis, et caliginis, voce magna, nihil addens amplius : et
+          scripsit ea in duabus tabulis lapideis, quas tradidit mihi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e639" n="23"> Vos autem postquam audistis vocem de medio tenebrarum, et montem
+          ardere vidistis, accessistis ad me omnes principes tribuum et majores natu, atque dixistis
+          :</ab>
+        <ab xml:id="d1e643" n="24"> Ecce ostendit nobis Dominus Deus noster majestatem et
+          magnitudinem suam : vocem ejus audivimus de medio ignis, et probavimus hodie, quod
+          loquente Deo cum homine, vixerit homo.</ab>
+        <ab xml:id="d1e646" n="25"> Cur ergo moriemur, et devorabit nos ignis hic maximus ? si enim
+          audierimus ultra vocem Domini Dei nostri, moriemur.</ab>
+        <ab xml:id="d1e649" n="26"> Quid est omnis caro, ut audiat vocem Dei viventis, qui de medio
+          ignis loquitur sicut nos audivimus, et possit vivere ?</ab>
+        <ab xml:id="d1e652" n="27"> Tu magis accede : et audi cuncta quae dixerit Dominus Deus
+          noster tibi : loquerisque ad nos, et nos audientes faciemus ea.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e656" n="28"> Quod cum audisset Dominus, ait ad me : Audivi vocem verborum
+          populi hujus quae locuti sunt tibi : bene omnia sunt locuti.</ab>
+        <ab xml:id="d1e659" n="29"> Quis det talem eos habere mentem, ut timeant me, et custodiant
+          universa mandata mea in omni tempore, ut bene sit eis et filiis eorum in sempiternum
+          ?</ab>
+        <ab xml:id="d1e663" n="30"> Vade et dic eis : Revertimini in tentoria vestra.</ab>
+        <ab xml:id="d1e666" n="31"> Tu vero hic sta mecum, et loquar tibi omnia mandata mea, et
+          caeremonias atque judicia : quae docebis eos, ut faciant ea in terra, quam dabo illis in
+          possessionem.</ab>
+        <ab xml:id="d1e669" n="32"> Custodite igitur et facite quae praecepit Dominus Deus vobis :
+          non declinabitis neque ad dexteram, neque ad sinistram :</ab>
+        <ab xml:id="d1e672" n="33"> sed per viam, quam praecepit Dominus Deus vester, ambulabitis,
+          ut vivatis, et bene sit vobis, et protelentur dies in terra possessionis vestrae.</ab>
+      </div>
+      <div xml:id="d1e677" type="chap" n="6">
+        <ab xml:id="d1e679" n="1"> Haec sunt praecepta, et caeremoniae, atque judicia, quae mandavit
+          Dominus Deus vester ut docerem vos, et faciatis ea in terra, ad quam transgredimini
+          possidendam :</ab>
+        <ab xml:id="d1e682" n="2"> ut timeas Dominum Deum tuum, et custodias omnia mandata et
+          praecepta ejus, quae ego praecipio tibi, et filiis, ac nepotibus tuis, cunctis diebus
+          vitae tuae, ut prolongentur dies tui.</ab>
+        <ab xml:id="d1e685" n="3"> Audi, Israël, et observa ut facias quae praecepit tibi Dominus,
+          et bene sit tibi, et multipliceris amplius, sicut pollicitus est Dominus Deus patrum
+          tuorum tibi terram lacte et melle manantem.</ab>
+        <ab xml:id="d1e688" n="4"> Audi, Israël : Dominus Deus noster, Dominus unus est.</ab>
+        <ab xml:id="d1e691" n="5"> Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima
+          tua, et ex tota fortitudine tua.</ab>
+        <ab xml:id="d1e695" n="6"> Eruntque verba haec, quae ego praecipio tibi hodie, in corde tuo
+          :</ab>
+        <ab xml:id="d1e698" n="7"> et narrabis ea filiis tuis, et meditaberis in eis sedens in domo
+          tua, et ambulans in itinere, dormiens atque consurgens.</ab>
+        <ab xml:id="d1e701" n="8"> Et ligabis ea quasi signum in manu tua, eruntque et movebuntur
+          inter oculos tuos,</ab>
+        <ab xml:id="d1e704" n="9"> scribesque ea in limine, et ostiis domus tuae.<pc ana="#pilcrow"
+          />
+        </ab>
+        <ab xml:id="d1e708" n="10"> Cumque introduxerit te Dominus Deus tuus in terram, pro qua
+          juravit patribus tuis Abraham, Isaac, et Jacob, et dederit tibi civitates magnas et
+          optimas, quas non aedificasti,</ab>
+        <ab xml:id="d1e711" n="11"> domos plenas cunctarum opum, quas non exstruxisti, cisternas,
+          quas non fodisti, vineta et oliveta, quae non plantasti,</ab>
+        <ab xml:id="d1e715" n="12"> et comederis, et saturatus fueris :</ab>
+        <ab xml:id="d1e718" n="13"> cave diligenter ne obliviscaris Domini, qui eduxit te de terra
+          Aegypti, de domo servitutis. Dominum Deum tuum timebis, et illi soli servies, ac per nomen
+          illius jurabis.</ab>
+        <ab xml:id="d1e721" n="14"> Non ibitis post deos alienos cunctarum gentium, quae in circuitu
+          vestro sunt :</ab>
+        <ab xml:id="d1e724" n="15"> quoniam Deus aemulator Dominus Deus tuus in medio tui : nequando
+          irascatur furor Domini Dei tui contra te, et auferat te de superficie terrae.</ab>
+        <ab xml:id="d1e727" n="16"> Non tentabis Dominum Deum tuum, sicut tentasti in loco
+          tentationis.</ab>
+        <ab xml:id="d1e730" n="17"> Custodi praecepta Domini Dei tui, ac testimonia et caeremonias,
+          quas praecepit tibi :</ab>
+        <ab xml:id="d1e734" n="18"> et fac quod placitum est et bonum in conspectu Domini, ut bene
+          sit tibi : et ingressus possideas terram optimam, de qua juravit Dominus patribus
+          tuis,</ab>
+        <ab xml:id="d1e737" n="19"> ut deleret omnes inimicos tuos coram te, sicut locutus est.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e741" n="20"> Cumque interrogaverit te filius tuus cras, dicens : Quid sibi
+          volunt testimonia haec, et caeremoniae, atque judicia, quae praecepit Dominus Deus noster
+          nobis ?</ab>
+        <ab xml:id="d1e744" n="21"> dices ei : Servi eramus Pharaonis in Aegypto, et eduxit nos
+          Dominus de Aegypto in manu forti :</ab>
+        <ab xml:id="d1e747" n="22"> fecitque signa atque prodigia magna et pessima in Aegypto contra
+          Pharaonem, et omnem domum illius in conspectu nostro,</ab>
+        <ab xml:id="d1e750" n="23"> et eduxit nos inde, ut introductis daret terram, super qua
+          juravit patribus nostris.</ab>
+        <ab xml:id="d1e754" n="24"> Praecepitque nobis Dominus ut faciamus omnia legitima haec, et
+          timeamus Dominum Deum nostrum, ut bene sit nobis cunctis diebus vitae nostrae, sicut est
+          hodie.</ab>
+        <ab xml:id="d1e757" n="25"> Eritque nostri misericors, si custodierimus et fecerimus omnia
+          praecepta ejus coram Domino Deo nostro, sicut mandavit nobis.</ab>
+      </div>
+      <div xml:id="d1e761" type="chap" n="7">
+        <ab xml:id="d1e763" n="1"> Cum introduxerit te Dominus Deus tuus in terram, quam possessurus
+          ingredieris, et deleverit gentes multas coram te, Hethaeum, et Gergezaeum, et Amorrhaeum,
+          Chananaeum, et Pherezaeum, et Hevaeum, et Jebusaeum, septem gentes multo majoris numeri
+          quam tu es, et robustiores te :</ab>
+        <ab xml:id="d1e766" n="2"> tradideritque eas Dominus Deus tuus tibi, percuties eas usque ad
+          internecionem. Non inibis cum eis foedus, nec misereberis earum,</ab>
+        <ab xml:id="d1e769" n="3"> neque sociabis cum eis conjugia. Filiam tuam non dabis filio
+          ejus, nec filiam illius accipies filio tuo :</ab>
+        <ab xml:id="d1e772" n="4"> quia seducet filium tuum, ne sequatur me, et ut magis serviat
+          diis alienis : irasceturque furor Domini, et delebit te cito.</ab>
+        <ab xml:id="d1e775" n="5"> Quin potius haec facietis eis : aras eorum subvertite, et
+          confringite statuas, lucosque succidite, et sculptilia comburite :</ab>
+        <ab xml:id="d1e779" n="6"> quia populus sanctus es Domino Deo tuo.<pc ana="#pilcrow"/> Te
+          elegit Dominus Deus tuus, ut sis ei populus peculiaris de cunctis populis, qui sunt super
+          terram.</ab>
+        <ab xml:id="d1e784" n="7"> Non quia cunctas gentes numero vincebatis, vobis junctus est
+          Dominus, et elegit vos, cum omnibus sitis populis pauciores :</ab>
+        <ab xml:id="d1e787" n="8"> sed quia dilexit vos Dominus, et custodivit juramentum, quod
+          juravit patribus vestris : eduxitque vos in manu forti, et redemit de domo servitutis, de
+          manu Pharaonis regis Aegypti.</ab>
+        <ab xml:id="d1e790" n="9"> Et scies, quia Dominus Deus tuus, ipse est Deus fortis et
+          fidelis, custodiens pactum et misericordiam diligentibus se, et his qui custodiunt
+          praecepta ejus in mille generationes :</ab>
+        <ab xml:id="d1e793" n="10"> et reddens odientibus se statim, ita ut disperdat eos, et ultra
+          non differat, protinus eis restituens quod merentur.</ab>
+        <ab xml:id="d1e796" n="11"> Custodi ergo praecepta et caeremonias atque judicia, quae ego
+          mando tibi hodie ut facias.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e801" n="12"> Si postquam audieris haec judicia, custodieris ea, et feceris,
+          custodiet et Dominus Deus tuus pactum tibi, et misericordiam quam juravit patribus tuis
+          :</ab>
+        <ab xml:id="d1e804" n="13"> et diliget te, ac multiplicabit, benedicetque fructui ventris
+          tui, et fructui terrae tuae, frumento tuo, atque vindemiae, oleo, et armentis, gregibus
+          ovium tuarum super terram, pro qua juravit patribus tuis ut daret eam tibi.</ab>
+        <ab xml:id="d1e807" n="14"> Benedictus eris inter omnes populos. Non erit apud te sterilis
+          utriusque sexus, tam in hominibus quam in gregibus tuis.</ab>
+        <ab xml:id="d1e810" n="15"> Auferet Dominus a te omnem languorem : et infirmitates Aegypti
+          pessimas, quas novisti, non inferet tibi, sed cunctis hostibus tuis.</ab>
+        <ab xml:id="d1e813" n="16"> Devorabis omnes populos, quos Dominus Deus tuus daturus est
+          tibi. Non parcet eis oculus tuus, nec servies diis eorum, ne sint in ruinam tui.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e817" n="17"> Si dixeris in corde tuo : Plures sunt gentes istae quam ego :
+          quomodo potero delere eas ?</ab>
+        <ab xml:id="d1e821" n="18"> noli metuere, sed recordare quae fecerit Dominus Deus tuus
+          Pharaoni, et cunctis Aegyptiis,</ab>
+        <ab xml:id="d1e824" n="19"> plagas maximas, quas viderunt oculi tui, et signa atque
+          portenta, manumque robustam, et extentum brachium, ut educeret te Dominus Deus tuus : sic
+          faciet cunctis populis, quos metuis.</ab>
+        <ab xml:id="d1e827" n="20"> Insuper et crabrones mittet Dominus Deus tuus in eos, donec
+          deleat omnes atque disperdat qui te fugerint, et latere potuerint.</ab>
+        <ab xml:id="d1e830" n="21"> Non timebis eos, quia Dominus Deus tuus in medio tui est, Deus
+          magnus et terribilis :</ab>
+        <ab xml:id="d1e833" n="22"> ipse consumet nationes has in conspectu tuo paulatim atque per
+          partes. Non poteris eas delere pariter : ne forte multiplicentur contra te bestiae
+          terrae.</ab>
+        <ab xml:id="d1e836" n="23"> Dabitque eos Dominus Deus tuus in conspectu tuo : et interficiet
+          illos, donec penitus deleantur.</ab>
+        <ab xml:id="d1e840" n="24"> Tradetque reges eorum in manus tuas, et disperdes nomina eorum
+          sub caelo : nullus poterit resistere tibi, donec conteras eos.</ab>
+        <ab xml:id="d1e843" n="25"> Sculptilia eorum igne combures : non concupisces argentum et
+          aurum, de quibus facta sunt, neque assumes ex eis tibi quidquam, ne offendas, propterea
+          quia abominatio est Domini tui :</ab>
+        <ab xml:id="d1e846" n="26"> nec inferes quippiam ex idolo in domum tuam, ne fias anathema,
+          sicut et illud est. Quasi spurcitiam detestaberis, et velut inquinamentum ac sordes
+          abominationi habebis, quia anathema est.</ab>
+      </div>
+      <div xml:id="d1e850" type="chap" n="8">
+        <ab xml:id="d1e852" n="1"> Omne mandatum, quod ego praecipio tibi hodie, cave diligenter ut
+          facias, ut possitis vivere, et multiplicemini, ingressique possideatis terram, pro qua
+          juravit Dominus patribus vestris.</ab>
+        <ab xml:id="d1e855" n="2"> Et recordaberis cuncti itineris, per quod adduxit te Dominus Deus
+          tuus quadraginta annis per desertum, ut affligeret te, atque tentaret, et nota fierent
+          quae in tuo animo versabantur, utrum custodires mandata illius, an non.</ab>
+        <ab xml:id="d1e858" n="3"> Afflixit te penuria, et dedit tibi cibum manna, quod ignorabas tu
+          et patres tui : ut ostenderet tibi quod non in solo pane vivat homo, sed in omni verbo
+          quod egreditur de ore Dei.</ab>
+        <ab xml:id="d1e861" n="4"> Vestimentum tuum, quo operiebaris, nequaquam vetustate defecit,
+          et pes tuus non est subtritus, en quadragesimus annus est :</ab>
+        <ab xml:id="d1e864" n="5"> ut recogites in corde tuo, quia sicut erudit filium suum homo,
+          sic Dominus Deus tuus erudivit te,</ab>
+        <ab xml:id="d1e868" n="6"> ut custodias mandata Domini Dei tui, et ambules in viis ejus, et
+          timeas eum.</ab>
+        <ab xml:id="d1e871" n="7"> Dominus enim Deus tuus introducet te in terram bonam, terram
+          rivorum, aquarumque et fontium, in cujus campis et montibus erumpunt fluviorum abyssi
+          :</ab>
+        <ab xml:id="d1e874" n="8"> terram frumenti, hordei ac vinearum, in qua ficus, et
+          malogranata, et oliveta nascuntur : terram olei ac mellis,</ab>
+        <ab xml:id="d1e877" n="9"> ubi absque ulla penuria comedes panem tuum, et rerum omnium
+          abundantia perfrueris : cujus lapides ferrum sunt, et de montibus ejus aeris metalla
+          fodiuntur :</ab>
+        <ab xml:id="d1e880" n="10"> ut cum comederis, et satiatus fueris, benedicas Domino Deo tuo
+          pro terra optima, quam dedit tibi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e884" n="11"> Observa, et cave nequando obliviscaris Domini Dei tui, et
+          negligas mandata ejus atque judicia et caeremonias, quas ego praecipio tibi hodie :</ab>
+        <ab xml:id="d1e888" n="12"> ne postquam comederis et satiatus fueris, domos pulchras
+          aedificaveris, et habitaveris in eis,</ab>
+        <ab xml:id="d1e891" n="13"> habuerisque armenta boum, et ovium greges, argenti et auri,
+          cunctarumque rerum copiam,</ab>
+        <ab xml:id="d1e894" n="14"> elevetur cor tuum, et non reminiscaris Domini Dei tui, qui
+          eduxit te de terra Aegypti, de domo servitutis,</ab>
+        <ab xml:id="d1e897" n="15"> et ductor tuus fuit in solitudine magna atque terribili, in qua
+          erat serpens flatu adurens, et scorpio, ac dipsas, et nullae omnino aquae : qui eduxit
+          rivos de petra durissima,</ab>
+        <ab xml:id="d1e900" n="16"> et cibavit te manna in solitudine, quod nescierunt patres tui.
+          Et postquam afflixit ac probavit, ad extremum misertus est tui,</ab>
+        <ab xml:id="d1e903" n="17"> ne diceres in corde tuo : Fortitudo mea, et robur manus meae,
+          haec mihi omnia praestiterunt :</ab>
+        <ab xml:id="d1e907" n="18"> sed recorderis Domini Dei tui, quod ipse vires tibi praebuerit,
+          ut impleret pactum suum, super quo juravit patribus tuis, sicut praesens indicat
+          dies.</ab>
+        <ab xml:id="d1e910" n="19"> Sin autem oblitus Domini Dei tui, secutus fueris deos alienos,
+          coluerisque illos et adoraveris : ecce nunc praedico tibi quod omnino dispereas.</ab>
+        <ab xml:id="d1e913" n="20"> Sicut gentes, quas delevit Dominus in introitu tuo, ita et vos
+          peribitis, si inobedientes fueritis voci Domini Dei vestri.</ab>
+      </div>
+      <div xml:id="d1e917" type="chap" n="9">
+        <ab xml:id="d1e919" n="1"> Audi, Israël : tu transgredieris hodie Jordanem, ut possideas
+          nationes maximas et fortiores te, civitates ingentes, et ad caelum usque muratas,</ab>
+        <ab xml:id="d1e922" n="2"> populum magnum atque sublimem, filios Enacim, quos ipse vidisti
+          et audisti, quibus nullus potest ex adverso resistere.</ab>
+        <ab xml:id="d1e925" n="3"> Scies ergo hodie quod Dominus Deus tuus ipse transibit ante te,
+          ignis devorans atque consumens, qui conterat eos, et deleat atque disperdat ante faciem
+          tuam velociter, sicut locutus est tibi :</ab>
+        <ab xml:id="d1e928" n="4"> ne dicas in corde tuo, cum deleverit eos Dominus Deus tuus in
+          conspectu tuo : Propter justitiam meam introduxit me Dominus ut terram hanc possiderem,
+          cum propter impietates suas istae deletae sint nationes.</ab>
+        <ab xml:id="d1e931" n="5"> Neque enim propter justitias tuas, et aequitatem cordis tui
+          ingredieris, ut possideas terras earum : sed quia illae egerunt impie, introëunte te
+          deletae sunt : et ut compleret verbum suum Dominus, quod sub juramento pollicitus est
+          patribus tuis, Abraham, Isaac, et Jacob.</ab>
+        <ab xml:id="d1e935" n="6"> Scito ergo quod non propter justitias tuas Dominus Deus tuus
+          dederit tibi terram hanc optimam in possessionem, cum durissimae cervicis sis populus.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e939" n="7"> Memento, et ne obliviscaris, quomodo ad iracundiam provocaveris
+          Dominum Deum tuum in solitudine. Ex eo die, quo egressus es ex Aegypto usque ad locum
+          istum, semper adversum Dominum contendisti.</ab>
+        <ab xml:id="d1e942" n="8"> Nam et in Horeb provocasti eum, et iratus delere te voluit,</ab>
+        <ab xml:id="d1e945" n="9"> quando ascendi in montem, ut acciperem tabulas lapideas, tabulas
+          pacti quod pepigit vobiscum Dominus : et perseveravi in monte quadraginta diebus ac
+          noctibus, panem non comedens, et aquam non bibens.</ab>
+        <ab xml:id="d1e948" n="10"> Deditque mihi Dominus duas tabulas lapideas scriptas digito Dei,
+          et continentes omnia verba quae vobis locutus est in monte de medio ignis, quando concio
+          populi congregata est.</ab>
+        <ab xml:id="d1e951" n="11"> Cumque transissent quadraginta dies, et totidem noctes, dedit
+          mihi Dominus duas tabulas lapideas, tabulas foederis,</ab>
+        <ab xml:id="d1e955" n="12"> dixitque mihi : Surge, et descende hinc cito : quia populus
+          tuus, quem eduxisti de Aegypto, deseruerunt velociter viam, quam demonstrasti eis,
+          feceruntque sibi conflatile.</ab>
+        <ab xml:id="d1e958" n="13"> Rursumque ait Dominus ad me : Cerno quod populus iste durae
+          cervicis sit :</ab>
+        <ab xml:id="d1e961" n="14"> dimitte me ut conteram eum, et deleam nomen ejus de sub caelo,
+          et constituam te super gentem, quae hac major et fortior sit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e965" n="15"> Cumque de monte ardente descenderem, et duas tabulas foederis
+          utraque tenerem manu,</ab>
+        <ab xml:id="d1e968" n="16"> vidissemque vos peccasse Domino Deo vestro, et fecisse vobis
+          vitulum conflatilem, ac deseruisse velociter viam ejus, quam vobis ostenderat :</ab>
+        <ab xml:id="d1e971" n="17"> projeci tabulas de manibus meis, confregique eas in conspectu
+          vestro.</ab>
+        <ab xml:id="d1e975" n="18"> Et procidi ante Dominum sicut prius, quadraginta diebus et
+          noctibus panem non comedens, et aquam non bibens, propter omnia peccata vestra quae
+          gessistis contra Dominum, et eum ad iracundiam provocastis :</ab>
+        <ab xml:id="d1e978" n="19"> timui enim indignationem et iram illius, qua adversum vos
+          concitatus, delere vos voluit. Et exaudivit me Dominus etiam hac vice.</ab>
+        <ab xml:id="d1e981" n="20"> Adversum Aaron quoque vehementer iratus, voluit eum conterere,
+          et pro illo similiter deprecatus sum.</ab>
+        <ab xml:id="d1e984" n="21"> Peccatum autem vestrum quod feceratis, id est, vitulum,
+          arripiens, igne combussi, et in frusta comminuens, omninoque in pulverem redigens, projeci
+          in torrentem, qui de monte descendit.</ab>
+        <ab xml:id="d1e987" n="22"> In incendio quoque, et in tentatione, et in Sepulchris
+          concupiscentiae provocastis Dominum :</ab>
+        <ab xml:id="d1e990" n="23"> et quando misit vos de Cadesbarne, dicens : Ascendite, et
+          possidete terram, quam dedi vobis, et contempsistis imperium Domini Dei vestri, et non
+          credidistis ei, neque vocem ejus audire voluistis :</ab>
+        <ab xml:id="d1e994" n="24"> sed semper fuistis rebelles a die qua nosse vos coepi.</ab>
+        <ab xml:id="d1e997" n="25"> Et jacui coram Domino quadraginta diebus ac noctibus, quibus eum
+          suppliciter deprecabar, ne deleret vos ut fuerat comminatus :</ab>
+        <ab xml:id="d1e1000" n="26"> et orans dixi : Domine Deus, ne disperdas populum tuum, et
+          haereditatem tuam, quam redemisti in magnitudine tua, quos eduxisti de Aegypto in manu
+          forti.</ab>
+        <ab xml:id="d1e1003" n="27"> Recordare servorum tuorum Abraham, Isaac, et Jacob : ne
+          aspicias duritiam populi hujus, et impietatem atque peccatum :</ab>
+        <ab xml:id="d1e1006" n="28"> ne forte dicant habitatores terrae, de qua eduxisti nos : Non
+          poterat Dominus introducere eos in terram, quam pollicitus est eis, et oderat illos :
+          idcirco eduxit, ut interficeret eos in solitudine :</ab>
+        <ab xml:id="d1e1009" n="29"> qui sunt populus tuus et haereditas tua, quos eduxisti in
+          fortitudine tua magna, et in brachio tuo extento.</ab>
+      </div>
+      <div xml:id="d1e1013" type="chap" n="10">
+        <ab xml:id="d1e1015" n="1"> In tempore illo dixit Dominus ad me : Dola tibi duas tabulas
+          lapideas, sicut priores fuerunt, et ascende ad me in montem : faciesque arcam
+          ligneam,</ab>
+        <ab xml:id="d1e1018" n="2"> et scribam in tabulis verba quae fuerunt in his qui ante
+          confregisti : ponesque eas in arca.</ab>
+        <ab xml:id="d1e1021" n="3"> Feci igitur arcam de lignis setim. Cumque dolassem duas tabulas
+          lapideas instar priorum, ascendi in montem, habens eas in manibus.</ab>
+        <ab xml:id="d1e1024" n="4"> Scripsitque in tabulis, juxta id quod prius scripserat, verba
+          decem, quae locutus est Dominus ad vos in monte de medio ignis, quando populus congregatus
+          est : et dedit eas mihi.</ab>
+        <ab xml:id="d1e1027" n="5"> Reversusque de monte, descendi, et posui tabulas in arcam, quam
+          feceram, quae hucusque ibi sunt, sicut mihi praecepit Dominus.</ab>
+        <ab xml:id="d1e1031" n="6"> Filii autem Israël moverunt castra ex Beroth filiorum Jacan in
+          Mosera, ubi Aaron mortuus ac sepultus est, pro quo sacerdotio functus est Eleazar filius
+          ejus.</ab>
+        <ab xml:id="d1e1034" n="7"> Inde venerunt in Gadgad : de quo loco profecti, castrametati
+          sunt in Jetebatha, in terra aquarum atque torrentium.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1038" n="8"> Eo tempore separavit tribum Levi, ut portaret arcam foederis
+          Domini, et staret coram eo in ministerio, ac benediceret in nomine illius usque in
+          praesentem diem.</ab>
+        <ab xml:id="d1e1041" n="9"> Quam ob rem non habuit Levi partem, neque possessionem cum
+          fratribus suis : quia ipse Dominus possessio ejus est, sicut promisit ei Dominus Deus
+          tuus.</ab>
+        <ab xml:id="d1e1044" n="10"> Ego autem steti in monte, sicut prius, quadraginta diebus ac
+          noctibus : exaudivitque me Dominus etiam hac vice, et te perdere noluit.</ab>
+        <ab xml:id="d1e1047" n="11"> Dixitque mihi : Vade, et praecede populum, ut ingrediatur, et
+          possideat terram, quam juravi patribus eorum ut traderem eis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1052" n="12"> Et nunc Israël, quid Dominus Deus tuus petit a te, nisi ut
+          timeas Dominum Deum tuum, et ambules in viis ejus, et diligas eum, ac servias Domino Deo
+          tuo in toto corde tuo, et in tota anima tua :</ab>
+        <ab xml:id="d1e1055" n="13"> custodiasque mandata Domini, et caeremonias ejus, quas ego
+          hodie praecipio tibi, ut bene sit tibi ?</ab>
+        <ab xml:id="d1e1058" n="14"> En Domini Dei tui caelum est, et caelum caeli, terra, et omnia
+          quae in ea sunt :</ab>
+        <ab xml:id="d1e1061" n="15"> et tamen patribus tuis conglutinatus est Dominus, et amavit
+          eos, elegitque semen eorum post eos, id est, vos, de cunctis gentibus, sicut hodie
+          comprobatur.</ab>
+        <ab xml:id="d1e1064" n="16"> Circumcidite igitur praeputium cordis vestri, et cervicem
+          vestram ne induretis amplius :</ab>
+        <ab xml:id="d1e1067" n="17"> quia Dominus Deus vester ipse est Deus deorum, et Dominus
+          dominantium, Deus magnus, et potens, et terribilis, qui personam non accipit, nec
+          munera.</ab>
+        <ab xml:id="d1e1071" n="18"> Facit judicium pupillo et viduae ; amat peregrinum, et dat ei
+          victum atque vestitum.</ab>
+        <ab xml:id="d1e1074" n="19"> Et vos ergo amate peregrinos, quia et ipsi fuistis advenae in
+          terra Aegypti.</ab>
+        <ab xml:id="d1e1077" n="20"> Dominum Deum tuum timebis, et ei soli servies : ipsi
+          adhaerebis, jurabisque in nomine illius.</ab>
+        <ab xml:id="d1e1080" n="21"> Ipse est laus tua, et Deus tuus, qui fecit tibi haec magnalia
+          et terribilia, quae viderunt oculi tui.</ab>
+        <ab xml:id="d1e1083" n="22"> In septuaginta animabus descenderunt patres tui in Aegyptum, et
+          ecce nunc multiplicavit te Dominus Deus tuus sicut astra caeli.</ab>
+      </div>
+      <div xml:id="d1e1087" type="chap" n="11">
+        <ab xml:id="d1e1089" n="1"> Ama itaque Dominum Deum tuum, et observa praecepta ejus et
+          caeremonias, judicia atque mandata, omni tempore.</ab>
+        <ab xml:id="d1e1092" n="2"> Cognoscite hodie quae ignorant filii vestri, qui non viderunt
+          disciplinam Domini Dei vestri, magnalia ejus et robustam manum, extentumque brachium,</ab>
+        <ab xml:id="d1e1095" n="3"> signa et opera quae fecit in medio Aegypti Pharaoni regi, et
+          universae terrae ejus,</ab>
+        <ab xml:id="d1e1098" n="4"> omnique exercitui Aegyptiorum, et equis ac curribus : quomodo
+          operuerint eos aquae maris Rubri, cum vos persequerentur, et deleverit eos Dominus usque
+          in praesentem diem :</ab>
+        <ab xml:id="d1e1101" n="5"> vobisque quae fecerit in solitudine donec veniretis ad hunc
+          locum :</ab>
+        <ab xml:id="d1e1105" n="6"> et Dathan atque Abiron filiis Eliab, qui fuit filius Ruben :
+          quos aperto ore suo terra absorbuit, cum domibus et tabernaculis, et universa substantia
+          eorum, quam habebant in medio Israël.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1109" n="7"> Oculi vestri viderunt opera Domini magna quae fecit,</ab>
+        <ab xml:id="d1e1112" n="8"> ut custodiatis universa mandata illius, quae ego hodie praecipio
+          vobis, et possitis introire, et possidere terram, ad quam ingredimini,</ab>
+        <ab xml:id="d1e1115" n="9"> multoque in ea vivatis tempore : quam sub juramento pollicitus
+          est Dominus patribus vestris, et semini eorum, lacte et melle manantem.</ab>
+        <ab xml:id="d1e1118" n="10"> Terra enim, ad quam ingrederis possidendam, non est sicut terra
+          Aegypti, de qua existi, ubi jacto semine in hortorum morem aquae ducuntur irriguae :</ab>
+        <ab xml:id="d1e1121" n="11"> sed montuosa est et campestris, de caelo expectans
+          pluvias,</ab>
+        <ab xml:id="d1e1125" n="12"> quam Dominus Deus tuus semper invisit, et oculi illius in ea
+          sunt a principio anni usque ad finem ejus.</ab>
+        <ab xml:id="d1e1128" n="13"> Si ergo obedieritis mandatis meis, quae ego hodie praecipio
+          vobis, ut diligatis Dominum Deum vestrum, et serviatis ei in toto corde vestro, et in tota
+          anima vestra :</ab>
+        <ab xml:id="d1e1131" n="14"> dabit pluviam terrae vestrae temporaneam et serotinam, ut
+          colligatis frumentum, et vinum, et oleum,</ab>
+        <ab xml:id="d1e1134" n="15"> foenumque ex agris ad pascenda jumenta, et ut ipsi comedatis ac
+          saturemini.</ab>
+        <ab xml:id="d1e1137" n="16"> Cavete ne forte decipiatur cor vestrum, et recedatis a Domino,
+          serviatisque diis alienis, et adoretis eos :</ab>
+        <ab xml:id="d1e1140" n="17"> iratusque Dominus claudat caelum, et pluviae non descendant,
+          nec terra det germen suum, pereatisque velociter de terra optima, quam Dominus daturus est
+          vobis.</ab>
+        <ab xml:id="d1e1144" n="18"> Ponite haec verba mea in cordibus et in animis vestris, et
+          suspendite ea pro signo in manibus, et inter oculos vestros collocate.</ab>
+        <ab xml:id="d1e1147" n="19"> Docete filios vestros ut illa meditentur : quando sederis in
+          domo tua, et ambulaveris in via, et accubueris atque surrexeris.</ab>
+        <ab xml:id="d1e1150" n="20"> Scribes ea super postes et januas domus tuae,</ab>
+        <ab xml:id="d1e1153" n="21"> ut multiplicentur dies tui, et filiorum tuorum in terra, quam
+          juravit Dominus patribus tuis, ut daret eis quamdiu caelum imminet terrae.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1157" n="22"> Si enim custodieritis mandata quae ego praecipio vobis, et
+          feceritis ea, ut diligatis Dominum Deum vestrum, et ambuletis in omnibus viis ejus,
+          adhaerentes ei,</ab>
+        <ab xml:id="d1e1160" n="23"> disperdet Dominus omnes gentes istas ante faciem vestram, et
+          possidebitis eas, quae majores et fortiores vobis sunt.</ab>
+        <ab xml:id="d1e1164" n="24"> Omnis locus, quem calcaverit pes vester, vester erit. A
+          deserto, et a Libano, a flumine magno Euphrate usque ad mare occidentale erunt termini
+          vestri.</ab>
+        <ab xml:id="d1e1167" n="25"> Nullus stabit contra vos : terrorem vestrum et formidinem dabit
+          Dominus Deus vester super omnem terram quam calcaturi estis, sicut locutus est vobis.</ab>
+        <ab xml:id="d1e1170" n="26"> En propono in conspectu vestro hodie benedictionem et
+          maledictionem :</ab>
+        <ab xml:id="d1e1173" n="27"> benedictionem, si obedieritis mandatis Domini Dei vestri, quae
+          ego hodie praecipio vobis :</ab>
+        <ab xml:id="d1e1176" n="28"> maledictionem, si non obedieritis mandatis Domini Dei vestri,
+          sed recesseritis de via, quam ego nunc ostendo vobis, et ambulaveritis post deos alienos,
+          quos ignoratis.</ab>
+        <ab xml:id="d1e1179" n="29"> Cum vero introduxerit te Dominus Deus tuus in terram, ad quam
+          pergis habitandam, pones benedictionem super montem Garizim, maledictionem super montem
+          Hebal :</ab>
+        <ab xml:id="d1e1183" n="30"> qui sunt trans Jordanem, post viam quae vergit ad solis
+          occubitum in terra Chananaei, qui habitat in campestribus contra Galgalam, quae est juxta
+          vallem tendentem et intrantem procul.</ab>
+        <ab xml:id="d1e1186" n="31"> Vos enim transibitis Jordanem, ut possideatis terram quam
+          Dominus Deus vester daturus est vobis, ut habeatis et possideatis illam.</ab>
+        <ab xml:id="d1e1189" n="32"> Videte ergo ut impleatis caeremonias atque judicia, quae ego
+          hodie ponam in conspectu vestro.</ab>
+      </div>
+      <div xml:id="d1e1194" type="chap" n="12">
+        <ab xml:id="d1e1196" n="1"> Haec sunt praecepta atque judicia, quae facere debetis in terra,
+          quam Dominus Deus patrum tuorum daturus est tibi, ut possideas eam cunctis diebus, quibus
+          super humum gradieris.</ab>
+        <ab xml:id="d1e1199" n="2"> Subvertite omnia loca, in quibus coluerunt gentes, quas
+          possessuri estis, deos suos super montes excelsos, et colles, et subter omne lignum
+          frondosum.</ab>
+        <ab xml:id="d1e1202" n="3"> Dissipate aras eorum, et confringite statuas : lucos igne
+          comburite, et idola comminuite : disperdite nomina eorum de locis illis.</ab>
+        <ab xml:id="d1e1205" n="4"> Non facietis ita Domino Deo vestro :</ab>
+        <ab xml:id="d1e1208" n="5"> sed ad locum, quem elegerit Dominus Deus vester de cunctis
+          tribubus vestris, ut ponat nomen suum ibi, et habitet in eo, venietis :</ab>
+        <ab xml:id="d1e1212" n="6"> et offeretis in loco illo holocausta et victimas vestras,
+          decimas et primitias manuum vestrarum, et vota atque donaria, primogenita boum et
+          ovium.</ab>
+        <ab xml:id="d1e1215" n="7"> Et comedetis ibi in conspectu Domini Dei vestri : ac laetabimini
+          in cunctis, ad quae miseritis manum vos et domus vestrae, in quibus benedixerit vobis
+          Dominus Deus vester.</ab>
+        <ab xml:id="d1e1218" n="8"> Non facietis ibi quae nos hic facimus hodie, singuli quod sibi
+          rectum videtur :</ab>
+        <ab xml:id="d1e1221" n="9"> neque enim usque in praesens tempus venistis ad requiem, et
+          possessionem, quam Dominus Deus vester daturus est vobis.</ab>
+        <ab xml:id="d1e1224" n="10"> Transibitis Jordanem, et habitabitis in terra, quam Dominus
+          Deus vester daturus est vobis, ut requiescatis a cunctis hostibus per circuitum : et
+          absque ullo timore habitetis</ab>
+        <ab xml:id="d1e1227" n="11"> in loco, quem elegerit Dominus Deus vester, ut sit nomen ejus
+          in eo : illuc omnia, quae praecipio, conferetis, holocausta, et hostias, ac decimas, et
+          primitias manuum vestrarum : et quidquid praecipuum est in muneribus, quae vovebitis
+          Domino.</ab>
+        <ab xml:id="d1e1231" n="12"> Ibi epulabimini coram Domino Deo vestro, vos et filii ac filiae
+          vestrae, famuli et famulae, atque Levites qui in urbibus vestris commoratur : neque enim
+          habet aliam partem et possessionem inter vos.</ab>
+        <ab xml:id="d1e1234" n="13"> Cave ne offeras holocausta tua in omni loco, quem videris
+          :</ab>
+        <ab xml:id="d1e1237" n="14"> sed in eo, quem elegerit Dominus, in una tribuum tuarum offeres
+          hostias, et facies quaecumque praecipio tibi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1241" n="15"> Sin autem comedere volueris, et te esus carnium delectaverit,
+          occide, comede juxta benedictionem Domini Dei tui, quam dedit tibi in urbibus tuis : sive
+          immundum fuerit, hoc est, maculatum et debile : sive mundum, hoc est, integrum et sine
+          macula, quod offerri licet, sicut capream et cervum, comedes :</ab>
+        <ab xml:id="d1e1244" n="16"> absque esu dumtaxat sanguinis, quem super terram quasi aquam
+          effundes.</ab>
+        <ab xml:id="d1e1247" n="17"> Non poteris comedere in oppidis tuis decimam frumenti, et vini,
+          et olei tui, primogenita armentorum et pecorum, et omnia quae voveris, et sponte offerre
+          volueris, et primitias manuum tuarum :</ab>
+        <ab xml:id="d1e1251" n="18"> sed coram Domino Deo tuo comedes ea in loco, quem elegerit
+          Dominus Deus tuus, tu et filius tuus, et filia tua, et servus et famula, atque Levites qui
+          manet in urbibus tuis : et laetaberis et reficieris coram Domino Deo tuo in cunctis ad
+          quae extenderis manum tuam.</ab>
+        <ab xml:id="d1e1254" n="19"> Cave ne derelinquas Levitem in omni tempore quo versaris in
+          terra.</ab>
+        <ab xml:id="d1e1257" n="20"> Quando dilataverit Dominus Deus tuus terminos tuos, sicut
+          locutus est tibi, et volueris vesci carnibus, quas desiderat anima tua :</ab>
+        <ab xml:id="d1e1260" n="21"> locus autem, quem elegerit Dominus Deus tuus ut sit nomen ejus
+          ibi, si procul fuerit, occides de armentis et pecoribus, quae habueris, sicut praecepi
+          tibi, et comedes in oppidis tuis, ut tibi placet.</ab>
+        <ab xml:id="d1e1263" n="22"> Sicut comeditur caprea et cervus, ita vesceris eis : et mundus
+          et immundus in commune vescentur.</ab>
+        <ab xml:id="d1e1266" n="23"> Hoc solum cave, ne sanguinem comedas : sanguis enim eorum pro
+          anima est, et idcirco non debes animam comedere cum carnibus :</ab>
+        <ab xml:id="d1e1270" n="24"> sed super terram fundes quasi aquam,</ab>
+        <ab xml:id="d1e1273" n="25"> ut bene sit tibi et filiis tuis post te, cum feceris quod
+          placet in conspectu Domini.</ab>
+        <ab xml:id="d1e1276" n="26"> Quae autem sanctificaveris, et voveris Domino, tolles, et
+          venies ad locum, quem elegerit Dominus :</ab>
+        <ab xml:id="d1e1279" n="27"> et offeres oblationes tuas carnem et sanguinem super altare
+          Domini Dei tui : sanguinem hostiarum fundes in altari ; carnibus autem ipse vesceris.</ab>
+        <ab xml:id="d1e1282" n="28"> Observa et audi omnia quae ego praecipio tibi, ut bene sit tibi
+          et filiis tuis post te in sempiternum, cum feceris quod bonum est et placitum in conspectu
+          Domini Dei tui.</ab>
+        <ab xml:id="d1e1285" n="29"> Quando disperdiderit Dominus Deus tuus ante faciem tuam gentes,
+          ad quas ingredieris possidendas, et possederis eas, atque habitaveris in terra earum
+          :</ab>
+        <ab xml:id="d1e1289" n="30"> cave ne imiteris eas, postquam te fuerint introëunte subversae,
+          et requiras caeremonias earum, dicens : Sicut coluerunt gentes istae deos suos, ita et ego
+          colam.</ab>
+        <ab xml:id="d1e1292" n="31"> Non facies similiter Domino Deo tuo. Omnes enim abominationes,
+          quas aversatur Dominus, fecerunt diis suis, offerentes filios et filias, et comburentes
+          igni.</ab>
+        <ab xml:id="d1e1295" n="32"> Quod praecipio tibi, hoc tantum facito Domino : nec addas
+          quidquam, nec minuas.</ab>
+      </div>
+      <div xml:id="d1e1299" type="chap" n="13">
+        <ab xml:id="d1e1301" n="1"> Si surrexerit in medio tui prophetes, aut qui somnium vidisse se
+          dicat, et praedixerit signum atque portentum,</ab>
+        <ab xml:id="d1e1304" n="2"> et evenerit quod locutus est, et dixerit tibi : Eamus, et
+          sequamur deos alienos quos ignoras, et serviamus eis :</ab>
+        <ab xml:id="d1e1307" n="3"> non audies verba prophetae illius aut somniatoris : quia tentat
+          vos Dominus Deus vester, ut palam fiat utrum diligatis eum an non, in toto corde, et in
+          tota anima vestra.</ab>
+        <ab xml:id="d1e1310" n="4"> Dominum Deum vestrum sequimini, et ipsum timete, et mandata
+          illius custodite, et audite vocem ejus : ipsi servietis, et ipsi adhaerebitis.</ab>
+        <ab xml:id="d1e1313" n="5"> Propheta autem ille aut fictor somniorum interficietur : quia
+          locutus est ut vos averteret a Domino Deo vestro, qui eduxit vos de terra Aegypti, et
+          redemit vos de domo servitutis : ut errare te faceret de via, quam tibi praecepit Dominus
+          Deus tuus : et auferes malum de medio tui.</ab>
+        <ab xml:id="d1e1317" n="6"> Si tibi voluerit persuadere frater tuus filius matris tuae, aut
+          filius tuus vel filia, sive uxor quae est in sinu tuo, aut amicus, quem diligis ut animam
+          tuam, clam dicens : Eamus, et serviamus diis alienis, quos ignoras tu, et patres tui,</ab>
+        <ab xml:id="d1e1320" n="7"> cunctarum in circuitu gentium, quae juxta vel procul sunt, ab
+          initio usque ad finem terrae,</ab>
+        <ab xml:id="d1e1323" n="8"> non acquiescas ei, nec audias, neque parcat ei oculus tuus ut
+          miserearis et occultes eum,</ab>
+        <ab xml:id="d1e1326" n="9"> sed statim interficies : sit primum manus tua super eum, et
+          postea omnis populus mittat manum.</ab>
+        <ab xml:id="d1e1329" n="10"> Lapidibus obrutus necabitur : quia voluit te abstrahere a
+          Domino Deo tuo, qui eduxit te de terra Aegypti, de domo servitutis :</ab>
+        <ab xml:id="d1e1332" n="11"> ut omnis Israël audiens timeat, et nequaquam ultra faciat
+          quippiam hujus rei simile.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1337" n="12"> Si audieris in una urbium tuarum, quas Dominus Deus tuus dabit
+          tibi ad habitandum, dicentes aliquos :</ab>
+        <ab xml:id="d1e1340" n="13"> Egressi sunt filii Belial de medio tui, et averterunt
+          habitatores urbis suae, atque dixerunt : Eamus, et serviamus diis alienis quos ignoratis
+          :</ab>
+        <ab xml:id="d1e1343" n="14"> quaere sollicite et diligenter, rei veritate perspecta, si
+          inveneris certum esse quod dicitur, et abominationem hanc opere perpetratam,</ab>
+        <ab xml:id="d1e1346" n="15"> statim percuties habitatores urbis illius in ore gladii, et
+          delebis eam ac omnia quae in illa sunt, usque ad pecora.</ab>
+        <ab xml:id="d1e1349" n="16"> Quidquid etiam supellectilis fuerit, congregabis in medio
+          platearum ejus, et cum ipsa civitate succendes, ita ut universa consumas Domino Deo tuo,
+          et sit tumulus sempiternus. Non aedificabitur amplius,</ab>
+        <ab xml:id="d1e1352" n="17"> et non adhaerebit de illo anathemate quidquam in manu tua : ut
+          avertatur Dominus ab ira furoris sui, et misereatur tui, multiplicetque te sicut juravit
+          patribus tuis,</ab>
+        <ab xml:id="d1e1356" n="18"> quando audieris vocem Domini Dei tui custodiens omnia praecepta
+          ejus, quae ego praecipio tibi hodie, ut facias quod placitum est in conspectu Domini Dei
+          tui.</ab>
+      </div>
+      <div xml:id="d1e1360" type="chap" n="14">
+        <ab xml:id="d1e1362" n="1"> Filii estote Domini Dei vestri : non vos incidetis, nec facietis
+          calvitium super mortuo :</ab>
+        <ab xml:id="d1e1365" n="2"> quoniam populus sanctus es Domino Deo tuo, et te elegit ut sis
+          ei in populum peculiarem de cunctis gentibus, quae sunt super terram.</ab>
+        <ab xml:id="d1e1368" n="3"> Ne comedatis quae immunda sunt.</ab>
+        <ab xml:id="d1e1371" n="4"> Hoc est animal quod comedere debetis : bovem, et ovem, et
+          capram,</ab>
+        <ab xml:id="d1e1374" n="5"> cervum et capream, bubalum, tragelaphum, pygargum, orygem,
+          camelopardalum.</ab>
+        <ab xml:id="d1e1378" n="6"> Omne animal, quod in duas partes findit ungulam, et ruminat,
+          comedetis.</ab>
+        <ab xml:id="d1e1381" n="7"> De his autem, quae ruminant, et ungulam non findunt, comedere
+          non debetis, ut camelum, leporem, choerogryllum : haec, quia ruminant et non dividunt
+          ungulam, immunda erunt vobis.</ab>
+        <ab xml:id="d1e1384" n="8"> Sus quoque, quoniam dividat ungulam et non ruminat, immunda
+          erit. Carnibus eorum non vescemini, et cadavera non tangetis.</ab>
+        <ab xml:id="d1e1387" n="9"> Haec comedetis ex omnibus quae morantur in aquis : quae habent
+          pinnulas et squamas, comedite :</ab>
+        <ab xml:id="d1e1390" n="10"> quae absque pinnulis et squamis sunt, ne comedatis, quia
+          immunda sunt.</ab>
+        <ab xml:id="d1e1393" n="11"> Omnes aves mundas comedite.</ab>
+        <ab xml:id="d1e1397" n="12"> Immundas ne comedatis : aquilam scilicet, et gryphem, et
+          haliaeetum,</ab>
+        <ab xml:id="d1e1400" n="13"> ixion et vulturem ac milvum juxta genus suum :</ab>
+        <ab xml:id="d1e1403" n="14"> et omne corvini generis,</ab>
+        <ab xml:id="d1e1406" n="15"> et struthionem, ac noctuam, et larum, atque accipitrem juxta
+          genus suum :</ab>
+        <ab xml:id="d1e1409" n="16"> herodium ac cygnum, et ibin,</ab>
+        <ab xml:id="d1e1412" n="17"> ac mergulum, porphyrionem, et nycticoracem,</ab>
+        <ab xml:id="d1e1416" n="18"> onocrotalum, et charadrium, singula in genere suo : upupam
+          quoque et vespertilionem.</ab>
+        <ab xml:id="d1e1419" n="19"> Et omne quod reptat et pennulas habet, immundum erit, et non
+          comedetur.</ab>
+        <ab xml:id="d1e1422" n="20"> Omne quod mundum est, comedite.</ab>
+        <ab xml:id="d1e1425" n="21"> Quidquid autem morticinum est, ne vescamini ex eo. Peregrino,
+          qui intra portas tuas est, da ut comedat, aut vende ei : quia tu populus sanctus Domini
+          Dei tui es. Non coques haedum in lacte matris suae.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1429" n="22"> Decimam partem separabis de cunctis fructibus tuis qui
+          nascuntur in terra per annos singulos,</ab>
+        <ab xml:id="d1e1432" n="23"> et comedes in conspectu Domini Dei tui in loco quem elegerit,
+          ut in eo nomen illius invocetur, decimam frumenti tui, et vini, et olei, et primogenita de
+          armentis et ovibus tuis : ut discas timere Dominum Deum tuum omni tempore.</ab>
+        <ab xml:id="d1e1436" n="24"> Cum autem longior fuerit via, et locus quem elegerit Dominus
+          Deus tuus, tibique benedixerit, nec potueris ad eum haec cuncta portare,</ab>
+        <ab xml:id="d1e1439" n="25"> vendes omnia, et in pretium rediges, portabisque manu tua, et
+          proficisceris ad locum quem elegerit Dominus Deus tuus :</ab>
+        <ab xml:id="d1e1442" n="26"> et emes ex eadem pecunia quidquid tibi placuerit, sive ex
+          armentis, sive ex ovibus, vinum quoque et siceram, et omne quod desiderat anima tua : et
+          comedes coram Domino Deo tuo, et epulaberis tu et domus tua :</ab>
+        <ab xml:id="d1e1445" n="27"> et Levites qui intra portas tuas est, cave ne derelinquas eum,
+          quia non habet aliam partem in possessione tua.</ab>
+        <ab xml:id="d1e1448" n="28"> Anno tertio separabis aliam decimam ex omnibus quae nascuntur
+          tibi eo tempore, et repones intra januas tuas.</ab>
+        <ab xml:id="d1e1451" n="29"> Venietque Levites qui aliam non habet partem nec possessionem
+          tecum, et peregrinus ac pupillus et vidua, qui intra portas tuas sunt, et comedent et
+          saturabuntur : ut benedicat tibi Dominus Deus tuus in cunctis operibus manuum tuarum quae
+          feceris.</ab>
+      </div>
+      <div xml:id="d1e1455" type="chap" n="15">
+        <ab xml:id="d1e1457" n="1"> Septimo anno facies remissionem,</ab>
+        <ab xml:id="d1e1460" n="2"> quae hoc ordine celebrabitur. Cui debetur aliquid ab amico vel
+          proximo ac fratre suo, repetere non poterit, quia annus remissionis est Domini.</ab>
+        <ab xml:id="d1e1463" n="3"> A peregrino et advena exiges : civem et propinquum repetendi non
+          habebis potestatem.</ab>
+        <ab xml:id="d1e1466" n="4"> Et omnino indigens et mendicus non erit inter vos : ut benedicat
+          tibi Dominus Deus tuus in terra, quam traditurus est tibi in possessionem.</ab>
+        <ab xml:id="d1e1469" n="5"> Si tamen audieris vocem Domini Dei tui, et custodieris universa
+          quae jussit, et quae ego hodie praecipio tibi, benedicet tibi, ut pollicitus est.</ab>
+        <ab xml:id="d1e1473" n="6"> Foenerabis gentibus multis, et ipse a nullo accipies mutuum.
+          Dominaberis nationibus plurimis, et tui nemo dominabitur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1477" n="7"> Si unus de fratribus tuis, qui morantur intra portas civitatis
+          tuae in terra quam Dominus Deus tuus daturus est tibi, ad paupertatem venerit, non
+          obdurabis cor tuum, nec contrahes manum,</ab>
+        <ab xml:id="d1e1480" n="8"> sed aperies eam pauperi, et dabis mutuum, quo eum indigere
+          perspexeris.</ab>
+        <ab xml:id="d1e1483" n="9"> Cave ne forte subrepat tibi impia cogitatio, et dicas in corde
+          tuo : Appropinquat septimus annus remissionis : et avertas oculos tuos a paupere fratre
+          tuo, nolens ei quod postulat mutuum commodare : ne clamet contra te ad Dominum, et fiat
+          tibi in peccatum.</ab>
+        <ab xml:id="d1e1486" n="10"> Sed dabis ei : nec ages quippiam callide in ejus necessitatibus
+          sublevandis, ut benedicat tibi Dominus Deus tuus in omni tempore, et in cunctis ad quae
+          manum miseris.</ab>
+        <ab xml:id="d1e1489" n="11"> Non deerunt pauperes in terra habitationis tuae : idcirco ego
+          praecipio tibi, ut aperias manum fratri tuo egeno et pauperi, qui tecum versatur in
+            terra.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1494" n="12"> Cum tibi venditus fuerit frater tuus Hebraeus aut Hebraea, et
+          sex annis servierit tibi, in septimo anno dimittes eum liberum :</ab>
+        <ab xml:id="d1e1497" n="13"> et quem libertate donaveris, nequaquam vacuum abire patieris
+          :</ab>
+        <ab xml:id="d1e1500" n="14"> sed dabis viaticum de gregibus, et de area, et torculari tuo,
+          quibus Dominus Deus tuus benedixerit tibi.</ab>
+        <ab xml:id="d1e1503" n="15"> Memento quod et ipse servieris in terra Aegypti, et liberaverit
+          te Dominus Deus tuus, et idcirco ego nunc praecipio tibi.</ab>
+        <ab xml:id="d1e1506" n="16"> Sin autem dixerit : Nolo egredi : eo quod diligat te, et domum
+          tuam, et bene sibi apud te esse sentiat :</ab>
+        <ab xml:id="d1e1509" n="17"> assumes subulam, et perforabis aurem ejus in janua domus tuae,
+          et serviet tibi usque in aeternum. Ancillae quoque similiter facies.</ab>
+        <ab xml:id="d1e1513" n="18"> Non avertas ab eis oculos tuos, quando dimiseris eos liberos,
+          quoniam juxta mercedem mercenarii per sex annos servivit tibi : ut benedicat tibi Dominus
+          Deus tuus in cunctis operibus quae agis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1517" n="19"> De primogenitis, quae nascuntur in armentis, et in ovibus tuis,
+          quidquid est sexus masculini, sanctificabis Domino Deo tuo. Non operaberis in primogenito
+          bovis, et non tondebis primogenita ovium.</ab>
+        <ab xml:id="d1e1520" n="20"> In conspectu Domini Dei tui comedes ea per annos singulos in
+          loco quem elegerit Dominus, tu et domus tua.</ab>
+        <ab xml:id="d1e1523" n="21"> Sin autem habuerit maculam, vel claudum fuerit, vel caecum, aut
+          in aliqua parte deforme vel debile, non immolabitur Domino Deo tuo :</ab>
+        <ab xml:id="d1e1526" n="22"> sed intra portas urbis tuae comedes illud : tam mundus quam
+          immundus similiter vescentur eis, quasi caprea et cervo.</ab>
+        <ab xml:id="d1e1529" n="23"> Hoc solum observabis, ut sanguinem eorum non comedas, sed
+          effundes in terram quasi aquam.</ab>
+      </div>
+      <div xml:id="d1e1533" type="chap" n="16">
+        <ab xml:id="d1e1535" n="1"> Observa mensem novarum frugum, et verni primum temporis, ut
+          facias Phase Domino Deo tuo : quoniam in isto mense eduxit te Dominus Deus tuus de Aegypto
+          nocte.</ab>
+        <ab xml:id="d1e1538" n="2"> Immolabisque Phase Domino Deo tuo de ovibus, et de bobus, in
+          loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi.</ab>
+        <ab xml:id="d1e1541" n="3"> Non comedes in eo panem fermentatum : septem diebus comedes
+          absque fermento afflictionis panem, quoniam in pavore egressus es de Aegypto : ut
+          memineris diei egressionis tuae de Aegypto, omnibus diebus vitae tuae.</ab>
+        <ab xml:id="d1e1544" n="4"> Non apparebit fermentum in omnibus terminis tuis septem diebus,
+          et non remanebit de carnibus ejus, quod immolatum est vespere in die primo, usque
+          mane.</ab>
+        <ab xml:id="d1e1547" n="5"> Non poteris immolare Phase in qualibet urbium tuarum, quas
+          Dominus Deus tuus daturus est tibi,</ab>
+        <ab xml:id="d1e1551" n="6"> sed in loco quem elegerit Dominus Deus tuus, ut habitet nomen
+          ejus ibi : immolabis Phase vespere ad solis occasum, quando egressus es de Aegypto.</ab>
+        <ab xml:id="d1e1554" n="7"> Et coques, et comedes in loco quem elegerit Dominus Deus tuus,
+          maneque consurgens vades in tabernacula tua.</ab>
+        <ab xml:id="d1e1557" n="8"> Sex diebus comedes azyma : et in die septima, quia collecta est
+          Domini Dei tui, non facies opus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1561" n="9"> Septem hebdomadas numerabis tibi ab ea die qua falcem in segetem
+          miseris.</ab>
+        <ab xml:id="d1e1564" n="10"> Et celebraris diem festum hebdomadarum Domino Deo tuo,
+          oblationem spontaneam manus tuae, quam offeres juxta benedictionem Domini Dei tui :</ab>
+        <ab xml:id="d1e1567" n="11"> et epulaberis coram Domino Deo tuo, tu, filius tuus et filia
+          tua, servus tuus et ancilla tua, et Levites qui est intra portas tuas, advena ac pupillus
+          et vidua, qui morantur vobiscum : in loco quem elegerit Dominus Deus tuus, ut habitet
+          nomen ejus ibi.</ab>
+        <ab xml:id="d1e1571" n="12"> Et recordaberis quoniam servus fueris in Aegypto : custodiesque
+          ac facies quae praecepta sunt.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1575" n="13"> Solemnitatem quoque tabernaculorum celebrabis per septem dies,
+          quando collegeris de area et torculari fruges tuas :</ab>
+        <ab xml:id="d1e1578" n="14"> et epulaberis in festivitate tua, tu, filius tuus et filia,
+          servus tuus et ancilla, Levites quoque et advena, pupillus et vidua qui intra portas tuas
+          sunt.</ab>
+        <ab xml:id="d1e1581" n="15"> Septem diebus Domino Deo tuo festa celebrabis in loco quem
+          elegerit Dominus : benedicetque tibi Dominus Deus tuus in cunctis frugibus tuis, et in
+          omni opere manuum tuarum, erisque in laetitia.</ab>
+        <ab xml:id="d1e1584" n="16"> Tribus vicibus per annum apparebit omne masculinum tuum in
+          conspectu Domini Dei tui in loco quem elegerit : in solemnitate azymorum, in solemnitate
+          hebdomadarum, et in solemnitate tabernaculorum. Non apparebit ante Dominum vacuus :</ab>
+        <ab xml:id="d1e1587" n="17"> sed offeret unusquisque secundum quod habuerit juxta
+          benedictionem Domini Dei sui, quam dederit ei.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1592" n="18"> Judices et magistros constitues in omnibus portis tuis, quas
+          Dominus Deus tuus dederit tibi, per singulas tribus tuas : ut judicent populum justo
+          judicio,</ab>
+        <ab xml:id="d1e1595" n="19"> nec in alteram partem declinent. Non accipies personam, nec
+          munera : quia munera excaecant oculos sapientum, et mutant verba justorum.</ab>
+        <ab xml:id="d1e1598" n="20"> Juste quod justum est persequeris : ut vivas, et possideas
+          terram, quam Dominus Deus tuus dederit tibi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1602" n="21"> Non plantabis lucum, et omnem arborem juxta altare Domini Dei
+          tui.</ab>
+        <ab xml:id="d1e1605" n="22"> Nec facies tibi, neque constitues statuam : quae odit Dominus
+          Deus tuus.</ab>
+      </div>
+      <div xml:id="d1e1609" type="chap" n="17">
+        <ab xml:id="d1e1611" n="1"> Non immolabis Domino Deo tuo ovem, et bovem, in quo est macula,
+          aut quippiam vitii : quia abominatio est Domino Deo tuo.</ab>
+        <ab xml:id="d1e1614" n="2"> Cum reperti fuerint apud te intra unam portarum tuarum, quas
+          Dominus Deus tuus dabit tibi, vir aut mulier qui faciant malum in conspectu Domini Dei
+          tui, et transgrediantur pactum illius,</ab>
+        <ab xml:id="d1e1617" n="3"> ut vadant et servant diis alienis, et adorent eos, solem et
+          lunam, et omnem militiam caeli, quae non praecepi :</ab>
+        <ab xml:id="d1e1620" n="4"> et hoc tibi fuerit nuntiatum, audiensque inquisieris diligenter
+          et verum esse repereris, et abominatio facta est in Israël :</ab>
+        <ab xml:id="d1e1623" n="5"> educes virum ac mulierem, qui rem sceleratissimam perpetrarunt,
+          ad portas civitatis tuae, et lapidibus obruentur.</ab>
+        <ab xml:id="d1e1627" n="6"> In ore duorum aut trium testium peribit qui interficietur. Nemo
+          occidatur, uno contra se dicente testimonium.</ab>
+        <ab xml:id="d1e1630" n="7"> Manus testium prima interficiet eum, et manus reliqui populi
+          extrema mittetur : ut auferas malum de medio tui.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1634" n="8"> Si difficile et ambiguum apud te judicium esse perspexeris inter
+          sanguinem et sanguinem, causam et causam, lepram et lepram : et judicum intra portas tuas
+          videris verba variari : surge, et ascende ad locum, quem elegerit Dominus Deus tuus.</ab>
+        <ab xml:id="d1e1637" n="9"> Veniesque ad sacerdotes Levitici generis, et ad judicem qui
+          fuerit illo tempore : quaeresque ab eis, qui indicabunt tibi judicii veritatem.</ab>
+        <ab xml:id="d1e1640" n="10"> Et facies quodcumque dixerint qui praesunt loco quem elegerit
+          Dominus, et docuerint te</ab>
+        <ab xml:id="d1e1643" n="11"> juxta legem ejus, sequerisque sententiam eorum, nec declinabis
+          ad dexteram neque ad sinistram.</ab>
+        <ab xml:id="d1e1647" n="12"> Qui autem superbierit, nolens obedire sacerdotis imperio, qui
+          eo tempore ministrat Domino Deo tuo, et decreto judicis, morietur homo ille, et auferes
+          malum de Israël :</ab>
+        <ab xml:id="d1e1650" n="13"> cunctusque populus audiens timebit, ut nullus deinceps
+          intumescat superbia.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1654" n="14"> Cum ingressus fueris terram, quam Dominus Deus tuus dabit tibi,
+          et possederis eam, habitaverisque in illa, et dixeris : Constituam super me regem, sicut
+          habent omnes per circuitum nationes :</ab>
+        <ab xml:id="d1e1657" n="15"> eum constitues, quem Dominus Deus tuus elegerit de numero
+          fratrum tuorum. Non poteris alterius gentis hominem regem facere, qui non sit frater
+          tuus.</ab>
+        <ab xml:id="d1e1660" n="16"> Cumque fuerit constitutus, non multiplicabit sibi equos, nec
+          reducet populum in Aegyptum, equitatus numero sublevatus, praesertim cum Dominus
+          praeceperit vobis ut nequaquam amplius per eamdem viam revertamini.</ab>
+        <ab xml:id="d1e1663" n="17"> Non habebit uxores plurimas, quae alliciant animum ejus, neque
+          argenti et auri immensa pondera.</ab>
+        <ab xml:id="d1e1667" n="18"> Postquam autem sederit in solio regni sui, describet sibi
+          Deuteronomium legis hujus in volumine, accipiens exemplar a sacerdotibus Leviticae
+          tribus,</ab>
+        <ab xml:id="d1e1670" n="19"> et habebit secum, legetque illud omnibus diebus vitae suae, ut
+          discat timere Dominum Deum suum, et custodire verba et caeremonias ejus, quae in lege
+          praecepta sunt.</ab>
+        <ab xml:id="d1e1673" n="20"> Nec elevetur cor ejus in superbiam super fratres suos, neque
+          declinet in partem dexteram vel sinistram, ut longo tempore regnet ipse et filii ejus
+          super Israël.</ab>
+      </div>
+      <div xml:id="d1e1678" type="chap" n="18">
+        <ab xml:id="d1e1680" n="1"> Non habebunt sacerdotes et Levitae, et omnes qui de eadem tribu
+          sunt, partem et haereditatem cum reliquo Israël, quia sacrificia Domini, et oblationes
+          ejus comedent,</ab>
+        <ab xml:id="d1e1683" n="2"> et nihil aliud accipient de possessione fratrum suorum : Dominus
+          enim ipse est haereditas eorum, sicut locutus est illis.</ab>
+        <ab xml:id="d1e1686" n="3"> Hoc erit judicium sacerdotum a populo, et ab his qui offerunt
+          victimas : sive bovem, sive ovem immolaverint, dabunt sacerdoti armum ac ventriculum
+          :</ab>
+        <ab xml:id="d1e1689" n="4"> primitias frumenti, vini, et olei, et lanarum partem ex ovium
+          tonsione.</ab>
+        <ab xml:id="d1e1692" n="5"> Ipsum enim elegit Dominus Deus tuus de cunctis tribubus tuis, ut
+          stet, et ministret nomini Domini, ipse, et filii ejus in sempiternum.</ab>
+        <ab xml:id="d1e1696" n="6"> Si exierit Levites ex una urbium tuarum ex omni Israël in qua
+          habitat, et voluerit venire, desiderans locum quem elegerit Dominus,</ab>
+        <ab xml:id="d1e1699" n="7"> ministrabit in nomine Domini Dei sui, sicut omnes fratres ejus
+          Levitae, qui stabunt eo tempore coram Domino.</ab>
+        <ab xml:id="d1e1702" n="8"> Partem ciborum eamdem accipiet, quam et ceteri : excepto eo,
+          quod in urbe sua ex paterna ei successione debetur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1706" n="9"> Quando ingressus fueris terram, quam Dominus Deus tuus dabit
+          tibi, cave ne imitari velis abominationes illarum gentium.</ab>
+        <ab xml:id="d1e1709" n="10"> Nec inveniatur in te qui lustret filium suum, aut filiam,
+          ducens per ignem : aut qui ariolos sciscitetur, et observet somnia atque auguria, nec sit
+          maleficus,</ab>
+        <ab xml:id="d1e1712" n="11"> nec incantator, nec qui pythones consulat, nec divinos, aut
+          quaerat a mortuis veritatem.</ab>
+        <ab xml:id="d1e1716" n="12"> Omnia enim haec abominatur Dominus, et propter istiusmodi
+          scelera delebit eos in introitu tuo.</ab>
+        <ab xml:id="d1e1719" n="13"> Perfectus eris, et absque macula cum Domino Deo tuo.</ab>
+        <ab xml:id="d1e1722" n="14"> Gentes istae, quarum possidebis terram, augures et divinos
+          audiunt : tu autem a Domino Deo tuo aliter institutus es.</ab>
+        <ab xml:id="d1e1725" n="15"> Prophetam de gente tua et de fratribus tuis, sicut me,
+          suscitabit tibi Dominus Deus tuus : ipsum audies,</ab>
+        <ab xml:id="d1e1728" n="16"> ut petisti a Domino Deo tuo in Horeb, quando concio congregata
+          est, atque dixisti : Ultra non audiam vocem Domini Dei mei, et ignem hunc maximum amplius
+          non videbo, ne moriar.</ab>
+        <ab xml:id="d1e1731" n="17"> Et ait Dominus mihi : Bene omnia sunt locuti.</ab>
+        <ab xml:id="d1e1735" n="18"> Prophetam suscitabo eis de medio fratrum suorum similem tui :
+          et ponam verba mea in ore ejus, loqueturque ad eos omnia quae praecepero illi.</ab>
+        <ab xml:id="d1e1738" n="19"> Qui autem verba ejus, quae loquetur in nomine meo, audire
+          noluerit, ego ultor existam.</ab>
+        <ab xml:id="d1e1741" n="20"> Propheta autem qui arrogantia depravatus voluerit loqui in
+          nomine meo, quae ego non praecepi illi ut diceret, aut ex nomine alienorum deorum,
+          interficietur.</ab>
+        <ab xml:id="d1e1744" n="21"> Quod si tacita cogitatione responderis : Quomodo possum
+          intelligere verbum, quod Dominus non est locutus ?</ab>
+        <ab xml:id="d1e1747" n="22"> hoc habebis signum : quod in nomine Domini propheta ille
+          praedixerit, et non evenerit : hoc Dominus non est locutus, sed per tumorem animi sui
+          propheta confinxit : et idcirco non timebis eum.</ab>
+      </div>
+      <div xml:id="d1e1751" type="chap" n="19">
+        <ab xml:id="d1e1753" n="1"> Cum disperdiderit Dominus Deus tuus gentes, quarum tibi
+          traditurus est terram, et possederis eam, habitaverisque in urbibus ejus et in aedibus
+          :</ab>
+        <ab xml:id="d1e1756" n="2"> tres civitates separabis tibi in medio terrae, quam Dominus Deus
+          tuus dabit tibi in possessionem,</ab>
+        <ab xml:id="d1e1759" n="3"> sternens diligenter viam : et in tres aequaliter partes totam
+          terrae tuae provinciam divides : ut habeat e vicino qui propter homicidium profugus est,
+          quo possit evadere.</ab>
+        <ab xml:id="d1e1762" n="4"> Haec erit lex homicidae fugientis, cujus vita servanda est : qui
+          percusserit proximum suum nesciens, et qui heri et nudiustertius nullum contra eum odium
+          habuisse comprobatur :</ab>
+        <ab xml:id="d1e1765" n="5"> sed abiisse cum eo simpliciter in silvam ad ligna caedenda, et
+          in succisione lignorum securis fugerit manu, ferrumque lapsum de manubrio amicum ejus
+          percusserit, et occiderit : hic ad unam supradictarum urbium confugiet, et vivet :</ab>
+        <ab xml:id="d1e1769" n="6"> ne forsitan proximus ejus, cujus effusus est sanguis, dolore
+          stimulatus, persequatur, et apprehendat eum si longior via fuerit, et percutiat animam
+          ejus, qui non est reus mortis : quia nullum contra eum, qui occisus est, odium prius
+          habuisse monstratur.</ab>
+        <ab xml:id="d1e1772" n="7"> Idcirco praecipio tibi, ut tres civitates aequalis inter se
+          spatii dividas.</ab>
+        <ab xml:id="d1e1775" n="8"> Cum autem dilataverit Dominus Deus tuus terminos tuos, sicut
+          juravit patribus tuis, et dederit tibi cunctam terram, quam eis pollicitus est</ab>
+        <ab xml:id="d1e1778" n="9"> (si tamen custodieris mandata ejus, et feceris, quae hodie
+          praecipio tibi, ut diligas Dominum Deum tuum, et ambules in viis ejus omni tempore), addes
+          tibi tres alias civitates, et supradictarum trium urbium numerum duplicabis :</ab>
+        <ab xml:id="d1e1781" n="10"> ut non effundatur sanguis innoxius in medio terrae, quam
+          Dominus Deus tuus dabit tibi possidendam, ne sis sanguinis reus.</ab>
+        <ab xml:id="d1e1784" n="11"> Si quis autem, odio habens proximum suum, insidiatus fuerit
+          vitae ejus, surgensque percusserit illum, et mortuus fuerit, fugeritque ad unam de
+          supradictis urbibus,</ab>
+        <ab xml:id="d1e1788" n="12"> mittent seniores civitatis illius, et arripient eum de loco
+          effugii, tradentque in manu proximi, cujus sanguis effusus est, et morietur.</ab>
+        <ab xml:id="d1e1791" n="13"> Non miseraberis ejus, et auferes innoxium sanguinem de Israël,
+          ut bene sit tibi.</ab>
+        <ab xml:id="d1e1794" n="14"> Non assumes, et transferes terminos proximi tui, quos fixerunt
+          priores in possessione tua, quam Dominus Deus tuus dabit tibi in terra quam acceperis
+            possidendam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1798" n="15"> Non stabit testis unus contra aliquem, quidquid illud peccati,
+          et facinoris fuerit : sed in ore duorum aut trium testium stabit omne verbum.</ab>
+        <ab xml:id="d1e1801" n="16"> Si steterit testis mendax contra hominem, accusans eum
+          praevaricationis,</ab>
+        <ab xml:id="d1e1804" n="17"> stabunt ambo, quorum causa est, ante Dominum in conspectu
+          sacerdotum et judicum qui fuerint in diebus illis.</ab>
+        <ab xml:id="d1e1808" n="18"> Cumque diligentissime perscrutantes, invenerint falsum testem
+          dixisse contra fratrem suum mendacium,</ab>
+        <ab xml:id="d1e1811" n="19"> reddent ei sicut fratri suo facere cogitavit, et auferes malum
+          de medio tui :</ab>
+        <ab xml:id="d1e1814" n="20"> ut audientes ceteri timorem habeant, et nequaquam talia audeant
+          facere.</ab>
+        <ab xml:id="d1e1817" n="21"> Non misereberis ejus, sed animam pro anima, oculum pro oculo,
+          dentem pro dente, manum pro manu, pedem pro pede exiges.</ab>
+      </div>
+      <div xml:id="d1e1821" type="chap" n="20">
+        <ab xml:id="d1e1823" n="1"> Si exieris ad bellum contra hostes tuos, et videris equitatus et
+          currus, et majorem quam tu habeas adversarii exercitus multitudinem, non timebis eos :
+          quia Dominus Deus tuus tecum est, qui eduxit te de terra Aegypti.</ab>
+        <ab xml:id="d1e1826" n="2"> Appropinquante autem jam praelio, stabit sacerdos ante aciem, et
+          sic loquetur ad populum :</ab>
+        <ab xml:id="d1e1829" n="3"> Audi, Israël : vos hodie contra inimicos vestros pugnam
+          committitis : non pertimescat cor vestrum, nolite metuere, nolite cedere, nec formidetis
+          eos :</ab>
+        <ab xml:id="d1e1832" n="4"> quia Dominus Deus vester in medio vestri est, et pro vobis
+          contra adversarios dimicabit, ut eruat vos de periculo.</ab>
+        <ab xml:id="d1e1835" n="5"> Duces quoque per singulas turmas audiente exercitu proclamabunt
+          : Quis est homo qui aedificavit domum novam, et non dedicavit eam ? vadat, et revertatur
+          in domum suam, ne forte moriatur in bello, et alius dedicet eam.</ab>
+        <ab xml:id="d1e1839" n="6"> Quis est homo qui plantavit vineam, et necdum fecit eam esse
+          communem, de qua vesci omnibus liceat ? vadat, et revertatur in domum suam, ne forte
+          moriatur in bello, et alius homo ejus fungatur officio.</ab>
+        <ab xml:id="d1e1842" n="7"> Quis est homo, qui despondit uxorem, et non accepit eam ? vadat,
+          et revertatur in domum suam, ne forte moriatur in bello, et alius homo accipiat eam.</ab>
+        <ab xml:id="d1e1845" n="8"> His dictis addent reliqua, et loquentur ad populum : Quis est
+          homo formidolosus, et corde pavido ? vadat, et revertatur in domum suam, ne pavere faciat
+          corda fratrum suorum, sicut ipse timore perterritus est.</ab>
+        <ab xml:id="d1e1848" n="9"> Cumque siluerint duces exercitus, et finem loquendi fecerint,
+          unusquisque suos ad bellandum cuneos praeparabit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1852" n="10"> Siquando accesseris ad expugnandam civitatem, offeres ei primum
+          pacem.</ab>
+        <ab xml:id="d1e1855" n="11"> Si receperit, et aperuerit tibi portas, cunctus populus, qui in
+          ea est, salvabitur, et serviet tibi sub tributo.</ab>
+        <ab xml:id="d1e1859" n="12"> Sin autem foedus inire noluerit, et coeperit contra te bellum,
+          oppugnabis eam.</ab>
+        <ab xml:id="d1e1862" n="13"> Cumque tradiderit Dominus Deus tuus illam in manu tua,
+          percuties omne quod in ea generis masculini est, in ore gladii,</ab>
+        <ab xml:id="d1e1865" n="14"> absque mulieribus et infantibus, jumentis et ceteris quae in
+          civitate sunt. Omnem praedam exercitui divides, et comedes de spoliis hostium tuorum, quae
+          Dominus Deus tuus dederit tibi.</ab>
+        <ab xml:id="d1e1868" n="15"> Sic facies cunctis civitatibus, quae a te procul valde sunt, et
+          non sunt de his urbibus, quas in possessionem accepturus es.</ab>
+        <ab xml:id="d1e1871" n="16"> De his autem civitatibus, quae dabuntur tibi, nullum omnino
+          permittes vivere :</ab>
+        <ab xml:id="d1e1874" n="17"> sed interficies in ore gladii, Hethaeum videlicet, et
+          Amorrhaeum, et Chananaeum, Pherezaeum, et Hevaeum, et Jebusaeum, sicut praecepit tibi
+          Dominus Deus tuus :</ab>
+        <ab xml:id="d1e1878" n="18"> ne forte doceant vos facere cunctas abominationes, quas ipsi
+          operati sunt diis suis, et peccetis in Dominum Deum vestrum.</ab>
+        <ab xml:id="d1e1881" n="19"> Quando obsederis civitatem multo tempore, et munitionibus
+          circumdederis ut expugnes eam, non succides arbores, de quibus vesci potest, nec securibus
+          per circuitum debes vastare regionem : quoniam lignum est, et non homo, nec potest
+          bellantium contra te augere numerum.</ab>
+        <ab xml:id="d1e1884" n="20"> Si qua autem ligna non sunt pomifera, sed agrestia, et in
+          ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quae contra te
+          dimicat.</ab>
+      </div>
+      <div xml:id="d1e1888" type="chap" n="21">
+        <ab xml:id="d1e1890" n="1"> Quando inventum fuerit in terra, quam Dominus Deus tuus daturus
+          est tibi, hominis cadaver occisi, et ignorabitur caedis reus,</ab>
+        <ab xml:id="d1e1893" n="2"> egredientur majores natu, et judices tui, et metientur a loco
+          cadaveris singularum per circuitum spatia civitatum :</ab>
+        <ab xml:id="d1e1896" n="3"> et quam viciniorem ceteris esse perspexerint, seniores civitatis
+          illius tollent vitulam de armento, quae non traxit jugum, nec terram scidit vomere,</ab>
+        <ab xml:id="d1e1899" n="4"> et ducent eam ad vallem asperam atque saxosam, quae numquam
+          arata est, nec sementem recepit : et caedent in ea cervices vitulae :</ab>
+        <ab xml:id="d1e1902" n="5"> accedentque sacerdotes filii Levi, quos elegerit Dominus Deus
+          tuus ut ministrent ei, et benedicant in nomine ejus, et ad verbum eorum omne negotium, et
+          quidquid mundum, vel immundum est, judicetur.</ab>
+        <ab xml:id="d1e1906" n="6"> Et venient majores natu civitatis illius ad interfectum,
+          lavabuntque manus suas super vitulam, quae in valle percussa est,</ab>
+        <ab xml:id="d1e1909" n="7"> et dicent : Manus nostrae non effuderunt sanguinem hunc, nec
+          oculi viderunt :</ab>
+        <ab xml:id="d1e1912" n="8"> propitius esto populo tuo Israël, quem redemisti, Domine, et ne
+          reputes sanguinem innocentem in medio populi tui Israël. Et auferetur ab eis reatus
+          sanguinis :</ab>
+        <ab xml:id="d1e1915" n="9"> tu autem alienus eris ab innocentis cruore, qui fusus est, cum
+          feceris quod praecepit Dominus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1919" n="10"> Si egressus fueris ad pugnam contra inimicos tuos, et
+          tradiderit eos Dominus Deus tuus in manu tua, captivosque duxeris,</ab>
+        <ab xml:id="d1e1922" n="11"> et videris in numero captivorum mulierem pulchram, et
+          adamaveris eam, voluerisque habere uxorem,</ab>
+        <ab xml:id="d1e1926" n="12"> introduces eam in domum tuam : quae radet caesariem, et
+          circumcidet ungues,</ab>
+        <ab xml:id="d1e1929" n="13"> et deponet vestem, in qua capta est : sedensque in domo tua,
+          flebit patrem et matrem suam uno mense : et postea intrabis ad eam, dormiesque cum illa,
+          et erit uxor tua.</ab>
+        <ab xml:id="d1e1932" n="14"> Si autem postea non sederit animo tuo, dimittes eam liberam,
+          nec vendere poteris pecunia, nec opprimere per potentiam : quia humiliasti eam.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1936" n="15"> Si habuerit homo uxores duas, unam dilectam, et alteram
+          odiosam, genuerintque ex eo liberos, et fuerit filius odiosae primogenitus,</ab>
+        <ab xml:id="d1e1939" n="16"> volueritque substantiam inter filios suos dividere, non poterit
+          filium dilectae facere primogenitum, et praeferre filio odiosae :</ab>
+        <ab xml:id="d1e1942" n="17"> sed filium odiosae agnoscet primogenitum, dabitque ei de his
+          quae habuerit cuncta duplicia : iste est enim principium liberorum ejus, et huic debentur
+            primogenita.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1947" n="18"> Si genuerit homo filium contumacem et protervum, qui non audiat
+          patris aut matris imperium, et coërcitus obedire contempserit :</ab>
+        <ab xml:id="d1e1950" n="19"> apprehendent eum, et ducent ad seniores civitatis illius, et ad
+          portam judicii,</ab>
+        <ab xml:id="d1e1953" n="20"> dicentque ad eos : Filius noster iste protervus et contumax est
+          : monita nostra audire contemnit, comessationibus vacat, et luxuriae atque conviviis
+          :</ab>
+        <ab xml:id="d1e1956" n="21"> lapidibus eum obruet populus civitatis, et morietur, ut
+          auferatis malum de medio vestri, et universus Israël audiens pertimescat.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1960" n="22"> Quando peccaverit homo quod morte plectendum est, et
+          adjudicatus morti appensus fuerit in patibulo :</ab>
+        <ab xml:id="d1e1963" n="23"> non permanebit cadaver ejus in ligno, sed in eadem die
+          sepelietur : quia maledictus a Deo est qui pendet in ligno : et nequaquam contaminabis
+          terram tuam, quam Dominus Deus tuus dederit tibi in possessionem.</ab>
+      </div>
+      <div xml:id="d1e1967" type="chap" n="22">
+        <ab xml:id="d1e1969" n="1"> Non videbis bovem fratris tui, aut ovem errantem, et praeteribis
+          : sed reduces fratri tuo,</ab>
+        <ab xml:id="d1e1972" n="2"> etiamsi non est propinquus frater tuus, nec nosti eum : duces in
+          domum tuam, et erunt apud te quamdiu quaerat ea frater tuus, et recipiat.</ab>
+        <ab xml:id="d1e1975" n="3"> Similiter facies de asino, et de vestimento, et de omni re
+          fratris tui, quae perierit : si inveneris eam, ne negligas quasi alienam.</ab>
+        <ab xml:id="d1e1978" n="4"> Si videris asinum fratris tui aut bovem cecidisse in via, non
+          despicies, sed sublevabis cum eo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1982" n="5"> Non induetur mulier veste virili, nec vir utetur veste feminea :
+          abominabilis enim apud Deum est qui facit haec.</ab>
+        <ab xml:id="d1e1986" n="6"> Si ambulans per viam, in arbore vel in terra nidum avis
+          inveneris, et matrem pullis vel ovis desuper incubantem : non tenebis eam cum filiis,</ab>
+        <ab xml:id="d1e1989" n="7"> sed abire patieris, captos tenens filios : ut bene sit tibi, et
+          longo vivas tempore.</ab>
+        <ab xml:id="d1e1992" n="8"> Cum aedificaveris domum novam, facies murum tecti per circuitum
+          : ne effundatur sanguis in domo tua, et sis reus labente alio, et in praeceps ruente.</ab>
+        <ab xml:id="d1e1995" n="9"> Non seres vineam tuam altero semine : ne et sementis quam
+          sevisti, et quae nascuntur ex vinea, pariter sanctificentur.</ab>
+        <ab xml:id="d1e1998" n="10"> Non arabis in bove simul et asino.</ab>
+        <ab xml:id="d1e2001" n="11"> Non indueris vestimento, quod ex lana linoque contextum
+          est.</ab>
+        <ab xml:id="d1e2005" n="12"> Funiculos in fimbriis facies per quatuor angulos pallii tui,
+          quo operieris.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2009" n="13"> Si duxerit vir uxorem, et postea odio habuerit eam,</ab>
+        <ab xml:id="d1e2012" n="14"> quaesieritque occasiones quibus dimittat eam, objiciens ei
+          nomen pessimum, et dixerit : Uxorem hanc accepi, et ingressus ad eam non inveni virginem
+          :</ab>
+        <ab xml:id="d1e2015" n="15"> tollent eam pater et mater ejus, et ferent secum signa
+          virginitatis ejus ad seniores urbis qui in porta sunt :</ab>
+        <ab xml:id="d1e2018" n="16"> et dicet pater : Filiam meam dedi huic uxorem : quam quia
+          odit,</ab>
+        <ab xml:id="d1e2021" n="17"> imponit ei nomen pessimum, ut dicat : Non inveni filiam tuam
+          virginem : et ecce haec sunt signa virginitatis filiae meae. Expandent vestimentum coram
+          senioribus civitatis :</ab>
+        <ab xml:id="d1e2025" n="18"> apprehendentque senes urbis illius virum, et verberabunt
+          illum,</ab>
+        <ab xml:id="d1e2028" n="19"> condemnantes insuper centum siclis argenti, quos dabit patri
+          puellae, quoniam diffamavit nomen pessimum super virginem Israël : habebitque eam uxorem,
+          et non poterit dimittere eam omnibus diebus vitae suae.</ab>
+        <ab xml:id="d1e2031" n="20"> Quod si verum est quod objicit, et non est in puella inventa
+          virginitas,</ab>
+        <ab xml:id="d1e2034" n="21"> ejicient eam extra fores domus patris sui, et lapidibus obruent
+          viri civitatis illius, et morietur : quoniam fecit nefas in Israël, ut fornicaretur in
+          domo patris sui : et auferes malum de medio tui.</ab>
+        <ab xml:id="d1e2037" n="22"> Si dormierit vir cum uxore alterius, uterque morietur, id est,
+          adulter et adultera : et auferes malum de Israël.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2041" n="23"> Si puellam virginem desponderit vir, et invenerit eam aliquis
+          in civitate, et concubuerit cum ea,</ab>
+        <ab xml:id="d1e2045" n="24"> educes utrumque ad portam civitatis illius, et lapidibus
+          obruentur : puella, quia non clamavit, cum esset in civitate : vir, quia humiliavit uxorem
+          proximi sui : et auferes malum de medio tui.</ab>
+        <ab xml:id="d1e2048" n="25"> Sin autem in agro repererit vir puellam, quae desponsata est,
+          et apprehendens concubuerit cum ea, ipse morietur solus :</ab>
+        <ab xml:id="d1e2051" n="26"> puella nihil patietur, nec est rea mortis : quoniam sicut latro
+          consurgit contra fratrem suum, et occidit animam ejus, ita et puella perpessa est.</ab>
+        <ab xml:id="d1e2054" n="27"> Sola erat in agro : clamavit, et nullus affuit qui liberaret
+          eam.</ab>
+        <ab xml:id="d1e2057" n="28"> Si invenerit vir puellam virginem, quae non habet sponsum, et
+          apprehendens concubuerit cum illa, et res ad judicium venerit :</ab>
+        <ab xml:id="d1e2060" n="29"> dabit qui dormivit cum ea, patri puellae quinquaginta siclos
+          argenti, et habebit eam uxorem, quia humiliavit illam : non poterit dimittere eam cunctis
+          diebus vitae suae.</ab>
+        <ab xml:id="d1e2064" n="30"> Non accipiet homo uxorem patris sui, nec revelabit operimentum
+          ejus.</ab>
+      </div>
+      <div xml:id="d1e2068" type="chap" n="23">
+        <ab xml:id="d1e2070" n="1"> Non intravit eunuchus, attritis vel amputatis testiculis et
+          abscisso veretro, ecclesiam Domini.</ab>
+        <ab xml:id="d1e2073" n="2"> Non ingredietur mamzer, hoc est, de scorto natus, in ecclesiam
+          Domini, usque ad decimam generationem.</ab>
+        <ab xml:id="d1e2076" n="3"> Ammonites et Moabites etiam post decimam generationem non
+          intrabunt ecclesiam Domini in aeternum :</ab>
+        <ab xml:id="d1e2079" n="4"> quia noluerunt vobis occurrere cum pane et aqua in via quando
+          egressi estis de Aegypto : et quia conduxerunt contra te Balaam filium Beor de Mesopotamia
+          Syriae, ut malediceret tibi :</ab>
+        <ab xml:id="d1e2082" n="5"> et noluit Dominus Deus tuus audire Balaam, vertitque
+          maledictionem ejus in benedictionem tuam, eo quod diligeret te.</ab>
+        <ab xml:id="d1e2086" n="6"> Non facies cum eis pacem, nec quaeras eis bona cunctis diebus
+          vitae tuae in sempiternum.</ab>
+        <ab xml:id="d1e2089" n="7"> Non abominaberis Idumaeum, quia frater tuus est : nec Aegyptium,
+          quia advena fuisti in terra ejus.</ab>
+        <ab xml:id="d1e2092" n="8"> Qui nati fuerint ex eis, tertia generatione intrabunt in
+          ecclesiam Domini.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2096" n="9"> Quando egressus fueris adversus hostes tuos in pugnam, custodies
+          te ab omni re mala.</ab>
+        <ab xml:id="d1e2099" n="10"> Si fuerit inter vos homo, qui nocturno pollutus sit somnio,
+          egredietur extra castra,</ab>
+        <ab xml:id="d1e2102" n="11"> et non revertetur, priusquam ad vesperam lavetur aqua : et post
+          solis occasum regredietur in castra.</ab>
+        <ab xml:id="d1e2106" n="12"> Habebis locum extra castra, ad quem egrediaris ad requisita
+          naturae,</ab>
+        <ab xml:id="d1e2109" n="13"> gerens paxillum in balteo : cumque sederis, fodies per
+          circuitum, et egesta humo operies</ab>
+        <ab xml:id="d1e2112" n="14"> quo revelatus es : Dominus enim Deus tuus ambulat in medio
+          castrorum, ut eruat te, et tradat tibi inimicos tuos : et sint castra tua sancta, et nihil
+          in eis appareat foeditatis, ne derelinquat te.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2116" n="15"> Non trades servum domino suo, qui ad te confugerit.</ab>
+        <ab xml:id="d1e2119" n="16"> Habitabit tecum in loco, qui ei placuerit, et in una urbium
+          tuarum requiescet : ne contristes eum.</ab>
+        <ab xml:id="d1e2122" n="17"> Non erit meretrix de filiabus Israël, nec scortator de filiis
+          Israël.</ab>
+        <ab xml:id="d1e2126" n="18"> Non offeres mercedem prostibuli, nec pretium canis in domo
+          Domini Dei tui, quidquid illud est quod voveris : quia abominatio est utrumque apud
+          Dominum Deum tuum.</ab>
+        <ab xml:id="d1e2129" n="19"> Non foenerabis fratri tuo ad usuram pecuniam, nec fruges, nec
+          quamlibet aliam rem :</ab>
+        <ab xml:id="d1e2132" n="20"> sed alieno. Fratri autem tuo absque usura id quo indiget,
+          commodabis : ut benedicat tibi Dominus Deus tuus in omni opere tuo in terra, ad quam
+          ingredieris possidendam.</ab>
+        <ab xml:id="d1e2135" n="21"> Cum votum voveris Domino Deo tuo, non tardabis reddere : quia
+          requiret illud Dominus Deus tuus, et si moratus fueris, reputabitur tibi in peccatum.</ab>
+        <ab xml:id="d1e2138" n="22"> Si nolueris polliceri, absque peccato eris.</ab>
+        <ab xml:id="d1e2141" n="23"> Quod autem semel egressum est de labiis tuis, observabis, et
+          facies sicut promisisti Domino Deo tuo, et propria voluntate et ore tuo locutus es.</ab>
+        <ab xml:id="d1e2145" n="24"> Ingressus vineam proximi tui, comede uvas, quantum tibi
+          placuerit : foras autem ne efferas tecum.</ab>
+        <ab xml:id="d1e2148" n="25"> Si intraveris in segetem amici tui, franges spicas, et manu
+          conteres : falce autem non metes.</ab>
+      </div>
+      <div xml:id="d1e2153" type="chap" n="24">
+        <ab xml:id="d1e2155" n="1"> Si acceperit homo uxorem, et habuerit eam, et non invenerit
+          gratiam ante oculos ejus propter aliquam foeditatem : scribet libellum repudii, et dabit
+          in manu illius, et dimittet eam de domo sua.</ab>
+        <ab xml:id="d1e2158" n="2"> Cumque egressa alterum maritum duxerit,</ab>
+        <ab xml:id="d1e2161" n="3"> et ille quoque oderit eam, dederitque ei libellum repudii, et
+          dimiserit de domo sua, vel certe mortuus fuerit :</ab>
+        <ab xml:id="d1e2164" n="4"> non poterit prior maritus recipere eam in uxorem : quia polluta
+          est, et abominabilis facta est coram Domino : ne peccare facias terram tuam, quam Dominus
+          Deus tuus tradiderit tibi possidendam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2168" n="5"> Cum acceperit homo nuper uxorem, non procedet ad bellum, nec ei
+          quippiam necessitatis injungetur publicae, sed vacabit absque culpa domi suae, ut uno anno
+          laetetur cum uxore sua.</ab>
+        <ab xml:id="d1e2172" n="6"> Non accipies loco pignoris inferiorem, et superiorem molam :
+          quia animam suam opposuit tibi.</ab>
+        <ab xml:id="d1e2175" n="7"> Si deprehensus fuerit homo sollicitans fratrem suum de filiis
+          Israël, et vendito eo acceperit pretium, interficietur, et auferes malum de medio
+          tui.</ab>
+        <ab xml:id="d1e2178" n="8"> Observa diligenter ne incurras plagam leprae, sed facies
+          quaecumque docuerint te sacerdotes Levitici generis, juxta id quod praecepi eis, et imple
+          sollicite.</ab>
+        <ab xml:id="d1e2181" n="9"> Mementote quae fecerit Dominus Deus vester Mariae in via cum
+          egrederemini de Aegypto.</ab>
+        <ab xml:id="d1e2184" n="10"> Cum repetes a proximo tuo rem aliquam, quam debet tibi, non
+          ingredieris domum ejus ut pignus auferas :</ab>
+        <ab xml:id="d1e2187" n="11"> sed stabis foris, et ille tibi proferet quod habuerit.</ab>
+        <ab xml:id="d1e2191" n="12"> Sin autem pauper est, non pernoctabit apud te pignus,</ab>
+        <ab xml:id="d1e2194" n="13"> sed statim reddes ei ante solis occasum : ut dormiens in
+          vestimento suo, benedicat tibi, et habeas justitiam coram Domino Deo tuo.</ab>
+        <ab xml:id="d1e2197" n="14"> Non negabis mercedem indigentis, et pauperis fratris tui, sive
+          advenae, qui tecum moratur in terra, et intra portas tuas est :</ab>
+        <ab xml:id="d1e2200" n="15"> sed eadem die reddes ei pretium laboris sui ante solis occasum,
+          quia pauper est, et ex eo sustentat animam suam : ne clamet contra te ad Dominum, et
+          reputetur tibi in peccatum.</ab>
+        <ab xml:id="d1e2203" n="16"> Non occidentur patres pro filiis, nec filii pro patribus, sed
+          unusquisque pro peccato suo morietur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2207" n="17"> Non pervertes judicium advenae et pupilli, nec auferes pignoris
+          loco viduae vestimentum.</ab>
+        <ab xml:id="d1e2211" n="18"> Memento quod servieris in Aegypto, et eruerit te Dominus Deus
+          tuus inde. Idcirco praecipio tibi ut facias hanc rem.</ab>
+        <ab xml:id="d1e2214" n="19"> Quando messueris segetem in agro tuo, et oblitus manipulum
+          reliqueris, non reverteris, ut tollas illum : sed advenam, et pupillum, et viduam auferre
+          patieris, ut benedicat tibi Dominus Deus tuus in omni opere manuum tuarum.</ab>
+        <ab xml:id="d1e2217" n="20"> Si fruges collegeris olivarum, quidquid remanserit in
+          arboribus, non reverteris ut colligas : sed relinques advenae, pupillo, ac viduae.</ab>
+        <ab xml:id="d1e2220" n="21"> Si vindemiaveris vineam tuam, non colliges remanentes racemos :
+          sed cedent in usus advenae, pupilli, ac viduae.</ab>
+        <ab xml:id="d1e2223" n="22"> Memento quod et tu servieris in Aegypto, et idcirco praecipio
+          tibi ut facias hanc rem.</ab>
+      </div>
+      <div xml:id="d1e2227" type="chap" n="25">
+        <ab xml:id="d1e2229" n="1"> Si fuerit causa inter aliquos, et interpellaverint judices :
+          quem justum esse perspexerint, illi justitiae palmam dabunt : quem impium, condemnabunt
+          impietatis.</ab>
+        <ab xml:id="d1e2232" n="2"> Sin autem eum, qui peccavit, dignum viderint plagis :
+          prosternent, et coram se facient verberari. Pro mensura peccati erit et plagarum modus
+          :</ab>
+        <ab xml:id="d1e2235" n="3"> ita dumtaxat, ut quadragenarium numerum non excedant : ne foede
+          laceratus ante oculos tuos abeat frater tuus.</ab>
+        <ab xml:id="d1e2238" n="4"> Non ligabis os bovis terentis in area fruges tuas.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2242" n="5"> Quando habitaverint fratres simul, et unus ex eis absque liberis
+          mortuus fuerit, uxor defuncti non nubet alteri : sed accipiet eam frater ejus, et
+          suscitabit semen fratris sui :</ab>
+        <ab xml:id="d1e2246" n="6"> et primogenitum ex ea filium nomine illius appellabit, ut non
+          deleatur nomen ejus ex Israël.</ab>
+        <ab xml:id="d1e2249" n="7"> Sin autem noluerit accipere uxorem fratris sui, quae ei lege
+          debetur, perget mulier ad portam civitatis, et interpellabit majores natu, dicetque : Non
+          vult frater viri mei suscitare nomen fratris sui in Israël, nec me in conjugem
+          sumere.</ab>
+        <ab xml:id="d1e2252" n="8"> Statimque accersiri eum facient, et interrogabunt. Si
+          responderit : Nolo eam uxorem accipere :</ab>
+        <ab xml:id="d1e2255" n="9"> accedet mulier ad eum coram senioribus, et tollet calceamentum
+          de pede ejus, spuetque in faciem illius, et dicet : Sic fiet homini, qui non aedificat
+          domum fratris sui.</ab>
+        <ab xml:id="d1e2258" n="10"> Et vocabitur nomen illius in Israël, Domus discalceati.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2262" n="11"> Si habuerint inter se jurgium viri duo, et unus contra alterum
+          rixari coeperit, volensque uxor alterius eruere virum suum de manu fortioris, miseritque
+          manum, et apprehenderit verenda ejus :</ab>
+        <ab xml:id="d1e2266" n="12"> abscides manum illius, nec flecteris super eam ulla
+            misericordia.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2270" n="13"> Non habebis in sacculo diversa pondera, majus et minus :</ab>
+        <ab xml:id="d1e2273" n="14"> nec erit in domo tua modius major, et minor.</ab>
+        <ab xml:id="d1e2276" n="15"> Pondus habebis justum et verum, et modius aequalis et verus
+          erit tibi : ut multo vivas tempore super terram, quam Dominus Deus tuus dederit tibi.</ab>
+        <ab xml:id="d1e2279" n="16"> Abominatur enim Dominus tuus eum qui facit haec, et aversatur
+          omnem injustitiam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2283" n="17"> Memento quae fecerit tibi Amalec in via quando egrediebaris ex
+          Aegypto :</ab>
+        <ab xml:id="d1e2287" n="18"> quomodo occurrerit tibi, et extremos agminis tui, qui lassi
+          residebant, ceciderit, quando tu eras fame et labore confectus : et non timuerit
+          Deum.</ab>
+        <ab xml:id="d1e2290" n="19"> Cum ergo Dominus Deus tuus dederit tibi requiem, et subjecerit
+          cunctas per circuitum nationes in terra, quam tibi pollicitus est : delebis nomen ejus sub
+          caelo. Cave ne obliviscaris.</ab>
+      </div>
+      <div xml:id="d1e2294" type="chap" n="26">
+        <ab xml:id="d1e2296" n="1"> Cumque intraveris terram, quam Dominus Deus tuus tibi daturus
+          est possidendam, et obtinueris eam, atque habitaveris in ea :</ab>
+        <ab xml:id="d1e2299" n="2"> tolles de cunctis frugibus tuis primitias, et pones in cartallo,
+          pergesque ad locum quem Dominus Deus tuus elegerit, ut ibi invocetur nomen ejus :</ab>
+        <ab xml:id="d1e2302" n="3"> accedesque ad sacerdotem, qui fuerit in diebus illis, et dices
+          ad eum : Profiteor hodie coram Domino Deo tuo, quod ingressus sum in terram, pro qua
+          juravit patribus nostris, ut daret eam nobis.</ab>
+        <ab xml:id="d1e2305" n="4"> Suscipiensque sacerdos cartallum de manu tua, ponet ante altare
+          Domini Dei tui :</ab>
+        <ab xml:id="d1e2308" n="5"> et loqueris in conspectu Domini Dei tui : Syrus persequebatur
+          patrem meum, qui descendit in Aegyptum, et ibi peregrinatus est in paucissimo numero :
+          crevitque in gentem magnam ac robustam et infinitae multitudinis.</ab>
+        <ab xml:id="d1e2312" n="6"> Afflixeruntque nos Aegyptii, et persecuti sunt, imponentes onera
+          gravissima :</ab>
+        <ab xml:id="d1e2315" n="7"> et clamavimus ad Dominum Deum patrum nostrorum : qui exaudivit
+          nos, et respexit humilitatem nostram, et laborem, atque angustiam :</ab>
+        <ab xml:id="d1e2318" n="8"> et eduxit nos de Aegypto in manu forti, et brachio extento, in
+          ingenti pavore, in signis atque portentis :</ab>
+        <ab xml:id="d1e2321" n="9"> et introduxit ad locum istum, et tradidit nobis terram lacte et
+          melle manantem.</ab>
+        <ab xml:id="d1e2324" n="10"> Et idcirco nunc offero primitias frugum terrae, quam Dominus
+          dedit mihi. Et dimittes eas in conspectu Domini Dei tui, et adorato Domino Deo tuo.</ab>
+        <ab xml:id="d1e2327" n="11"> Et epulaberis in omnibus bonis, quae Dominus Deus tuus dederit
+          tibi et domui tuae, tu et Levites, et advena qui tecum est.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2332" n="12"> Quando compleveris decimam cunctarum frugum tuarum, anno
+          decimarum tertio, dabis Levitae, et advenae, et pupillo et viduae, ut comedant intra
+          portas tuas, et saturentur :</ab>
+        <ab xml:id="d1e2335" n="13"> loquerisque in conspectu Domini Deo tui : Abstuli quod
+          sanctificatum est de domo mea, et dedi illud Levitae et advenae, et pupillo ac viduae,
+          sicut jussisti mihi : non praeterivi mandata tua, nec sum oblitus imperii tui.</ab>
+        <ab xml:id="d1e2338" n="14"> Non comedi ex eis in luctu meo, nec separavi ea in qualibet
+          immunditia, nec expendi ex his quidquam in re funebri. Obedivi voci Domini Dei mei, et
+          feci omnia sicut praecepisti mihi.</ab>
+        <ab xml:id="d1e2341" n="15"> Respice de sanctuario tuo, et de excelso caelorum habitaculo,
+          et benedic populo tuo Israël, et terrae, quam dedisti nobis, sicut jurasti patribus
+          nostris, terrae lacte et melle mananti.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2345" n="16"> Hodie Dominus Deus tuus praecepit tibi ut facias mandata haec
+          atque judicia : et custodias et impleas ex toto corde tuo, et ex tota anima tua.</ab>
+        <ab xml:id="d1e2348" n="17"> Dominum elegisti hodie, ut sit tibi Deus, et ambules in viis
+          ejus, et custodias caeremonias illius, et mandata atque judicia, et obedias ejus
+          imperio.</ab>
+        <ab xml:id="d1e2352" n="18"> Et Dominus elegit te hodie ut sis ei populus peculiaris, sicut
+          locutus est tibi, et custodias omnia praecepta illius :</ab>
+        <ab xml:id="d1e2355" n="19"> et faciat te excelsiorem cunctis gentibus quas creavit, in
+          laudem, et nomen, et gloriam suam : ut sis populus sanctus Domini Dei tui, sicut locutus
+          est.</ab>
+      </div>
+      <div xml:id="d1e2359" type="chap" n="27">
+        <ab xml:id="d1e2361" n="1"> Praecepit autem Moyses et seniores Israël populo, dicentes :
+          Custodite omne mandatum quod praecipio vobis hodie.</ab>
+        <ab xml:id="d1e2364" n="2"> Cumque transieritis Jordanem in terram, quam Dominus Deus tuus
+          dabit tibi, eriges ingentes lapides, et calce laevigabis eos,</ab>
+        <ab xml:id="d1e2367" n="3"> ut possis in eis scribere omnia verba legis hujus, Jordane
+          transmisso : ut introëas terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle
+          manantem, sicut juravit patribus tuis.</ab>
+        <ab xml:id="d1e2370" n="4"> Quando ergo transieritis Jordanem, erigite lapides, quos ego
+          hodie praecipio vobis in monte Hebal, et laevigabis eos calce :</ab>
+        <ab xml:id="d1e2373" n="5"> et aedificabis ibi altare Domino Deo tuo de lapidibus, quos
+          ferrum non tetigit,</ab>
+        <ab xml:id="d1e2377" n="6"> et de saxis informibus et impolitis : et offeres super eo
+          holocausta Domino Deo tuo,</ab>
+        <ab xml:id="d1e2380" n="7"> et immolabis hostias pacificas, comedesque ibi, et epulaberis
+          coram Domino Deo tuo.</ab>
+        <ab xml:id="d1e2383" n="8"> Et scribes super lapides omnia verba legis hujus plane et
+          lucide.</ab>
+        <ab xml:id="d1e2386" n="9"> Dixeruntque Moyses et sacerdotes Levitici generis ad omnem
+          Israëlem : Attende, et audi, Israël : hodie factus es populus Domini Dei tui :</ab>
+        <ab xml:id="d1e2389" n="10"> audies vocem ejus, et facies mandata atque justitias, quas ego
+          praecipio tibi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2393" n="11"> Praecepitque Moyses populo in die illo, dicens :</ab>
+        <ab xml:id="d1e2397" n="12"> Hi stabunt ad benedicendum populo super montem Garizim, Jordane
+          transmisso : Simeon, Levi, Judas, Issachar, Joseph, et Benjamin.</ab>
+        <ab xml:id="d1e2400" n="13"> Et e regione isti stabunt ad maledicendum in monte Hebal :
+          Ruben, Gad, et Aser, et Zabulon, Dan, et Nephthali.</ab>
+        <ab xml:id="d1e2403" n="14"> Et pronuntiabunt Levitae, dicentque ad omnes viros Israël
+          excelsa voce :</ab>
+        <ab xml:id="d1e2406" n="15"> Maledictus homo qui facit sculptile et conflatile,
+          abominationem Domini, opus manuum artificum, ponetque illud in abscondito : et respondebit
+          omnis populus, et dicet : Amen.</ab>
+        <ab xml:id="d1e2409" n="16"> Maledictus qui non honorat patrem suum, et matrem : et dicet
+          omnis populus : Amen.</ab>
+        <ab xml:id="d1e2412" n="17"> Maledictus qui transfert terminos proximi sui : et dicet omnis
+          populus : Amen.</ab>
+        <ab xml:id="d1e2416" n="18"> Maledictus qui errare facit caecum in itinere : et dicet omnis
+          populus : Amen.</ab>
+        <ab xml:id="d1e2419" n="19"> Maledictus qui pervertit judicium advenae, pupilli et viduae :
+          et dicet omnis populus : Amen.</ab>
+        <ab xml:id="d1e2422" n="20"> Maledictus qui dormit cum uxore patris sui, et revelat
+          operimentum lectuli ejus : et dicet omnis populus : Amen.</ab>
+        <ab xml:id="d1e2425" n="21"> Maledictus qui dormit cum omni jumento : et dicet omnis populus
+          : Amen.</ab>
+        <ab xml:id="d1e2428" n="22"> Maledictus qui dormit cum sorore sua, filia patris sui, vel
+          matris suae : et dicet omnis populus : Amen.</ab>
+        <ab xml:id="d1e2431" n="23"> Maledictus qui dormit cum socru sua : et dicet omnis populus :
+          Amen.</ab>
+        <ab xml:id="d1e2435" n="24"> Maledictus qui clam percusserit proximum suum : et dicet omnis
+          populus : Amen.</ab>
+        <ab xml:id="d1e2438" n="25"> Maledictus qui accipit munera, ut percutiat animam sanguinis
+          innocentis : et dicet omnis populus : Amen.</ab>
+        <ab xml:id="d1e2441" n="26"> Maledictus qui non permanet in sermonibus legis hujus, nec eos
+          opere perficit : et dicet omnis populus : Amen.</ab>
+      </div>
+      <div xml:id="d1e2445" type="chap" n="28">
+        <ab xml:id="d1e2447" n="1"> Si autem audieris vocem Domini Dei tui, ut facias atque
+          custodias omnia mandata ejus, quae ego praecipio tibi hodie, faciet te Dominus Deus tuus
+          excelsiorem cunctis gentibus, quae versantur in terra.</ab>
+        <ab xml:id="d1e2450" n="2"> Venientque super te universae benedictiones istae, et
+          apprehendent te : si tamen praecepta ejus audieris.</ab>
+        <ab xml:id="d1e2453" n="3"> Benedictus tu in civitate, et benedictus in agro.</ab>
+        <ab xml:id="d1e2456" n="4"> Benedictus fructus ventris tui, et fructus terrae tuae,
+          fructusque jumentorum tuorum, greges armentorum tuorum, et caulae ovium tuarum.</ab>
+        <ab xml:id="d1e2459" n="5"> Benedicta horrea tua, et benedictae reliquiae tuae.</ab>
+        <ab xml:id="d1e2463" n="6"> Benedictus eris tu ingrediens et egrediens.</ab>
+        <ab xml:id="d1e2466" n="7"> Dabit Dominus inimicos tuos, qui consurgunt adversum te,
+          corruentes in conspectu tuo : per unam viam venient contra te, et per septem fugient a
+          facie tua.</ab>
+        <ab xml:id="d1e2469" n="8"> Emittet Dominus benedictionem super cellaria tua, et super omnia
+          opera manuum tuarum : benedicetque tibi in terra, quam acceperis.</ab>
+        <ab xml:id="d1e2472" n="9"> Suscitabit te Dominus sibi in populum sanctum, sicut juravit
+          tibi : si custodieris mandata Domini Dei tui, et ambulaveris in viis ejus.</ab>
+        <ab xml:id="d1e2475" n="10"> Videbuntque omnes terrarum populi quod nomen Domini invocatum
+          sit super te, et timebunt te.</ab>
+        <ab xml:id="d1e2478" n="11"> Abundare te faciet Dominus omnibus bonis, fructu uteri tui, et
+          fructu jumentorum tuorum, fructu terrae tuae, quam juravit Dominus patribus tuis ut daret
+          tibi.</ab>
+        <ab xml:id="d1e2482" n="12"> Aperiet Dominus thesaurum suum optimum, caelum, ut tribuat
+          pluviam terrae tuae in tempore suo : benedicetque cunctis operibus manuum tuarum. Et
+          foenerabis gentibus multis, et ipse a nullo foenus accipies.</ab>
+        <ab xml:id="d1e2485" n="13"> Constituet te Dominus in caput, et non in caudam : et eris
+          semper supra, et non subter : si tamen audieris mandata Domini Dei tui quae ego praecipio
+          tibi hodie, et custodieris et feceris,</ab>
+        <ab xml:id="d1e2488" n="14"> ac non declinaveris ab eis nec ad dexteram, nec ad sinistram,
+          nec secutus fueris deos alienos, neque colueris eos.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2492" n="15"> Quod si audire nolueris vocem Domini Dei tui, ut custodias, et
+          facias omnia mandata ejus et caeremonias, quas ego praecipio tibi hodie, venient super te
+          omnes maledictiones istae, et apprehendent te.</ab>
+        <ab xml:id="d1e2495" n="16"> Maledictus eris in civitate, maledictus in agro.</ab>
+        <ab xml:id="d1e2498" n="17"> Maledictum horreum tuum, et maledictae reliquiae tuae.</ab>
+        <ab xml:id="d1e2502" n="18"> Maledictus fructus ventris tui, et fructus terrae tuae, armenta
+          boum tuorum, et greges ovium tuarum.</ab>
+        <ab xml:id="d1e2505" n="19"> Maledictus eris ingrediens, et maledictus egrediens.</ab>
+        <ab xml:id="d1e2508" n="20"> Mittet Dominus super te famem et esuriem, et increpationem in
+          omnia opera tua, quae tu facies : donec conterat te, et perdat velociter, propter
+          adinventiones tuas pessimas in quibus reliquisti me.</ab>
+        <ab xml:id="d1e2511" n="21"> Adjungat tibi Dominus pestilentiam, donec consumat te de terra
+          ad quam ingredieris possidendam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2515" n="22"> Percutiat te Dominus egestate, febri et frigore, ardore et
+          aestu, et aëre corrupto ac rubigine, et persequatur donec pereas.</ab>
+        <ab xml:id="d1e2518" n="23"> Sit caelum, quod supra te est, aeneum : et terra, quam calcas,
+          ferrea.</ab>
+        <ab xml:id="d1e2522" n="24"> Det Dominus imbrem terrae tuae pulverem, et de caelo descendat
+          super te cinis, donec conteraris.</ab>
+        <ab xml:id="d1e2525" n="25"> Tradat te Dominus corruentem ante hostes tuos : per unam viam
+          egrediaris contra eos, et per septem fugias, et dispergaris per omnia regna terrae,</ab>
+        <ab xml:id="d1e2528" n="26"> sitque cadaver tuum in escam cunctis volatilibus caeli, et
+          bestiis terrae, et non sit qui abigat.</ab>
+        <ab xml:id="d1e2531" n="27"> Percutiat te Dominus ulcere Aegypti, et partem corporis, per
+          quam stercora egeruntur, scabie quoque et prurigine : ita ut curari nequeas.</ab>
+        <ab xml:id="d1e2534" n="28"> Percutiat te Dominus amentia et caecitate ac furore
+          mentis,</ab>
+        <ab xml:id="d1e2537" n="29"> et palpes in meridie sicut palpare solet caecus in tenebris, et
+          non dirigas vias tuas. Omnique tempore calumniam sustineas, et opprimaris violentia, nec
+          habeas qui liberet te.</ab>
+        <ab xml:id="d1e2541" n="30"> Uxorem accipias, et alius dormiat cum ea. Domum aedifices, et
+          non habites in ea. Plantes vineam, et non vindemies eam.</ab>
+        <ab xml:id="d1e2544" n="31"> Bos tuus immoletur coram te, et non comedas ex eo. Asinus tuus
+          rapiatur in conspectu tuo, et non reddatur tibi. Oves tuae dentur inimicis tuis, et non
+          sit qui te adjuvet.</ab>
+        <ab xml:id="d1e2547" n="32"> Filii tui et filiae tuae tradantur alteri populo, videntibus
+          oculis tuis, et deficientibus ad conspectum eorum tota die, et non sit fortitudo in manu
+          tua.</ab>
+        <ab xml:id="d1e2550" n="33"> Fructus terrae tuae, et omnes labores tuos, comedat populus
+          quem ignoras : et sis semper calumniam sustinens, et oppressus cunctis diebus,</ab>
+        <ab xml:id="d1e2553" n="34"> et stupens ad terrorem eorum quae videbunt oculi tui.</ab>
+        <ab xml:id="d1e2556" n="35"> Percutiat te Dominus ulcere pessimo in genibus et in suris,
+          sanarique non possis a planta pedis usque ad verticem tuum.</ab>
+        <ab xml:id="d1e2560" n="36"> Ducet te Dominus, et regem tuum, quem constitueris super te, in
+          gentem, quam ignoras tu et patres tui : et servies ibi diis alienis, ligno et lapidi.</ab>
+        <ab xml:id="d1e2563" n="37"> Et eris perditus in proverbium ac fabulam omnibus populis, ad
+          quos te introduxerit Dominus.</ab>
+        <ab xml:id="d1e2566" n="38"> Sementem multam jacies in terram, et modicum congregabis : quia
+          locustae devorabunt omnia.</ab>
+        <ab xml:id="d1e2569" n="39"> Vineam plantabis, et fodies : et vinum non bibes, nec colliges
+          ex ea quippiam : quoniam vastabitur vermibus.</ab>
+        <ab xml:id="d1e2572" n="40"> Olivas habebis in omnibus terminis tuis, et non ungeris oleo :
+          quia defluent, et peribunt.</ab>
+        <ab xml:id="d1e2575" n="41"> Filios generabis et filias, et non frueris eis : quoniam
+          ducentur in captivitatem.</ab>
+        <ab xml:id="d1e2579" n="42"> Omnes arbores tuas et fruges terrae tuae rubigo consumet.</ab>
+        <ab xml:id="d1e2582" n="43"> Advena, qui tecum versatur in terra, ascendet super te, eritque
+          sublimior : tu autem descendes, et eris inferior.</ab>
+        <ab xml:id="d1e2585" n="44"> Ipse foenerabit tibi, et tu non foenerabis ei. Ipse erit in
+          caput, et tu eris in caudam.</ab>
+        <ab xml:id="d1e2588" n="45"> Et venient super te omnes maledictiones istae, et persequentes
+          apprehendent te, donec intereas : quia non audisti vocem Domini Dei tui, nec servasti
+          mandata ejus et caeremonias, quas praecepit tibi.</ab>
+        <ab xml:id="d1e2591" n="46"> Et erunt in te signa atque prodigia, et in semine tuo usque in
+          sempiternum :</ab>
+        <ab xml:id="d1e2594" n="47"> eo quod non servieris Domino Deo tuo in gaudio, cordisque
+          laetitia, propter rerum omnium abundantiam.</ab>
+        <ab xml:id="d1e2598" n="48"> Servies inimico tuo, quem immittet tibi Dominus, in fame, et
+          siti, et nuditate, et omni penuria : et ponet jugum ferreum super cervicem tuam, donec te
+            conterat.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2602" n="49"> Adducet Dominus super te gentem de longinquo, et de extremis
+          terrae finibus in similitudinem aquilae volantis cum impetu, cujus linguam intelligere non
+          possis :</ab>
+        <ab xml:id="d1e2605" n="50"> gentem procacissimam, quae non deferat seni, nec misereatur
+          parvuli,</ab>
+        <ab xml:id="d1e2608" n="51"> et devoret fructum jumentorum tuorum, ac fruges terrae tuae :
+          donec intereas, et non relinquat tibi triticum, vinum, et oleum, armenta boum, et greges
+          ovium : donec te disperdat,</ab>
+        <ab xml:id="d1e2611" n="52"> et conterat in cunctis urbibus tuis, et destruantur muri tui
+          firmi atque sublimes, in quibus habebas fiduciam in omni terra tua. Obsideberis intra
+          portas tuas in omni terra tua, quam dabit tibi Dominus Deus tuus :</ab>
+        <ab xml:id="d1e2614" n="53"> et comedes fructum uteri tui, et carnes filiorum tuorum et
+          filiarum tuarum, quas dederit tibi Dominus Deus tuus, in angustia et vastitate qua
+          opprimet te hostis tuus.</ab>
+        <ab xml:id="d1e2618" n="54"> Homo delicatus in te, et luxuriosus valde, invidebit fratri
+          suo, et uxori, quae cubat in sinu suo,</ab>
+        <ab xml:id="d1e2621" n="55"> ne det eis de carnibus filiorum suorum, quas comedet : eo quod
+          nihil aliud habeat in obsidione et penuria, qua vastaverint te inimici tui intra omnes
+          portas tuas.</ab>
+        <ab xml:id="d1e2624" n="56"> Tenera mulier et delicata, quae super terram ingredi non
+          valebat, nec pedis vestigium figere, propter mollitiem et teneritudinem nimiam, invidebit
+          viro suo, qui cubat in sinu ejus, super filii et filiae carnibus,</ab>
+        <ab xml:id="d1e2627" n="57"> et illuvie secundarum, quae egrediuntur de medio feminum ejus,
+          et super liberis qui eadem hora nati sunt. Comedent enim eos clam propter rerum omnium
+          penuriam in obsidione et vastitate, qua opprimet te inimicus tuus intra portas tuas.</ab>
+        <ab xml:id="d1e2630" n="58"> Nisi custodieris et feceris omnia verba legis hujus, quae
+          scripta sunt in hoc volumine, et timueris nomen ejus gloriosum et terribile, hoc est,
+          Dominum Deum tuum :</ab>
+        <ab xml:id="d1e2633" n="59"> augebit Dominus plagas tuas, et plagas seminis tui, plagas
+          magnas et perseverantes, infirmitates pessimas et perpetuas :</ab>
+        <ab xml:id="d1e2637" n="60"> et convertet in te omnes afflictiones Aegypti, quas timuisti,
+          et adhaerebunt tibi.</ab>
+        <ab xml:id="d1e2640" n="61"> Insuper et universos languores, et plagas, quae non sunt
+          scriptae in volumine legis hujus, inducet Dominus super te, donec te conterat :</ab>
+        <ab xml:id="d1e2643" n="62"> et remanebitis pauci numero, qui prius eratis sicut astra caeli
+          prae multitudine, quoniam non audisti vocem Domini Dei tui.</ab>
+        <ab xml:id="d1e2646" n="63"> Et sicut ante laetatus est Dominus super vos, bene vobis
+          faciens, vosque multiplicans : sic laetabitur disperdens vos atque subvertens, ut
+          auferamini de terra, ad quam ingredieris possidendam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2650" n="64"> Disperget te Dominus in omnes populos, a summitate terrae usque
+          ad terminos ejus : et servies ibi diis alienis, quos et tu ignoras et patres tui, lignis
+          et lapidibus.</ab>
+        <ab xml:id="d1e2653" n="65"> In gentibus quoque illis non quiesces, neque erit requies
+          vestigio pedis tui. Dabit enim tibi Dominus ibi cor pavidum, et deficientes oculos, et
+          animam consumptam moerore :</ab>
+        <ab xml:id="d1e2657" n="66"> et erit vita tua quasi pendens ante te. Timebis nocte et die,
+          et non credes vitae tuae.</ab>
+        <ab xml:id="d1e2660" n="67"> Mane dices : Quis mihi det vesperum ? et vespere : Quis mihi
+          det mane ? propter cordis tui formidinem, qua terreberis, et propter ea, quae tuis videbis
+          oculis.</ab>
+        <ab xml:id="d1e2663" n="68"> Reducet te Dominus classibus in Aegyptum per viam de qua dixit
+          tibi ut eam amplius non videres. Ibi venderis inimicis tuis in servos et ancillas, et non
+          erit qui emat.</ab>
+      </div>
+      <div xml:id="d1e2667" type="chap" n="29">
+        <ab xml:id="d1e2669" n="1"> Haec sunt verba foederis quod praecepit Dominus Moysi ut feriret
+          cum filiis Israël in terra Moab : praeter illud foedus, quod cum eis pepigit in Horeb.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2673" n="2"> Vocavitque Moyses omnem Israël, et dixit ad eos : Vos vidistis
+          universa, quae fecit Dominus coram vobis in terra Aegypti Pharaoni, et omnibus servis
+          ejus, universaeque terrae illius,</ab>
+        <ab xml:id="d1e2676" n="3"> tentationes magnas, quas viderunt oculi tui, signa illa,
+          portentaque ingentia,</ab>
+        <ab xml:id="d1e2679" n="4"> et non dedit vobis Dominus cor intelligens, et oculos videntes,
+          et aures quae possunt audire, usque in praesentem diem.</ab>
+        <ab xml:id="d1e2682" n="5"> Adduxit vos quadraginta annis per desertum : non sunt attrita
+          vestimenta vestra, nec calceamenta pedum vestrorum vetustate consumpta sunt.</ab>
+        <ab xml:id="d1e2686" n="6"> Panem non comedistis, vinum et siceram non bibistis : ut
+          sciretis quia ego sum Dominus Deus vester.</ab>
+        <ab xml:id="d1e2689" n="7"> Et venistis ad hunc locum : egressusque est Sehon rex Hesebon,
+          et Og rex Basan, occurrentes nobis ad pugnam. Et percussimus eos,</ab>
+        <ab xml:id="d1e2692" n="8"> et tulimus terram eorum, ac tradidimus possidendam Ruben et Gad,
+          et dimidiae tribui Manasse.</ab>
+        <ab xml:id="d1e2695" n="9"> Custodite ergo verba pacti hujus, et implete ea : ut
+          intelligatis universa quae facitis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2699" n="10"> Vos statis hodie cuncti coram Domino Deo vestro, principes
+          vestri, et tribus, ac majores natu, atque doctores, omnis populus Israël,</ab>
+        <ab xml:id="d1e2702" n="11"> liberi et uxores vestrae, et advena qui tecum moratur in
+          castris, exceptis lignorum caesoribus, et his qui comportant aquas :</ab>
+        <ab xml:id="d1e2706" n="12"> ut transeas in foedere Domini Dei tui, et in jurejurando quod
+          hodie Dominus Deus tuus percutit tecum :</ab>
+        <ab xml:id="d1e2709" n="13"> ut suscitet te sibi in populum, et ipse sit Deus tuus sicut
+          locutus est tibi, et sicut juravit patribus tuis, Abraham, Isaac, et Jacob.</ab>
+        <ab xml:id="d1e2712" n="14"> Nec vobis solis ego hoc foedus ferio, et haec juramenta
+          confirmo,</ab>
+        <ab xml:id="d1e2715" n="15"> sed cunctis praesentibus et absentibus.</ab>
+        <ab xml:id="d1e2718" n="16"> Vos enim nostis quomodo habitaverimus in terra Aegypti, et
+          quomodo transierimus per medium nationum, quas transeuntes</ab>
+        <ab xml:id="d1e2721" n="17"> vidistis abominationes et sordes, id est, idola eorum, lignum
+          et lapidem, argentum et aurum, quae colebant.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2726" n="18"> Ne forte sit inter vos vir aut mulier, familia aut tribus,
+          cujus cor aversum est hodie a Domino Deo nostro, ut vadat et serviat diis illarum gentium
+          : et sit inter vos radix germinans fel et amaritudinem.</ab>
+        <ab xml:id="d1e2729" n="19"> Cumque audierit verba juramenti hujus, benedicat sibi in corde
+          suo, dicens : Pax erit mihi, et ambulabo in pravitate cordis mei : et absumat ebria
+          sitientem,</ab>
+        <ab xml:id="d1e2732" n="20"> et Dominus non ignoscat ei : sed tunc quam maxime furor ejus
+          fumet, et zelus contra hominem illum, et sedeant super eum omnia maledicta, quae scripta
+          sunt in hoc volumine : et deleat Dominus nomen ejus sub caelo,</ab>
+        <ab xml:id="d1e2735" n="21"> et consumat eum in perditionem ex omnibus tribubus Israël,
+          juxta maledictiones, quae in libro legis hujus ac foederis continentur.<pc ana="#pilcrow"
+          />
+        </ab>
+        <ab xml:id="d1e2739" n="22"> Dicetque sequens generatio, et filii qui nascentur deinceps, et
+          peregrini qui de longe venerint, videntes plagas terrae illius, et infirmitates, quibus
+          eam afflixerit Dominus,</ab>
+        <ab xml:id="d1e2742" n="23"> sulphure, et salis ardore comburens, ita ut ultra non seratur,
+          nec virens quippiam germinet, in exemplum subversionis Sodomae et Gomorrhae, Adamae et
+          Seboim, quas subvertit Dominus in ira et furore suo.</ab>
+        <ab xml:id="d1e2746" n="24"> Et dicent omnes gentes : Quare sic fecit Dominus terrae huic ?
+          quae est haec ira furoris ejus immensa ?</ab>
+        <ab xml:id="d1e2749" n="25"> Et respondebunt : Quia dereliquerunt pactum Domini, quod
+          pepigit cum patribus eorum, quando eduxit eos de terra Aegypti :</ab>
+        <ab xml:id="d1e2752" n="26"> et servierunt diis alienis, et adoraverunt eos, quos
+          nesciebant, et quibus non fuerant attributi :</ab>
+        <ab xml:id="d1e2755" n="27"> idcirco iratus est furor Domini contra terram istam, ut
+          induceret super eam omnia maledicta, quae in hoc volumine scripta sunt :</ab>
+        <ab xml:id="d1e2758" n="28"> et ejecit eos de terra sua in ira et in furore, et in
+          indignatione maxima, projecitque in terram alienam, sicut hodie comprobatur.</ab>
+        <ab xml:id="d1e2761" n="29"> Abscondita, Domino Deo nostro ; quae manifesta sunt, nobis et
+          filiis nostris usque in sempiternum, ut faciamus universa verba legis hujus.</ab>
+      </div>
+      <div xml:id="d1e2766" type="chap" n="30">
+        <ab xml:id="d1e2768" n="1"> Cum ergo venerint super te omnes sermones isti, benedictio sive
+          maledictio, quam proposui in conspectu tuo : et ductus poenitudine cordis tui in universis
+          gentibus, in quas disperserit te Dominus Deus tuus,</ab>
+        <ab xml:id="d1e2771" n="2"> et reversus fueris ad eum, et obedieris ejus imperiis, sicut ego
+          hodie praecipio tibi, cum filiis tuis, in toto corde tuo, et in tota anima tua :</ab>
+        <ab xml:id="d1e2774" n="3"> reducet Dominus Deus tuus captivitatem tuam, ac miserebitur tui,
+          et rursum congregabit te de cunctis populis, in quos te ante dispersit.</ab>
+        <ab xml:id="d1e2777" n="4"> Si ad cardines caeli fueris dissipatus, inde te retrahet Dominus
+          Deus tuus,</ab>
+        <ab xml:id="d1e2780" n="5"> et assumet, atque introducet in terram, quam possederunt patres
+          tui, et obtinebis eam : et benedicens tibi, majoris numeri te esse faciat quam fuerunt
+          patres tui.</ab>
+        <ab xml:id="d1e2784" n="6"> Circumcidet Dominus Deus tuus cor tuum, et cor seminis tui, ut
+          diligas Dominum Deum tuum in toto corde tuo, et in tota anima tua, ut possis vivere.</ab>
+        <ab xml:id="d1e2787" n="7"> Omnes autem maledictiones has convertet super inimicos tuos, et
+          eos qui oderunt te et persequuntur.</ab>
+        <ab xml:id="d1e2790" n="8"> Tu autem reverteris, et audies vocem Domini Dei tui, faciesque
+          universa mandata quae ego praecipio tibi hodie :</ab>
+        <ab xml:id="d1e2793" n="9"> et abundare te faciet Dominus Deus tuus in cunctis operibus
+          manuum tuarum, in sobole uteri tui, et in fructu jumentorum tuorum, in ubertate terrae
+          tuae, et in rerum omnium largitate. Revertetur enim Dominus, ut gaudeat super te in
+          omnibus bonis, sicut gavisus est in patribus tuis :</ab>
+        <ab xml:id="d1e2796" n="10"> si tamen audieris vocem Domini Dei tui, et custodieris
+          praecepta ejus et caeremonias, quae in hac lege conscripta sunt : et revertaris ad Dominum
+          Deum tuum in toto corde tuo, et in tota anima tua.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2800" n="11"> Mandatum hoc, quod ego praecipio tibi hodie, non supra te est,
+          neque procul positum,</ab>
+        <ab xml:id="d1e2804" n="12"> nec in caelo situm, ut possis dicere : Quis nostrum valet ad
+          caelum ascendere, ut deferat illud ad nos, et audiamus atque opere compleamus ?</ab>
+        <ab xml:id="d1e2807" n="13"> neque trans mare positum : ut causeris, et dicas : Quis ex
+          nobis poterit transfretare mare, et illud ad nos usque deferre, ut possimus audire et
+          facere quod praeceptum est ?</ab>
+        <ab xml:id="d1e2810" n="14"> sed juxta te est sermo valde, in ore tuo, et in corde tuo, ut
+          facias illum.</ab>
+        <ab xml:id="d1e2813" n="15"> Considera quod hodie proposuerim in conspectu tuo, vitam et
+          bonum, et e contrario mortem et malum :</ab>
+        <ab xml:id="d1e2816" n="16"> ut diligas Dominum Deum tuum, et ambules in viis ejus, et
+          custodias mandata illius ac caeremonias atque judicia : et vivas, atque multiplicet te,
+          benedicatque tibi in terra, ad quam ingredieris possidendam.</ab>
+        <ab xml:id="d1e2819" n="17"> Si autem aversum fuerit cor tuum, et audire nolueris, atque
+          errore deceptus adoraveris deos alienos, et servieris eis :</ab>
+        <ab xml:id="d1e2823" n="18"> praedico tibi hodie quod pereas, et parvo tempore moreris in
+          terra, ad quam, Jordane transmisso, ingredieris possidendam.</ab>
+        <ab xml:id="d1e2826" n="19"> Testes invoco hodie caelum et terram, quod proposuerim vobis
+          vitam et mortem, benedictionem et maledictionem. Elige ergo vitam, ut et tu vivas, et
+          semen tuum :</ab>
+        <ab xml:id="d1e2829" n="20"> et diligas Dominum Deum tuum, atque obedias voci ejus, et illi
+          adhaereas (ipse est enim vita tua, et longitudo dierum tuorum), ut habites in terra, pro
+          qua juravit Dominus patribus tuis, Abraham, Isaac, et Jacob, ut daret eam illis.</ab>
+      </div>
+      <div xml:id="d1e2833" type="chap" n="31">
+        <ab xml:id="d1e2835" n="1"> Abiit itaque Moyses, et locutus est omnia verba haec ad
+          universum Israël,</ab>
+        <ab xml:id="d1e2838" n="2"> et dixit ad eos : Centum viginti annorum sum hodie ; non possum
+          ultra egredi et ingredi, praesertim cum et Dominus dixerit mihi : Non transibis Jordanem
+          istum.</ab>
+        <ab xml:id="d1e2841" n="3"> Dominus ergo Deus tuus transibit ante te : ipse delebit omnes
+          gentes has in conspectu tuo, et possidebis eas : et Josue iste transibit ante te, sicut
+          locutus est Dominus.</ab>
+        <ab xml:id="d1e2844" n="4"> Facietque Dominus eis sicut fecit Sehon et Og regibus
+          Amorrhaeorum, et terrae eorum, delebitque eos.</ab>
+        <ab xml:id="d1e2847" n="5"> Cum ergo et hos tradiderit vobis, similiter facietis eis, sicut
+          praecepi vobis.</ab>
+        <ab xml:id="d1e2851" n="6"> Viriliter agite, et confortamini : nolite timere, nec paveatis
+          ad conspectum eorum : quia Dominus Deus tuus ipse est ductor tuus, et non dimittet, nec
+          derelinquet te.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2855" n="7"> Vocavitque Moyses Josue, et dixit ei coram omni Israël :
+          Confortare, et esto robustus : tu enim introduces populum istum in terram, quam daturum se
+          patribus eorum juravit Dominus, et tu eam sorte divides.</ab>
+        <ab xml:id="d1e2858" n="8"> Et Dominus qui ductor est vester, ipse erit tecum : non
+          dimittet, nec derelinquet te : noli timere, nec paveas.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2862" n="9"> Scripsit itaque Moyses legem hanc, et tradidit eam sacerdotibus
+          filiis Levi, qui portabant arcam foederis Domini, et cunctis senioribus Israël.</ab>
+        <ab xml:id="d1e2865" n="10"> Praecepitque eis, dicens : Post septem annos, anno remissionis,
+          in solemnitate tabernaculorum,</ab>
+        <ab xml:id="d1e2868" n="11"> convenientibus cunctis ex Israël, ut appareant in conspectu
+          Domini Dei tui in loco quem elegerit Dominus, leges verba legis hujus coram omni Israël,
+          audientibus eis,</ab>
+        <ab xml:id="d1e2872" n="12"> et in unum omni populo congregato, tam viris quam mulieribus,
+          parvulis, et advenis, qui sunt intra portas tuas : ut audientes discant, et timeant
+          Dominum Deum vestrum, et custodiant, impleantque omnes sermones legis hujus.</ab>
+        <ab xml:id="d1e2875" n="13"> Filii quoque eorum qui nunc ignorant, ut audire possint, et
+          timeant Dominum Deum suum cunctis diebus quibus versantur in terra, ad quam vos, Jordane
+          transmisso, pergitis obtinendam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2879" n="14"> Et ait Dominus ad Moysen : Ecce prope sunt dies mortis tuae :
+          voca Josue, et state in tabernaculo testimonii, ut praecipiam ei. Abierunt ergo Moyses et
+          Josue, et steterunt in tabernaculo testimonii :</ab>
+        <ab xml:id="d1e2882" n="15"> apparuitque Dominus ibi in columna nubis, quae stetit in
+          introitu tabernaculi.</ab>
+        <ab xml:id="d1e2885" n="16"> Dixitque Dominus ad Moysen : Ecce tu dormies cum patribus tuis,
+          et populus iste consurgens fornicabitur post deos alienos in terra, ad quam ingreditur ut
+          habitet in ea : ibi derelinquet me, et irritum faciet foedus, quod pepigi cum eo.</ab>
+        <ab xml:id="d1e2888" n="17"> Et irascetur furor meus contra eum in die illo : et derelinquam
+          eum, et abscondam faciem meam ab eo, et erit in devorationem : invenient eum omnia mala et
+          afflictiones, ita ut dicat in illo die : Vere quia non est Deus mecum, invenerunt me haec
+          mala.</ab>
+        <ab xml:id="d1e2892" n="18"> Ego autem abscondam, et celabo faciem meam in die illo propter
+          omnia mala, quae fecit, quia secutus est deos alienos.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2896" n="19"> Nunc itaque scribite vobis canticum istud, et docete filios
+          Israël : ut memoriter teneant, et ore decantent, et sit mihi carmen istud pro testimonio
+          inter filios Israël.</ab>
+        <ab xml:id="d1e2899" n="20"> Introducam enim eum in terram, pro qua juravi patribus ejus,
+          lacte et melle manantem. Cumque comederint, et saturati, crassique fuerint, avertentur ad
+          deos alienos, et servient eis : detrahentque mihi, et irritum facient pactum meum.</ab>
+        <ab xml:id="d1e2902" n="21"> Postquam invenerint eum mala multa et afflictiones, respondebit
+          ei canticum istud pro testimonio, quod nulla delebit oblivio ex ore seminis sui. Scio enim
+          cogitationes ejus, quae facturus sit hodie, antequam introducam eum in terram, quam ei
+          pollicitus sum.</ab>
+        <ab xml:id="d1e2905" n="22"> Scripsit ergo Moyses canticum, et docuit filios Israël.</ab>
+        <ab xml:id="d1e2908" n="23"> Praecepitque Dominus Josue filio Nun, et ait : Confortare, et
+          esto robustus : tu enim introduces filios Israël in terram, quam pollicitus sum, et ego
+          ero tecum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2913" n="24"> Postquam ergo scripsit Moyses verba legis hujus in volumine,
+          atque complevit,</ab>
+        <ab xml:id="d1e2916" n="25"> praecepit Levitis, qui portabant arcam foederis Domini, dicens
+          :</ab>
+        <ab xml:id="d1e2919" n="26"> Tollite librum istum, et ponite eum in latere arcae foederis
+          Domini Dei vestri : ut sit ibi contra te in testimonium.</ab>
+        <ab xml:id="d1e2922" n="27"> Ego enim scio contentionem tuam, et cervicem tuam durissimam.
+          Adhuc vivente me et ingrediente vobiscum, semper contentiose egistis contra Dominum :
+          quanto magis cum mortuus fuero ?</ab>
+        <ab xml:id="d1e2925" n="28"> Congregate ad me omnes majores natu per tribus vestras, atque
+          doctores, et loquar audientibus eis sermones istos, et invocabo contra eos caelum et
+          terram.</ab>
+        <ab xml:id="d1e2928" n="29"> Novi enim quod post mortem meam inique agetis, et declinabitis
+          cito de via, quam praecepi vobis : et occurrent vobis mala in extremo tempore, quando
+          feceritis malum in conspectu Domini, ut irritetis eum per opera manuum vestrarum.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2933" n="30"> Locutus est ergo Moyses, audiente universo coetu Israël, verba
+          carminis hujus, et ad finem usque complevit.</ab>
+      </div>
+      <div xml:id="d1e2937" type="chap" n="32">
+        <ab xml:id="d1e2939" n="1"> [Audite, caeli, quae loquor :/ audiat terra verba oris
+          mei./</ab>
+        <ab xml:id="d1e2942" n="2"> Concrescat ut pluvia doctrina mea,/ fluat ut ros eloquium meum,/
+          quasi imber super herbam,/ et quasi stillae super gramina./</ab>
+        <ab xml:id="d1e2945" n="3"> Quia nomen Domini invocabo :/ date magnificentiam Deo
+            nostro.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2949" n="4"> [Dei perfecta sunt opera,/ et omnes viae ejus judicia :/ Deus
+          fidelis, et absque ulla iniquitate,/ justus et rectus./</ab>
+        <ab xml:id="d1e2952" n="5"> Peccaverunt ei, et non filii ejus in sordibus :/ generatio prava
+          atque perversa./</ab>
+        <ab xml:id="d1e2956" n="6"> Haeccine reddis Domino,/ popule stulte et insipiens ?/ numquid
+          non ipse est pater tuus,/ qui possedit te, et fecit, et creavit te ?/</ab>
+        <ab xml:id="d1e2959" n="7"> Memento dierum antiquorum, cogita generationes singulas :/
+          interroga patrem tuum,/ et annuntiabit tibi :/ majores tuos, et dicent tibi./</ab>
+        <ab xml:id="d1e2962" n="8"> Quando dividebat Altissimus gentes,/ quando separabat filios
+          Adam,/ constituit terminos populorum/ juxta numerum filiorum Israël./</ab>
+        <ab xml:id="d1e2965" n="9"> Pars autem Domini, populus ejus :/ Jacob funiculus haereditatis
+          ejus./</ab>
+        <ab xml:id="d1e2968" n="10"> Invenit eum in terra deserta,/ in loco horroris, et vastae
+          solitudinis :/ circumduxit eum, et docuit :/ et custodivit quasi pupillam oculi sui./</ab>
+        <ab xml:id="d1e2971" n="11"> Sicut aquila provocans ad volandum pullos suos,/ et super eos
+          volitans,/ expandit alas suas, et assumpsit eum,/ atque portavit in humeris suis./</ab>
+        <ab xml:id="d1e2975" n="12"> Dominus solus dux ejus fuit,/ et non erat cum eo deus alienus
+          :/</ab>
+        <ab xml:id="d1e2978" n="13"> constituit eum super excelsam terram,/ ut comederet fructus
+          agrorum :/ ut sugeret mel de petra,/ oleumque de saxo durissimo ;/</ab>
+        <ab xml:id="d1e2981" n="14"> butyrum de armento, et lac de ovibus/ cum adipe agnorum,/ et
+          arietum filiorum Basan : et hircos/ cum medulla tritici,/ et sanguinem uvae biberet
+            meracissimum.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2985" n="15"> [Incrassatus est dilectus, et recalcitravit :/ incrassatus,
+          impinguatus, dilatatus,/ dereliquit Deum factorem suum,/ et recessit a Deo salutari
+          suo./</ab>
+        <ab xml:id="d1e2988" n="16"> Provocaverunt eum in diis alienis,/ et in abominationibus ad
+          iracundiam concitaverunt./</ab>
+        <ab xml:id="d1e2991" n="17"> Immolaverunt daemoniis et non Deo,/ diis quos ignorabant :/
+          novi recentesque venerunt,/ quos non coluerunt patres eorum :/</ab>
+        <ab xml:id="d1e2995" n="18"> Deum qui te genuit dereliquisti,/ et oblitus es Domini
+          creatoris tui.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2999" n="19"> [Vidit Dominus, et ad iracundiam concitatus est :/ quia
+          provocaverunt eum filii sui et filiae./</ab>
+        <ab xml:id="d1e3002" n="20"> Et ait : Abscondam faciem meam ab eis,/ et considerabo
+          novissima eorum :/ generatio enim perversa est,/ et infideles filii./</ab>
+        <ab xml:id="d1e3005" n="21"> Ipsi me provocaverunt in eo qui non erat Deus,/ et irritaverunt
+          in vanitatibus suis :/ et ego provocabo eos in eo qui non est populus,/ et in gente stulta
+          irritabo illos./</ab>
+        <ab xml:id="d1e3008" n="22"> Ignis succensus est in furore meo,/ et ardebit usque ad inferni
+          novissima :/ devorabitque terram cum germine suo,/ et montium fundamenta comburet./</ab>
+        <ab xml:id="d1e3011" n="23"> Congregabo super eos mala,/ et sagittas meas complebo in
+          eis./</ab>
+        <ab xml:id="d1e3015" n="24"> Consumentur fame,/ et devorabunt eos aves morsu amarissimo :/
+          dentes bestiarum immittam in eos,/ cum furore trahentium super terram, atque
+          serpentium./</ab>
+        <ab xml:id="d1e3018" n="25"> Foris vastabit eos gladius,/ et intus pavor,/ juvenem simul ac
+          virginem,/ lactentem cum homine sene.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e3022" n="26"> [Dixi : Ubinam sunt ?/ cessare faciam ex hominibus memoriam
+          eorum./</ab>
+        <ab xml:id="d1e3025" n="27"> Sed propter iram inimicorum distuli :/ ne forte superbirent
+          hostes eorum,/ et dicerent : Manus nostra excelsa,/ et non Dominus, fecit haec
+          omnia./</ab>
+        <ab xml:id="d1e3028" n="28"> Gens absque consilio est,/ et sine prudentia./</ab>
+        <ab xml:id="d1e3031" n="29"> Utinam saperent, et intelligerent,/ ac novissima
+          providerent./</ab>
+        <ab xml:id="d1e3035" n="30"> Quomodo persequatur unus mille,/ et duo fugent decem millia ?/
+          nonne ideo, quia Deus suus vendidit eos,/ et Dominus conclusit illos ?/</ab>
+        <ab xml:id="d1e3038" n="31"> Non enim est Deus noster ut dii eorum :/ et inimici nostri sunt
+          judices./</ab>
+        <ab xml:id="d1e3041" n="32"> De vinea Sodomorum, vinea eorum,/ et de suburbanis Gomorrhae :/
+          uva eorum, uva fellis,/ et botri amarissimi./</ab>
+        <ab xml:id="d1e3044" n="33"> Fel draconum vinum eorum,/ et venenum aspidum insanabile./</ab>
+        <ab xml:id="d1e3047" n="34"> Nonne haec condita sunt apud me,/ et signata in thesauris meis
+          ?/</ab>
+        <ab xml:id="d1e3050" n="35"> Mea est ultio, et ego retribuam in tempore,/ ut labatur pes
+          eorum :/ juxta est dies perditionis,/ et adesse festinant tempora./</ab>
+        <ab xml:id="d1e3054" n="36"> Judicabit Dominus populum suum,/ et in servis suis miserebitur
+          :/ videbit quod infirmata sit manus,/ et clausi quoque defecerunt,/ residuique consumpti
+            sunt.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e3058" n="37"> [Et dicet : Ubi sunt dii eorum,/ in quibus habebant fiduciam
+          ?/</ab>
+        <ab xml:id="d1e3061" n="38"> de quorum victimis comedebant adipes,/ et bibebant vinum
+          libaminum :/ surgant, et opitulentur vobis,/ et in necessitate vos protegant./</ab>
+        <ab xml:id="d1e3064" n="39"> Videte quod ego sim solus,/ et non sit alius deus praeter me :/
+          ego occidam, et ego vivere faciam :/ percutiam, et ego sanabo,/ et non est qui de manu mea
+          possit eruere./</ab>
+        <ab xml:id="d1e3067" n="40"> Levabo ad caelum manum meam,/ et dicam : Vivo ego in
+          aeternum./</ab>
+        <ab xml:id="d1e3070" n="41"> Si acuero ut fulgur gladium meum,/ et arripuerit judicium manus
+          mea :/ reddam ultionem hostibus meis,/ et his qui oderunt me retribuam./</ab>
+        <ab xml:id="d1e3074" n="42"> Inebriabo sagittas meas sanguine,/ et gladius meus devorabit
+          carnes ;/ de cruore occisorum et de captivitate,/ nudati inimicorum capitis./</ab>
+        <ab xml:id="d1e3077" n="43"> Laudate, gentes, populum ejus,/ quia sanguinem servorum suorum
+          ulciscetur :/ et vindictam retribuet in hostes eorum,/ et propitius erit terrae populi
+            sui.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e3081" n="44"> Venit ergo Moyses, et locutus est omnia verba cantici hujus in
+          auribus populi, ipse et Josue filius Nun.</ab>
+        <ab xml:id="d1e3084" n="45"> Complevitque omnes sermones istos, loquens ad universum
+          Israël,</ab>
+        <ab xml:id="d1e3087" n="46"> et dixit ad eos : Ponite corda vestra in omnia verba, quae ego
+          testificor vobis hodie : ut mandetis ea filiis vestris custodire et facere, et implere
+          universa quae scripta sunt legis hujus :</ab>
+        <ab xml:id="d1e3090" n="47"> quia non incassum praecepta sunt vobis, sed ut singuli in eis
+          viverent : quae facientes longo perseveretis tempore in terra, ad quam, Jordane
+          transmisso, ingredimini possidendam.</ab>
+        <ab xml:id="d1e3094" n="48"> Locutusque est Dominus ad Moysen in eadem die, dicens :</ab>
+        <ab xml:id="d1e3097" n="49"> Ascende in montem istum Abarim, id est, transitum, in montem
+          Nebo, qui est in terra Moab contra Jericho : et vide terram Chanaan, quam ego tradam
+          filiis Israël obtinendam, et morere in monte.</ab>
+        <ab xml:id="d1e3100" n="50"> Quem conscendens jungeris populis tuis, sicut mortuus est Aaron
+          frater tuus in monte Hor, et appositus populis suis :</ab>
+        <ab xml:id="d1e3103" n="51"> quia praevaricati estis contra me in medio filiorum Israël ad
+          aquas contradictionis in Cades deserti Sin : et non sanctificastis me inter filios
+          Israël.</ab>
+        <ab xml:id="d1e3106" n="52"> E contra videbis terram, et non ingredieris in eam, quam ego
+          dabo filiis Israël.</ab>
+      </div>
+      <div xml:id="d1e3110" type="chap" n="33">
+        <ab xml:id="d1e3112" n="1"> Haec est benedictio, qua benedixit Moyses, homo Dei, filiis
+          Israël ante mortem suam.</ab>
+        <ab xml:id="d1e3115" n="2"> Et ait : [Dominus de Sinai venit,/ et de Seir ortus est nobis :/
+          apparuit de monte Pharan,/ et cum eo sanctorum millia./ In dextera ejus ignea lex./</ab>
+        <ab xml:id="d1e3118" n="3"> Dilexit populos,/ omnes sancti in manu illius sunt :/ et qui
+          appropinquant pedibus ejus,/ accipient de doctrina illius./</ab>
+        <ab xml:id="d1e3121" n="4"> Legem praecepit nobis Moyses,/ haereditatem multitudinis
+          Jacob./</ab>
+        <ab xml:id="d1e3124" n="5"> Erit apud rectissimum rex,/ congregatis principibus populi cum
+          tribubus Israël./</ab>
+        <ab xml:id="d1e3128" n="6"> Vivat Ruben, et non moriatur,/ et sit parvus in numero.]</ab>
+        <ab xml:id="d1e3131" n="7"> Haec est Judae benedictio : [Audi, Domine, vocem Judae,/ et ad
+          populum suum introduc eum :/ manus ejus pugnabunt pro eo,/ et adjutor illius contra
+          adversarios ejus erit.]</ab>
+        <ab xml:id="d1e3134" n="8"> Levi quoque ait : [Perfectio tua, et doctrina tua viro sancto
+          tuo,/ quem probasti in tentatione,/ et judicasti ad aquas contradictionis./</ab>
+        <ab xml:id="d1e3137" n="9"> Qui dixit patri suo et matri suae : Nescio vos :/ et fratribus
+          suis : Ignoro vos :/ et nescierunt filios suos./ Hi custodierunt eloquium tuum,/ et pactum
+          tuum servaverunt./</ab>
+        <ab xml:id="d1e3140" n="10"> Judicia tua, o Jacob,/ et legem tuam, o Israël :/ ponent
+          thymiama in furore tuo,/ et holocaustum super altare tuum./</ab>
+        <ab xml:id="d1e3143" n="11"> Benedic, Domine, fortitudini ejus :/ et opera manuum illius
+          suscipe./ Percute dorsa inimicorum ejus :/ et qui oderunt eum, non consurgant.]</ab>
+        <ab xml:id="d1e3147" n="12"> Et Benjamin ait : [Amantissimus Domini habitabit confidenter in
+          eo :/ quasi in thalamo tota die morabitur,/ et inter humeros illius requiescet.]</ab>
+        <ab xml:id="d1e3150" n="13"> Joseph quoque ait : [De benedictione Domini terra ejus,/ de
+          pomis caeli, et rore, atque abysso subjacente./</ab>
+        <ab xml:id="d1e3153" n="14"> De pomis fructuum solis ac lunae,/</ab>
+        <ab xml:id="d1e3156" n="15"> de vertice antiquorum montium,/ de pomis collium aeternorum
+          :/</ab>
+        <ab xml:id="d1e3159" n="16"> et de frugibus terrae, et de plenitudine ejus./ Benedictio
+          illius qui apparuit in rubo,/ veniat super caput Joseph,/ et super verticem nazaraei inter
+          fratres suos./</ab>
+        <ab xml:id="d1e3162" n="17"> Quasi primogeniti tauri pulchritudo ejus,/ cornua rhinocerotis
+          cornua illius :/ in ipsis ventilabit gentes usque ad terminos terrae./ Hae sunt
+          multitudines Ephraim :/ et haec millia Manasse.]</ab>
+        <ab xml:id="d1e3166" n="18"> Et Zabulon ait : [Laetare, Zabulon, in exitu tuo,/ et Issachar
+          in tabernaculis tuis./</ab>
+        <ab xml:id="d1e3169" n="19"> Populos vocabunt ad montem :/ ibi immolabunt victimas
+          justitiae./ Qui inundationem maris quasi lac sugent,/ et thesauros absconditos
+          arenarum.]</ab>
+        <ab xml:id="d1e3172" n="20"> Et Gad ait : [Benedictus in latitudine Gad :/ quasi leo
+          requievit,/ cepitque brachium et verticem./</ab>
+        <ab xml:id="d1e3175" n="21"> Et vidit principatum suum,/ quod in parte sua doctor esset
+          repositus :/ qui fuit cum principibus populi,/ et fecit justitias Domini,/ et judicium
+          suum cum Israël.]</ab>
+        <ab xml:id="d1e3178" n="22"> Dan quoque ait : [Dan catulus leonis, fluet largiter de
+          Basan.]</ab>
+        <ab xml:id="d1e3181" n="23"> Et Nephthali dixit : [Nephthali abundantia perfruetur,/ et
+          plenus erit benedictionibus Domini :/ mare et meridiem possidebit.]</ab>
+        <ab xml:id="d1e3185" n="24"> Aser quoque ait : [Benedictus in filiis Aser,/ sit placens
+          fratribus suis,/ et tingat in oleo pedem suum :/</ab>
+        <ab xml:id="d1e3188" n="25"> ferrum et aes calceamentum ejus./ Sicut dies juventutis tuae,
+          ita et senectus tua./</ab>
+        <ab xml:id="d1e3191" n="26"> Non est deus alius ut Deus rectissimi,/ ascensor caeli,
+          auxiliator tuus./ Magnificentia ejus discurrunt nubes,/</ab>
+        <ab xml:id="d1e3194" n="27"> habitaculum ejus sursum,/ et subter brachia sempiterna/ ejiciet
+          a facie tua inimicum,/ dicetque : Conterere./</ab>
+        <ab xml:id="d1e3197" n="28"> Habitabit Israël confidenter, et solus./ Oculus Jacob in terra
+          frumenti et vini,/ caelique caligabunt rore./</ab>
+        <ab xml:id="d1e3200" n="29"> Beatus es tu, Israël :/ quis similis tui, popule, qui salvaris
+          in Domino ?/ Scutum auxilii tui,/ et gladius gloriae tuae :/ negabunt te inimici tui,/ et
+          tu eorum colla calcabis.]</ab>
+      </div>
+      <div xml:id="d1e3204" type="chap" n="34">
+        <ab xml:id="d1e3206" n="1"> Ascendit ergo Moyses de campestribus Moab super montem Nebo, in
+          verticem Phasga contra Jericho : ostenditque ei Dominus omnem terram Galaad usque
+          Dan,</ab>
+        <ab xml:id="d1e3209" n="2"> et universum Nephthali, terramque Ephraim et Manasse, et omnem
+          terram Juda usque ad mare novissimum,</ab>
+        <ab xml:id="d1e3212" n="3"> et australem partem, et latitudinem campi Jericho civitatis
+          palmarum usque Segor.</ab>
+        <ab xml:id="d1e3215" n="4"> Dixitque Dominus ad eum : Haec est terra, pro qua juravi
+          Abraham, Isaac, et Jacob, dicens : Semini tuo dabo eam. Vidisti eam oculis tuis, et non
+          transibis ad illam.</ab>
+        <ab xml:id="d1e3218" n="5"> Mortuusque est ibi Moyses servus Domini, in terra Moab, jubente
+          Domino :</ab>
+        <ab xml:id="d1e3222" n="6"> et sepelivit eum in valle terrae Moab contra Phogor : et non
+          cognovit homo sepulchrum ejus usque in praesentem diem.</ab>
+        <ab xml:id="d1e3225" n="7"> Moyses centum et viginti annorum erat quando mortuus est : non
+          caligavit oculus ejus, nec dentes illius moti sunt.</ab>
+        <ab xml:id="d1e3228" n="8"> Fleveruntque eum filii Israël in campestribus Moab triginta
+          diebus : et completi sunt dies planctus lugentium Moysen.</ab>
+        <ab xml:id="d1e3231" n="9"> Josue vero filius Nun repletus est spiritu sapientiae, quia
+          Moyses posuit super eum manus suas. Et obedierunt ei filii Israël, feceruntque sicut
+          praecepit Dominus Moysi.</ab>
+        <ab xml:id="d1e3234" n="10"> Et non surrexit ultra propheta in Israël sicut Moyses, quem
+          nosset Dominus facie ad faciem,</ab>
+        <ab xml:id="d1e3237" n="11"> in omnibus signis atque portentis, quae misit per eum, ut
+          faceret in terra Aegypti Pharaoni, et omnibus servis ejus, universaeque terrae
+          illius,</ab>
+        <ab xml:id="d1e3241" n="12"> et cunctam manum robustam, magnaque mirabilia, quae fecit
+          Moyses coram universo Israël.</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

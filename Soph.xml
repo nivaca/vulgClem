@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sophonias</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Verbum Domini quod factum est ad Sophoniam, filium Chusi, filii
+          Godoliae, filii Amariae, filii Ezeciae, in diebus Josiae, filii Amon, regis Judae.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e37" n="2"> [Congregans congregabo omnia a facie terrae, dicit Dominus :/</ab>
+        <ab xml:id="d1e40" n="3"> congregans hominem et pecus,/ congregans volatilia caeli et pisces
+          maris :/ et ruinae impiorum erunt,/ et disperdam homines a facie terrae, dicit
+          Dominus./</ab>
+        <ab xml:id="d1e43" n="4"> Et extendam manum meam super Judam/ et super omnes habitantes
+          Jerusalem :/ et disperdam de loco hoc reliquias Baal,/ et nomina aedituorum cum
+          sacerdotibus ;/</ab>
+        <ab xml:id="d1e46" n="5"> et eos qui adorant super tecta militiam caeli,/ et adorant et
+          jurant in Domino,/ et jurant in Melchom ;/</ab>
+        <ab xml:id="d1e50" n="6"> et qui avertuntur de post tergum Domini,/ et qui non quaesierunt
+          Dominum,/ nec investigaverunt eum./</ab>
+        <ab xml:id="d1e53" n="7"> Silete a facie Domini Dei,/ quia juxta est dies Domini :/ quia
+          praeparavit Dominus hostiam ;/ sanctificavit vocatos suos./</ab>
+        <ab xml:id="d1e56" n="8"> Et erit : in die hostiae Domini,/ visitabo super principes,/ et
+          super filios regis,/ et super omnes qui induti sunt veste peregrina ;/</ab>
+        <ab xml:id="d1e59" n="9"> et visitabo super omnem qui arroganter ingreditur super limen in
+          die illa,/ qui complent domum Domini Dei sui iniquitate et dolo./</ab>
+        <ab xml:id="d1e62" n="10"> Et erit in die illa, dicit Dominus,/ vox clamoris a porta
+          piscium,/ et ululatus a Secunda,/ et contritio magna a collibus./</ab>
+        <ab xml:id="d1e65" n="11"> Ululate, habitatores Pilae :/ conticuit omnis populus Chanaan,/
+          disperierunt omnes involuti argento./</ab>
+        <ab xml:id="d1e69" n="12"> Et erit in tempore illo :/ scrutabor Jerusalem in lucernis,/ et
+          visitabo super viros defixos in faecibus suis,/ qui dicunt in cordibus suis :/ Non faciet
+          bene Dominus, et non faciet male./</ab>
+        <ab xml:id="d1e72" n="13"> Et erit fortitudo eorum in direptionem,/ et domus eorum in
+          desertum :/ et aedificabunt domos, et non habitabunt ;/ et plantabunt vineas, et non
+          bibent vinum earum./</ab>
+        <ab xml:id="d1e75" n="14"> Juxta est dies Domini magnus :/ juxta est, et velox nimis./ Vox
+          diei Domini amara :/ tribulabitur ibi fortis./</ab>
+        <ab xml:id="d1e78" n="15"> Dies irae dies illa,/ dies tribulationis et angustiae,/ dies
+          calamitatis et miseriae,/ dies tenebrarum et caliginis,/ dies nebulae et turbinis,/</ab>
+        <ab xml:id="d1e81" n="16"> dies tubae et clangoris super civitates munitas,/ et super
+          angulos excelsos./</ab>
+        <ab xml:id="d1e84" n="17"> Et tribulabo homines, et ambulabunt ut caeci,/ quia Domino
+          peccaverunt ;/ et effundetur sanguis eorum sicut humus,/ et corpora eorum sicut
+          stercora./</ab>
+        <ab xml:id="d1e88" n="18"> Sed et argentum eorum et aurum eorum non poterit liberare eos/ in
+          die irae Domini :/ in igne zeli ejus devorabitur omnis terra,/ quia consummationem cum
+          festinatione faciet/ cunctis habitantibus terram.]</ab>
+      </div>
+      <div xml:id="d1e92" type="chap" n="2">
+        <ab xml:id="d1e94" n="1"> [Convenite, congregamini, gens non amabilis,/</ab>
+        <ab xml:id="d1e97" n="2"> priusquam pariat jussio quasi pulverem transeuntem diem,/ antequam
+          veniat super vos ira furoris Domini,/ antequam veniat super vos dies indignationis
+          Domini./</ab>
+        <ab xml:id="d1e100" n="3"> Quaerite Dominum, omnes mansueti terrae,/ qui judicium ejus estis
+          operati ;/ quaerite justum, quaerite mansuetum,/ si quomodo abscondamini in die furoris
+          Domini./</ab>
+        <ab xml:id="d1e103" n="4"> Quia Gaza destructa erit,/ et Ascalon in desertum :/ Azotum in
+          meridie ejicient,/ et Accaron eradicabitur./</ab>
+        <ab xml:id="d1e106" n="5"> Vae qui habitatis funiculum maris, gens perditorum !/ verbum
+          Domini super vos, Chanaan, terra Philisthinorum ;/ et disperdam te, ita ut non sit
+          inhabitator./</ab>
+        <ab xml:id="d1e110" n="6"> Et erit funiculus maris requies pastorum, et caulae pecorum
+          ;/</ab>
+        <ab xml:id="d1e113" n="7"> et erit funiculus ejus qui remanserit de domo Juda : ibi
+          pascentur,/ in domibus Ascalonis ad vesperam requiescent,/ quia visitabit eos Dominus Deus
+          eorum,/ et avertet captivitatem eorum./</ab>
+        <ab xml:id="d1e116" n="8"> Audivi opprobrium Moab,/ et blasphemias filiorum Ammon,/ quae
+          exprobraverunt populo meo,/ et magnificati sunt super terminos eorum./</ab>
+        <ab xml:id="d1e119" n="9"> Propterea vivo ego, dicit Dominus exercituum, Deus Israël,/ quia
+          Moab ut Sodoma erit,/ et filii Ammon quasi Gomorrha :/ siccitas spinarum, et acervi
+          salis,/ et desertum usque in aeternum :/ reliquiae populi mei diripient eos,/ et residui
+          gentis meae possidebunt illos./</ab>
+        <ab xml:id="d1e122" n="10"> Hoc eis eveniet pro superbia sua,/ quia blasphemaverunt et
+          magnificati sunt/ super populum Domini exercituum./</ab>
+        <ab xml:id="d1e125" n="11"> Horribilis Dominus super eos,/ et attenuabit omnes deos terrae
+          :/ et adorabunt eum viri de loco suo,/ omnes insulae gentium./</ab>
+        <ab xml:id="d1e129" n="12"> Sed et vos, Aethiopes, interfecti gladio meo eritis./</ab>
+        <ab xml:id="d1e132" n="13"> Et extendet manum suam super aquilonem, et perdet Assur,/ et
+          ponet speciosam in solitudinem,/ et in invium, et quasi desertum./</ab>
+        <ab xml:id="d1e135" n="14"> Et accubabunt in medio ejus greges, omnes bestiae gentium ;/ et
+          onocrotalus et ericius in liminibus ejus morabuntur :/ vox cantantis in fenestra,/ corvus
+          in superliminari,/ quoniam attenuabo robur ejus./</ab>
+        <ab xml:id="d1e138" n="15"> Haec est civitas gloriosa habitans in confidentia,/ quae dicebat
+          in corde suo :/ Ego sum, et extra me non est alia amplius :/ quomodo facta est in desertum
+          cubile bestiae ?/ omnis qui transit per eam sibilabit,/ et movebit manum suam.]</ab>
+      </div>
+      <div xml:id="d1e142" type="chap" n="3">
+        <ab xml:id="d1e144" n="1"> [Vae provocatrix, et redempta civitas, columba !/</ab>
+        <ab xml:id="d1e147" n="2"> non audivit vocem,/ et non suscepit disciplinam ;/ in Domino non
+          est confisa,/ ad Deum suum non appropinquavit./</ab>
+        <ab xml:id="d1e150" n="3"> Principes ejus in medio ejus quasi leones rugientes ;/ judices
+          ejus lupi vespere, non relinquebant in mane./</ab>
+        <ab xml:id="d1e153" n="4"> Prophetae ejus vesani, viri infideles ;/ sacerdotes ejus
+          polluerunt sanctum,/ injuste egerunt contra legem./</ab>
+        <ab xml:id="d1e156" n="5"> Dominus justus in medio ejus non faciet iniquitatem ;/ mane, mane
+          judicium suum dabit in lucem, et non abscondetur ;/ nescivit autem iniquus
+          confusionem./</ab>
+        <ab xml:id="d1e160" n="6"> Disperdidi gentes,/ et dissipati sunt anguli earum ;/ desertas
+          feci vias eorum,/ dum non est qui transeat ;/ desolatae sunt civitates eorum,/ non
+          remanente viro, neque ullo habitatore./</ab>
+        <ab xml:id="d1e163" n="7"> Dixi : Attamen timebis me,/ suscipies disciplinam ;/ et non
+          peribit habitaculum ejus,/ propter omnia in quibus visitavi eam :/ verumtamen diluculo
+          surgentes corruperunt omnes cogitationes suas./</ab>
+        <ab xml:id="d1e166" n="8"> Quapropter exspecta me, dicit Dominus,/ in die resurrectionis
+          meae in futurum :/ quia judicium meum ut congregem gentes,/ et colligam regna,/ et
+          effundam super eos indignationem meam,/ omnem iram furoris mei :/ in igne enim zeli mei
+          devorabitur omnis terra.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e170" n="9"> [Quia tunc reddam populis labium electum,/ ut invocent omnes in
+          nomine Domini,/ et serviant ei humero uno./</ab>
+        <ab xml:id="d1e173" n="10"> Ultra flumina Aethiopiae, inde supplices mei ;/ filii
+          dispersorum meorum deferent munus mihi./</ab>
+        <ab xml:id="d1e176" n="11"> In die illa non confunderis super cunctis adinventionibus tuis,/
+          quibus praevaricata es in me,/ quia tunc auferam de medio tui magniloquos superbiae tuae,/
+          et non adjicies exaltari amplius in monte sancto meo./</ab>
+        <ab xml:id="d1e180" n="12"> Et derelinquam in medio tui populum pauperem et egenum :/ et
+          sperabunt in nomine Domini./</ab>
+        <ab xml:id="d1e183" n="13"> Reliquiae Israël non facient iniquitatem,/ nec loquentur
+          mendacium,/ et non invenietur in ore eorum lingua dolosa,/ quoniam ipsi pascentur, et
+          accubabunt,/ et non erit qui exterreat./</ab>
+        <ab xml:id="d1e186" n="14"> Lauda, filia Sion ; jubila, Israël :/ laetare, et exsulta in
+          omni corde, filia Jerusalem./</ab>
+        <ab xml:id="d1e189" n="15"> Abstulit Dominus judicium tuum ;/ avertit inimicos tuos./ Rex
+          Israël Dominus in medio tui :/ non timebis malum ultra./</ab>
+        <ab xml:id="d1e192" n="16"> In die illa dicetur Jerusalem :/ Noli timere ; Sion : Non
+          dissolvantur manus tuae./</ab>
+        <ab xml:id="d1e195" n="17"> Dominus Deus tuus in medio tui fortis, ipse salvabit :/ gaudebit
+          super te in laetitia,/ silebit in dilectione sua,/ exsultabit super te in laude./</ab>
+        <ab xml:id="d1e199" n="18"> Nugas, qui a lege recesserant,/ congregabo, quia ex te erant :/
+          ut non ultra habeas super eis opprobrium./</ab>
+        <ab xml:id="d1e202" n="19"> Ecce ego interficiam omnes qui afflixerunt te in tempore illo :/
+          et salvabo claudicantem,/ et eam quae ejecta fuerat congregabo :/ et ponam eos in laudem,
+          et in nomen,/ in omni terra confusionis eorum,/</ab>
+        <ab xml:id="d1e205" n="20"> in tempore illo quo adducam vos,/ et in tempore quo congregabo
+          vos./ Dabo enim vos in nomen,/ et in laudem omnibus populis terrae,/ cum convertero
+          captivitatem vestram coram oculis vestris,/ dicit Dominus.]</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Clementine Vulgate Bible </title>
+      </titleStmt>
+      <publicationStmt>
+        <ab>The text has been released into the public domain. Those who use it are requested to
+          acknowledge their source, report typographical errors to the project maintainer, and make
+          clear any modifications they make, but these are only requests that are not enforced by
+          any licence.</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <ab>Downloaded from the site http://vulsearch.sourceforge.net/ in March 2017,and converted
+          to TEI XML using a simple perl script. </ab>
+        <ab>There is a single, definitive Clementine text, namely the Editio Typica published by the
+          Typographus Vaticanus in 1598 under the title "Biblia Sacra Vulgatæ editionis, Sixti V
+          Pontificis Maximi jussu recognita et edita". However, the text here has necessarily been
+          derived from later sources, principally that edited by A. Colunga and L. Turrado (La
+          Editorial Católica, Madrid, 1946). For dubious readings, the editions of C. Vercellone
+          (Typis S. Congregationis de Propaganda Fide, Rome, 1861) and M. Hetzenauer (Pustet &amp;
+          Co, 1914) were also consulted. </ab>
+      </sourceDesc>
+
+    </fileDesc>
+    <revisionDesc>
+      <change when="2017-03-29">Converted to TEI XML and validated against KJV1611 schema</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+
+    <xi:include href="front.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+    <body>
+      <!-- Old Testament -->
+      <!-- Genesis -->
+      <xi:include href="Gn.xml"/>
+      <!-- Exodus -->
+      <xi:include href="Ex.xml"/>
+      <!-- Leviticus -->
+      <xi:include href="Lv.xml"/>
+      <!-- Numeri -->
+      <xi:include href="Nm.xml"/>
+      <!-- Deuteronomium -->
+      <xi:include href="Dt.xml"/>
+      <!-- Josue -->
+      <xi:include href="Jos.xml"/>
+      <!-- Judicum -->
+      <xi:include href="Jdc.xml"/>
+      <!-- Ruth -->
+      <xi:include href="Rt.xml"/>
+      <!-- Regum I -->
+      <xi:include href="1Rg.xml"/>
+      <!-- Regum II -->
+      <xi:include href="2Rg.xml"/>
+      <!-- Regum III -->
+      <xi:include href="3Rg.xml"/>
+      <!-- Regum IV -->
+      <xi:include href="4Rg.xml"/>
+      <!-- Paralipomenon I -->
+      <xi:include href="1Par.xml"/>
+      <!-- Paralipomenon II -->
+      <xi:include href="2Par.xml"/>
+      <!-- Esdræ -->
+      <xi:include href="Esr.xml"/>
+      <!-- Nehemiæ -->
+      <xi:include href="Neh.xml"/>
+      <!-- Tobiæ -->
+      <xi:include href="Tob.xml"/>
+      <!-- Judith -->
+      <xi:include href="Jdt.xml"/>
+      <!-- Esther -->
+      <xi:include href="Est.xml"/>
+      <!-- Job -->
+      <xi:include href="Job.xml"/>
+      <!-- Psalmi -->
+      <xi:include href="Ps.xml"/>
+      <!-- Proverbia -->
+      <xi:include href="Pr.xml"/>
+      <!-- Ecclesiastes -->
+      <xi:include href="Ecl.xml"/>
+      <!-- Canticum Canticorum -->
+      <xi:include href="Ct.xml"/>
+      <!-- Sapientia -->
+      <xi:include href="Sap.xml"/>
+      <!-- Ecclesiasticus -->
+      <xi:include href="Sir.xml"/>
+      <!-- Isaias -->
+      <xi:include href="Is.xml"/>
+      <!-- Jeremias -->
+      <xi:include href="Jr.xml"/>
+      <!-- Lamentationes -->
+      <xi:include href="Lam.xml"/>
+      <!-- Baruch -->
+      <xi:include href="Bar.xml"/>
+      <!-- Ezechiel -->
+      <xi:include href="Ez.xml"/>
+      <!-- Daniel -->
+      <xi:include href="Dn.xml"/>
+      <!-- Osee -->
+      <xi:include href="Os.xml"/>
+      <!-- Joël -->
+      <xi:include href="Joel.xml"/>
+      <!-- Amos -->
+      <xi:include href="Am.xml"/>
+      <!-- Abdias -->
+      <xi:include href="Abd.xml"/>
+      <!-- Jonas -->
+      <xi:include href="Jon.xml"/>
+      <!-- Michæa -->
+      <xi:include href="Mch.xml"/>
+      <!-- Nahum -->
+      <xi:include href="Nah.xml"/>
+      <!-- Habacuc -->
+      <xi:include href="Hab.xml"/>
+      <!-- Sophonias -->
+      <xi:include href="Soph.xml"/>
+      <!-- Aggæus -->
+      <xi:include href="Agg.xml"/>
+      <!-- Zacharias -->
+      <xi:include href="Zach.xml"/>
+      <!-- Malachias -->
+      <xi:include href="Mal.xml"/>
+      <!-- Machabæorum I -->
+      <xi:include href="1Mcc.xml"/>
+      <!-- Machabæorum II -->
+      <xi:include href="2Mcc.xml"/>
+      <!-- New Testament -->
+      <!-- Matthæus -->
+      <xi:include href="Mt.xml"/>
+      <!-- Marcus -->
+      <xi:include href="Mc.xml"/>
+      <!-- Lucas -->
+      <xi:include href="Lc.xml"/>
+      <!-- Joannes -->
+      <xi:include href="Jo.xml"/>
+      <!-- Actus Apostolorum -->
+      <xi:include href="Act.xml"/>
+      <!-- ad Romanos -->
+      <xi:include href="Rom.xml"/>
+      <!-- ad Corinthios I -->
+      <xi:include href="1Cor.xml"/>
+      <!-- ad Corinthios II -->
+      <xi:include href="2Cor.xml"/>
+      <!-- ad Galatas -->
+      <xi:include href="Gal.xml"/>
+      <!-- ad Ephesios -->
+      <xi:include href="Eph.xml"/>
+      <!-- ad Philippenses -->
+      <xi:include href="Phlp.xml"/>
+      <!-- ad Colossenses -->
+      <xi:include href="Col.xml"/>
+      <!-- ad Thessalonicenses I -->
+      <xi:include href="1Thes.xml"/>
+      <!-- ad Thessalonicenses II -->
+      <xi:include href="2Thes.xml"/>
+      <!-- ad Timotheum I -->
+      <xi:include href="1Tim.xml"/>
+      <!-- ad Timotheum II -->
+      <xi:include href="2Tim.xml"/>
+      <!-- ad Titum -->
+      <xi:include href="Tit.xml"/>
+      <!-- ad Philemonem -->
+      <xi:include href="Phlm.xml"/>
+      <!-- ad Hebræos -->
+      <xi:include href="Hbr.xml"/>
+      <!-- Jacobi -->
+      <xi:include href="Jac.xml"/>
+      <!-- Petri I -->
+      <xi:include href="1Ptr.xml"/>
+      <!-- Petri II -->
+      <xi:include href="2Ptr.xml"/>
+      <!-- Joannis I -->
+      <xi:include href="1Jo.xml"/>
+      <!-- Joannis II -->
+      <xi:include href="2Jo.xml"/>
+      <!-- Joannis III -->
+      <xi:include href="3Jo.xml"/>
+      <!-- Judæ -->
+      <xi:include href="Jud.xml"/>
+      <!-- Apocalypsis -->
+      <xi:include href="Apc.xml"/>
+    </body>
+  </text>
+</TEI>

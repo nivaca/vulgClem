@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <front>
+        <div xml:id="d1e31" type="imprimatur">
+          <p>The Bishops' Conference of England and Wales gives its approval
+ to the publication of Biblia Sacra juxta Vulgatam Clementinam.
+ Published with approbation. CBCEW, 9th January 2006.</p>
+        </div>
+        <div xml:id="d1e36" type="praef">
+          <head>Praefatio hujus editionis</head>
+          <p>Clementis Papae VIII nomen casu Vulgatae adhaeret.
+ Haec enim sanctarum Scripturarum editio, cum Sixto V regnante
+ patrata fuisset, illo mortuo tandem sub pontificatu Clementis publicata
+ est. Attamen vere decet ut iste Clemens, cum sit institutorum Concilii
+ Tridentini aemuli exemplar, hoc bonum ejusdem Synodus fructum
+ perficiat.</p>
+          <p>Sapientissimo fretus consilio S. Philippi Nerii, Sancti Spiritus
+ caritate exaestuantis, ad ecclesiasticam disciplinam reparandam, et
+ errores corruptelasque exstirpandas, indefesse laboravit ; et pro
+ Ecclesiae libertate acriter pugnavit. Tantus autem Clemens fidem
+ catholicam tutus est opere et sermone, quantus et ipsius Vulgata
+ revelationem Dei ab imminentibus periculis custodivit.</p>
+          <p>Hieronymi enim Doctoris maximi ex lingua hebraea translatione, ita
+ per nongentos annos fruiti sunt doctissimi Ecclesiae filii, ut
+ ceterae translationes latinae pene evanuissent : illius
+ autem innumerabilibus vicibus descriptae, ae tot fuisse
+ exemplaria, quot codices ae. Quando ergo Lutherus flagitiosa
+ rebellione ab Ecclesia descivit, hac confusione abusus est ut verba
+ Evangelii corrumperet, et suam falsam doctrinam defenderet. Quam ob causam
+ opus erat ut authentica divinarum Scripturarum editio, diligenter emendata
+ atque castigata, imprimeretur cum plena Apostolicae Sedis
+ auctoritate ; sacrosancta itaque Tridentina Synodus, Spiritu Sancto
+ gubernante, hoc jussit, et ab ea jussum, a Clemente VIII est
+ consummatum.</p>
+          <p>Porro XX saeculo incipiente, antiquissimis jam alteris
+ manuscriptis aliunde inventis, ut Bibliae editionem puram
+ accuratamque Ecclesia semper haberet sollicitus, Sanctus Pius X
+ Commissioni Pontificiae de re biblica mandavit ut pristinam Hieronymi
+ versionem, quantum fieri potuit, componeret. Primo Card. Gasquet,
+ deinde D. Henrico Quentin, hoc onus delegatum est. Novissime,
+ defunctis illis, Abbatia Pontificia S. Hieronymi a Pio XI Romae
+ fundata est, ut monachi Benedictini artis criticae peritissimi ibi
+ opus emolirentur. Singulis deinceps annuentibus Papis, minutim sancti
+ libri emittebantur, et postremo anno salutis MCMXCV Biblia tota
+ perfecta est.</p>
+          <p>Interim, eheu, interveniebant eventus infelices apud Ecclesiam.
+ S. Pius X voluerat constabiliri translationem pristinam
+ S. Hieronymi ut exinde confectura esset Vulgata ad usum
+ Ecclesiae quam accuratissime repurgata ; sed illius voluntatem
+ parvipendentes, malebant viri tumidi translationem novam secundum gustus
+ proprios facere, interpretationem vero Hieronymi negligere omnino. Quin
+ etiam aetate nostra, errores illi pessimi, quos idem Pius
+ vehementissime condemnavit, Ecclesiam Dei aperte infestant, et Lutherus
+ dimidium errorum coaequalum nostrorum non cogitavit. Oportet nos
+ igitur Vulgatam Clementinam fideliter amplexari donec, omnibus
+ instauratis in Christo, Pii X propositum demum efficiatur.</p>
+          <trailer>Scribebam Londini, in festo D. N. J. C. Regis, 31 Octobris 2004.</trailer>
+        </div>
+        <div xml:id="d1e54" type="praef">
+          <head>Ex Concilio Tridentino, sess. 4 (8 aprilis 1546)</head>
+          <div xml:id="d1e58">
+            <head>Decretum de canonicis Scripturis</head>
+            <p>Sacrosancta aecumenica et generalis Tridentina Synodus, in Spiritu
+ Sancto legitime congregata, praesidentibus in ea eisdem tribus
+ Apostolicae Sedis legatis, hoc sibi perpetuo ante oculos proponens,
+ ut, sublatis erroribus, puritas ipsa Evangelii in Ecclesia conservetur :
+ quod promissum ante per prophetas in Scripturis sanctis, Dominus noster
+ Jesus Christus, Dei Filius, proprio ore primum promulgavit, deinde per
+ suos apostolos, tamquam fontem omnis et salutaris veritatis et morum
+ disciplinae, omni creaturae praedicari jussit : perspiciensque
+ hanc veritatem et disciplinam contineri in libris scriptis et sine scripto
+ traditionibus, quae ab ipsius Christi ore ab apostolis acceptae, aut
+ ab ipsis apostolis Spiritu Sancto dictante, quasi per manus traditae, ad
+ nos usque pervenerunt : orthodoxorum Patrum exempla secuta, omnes libros
+ tam Veteris quam Novi Testamenti, cum utriusque unus Deus sit auctor, nec
+ non traditiones ipsas, tum ad fidem, tum ad mores pertinentes, tamquam vel
+ oretenus a Christo, vel a Spiritu Sancto dictatas, et continua successione
+ in Ecclesia catholica conservatas, pari pietatis affectu ac reverentia
+ suscipit ac veneratur.</p>
+            <p>Sacrorum vero librorum indicem huic decreto ascribendum censuit, ne cui
+ dubitatio suboriri possit, quinam sint, qui ab ipsa Synodo suscipiuntur.
+ Sunt vero infrascripti :</p>
+            <p>Testamenti Veteris : quinque Moysi, id est Genesis, Exodus,
+ Leviticus, Numeri, Deuteronomium ; Josue, Judicum, Ruth, quatuor
+ Regum, duo Paralipomenon, Esdrae primus et secundus, qui dicitur
+ Nehemias, Tobias, Judith, Esther, Job, Psalterium Davidicum centum
+ quinquaginta psalmorum, Parabolae, Ecclesiastes, Canticum Canticorum,
+ Sapientia, Ecclesiasticus, Isaias, Jeremias cum Baruch, Ezechiel, Daniel,
+ duodecim prophetae minores, id est : Osee, Joael, Amos, Abdias,
+ Jonas, Michaeas, Nahum, Habacuc, Sophonias, Aggaeus, Zacharias,
+ Malachias ; duo Machabaeorum, primus et secundus.</p>
+            <p>Testamenti Novi : quatuor Evangelia, secundum Matthaeum,
+ Marcum, Lucam, Joannem ; Actus Apostolorum a Luca Evangelista
+ conscripti ; quatuordecim epistolae Pauli Apostoli : ad
+ Romanos, duae ad Corinthios, ad Galatas, ad Ephesios, ad
+ Philippenses, ad Colossenses, duae ad Thessalonicenses, duae ad
+ Timotheum, ad Titum, ad Philemonem, ad Hebraeos ; Petri Apostoli
+ duae ; Joannis Apostoli tres ; Jacobi Apostoli una ;
+ Judae Apostoli una et Apocalypsis Joannis Apostoli.</p>
+            <p>Si quis autem libros ipsos integros cum omnibus suis partibus, prout in
+ Ecclesia catholica legi consueverunt, et in veteri Vulgata latina editione
+ habentur, pro sacris et canonicis non susceperit, et traditiones
+ praedictas sciens et prudens contempserit, anathema sit.</p>
+          </div>
+          <div xml:id="d1e71">
+            <head>Decretum de editione et usu sacrorum librorum</head>
+            <p>Insuper eadem sacrosancta Synodus, considerans non parum utilitatis
+ accedere posse Ecclesiae Dei, si ex omnibus latinis editionibus,
+ quae circumferuntur sacrorum librorum, quae nam pro authentica
+ habenda sit, innotescat : statuit et declarat, ut haec ipsa
+ vetus et Vulgata editio, quae longo tot saeculorum usu in ipsa
+ Ecclesia probata est, in publicis lectionibus, disputationibus,
+ praedicationibus et expositionibus pro authentica habeatur, ut nemo
+ illam rejicere quovis praetextu audeat vel praesumat.</p>
+            <p>Praeterea ad coaercenda petulantia ingenia decernit, ut nemo,
+ suae prudentiae innixus, in rebus fidei et morum ad
+ aedificationem doctrinae christianae pertinentium, sacram
+ Scripturam ad suos sensus contorquens, contra eum sensum, quem tenuit et
+ tenet sancta mater Ecclesia, cujus est judicare de vero sensu et
+ interpretatione Scripturarum sanctarum, aut etiam contra unanimen
+ consensum Patrum, ipsam Scripturam sacram interpretari audeat, etiamsi
+ hujusmodi interpretationes nullo umquam tempore in lucem edendae
+ forent. Qui contravenerint, per Ordinarios declarentur, et paenis a
+ jure statutis puniantur.</p>
+            <p>Sed et impressoribus modum in hac parte, ut par est, imponere volens,
+ qui jam sine modo, hoc est putantes sibi licere, quidquid libet, sine
+ licentia superiorum ecclesiasticorum, ipsos sacrae Scripturae
+ libros, et super illis annotationes et expositiones quorumlibet
+ indifferenter, saepe tacito, saepe etiam ementito prelo, et quod
+ gravius est, sine nomine auctoris imprimunt, alibi etiam impressos libros
+ hujusmodi temere venales habent : decernit et statuit, ut posthac
+ sacra Scriptura, potissimum vero haec ipsa vetus et Vulgata editio,
+ quam emendatissime imprimatur, nullique liceat imprimere, vel imprimi
+ facere, quosvis libros de rebus sacris sine nomine auctoris, neque illos
+ in futurum vendere, aut etiam apud se retinere, nisi primum examinati
+ probatique fuerint ab Ordinario, sub paena anathematis et
+ pecuniae in canone Concilii novissimi Lateranensis apposita. Et si
+ regulares fuerint, ultra examinationem et probationem hujusmodi, licentiam
+ quoque a suis superioribus impetrare teneantur, recognitis per eos libris,
+ juxta formam suarum ordinationum. Qui autem scripto eos communicant, vel
+ evulgant, nisi antea examinati probatique fuerint, eisdem paenis
+ subjaceant, quibus impressores. Et qui eos habuerint vel legerint, nisi
+ prodiderint auctorem, pro auctoribus habeantur. Ipsa vero hujusmodi
+ librorum probatio in scriptis detur, atque ideo in fronte libri vel
+ scripti vel impressi authentice appareat ; idque totum, hoc est, et
+ probatio et examen, gratis fiat, ut probanda probentur et reprobentur
+ improbanda.</p>
+            <p>Post haec temeritatem illam reprimere volens, qua ad profana
+ quaeque convertuntur et torquentur verba et sententiae
+ sacrae Scripturae, ad scurrilia scilicet, fabulosa, vana,
+ adulationes, detractiones, superstitiones, impias et diabolicas
+ incantationes, divinationes, sortes, libellos etiam famosos, mandat et
+ praecipit, ad tollendam hujusmodi irreverentiam et contemptum, et ne
+ de cetero quisquam quomodolibet verba Scripturae sacrae ad
+ haec et similia audeat usurpare, ut omnes hujus generis homines,
+ temeratores et violatores verbi Dei, juris et arbitrii paenis per
+ Episcopos coaerceantur.</p>
+          </div>
+        </div>
+        <div xml:id="d1e83" type="praef">
+          <head>Clemens Papa VIII ad perpetuam rei memoriam</head>
+          <p>Cum sacrorum Bibliorum Vulgatae editionis textus summis laboribus
+ ac vigiliis restitutus, et quam accuratissime mendis expurgatus,
+ benedicente Domino, ex nostra typographia Vaticana in lucem prodeat ;
+ Nos, ut in posterum idem textus incorruptus, ut decet, conservetur,
+ opportune providere volentes, auctoritate apostolica, tenore
+ praesentium districtius inhibemus, ne intra decem annos a data
+ praesentium numerandos, tam citra quam ultra montes, alibi quam in
+ nostra Vaticana typographia, a quoquam imprimatur. Elapso autem prae
+ fato decennio, eam cautionem adhiberi praecipimus, ut nemo hanc
+ sanctarum Scripturarum editionem typis mandare praesumat, nisi habito
+ prius exemplari in typographia Vaticana excuso : cujus exemplaris
+ forma, ne minima quidem particula de textu mutata, addita, vel ab eo
+ detracta, nisi aliquid occurrat, quod typographicae incuriae
+ manifeste ascribendum sit, inviolabiliter observetur.</p>
+          <p>Si quis vero typographus in quibuscumque regnis, civitatibus,
+ provinciis, et locis tam nostrae et S. R. E. ditioni in
+ temporalibus subjectis, quam non subjectis, hanc eamdem sacrarum
+ Scripturarum editionem intra decennium prae dictum quoquo modo,
+ elapso autem decennio, aliter quam juxta hujusmodi exemplar, ut
+ praefertur, imprimere, vendere, venales habere, aut alias edere vel
+ evulgare : aut si quis bibliopola a se vel ab aliis quibusvis, post
+ datam praesentium, hujus editionis impressos libros, seu imprimendos
+ a praefato restituto et correcto textu in aliquo discrepantes, seu ab
+ alio, quam a typographo Vaticano, intra decennium excusos, pariter
+ vendere, venales proponere, vel evulgare praesumpserit, ultra
+ amissionem omnium librorum, et alias arbitrio nostro infligendas
+ paenas temporales, etiam majoris excommunicationis sententiam eo ipso
+ incurrat : a qua nisi a Romano Pontifice, praeterquam in mortis
+ articulo constitutus, absolvi non possit.</p>
+          <p>Mandamus itaque universis et singulis, Patriarchis, Archiepiscopis,
+ Episcopis, ceterisque Ecclesiarum et locorum, etiam regularium
+ Praelatis, ut prae sentes litteras in suis quisque Ecclesiis et
+ jurisdictionibus ab omnibus inviolate perpetuo observari curent ac
+ faciant. Contradictores per censuras ecclesiasticas, aliaque opportuna
+ juris et facti remedia, appellatione postposita, compescendo, invocato
+ etiam ad hoc, si opus fuerit, auxilio brachii saecularis ; non
+ obstantibus constitutionibus, et ordinationibus apostolicis, ac in
+ generalibus, provincialibus, vel synodalibus Conciliis editis generalibus,
+ vel specialibus, ac quarumcumque Ecclesiarum, Ordinum, Congregationum,
+ Collegiorum atque Universitatum, etiam studiorum generalium juramento,
+ confirmatione apostolica, vel quavis firmitate alia roboratis, statutis,
+ et consuetudinibus, ac privilegiis, indultis, ac litteris apostolicis in
+ contrarium quomodocumque emanatis, et emanandis : quibus omnibus ad
+ hunc effectum latissime derogamus, ac derogatum esse decernimus. Volumus
+ autem, ut praesentium trans sumptis etiam in ipsis voluminibus
+ impressis eadem, in judicio et extra, fides ubique adhibeatur, quae
+ ipsis praesentibus adhiberetur, si forent exhibitae, vel ostensae.
+ </p>
+          <trailer>Datum Romae, apud Sanctum Petrum sub Annulo Piscatoris, die IX novembris MDXCII,
+            Pont. Nostri anno I.</trailer>
+          <trailer>M. Vestrius Barbianus</trailer>
+        </div>
+        <div xml:id="d1e98" type="praef">
+          <head>Praefatio ad lectorem (ex editione vaticana anni 1592)</head>
+          <p>In multis magnisque beneficiis, quae per sacram
+ Tridentinam Synodum Ecclesiae suae Deus contulit, id in primis
+ numerandum videtur, quod inter tot latinas editiones divinarum
+ Scripturarum, solam veterem ac Vulgatam, quae longo tot
+ saeculorum usu in Ecclesia probata fuerat, gravissimo Decreto
+ authenticam declaravit. Nam, ut illud omittamus, quod ex recentibus
+ editionibus non paucae ad haereses hujus temporis confirmandas
+ licenter detortae videbantur : ipsa certe tanta versionum
+ varietas, atque diversitas magnam in Ecclesia Dei confusionem parere
+ potuisset. Jam enim hac nostra aetate illud fere evenisse constat,
+ quod sanctus Hieronymus tempore suo accidisse testatus est, tot scilicet
+ fuisse exemplaria, quot codices ; cum unusquisque pro arbitrio suo
+ adderet, vel detraheret.</p>
+          <p>Hujus autem veteris ac Vulgatae editionis tanta semper fuit
+ auctoritas, tamque excellens praestantia, ut eam ceteris omnibus
+ latinis editionibus longe anteferendam esse, apud aequos judices in
+ dubium revocari non posset. Qui namque in ea libri continentur (ut a
+ majoribus nostris quasi per manus traditum nobis est) partim ex sancti
+ Hieronymi translatione, vel emendatione suscepti sunt ; partim
+ retenti ex antiquissima quadam editione latina, quam sanctus Hieronymus
+ communem et Vulgatam, sanctus Augustinus Italam, sanctus Gregorius Veterem
+ translationem appellat.</p>
+          <p>Ac de Veteris quidem hujus, sive Italae editionis sinceritate
+ atque prae stantia praeclarum sancti Augustini testimonium
+ exstat in secundo libro <hi>De doctrina christiana</hi>,
+ ubi latinis omnibus editionibus, quae tunc plurimae
+ circumferebantur, Italam praeferendam censuit, quod esset, ut ipse
+ loquitur, verborum tenacior cum perspicuitate sententiae. De sancto
+ vero Hieronymo multa exstant veterum Patrum egregia testimonia : eum
+ enim sanctus Augustinus hominem doctissimum, ac trium linguarum
+ peritissimum vocat, atque ejus translationem ipsorum quoque
+ hebraeorum testimonio veracem esse confirmat. Eumdem sanctus
+ Gregorius ita praedicat, ut ejus translationem, quam novam appellat,
+ ex hebraeo eloquio cuncta verius transfudisse dicat : atque
+ idcirco dignissimam esse, cui fides in omnibus habeatur. Sanctus autem
+ Isidorus non uno in loco Hieronymianam versionem ceteris omnibus
+ anteponit, eamque ab ecclesiis christianis communiter recipi ac probari
+ affirmat, quod sit in verbis clarior, et veracior in sententiis.
+ Sophronius quoque, vir eruditissimus, sancti Hieronymi translationem non
+ latinis modo, sed etiam graecis valde probari animadvertens, tanti
+ eam fecit, ut psalterium et prophetas ex Hieronymi versione in
+ graecum eleganti sermone transtulerit. Porro qui secuti sunt, viri
+ doctissimi, Remigius, Beda, Rabanus, Haymo, Anselmus, Petrus Damiani,
+ Richardus, Hugo, Bernardus, Rupertus, Petrus Lombardus, Alexander,
+ Albertus, Thomas, Bonaventura, ceterique omnes, qui his nongentis annis in
+ Ecclesia floruerunt, sancti Hieronymi versione ita sunt usi, ut
+ ceterae, quae pene innumerabiles erant, quasi lapsae de
+ manibus theologorum, penitus obsoleverint. Quare non immerito catholica
+ Ecclesia sanctum Hieronymum doctorem maximum, atque ad Scripturas sacras
+ interpretandas divinitus excitatum ita celebrat, ut jam difficile non sit
+ illorum omnium damnare judicium, qui vel tam eximii doctoris
+ lucubrationibus non acquiescunt, vel etiam meliora, aut certe paria
+ praestare se posse confidunt.</p>
+          <p>Ceterum ne tam fidelis translatio, tamque in omnes partes
+ Ecclesiae utilis, vel injuria temporum, vel impressorum incuria, vel
+ temere emendantium audacia, ulla ex parte corrumperetur, eadem sacrosancta
+ Synodus Tridentina illud Decreto suo sapienter adjecit, ut haec ipsa
+ vetus ac Vulgata editio emendatissime, quoad fieri posset,
+ imprimeretur : neque ulli liceret eam sine facultate et approbatione
+ superiorum excudere. Quo Decreto simul typographorum temeritati ac
+ licentiae modum imposuit, et pastorum Ecclesiae in tanto bono
+ quam diligentissime retinendo, et conservando, vigilantiam, atque
+ industriam excitavit.</p>
+          <p>Et quamvis insignium Academiarum Theologi in editione Vulgata pristino
+ suo nitori restituenda magna cum laude laboraverint ; quia tamen in
+ tanta re nulla potest esse nimia diligentia, et codices manuscripti
+ complures et vetustiores Summi Pontificis jussu conquisiti, atque in Urbem
+ advecti erant ; et demum, quoniam executio generalium Conciliorum, et
+ ipsa Scripturarum integritas ac puritas ad curam Apostolicae Sedis
+ potissimum pertinere cognoscitur ; ideo Pius IV Pontifex Maximus pro
+ sua in omnes Ecclesiae partes incredibili vigilantia, lectissimis
+ aliquot sanctae romanae Ecclesiae Cardinalibus, aliisque
+ tum Sacrarum litterarum, tum variarum linguarum peritissimis viris, eam
+ provinciam demandavit, ut Vulgatam editionem latinam, adhibitis
+ antiquissimis codicibus manuscriptis, inspectis quoque hebraicis,
+ graecisque bibliorum fontibus ; consultis denique veterum Patrum
+ commentariis, accuratissime castigarent. Quod itidem institutum Pius V
+ prosecutus est. Verum conventum illum ob varias, gravissimasque Sedis
+ Apostolicae occupationes jamdudum intermissum, Sixtus V divina
+ providentia ad summum Sacerdotium evocatus, ardentissimo studio revocavit,
+ et opus tandem confectum typis mandari jussit. Quod cum jam esset excusum,
+ et ut in lucem emitteretur, idem Pontifex operam daret, animadvertens non
+ pauca in sacra Biblia praeli vitio irrepsisse, quae iterata
+ diligentia indigere viderentur, totum opus sub incudem revocandum censuit
+ atque decrevit. Id vero cum morte praeventus prae stare non
+ potuisset, Gregorius XIV qui, post Urbani VII duodecim dierum
+ Pontificatum, Sixto successerat, ejus animi intentionem executus perficere
+ aggressus est, amplissimis aliquot Cardinalibus, aliisque doctissimis
+ viris ad hoc iterum deputatis. Sed eo quoque, et qui illi successit,
+ Innocentio IX brevissimo tempore de hac luce subtractis ; tandem sub
+ initium Pontificatus Clementis VIII qui nunc Ecclesiae universae
+ gubernacula tenet, opus, in quod Sixtus V intenderat, Deo bene juvante
+ perfectum est.</p>
+          <p>Accipe igitur, christiane lector, eodem Clemente Summo Pontifice
+ annuente, ex Vaticana typographia veterem ac Vulgatam sacrae
+ Scripturae editionem, quanta fieri potuit diligentia
+ castigatam : quam quidem sicut omnibus numeris absolutam, pro humana
+ imbecillitate affirmare difficile est, ita ceteris omnibus, quae ad
+ hanc usque diem prodierunt, emendatiorem, purioremque esse, minime
+ dubitandum. Et vero quamvis in hac Bibliorum recognitione in codicibus
+ manuscriptis, hebraeis, graecisque fontibus, et ipsis veterum
+ Patrum commentariis conferendis non mediocre studium adhibitum
+ fuerit ; in hac tamen pervulgata lectione sicut nonnulla consulto
+ mutata, ita etiam alia, quae mutanda videbantur, consulto immutata
+ relicta sunt ; tum quod ita faciendum esse ad offensionem populorum
+ vitandam sanctus Hieronymus non semel admonuit : tum quod facile
+ fieri posse credendum est, ut majores nostri, qui ex hebraeis, et
+ graecis latina fecerunt, copiam meliorum, et emendatiorum librorum
+ habuerint, quam ii, qui post illorum aetatem ad nos pervenerunt, qui
+ fortasse tam longo tempore identidem describendo minus puri, atque integri
+ evaserunt ; tum denique quia sacrae Congregationi amplissimorum
+ Cardinalium, aliisque eruditissimis viris ad hoc opus a Sede Apostolica
+ delectis propositum non fuit, novam aliquam editionem cudere, vel antiquum
+ interpretem ulla ex parte corrigere, vel emendare ; sed ipsam
+ veterem, ac Vulgatam editionem latinam a mendis veterum librariorum,
+ necnon pravarum emendationum erroribus repurgatam, suae
+ pristinae integritati, ac puritati, quoad ejus fieri potuit,
+ restituere ; eaque restituta, ut quam emendatissime imprimeretur
+ juxta Concilii aecumenici Decretum pro viribus operam dare.</p>
+          <p>Porro in hac editione nihil non canonicum, nihil ascititium, nihil
+ extraneum apponere visum est : atque ea causa fuit, cur liber tertius
+ et quartus Esdrae inscripti, quos inter canonicos libros sacra
+ Tridentina Synodus non annumeravit, ipsa etiam Manassae regis Oratio,
+ quae neque hebraice, neque graece quidem exstat, neque in
+ manuscriptis antiquioribus invenitur, neque pars est ullius canonici
+ libri, extra canonicae Scripturae seriem posita sint : et
+ nullae ad marginem concordantiae (quae posthac inibi apponi
+ non prohibentur), nullae notae, nullae variae
+ lectiones, nullae denique praefationes, nulla argumenta ad
+ librorum initia conspiciantur.</p>
+          <p>Sed sicut Apostolica Sedes industriam eorum non damnat, qui
+ concordantias locorum, varias lectiones, praefationes sancti
+ Hieronymi, et alia id genus in aliis editionibus inseruerunt ; ita
+ quoque non prohibet, quin alio genere caracteris in hac ipsa Vaticana
+ editione ejusmodi adjumenta pro studiosorum commoditate, atque utilitate
+ in posterum adjiciantur ; ita tamen, ut lectiones variae ad
+ marginem ipsius textus minime annotentur.</p>
+        </div>
+      </front>
+    </body>
+  </text>
+</TEI>

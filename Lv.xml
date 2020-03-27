@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Leviticus</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo
+          testimonii, dicens :</ab>
+        <ab xml:id="d1e36" n="2"> Loquere filiis Israël, et dices ad eos : Homo, qui obtulerit ex
+          vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,</ab>
+        <ab xml:id="d1e39" n="3"> si holocaustum fuerit ejus oblatio, ac de armento : masculum
+          immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum :</ab>
+        <ab xml:id="d1e42" n="4"> ponetque manum super caput hostiae, et acceptabilis erit, atque in
+          expiationem ejus proficiens.</ab>
+        <ab xml:id="d1e45" n="5"> Immolabitque vitulum coram Domino, et offerent filii Aaron
+          sacerdotes sanguinem ejus, fundentes per altaris circuitum, quod est ante ostium
+          tabernaculi :</ab>
+        <ab xml:id="d1e49" n="6"> detractaque pelle hostiae, artus in frusta concident.</ab>
+        <ab xml:id="d1e52" n="7"> Et subjicient in altari ignem, strue lignorum ante composita
+          :</ab>
+        <ab xml:id="d1e55" n="8"> et membra quae sunt caesa, desuper ordinantes, caput videlicet, et
+          cuncta quae adhaerent jecori,</ab>
+        <ab xml:id="d1e58" n="9"> intestinis et pedibus lotis aqua : adolebitque ea sacerdos super
+          altare in holocaustum et suavem odorem Domino.</ab>
+        <ab xml:id="d1e61" n="10"> Quod si de pecoribus oblatio est, de ovibus sive de capris
+          holocaustum, masculum absque macula offeret :</ab>
+        <ab xml:id="d1e64" n="11"> immolabitque ad latus altaris, quod respicit ad aquilonem, coram
+          Domino : sanguinem vero illius fundent super altare filii Aaron per circuitum :</ab>
+        <ab xml:id="d1e68" n="12"> dividentque membra, caput, et omnia quae adhaerent jecori, et
+          ponent super ligna, quibus subjiciendus est ignis :</ab>
+        <ab xml:id="d1e71" n="13"> intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit
+          sacerdos super altare in holocaustum et odorem suavissimum Domino.</ab>
+        <ab xml:id="d1e74" n="14"> Si autem de avibus, holocausti oblatio fuerit Domino, de
+          turturibus, aut pullis columbae,</ab>
+        <ab xml:id="d1e77" n="15"> offeret eam sacerdos ad altare : et retorto ad collum capite, ac
+          rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris :</ab>
+        <ab xml:id="d1e80" n="16"> vesiculam vero gutturis, et plumas projiciet prope altare ad
+          orientalem plagam, in loco in quo cineres effundi solent,</ab>
+        <ab xml:id="d1e83" n="17"> confringetque ascellas ejus, et non secabit, neque ferro dividet
+          eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio
+          suavissimi odoris Domino.</ab>
+      </div>
+      <div xml:id="d1e87" type="chap" n="2">
+        <ab xml:id="d1e89" n="1"> Anima cum obtulerit oblationem sacrificii Domino, simila erit ejus
+          oblatio ; fundetque super eam oleum, et ponet thus,</ab>
+        <ab xml:id="d1e92" n="2"> ac deferet ad filios Aaron sacerdotes : quorum unus tollet
+          pugillum plenum similae et olei, ac totum thus, et ponet memoriale super altare in odorem
+          suavissimum Domino.</ab>
+        <ab xml:id="d1e95" n="3"> Quod autem reliquum fuerit de sacrificio, erit Aaron et filiorum
+          ejus, Sanctum sanctorum de oblationibus Domini.</ab>
+        <ab xml:id="d1e98" n="4"> Cum autem obtuleris sacrificium coctum in clibano : de simila,
+          panes scilicet absque fermento, conspersos oleo, et lagana azyma oleo lita.</ab>
+        <ab xml:id="d1e101" n="5"> Si oblatio tua fuerit de sartagine, similae conspersae oleo et
+          absque fermento,</ab>
+        <ab xml:id="d1e105" n="6"> divides eam minutatim, et fundes super eam oleum.</ab>
+        <ab xml:id="d1e108" n="7"> Sin autem de craticula fuerit sacrificium, aeque simila oleo
+          conspergetur :</ab>
+        <ab xml:id="d1e111" n="8"> quam offerens Domino, trades manibus sacerdotis.</ab>
+        <ab xml:id="d1e114" n="9"> Qui cum obtulerit eam, tollet memoriale de sacrificio, et
+          adolebit super altare in odorem suavitatis Domino :</ab>
+        <ab xml:id="d1e117" n="10"> quidquid autem reliquum est, erit Aaron, et filiorum ejus,
+          Sanctum sanctorum de oblationibus Domini.</ab>
+        <ab xml:id="d1e120" n="11"> Omnis oblatio quae offeretur Domino, absque fermento fiet, nec
+          quidquam fermenti ac mellis adolebitur in sacrificio Domino.</ab>
+        <ab xml:id="d1e124" n="12"> Primitias tantum eorum offeretis ac munera : super altare vero
+          non imponentur in odorem suavitatis.</ab>
+        <ab xml:id="d1e127" n="13"> Quidquid obtuleris sacrificii, sale condies, nec auferes sal
+          foederis Dei tui de sacrificio tuo : in omni oblatione tua offeres sal.</ab>
+        <ab xml:id="d1e130" n="14"> Si autem obtuleris munus primarum frugum tuarum Domino de spicis
+          adhuc virentibus, torrebis igni, et confringes in morem farris, et sic offeres primitias
+          tuas Domino,</ab>
+        <ab xml:id="d1e133" n="15"> fundens supra oleum, et thus imponens, quia oblatio Domini est
+          :</ab>
+        <ab xml:id="d1e136" n="16"> de qua adolebit sacerdos in memoriam muneris partem farris
+          fracti, et olei, ac totum thus.</ab>
+      </div>
+      <div xml:id="d1e140" type="chap" n="3">
+        <ab xml:id="d1e142" n="1"> Quod si hostia pacificorum fuerit ejus oblatio, et de bobus
+          voluerit offerre, marem sive feminam, immaculata offeret coram Domino.</ab>
+        <ab xml:id="d1e145" n="2"> Ponetque manum super caput victimae suae, quae immolabitur in
+          introitu tabernaculi testimonii, fundentque filii Aaron sacerdotes sanguinem per altaris
+          circuitum.</ab>
+        <ab xml:id="d1e148" n="3"> Et offerent de hostia pacificorum in oblationem Domino, adipem
+          qui operit vitalia, et quidquid pinguedinis est intrinsecus :</ab>
+        <ab xml:id="d1e151" n="4"> duos renes cum adipe quo teguntur ilia, et reticulum jecoris cum
+          renunculis.</ab>
+        <ab xml:id="d1e154" n="5"> Adolebuntque ea super altare in holocaustum, lignis igne
+          supposito, in oblationem suavissimi odoris Domino.</ab>
+        <ab xml:id="d1e158" n="6"> Si vero de ovibus fuerit ejus oblatio et pacificorum hostia, sive
+          masculum obtulerit, sive feminam, immaculata erunt.</ab>
+        <ab xml:id="d1e161" n="7"> Si agnum obtulerit coram Domino,</ab>
+        <ab xml:id="d1e164" n="8"> ponet manum suam super caput victimae suae : quae immolabitur in
+          vestibulo tabernaculi testimonii : fundentque filii Aaron sanguinem ejus per circuitum
+          altaris.</ab>
+        <ab xml:id="d1e167" n="9"> Et offerent de pacificorum hostia sacrificium Domino : adipem et
+          caudam totam</ab>
+        <ab xml:id="d1e170" n="10"> cum renibus, et pinguedinem quae operit ventrem atque universa
+          vitalia, et utrumque renunculum cum adipe qui est juxta ilia, reticulumque jecoris cum
+          renunculis.</ab>
+        <ab xml:id="d1e173" n="11"> Et adolebit ea sacerdos super altare in pabulum ignis et
+          oblationis Domini.</ab>
+        <ab xml:id="d1e177" n="12"> Si capra fuerit ejus oblatio, et obtulerit eam Domino,</ab>
+        <ab xml:id="d1e180" n="13"> ponet manum suam super caput ejus : immolabitque eam in introitu
+          tabernaculi testimonii, et fundent filii Aaron sanguinem ejus per altaris circuitum.</ab>
+        <ab xml:id="d1e183" n="14"> Tollentque ex ea in pastum ignis dominici, adipem qui operit
+          ventrem, et qui tegit universa vitalia :</ab>
+        <ab xml:id="d1e186" n="15"> duos renunculos cum reticulo, quod est super eos juxta ilia, et
+          arvinam jecoris cum renunculis :</ab>
+        <ab xml:id="d1e189" n="16"> adolebitque ea super altare sacerdos in alimoniam ignis, et
+          suavissimi odoris. Omnis adeps, Domini erit</ab>
+        <ab xml:id="d1e192" n="17"> jure perpetuo in generationibus, et cunctis habitaculis vestris
+          : nec sanguinem nec adipem omnino comedetis.</ab>
+      </div>
+      <div xml:id="d1e196" type="chap" n="4">
+        <ab xml:id="d1e198" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e201" n="2"> Loquere filiis Israël : Anima, quae peccaverit per ignorantiam,
+          et de universis mandatis Domini, quae praecepit ut non fierent, quippiam fecerit :</ab>
+        <ab xml:id="d1e204" n="3"> si sacerdos, qui unctus est, peccaverit, delinquere faciens
+          populum, offeret pro peccato suo vitulum immaculatum Domino :</ab>
+        <ab xml:id="d1e207" n="4"> et adducet illum ad ostium tabernaculi testimonii coram Domino,
+          ponetque manum super caput ejus, et immolabit eum Domino.</ab>
+        <ab xml:id="d1e210" n="5"> Hauriet quoque de sanguine vituli, inferens illum in tabernaculum
+          testimonii.</ab>
+        <ab xml:id="d1e214" n="6"> Cumque intinxerit digitum in sanguine, asperget eo septies coram
+          Domino contra velum sanctuarii.</ab>
+        <ab xml:id="d1e217" n="7"> Ponetque de eodem sanguine super cornua altaris thymiamatis
+          gratissimi Domino, quod est in tabernaculo testimonii : omnem autem reliquum sanguinem
+          fundet in basim altaris holocausti in introitu tabernaculi.</ab>
+        <ab xml:id="d1e220" n="8"> Et adipem vituli auferet pro peccato, tam eum qui vitalia operit
+          quam omnia quae intrinsecus sunt :</ab>
+        <ab xml:id="d1e223" n="9"> duos renunculos et reticulum quod est super eos juxta ilia, et
+          adipem jecoris cum renunculis,</ab>
+        <ab xml:id="d1e226" n="10"> sicut aufertur de vitulo hostiae pacificorum : et adolebit ea
+          super altare holocausti.</ab>
+        <ab xml:id="d1e229" n="11"> Pellem vero et omnes carnes, cum capite et pedibus et intestinis
+          et fimo,</ab>
+        <ab xml:id="d1e233" n="12"> et reliquo corpore, efferet extra castra in locum mundum, ubi
+          cineres effundi solent : incendetque ea super lignorum struem, quae in loco effusorum
+          cinerum cremabuntur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e237" n="13"> Quod si omnis turba Israël ignoraverit, et per imperitiam
+          fecerit quod contra mandatum Domini est,</ab>
+        <ab xml:id="d1e240" n="14"> et postea intellexerit peccatum suum, offeret pro peccato suo
+          vitulum, adducetque eum ad ostium tabernaculi.</ab>
+        <ab xml:id="d1e243" n="15"> Et ponent seniores populi manus super caput ejus coram Domino.
+          Immolatoque vitulo in conspectu Domini,</ab>
+        <ab xml:id="d1e246" n="16"> inferet sacerdos, qui unctus est, de sanguine ejus in
+          tabernaculum testimonii,</ab>
+        <ab xml:id="d1e249" n="17"> tincto digito aspergens septies contra velum.</ab>
+        <ab xml:id="d1e253" n="18"> Ponetque de eodem sanguine in cornibus altaris, quod est coram
+          Domino in tabernaculo testimonii : reliquum autem sanguinem fundet juxta basim altaris
+          holocaustorum, quod est in ostio tabernaculi testimonii.</ab>
+        <ab xml:id="d1e256" n="19"> Omnemque ejus adipem tollet, et adolebit super altare :</ab>
+        <ab xml:id="d1e259" n="20"> sic faciens et de hoc vitulo quomodo fecit et prius : et rogante
+          pro eis sacerdote, propitius erit eis Dominus.</ab>
+        <ab xml:id="d1e262" n="21"> Ipsum autem vitulum efferet extra castra, atque comburet sicut
+          et priorem vitulum : quia est pro peccato multitudinis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e266" n="22"> Si peccaverit princeps, et fecerit unum e pluribus per
+          ignorantiam, quod Domini lege prohibetur :</ab>
+        <ab xml:id="d1e269" n="23"> et postea intellexerit peccatum suum, offeret hostiam Domino,
+          hircum de capris immaculatum.</ab>
+        <ab xml:id="d1e273" n="24"> Ponetque manum suam super caput ejus : cumque immolaverit eum
+          loco ubi solet mactari holocaustum coram Domino, quia pro peccato est,</ab>
+        <ab xml:id="d1e276" n="25"> tinget sacerdos digitum in sanguine hostiae pro peccato, tangens
+          cornua altaris holocausti, et reliquum fundens ad basim ejus.</ab>
+        <ab xml:id="d1e279" n="26"> Adipem vero adolebit supra, sicut in victimis pacificorum fieri
+          solet : rogabitque pro eo sacerdos, et pro peccato ejus, et dimittetur ei.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e283" n="27"> Quod si peccaverit anima per ignorantiam, de populo terrae, ut
+          faciat quidquam de his, quae Domini lege prohibentur, atque delinquat,</ab>
+        <ab xml:id="d1e286" n="28"> et cognoverit peccatum suum, offeret capram immaculatam.</ab>
+        <ab xml:id="d1e289" n="29"> Ponetque manum super caput hostiae quae pro peccato est, et
+          immolabit eam in loco holocausti.</ab>
+        <ab xml:id="d1e293" n="30"> Tolletque sacerdos de sanguine in digito suo : et tangens cornua
+          altaris holocausti, reliquum fundet ad basim ejus.</ab>
+        <ab xml:id="d1e296" n="31"> Omnem autem adipem auferens, sicut auferri solet de victimis
+          pacificorum, adolebit super altare in odorem suavitatis Domino : rogabitque pro eo, et
+          dimittetur ei.</ab>
+        <ab xml:id="d1e299" n="32"> Sin autem de pecoribus obtulerit victimam pro peccato, ovem
+          scilicet immaculatam :</ab>
+        <ab xml:id="d1e302" n="33"> ponet manum super caput ejus, et immolabit eam in loco ubi
+          solent caedi holocaustorum hostiae.</ab>
+        <ab xml:id="d1e305" n="34"> Sumetque sacerdos de sanguine ejus digito suo, et tangens cornua
+          altaris holocausti, reliquum fundet ad basim ejus.</ab>
+        <ab xml:id="d1e308" n="35"> Omnem quoque adipem auferens, sicut auferri solet adeps arietis,
+          qui immolatur pro pacificis, cremabit super altare in incensum Domini : rogabitque pro eo,
+          et pro peccato ejus, et dimittetur ei.</ab>
+      </div>
+      <div xml:id="d1e312" type="chap" n="5">
+        <ab xml:id="d1e314" n="1"> Si peccaverit anima, et audierit vocem jurantis, testisque fuerit
+          quod aut ipse vidit, aut conscius est : nisi indicaverit, portabit iniquitatem suam.</ab>
+        <ab xml:id="d1e317" n="2"> Anima quae tetigerit aliquid immundum, sive quod occisum a bestia
+          est, aut per se mortuum, aut quodlibet aliud reptile : et oblita fuerit immunditiae suae,
+          rea est, et deliquit :</ab>
+        <ab xml:id="d1e320" n="3"> et si tetigerit quidquam de immunditia hominis juxta omnem
+          impuritatem, qua pollui solet, oblitaque cognoverit postea, subjacebit delicto.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e324" n="4"> Anima, quae juraverit, et protulerit labiis suis, ut vel male
+          quid faceret, vel bene, et idipsum juramento et sermone firmaverit, oblitaque postea
+          intellexerit delictum suum,</ab>
+        <ab xml:id="d1e327" n="5"> agat poenitentiam pro peccato,</ab>
+        <ab xml:id="d1e331" n="6"> et offerat de gregibus agnam sive capram, orabitque pro ea
+          sacerdos et pro peccato ejus.</ab>
+        <ab xml:id="d1e334" n="7"> Sin autem non potuerit offerre pecus, offerat duos turtures, vel
+          duos pullos columbarum Domino, unum pro peccato, et alterum in holocaustum,</ab>
+        <ab xml:id="d1e337" n="8"> dabitque eos sacerdoti : qui primum offerens pro peccato,
+          retorquebit caput ejus ad pennulas, ita ut collo haereat, et non penitus abrumpatur.</ab>
+        <ab xml:id="d1e340" n="9"> Et asperget de sanguine ejus parietem altaris ; quidquid autem
+          reliquum fuerit, faciet distillare ad fundamentum ejus, quia pro peccato est.</ab>
+        <ab xml:id="d1e343" n="10"> Alterum vero adolebit in holocaustum, ut fieri solet :
+          rogabitque pro eo sacerdos et pro peccato ejus, et dimittetur ei.</ab>
+        <ab xml:id="d1e346" n="11"> Quod si non quiverit manus ejus duos offerre turtures, aut duos
+          pullos columbarum, offeret pro peccato suo similae partem ephi decimam : non mittet in eam
+          oleum, nec thuris aliquid imponet, quia pro peccato est.</ab>
+        <ab xml:id="d1e350" n="12"> Tradetque eam sacerdoti : qui plenum ex ea pugillum hauriens,
+          cremabit super altare in monimentum ejus qui obtulerit,</ab>
+        <ab xml:id="d1e353" n="13"> rogans pro illo et expians : reliquam vero partem ipse habebit
+          in munere.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e357" n="14"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e360" n="15"> Anima si praevaricans caeremonias, per errorem, in his quae
+          Domino sunt sanctificata, peccaverit, offeret pro delicto suo arietem immaculatum de
+          gregibus, qui emi potest duobus siclis, juxta pondus sanctuarii :</ab>
+        <ab xml:id="d1e363" n="16"> ipsumque quod intulit damni restituet, et quintam partem ponet
+          supra, tradens sacerdoti, qui rogabit pro eo offerens arietem, et dimittetur ei.</ab>
+        <ab xml:id="d1e366" n="17"> Anima si peccaverit per ignorantiam, feceritque unum ex his quae
+          Domini lege prohibentur, et peccati rea intellexerit iniquitatem suam,</ab>
+        <ab xml:id="d1e370" n="18"> offeret arietem immaculatum de gregibus sacerdoti, juxta
+          mensuram aestimationemque peccati : qui orabit pro eo, quia nesciens fecerit : et
+          dimittetur ei,</ab>
+        <ab xml:id="d1e373" n="19"> quia per errorem deliquit in Dominum.</ab>
+      </div>
+      <div xml:id="d1e378" type="chap" n="6">
+        <ab xml:id="d1e380" n="1"> Locutus est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e383" n="2"> Anima quae peccaverit, et contempto Domino, negaverit proximo suo
+          depositum quod fidei ejus creditum fuerat, vel vi aliquid extorserit, aut calumniam
+          fecerit,</ab>
+        <ab xml:id="d1e386" n="3"> sive rem perditam invenerit, et inficians insuper pejeraverit, et
+          quodlibet aliud ex pluribus fecerit, in quibus solent peccare homines,</ab>
+        <ab xml:id="d1e389" n="4"> convicta delicti,</ab>
+        <ab xml:id="d1e392" n="5"> reddet omnia, quae per fraudem voluit obtinere, integra, et
+          quintam insuper partem domino cui damnum intulerat.</ab>
+        <ab xml:id="d1e396" n="6"> Pro peccato autem suo offeret arietem immaculatum de grege, et
+          dabit eum sacerdoti, juxta aestimationem mensuramque delicti :</ab>
+        <ab xml:id="d1e399" n="7"> qui rogabit pro eo coram Domino, et dimittetur illi pro singulis
+          quae faciendo peccavit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e403" n="8"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e406" n="9"> Praecipe Aaron et filiis ejus : Haec est lex holocausti :
+          cremabitur in altari tota nocte usque mane : ignis ex eodem altari erit.</ab>
+        <ab xml:id="d1e409" n="10"> Vestietur tunica sacerdos et feminalibus lineis : tolletque
+          cineres, quos vorans ignis exussit, et ponens juxta altare,</ab>
+        <ab xml:id="d1e412" n="11"> spoliabitur prioribus vestimentis, indutusque aliis, efferret
+          eos extra castra, et in loco mundissimo usque ad favillam consumi faciet.</ab>
+        <ab xml:id="d1e416" n="12"> Ignis autem in altari semper ardebit, quem nutriet sacerdos
+          subjiciens ligna mane per singulos dies, et imposito holocausto, desuper adolebit adipes
+          pacificorum.</ab>
+        <ab xml:id="d1e419" n="13"> Ignis est iste perpetuus, qui numquam deficiet in altari.</ab>
+        <ab xml:id="d1e422" n="14"> Haec est lex sacrificii et libamentorum, quae offerent filii
+          Aaron coram Domino, et coram altari.</ab>
+        <ab xml:id="d1e425" n="15"> Tollet sacerdos pugillum similae, quae conspersa est oleo, et
+          totum thus, quod super similam positum est : adolebitque illud in altari in monimentum
+          odoris suavissimi Domino :</ab>
+        <ab xml:id="d1e428" n="16"> reliquam autem partem similae comedet Aaron cum filiis suis,
+          absque fermento : et comedet in loco sancto atrii tabernaculi.</ab>
+        <ab xml:id="d1e431" n="17"> Ideo autem non fermentabitur, quia pars ejus in Domini offertur
+          incensum. Sanctum sanctorum erit, sicut pro peccato atque delicto.</ab>
+        <ab xml:id="d1e435" n="18"> Mares tantum stirpis Aaron comedent illud. Legitimum ac
+          sempiternum erit in generationibus vestris de sacrificiis Domini : omnis qui tetigerit
+          illa, sanctificabitur.</ab>
+        <ab xml:id="d1e438" n="19"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e441" n="20"> Haec est oblatio Aaron, et filiorum ejus, quam offerre debent
+          Domino in die unctionis suae. Decimam partem ephi offerent similae in sacrificio
+          sempiterno, medium ejus mane, et medium ejus vespere :</ab>
+        <ab xml:id="d1e444" n="21"> quae in sartagine oleo conspersa frigetur. Offeret autem eam
+          calidam in odorem suavissimum Domino</ab>
+        <ab xml:id="d1e447" n="22"> sacerdos, qui jure patri successerit, et tota cremabitur in
+          altari.</ab>
+        <ab xml:id="d1e450" n="23"> Omne enim sacrificium sacerdotum igne consumetur, nec quisquam
+          comedet ex eo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e455" n="24"> Locutus est autem Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e458" n="25"> Loquere Aaron et filiis ejus : Ista est lex hostiae pro peccato
+          : in loco ubi offertur holocaustum, immolabitur coram Domino. Sanctum sanctorum est.</ab>
+        <ab xml:id="d1e461" n="26"> Sacerdos, qui offert, comedet eam in loco sancto, in atrio
+          tabernaculi.</ab>
+        <ab xml:id="d1e464" n="27"> Quidquid tetigerit carnes ejus, sanctificabitur. Si de sanguine
+          illius vestis fuerit aspersa, lavabitur in loco sancto.</ab>
+        <ab xml:id="d1e467" n="28"> Vas autem fictile, in quo cocta est, confringetur ; quod si vas
+          aeneum fuerit, defricabitur, et lavabitur aqua.</ab>
+        <ab xml:id="d1e470" n="29"> Omnis masculus de genere sacerdotali vescetur de carnibus ejus,
+          quia Sanctum sanctorum est.</ab>
+        <ab xml:id="d1e474" n="30"> Hostia enim quae caeditur pro peccato, cujus sanguis infertur in
+          tabernaculum testimonii ad expiandum in sanctuario, non comedetur, sed comburetur
+          igni.</ab>
+      </div>
+      <div xml:id="d1e478" type="chap" n="7">
+        <ab xml:id="d1e480" n="1"> Haec quoque lex hostiae pro delicto, Sancta sanctorum est :</ab>
+        <ab xml:id="d1e483" n="2"> idcirco ubi immolabitur holocaustum, mactabitur et victima pro
+          delicto : sanguis ejus per gyrum altaris fundetur.</ab>
+        <ab xml:id="d1e486" n="3"> Offerent ex ea caudam et adipem qui operit vitalia :</ab>
+        <ab xml:id="d1e489" n="4"> duos renunculos, et pinguedinem quae juxta ilia est, reticulumque
+          jecoris cum renunculis.</ab>
+        <ab xml:id="d1e492" n="5"> Et adolebit ea sacerdos super altare : incensum est Domini pro
+          delicto.</ab>
+        <ab xml:id="d1e496" n="6"> Omnis masculus de sacerdotali genere, in loco sancto vescetur his
+          carnibus, quia Sanctum sanctorum est.</ab>
+        <ab xml:id="d1e499" n="7"> Sicut pro peccato offertur hostia, ita et pro delicto : utriusque
+          hostiae lex una erit : ad sacerdotem, qui eam obtulerit, pertinebit.</ab>
+        <ab xml:id="d1e502" n="8"> Sacerdos qui offert holocausti victimam, habebit pellem
+          ejus.</ab>
+        <ab xml:id="d1e505" n="9"> Et omne sacrificium similae, quod coquitur in clibano, et
+          quidquid in craticula, vel in sartagine praeparatur, ejus erit sacerdotis a quo offertur
+          :</ab>
+        <ab xml:id="d1e508" n="10"> sive oleo conspersa, sive arida fuerint, cunctis filiis Aaron
+          mensura aequa per singulos dividetur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e512" n="11"> Haec est lex hostiae pacificorum quae offertur Domino.</ab>
+        <ab xml:id="d1e516" n="12"> Si pro gratiarum actione oblatio fuerit, offerent panes absque
+          fermento conspersos oleo, et lagana azyma uncta oleo, coctamque similam, et collyridas
+          olei admistione conspersas :</ab>
+        <ab xml:id="d1e519" n="13"> panes quoque fermentatos cum hostia gratiarum, quae immolatur
+          pro pacificis :</ab>
+        <ab xml:id="d1e522" n="14"> ex quibus unus pro primitiis offeretur Domino, et erit
+          sacerdotis qui fundet hostiae sanguinem,</ab>
+        <ab xml:id="d1e525" n="15"> cujus carnes eadem comedentur die, nec remanebit ex eis quidquam
+          usque mane.</ab>
+        <ab xml:id="d1e528" n="16"> Si voto, vel sponte quispiam obtulerit hostiam, eadem similiter
+          edetur die : sed et si quid in crastinum remanserit, vesci licitum est :</ab>
+        <ab xml:id="d1e531" n="17"> quidquid autem tertius invenerit dies, ignis absumet.</ab>
+        <ab xml:id="d1e535" n="18"> Si quis de carnibus victimae pacificorum die tertio comederit,
+          irrita fiet oblatio, nec proderit offerenti : quin potius quaecumque anima tali se edulio
+          contaminaverit, praevaricationis rea erit.</ab>
+        <ab xml:id="d1e538" n="19"> Caro, quae aliquid tetigerit immundum, non comedetur, sed
+          comburetur igni : qui fuerit mundus, vescetur ex ea.</ab>
+        <ab xml:id="d1e541" n="20"> Anima polluta quae ederit de carnibus hostiae pacificorum, quae
+          oblata est Domino, peribit de populis suis.</ab>
+        <ab xml:id="d1e544" n="21"> Et quae tetigerit immunditiam hominis, vel jumenti, sive omnis
+          rei quae polluere potest, et comederit de hujuscemodi carnibus, interibit de populis
+            suis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e548" n="22"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e551" n="23"> Loquere filiis Israël : Adipem ovis, et bovis, et caprae non
+          comedetis.</ab>
+        <ab xml:id="d1e555" n="24"> Adipem cadaveris morticini, et ejus animalis, quod a bestia
+          captum est, habebitis in varios usus.</ab>
+        <ab xml:id="d1e558" n="25"> Si quis adipem, qui offerri debet in incensum Domini, comederit,
+          peribit de populo suo.</ab>
+        <ab xml:id="d1e561" n="26"> Sanguinem quoque omnis animalis non sumetis in cibo, tam de
+          avibus quam de pecoribus.</ab>
+        <ab xml:id="d1e564" n="27"> Omnis anima, quae ederit sanguinem, peribit de populis suis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e568" n="28"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e571" n="29"> Loquere filiis Israël, dicens : Qui offert victimam pacificorum
+          Domino, offerat simul et sacrificium, id est, libamenta ejus.</ab>
+        <ab xml:id="d1e575" n="30"> Tenebit manibus adipem hostiae, et pectusculum : cumque ambo
+          oblata Domino consecraverit, tradet sacerdoti,</ab>
+        <ab xml:id="d1e578" n="31"> qui adolebit adipem super altare, pectusculum autem erit Aaron
+          et filiorum ejus.</ab>
+        <ab xml:id="d1e581" n="32"> Armus quoque dexter de pacificorum hostiis cedet in primitias
+          sacerdotis.</ab>
+        <ab xml:id="d1e584" n="33"> Qui obtulerit sanguinem et adipem filiorum Aaron, ipse habebit
+          et armum dextrum in portione sua.</ab>
+        <ab xml:id="d1e587" n="34"> Pectusculum enim elevationis, et armum separationis, tuli a
+          filiis Israël de hostiis eorum pacificis, et dedi Aaron sacerdoti, et filiis ejus, lege
+          perpetua, ab omni populo Israël.</ab>
+        <ab xml:id="d1e590" n="35"> Haec est unctio Aaron et filiorum ejus in caeremoniis Domini die
+          qua obtulit eos Moyses, ut sacerdotio fungerentur,</ab>
+        <ab xml:id="d1e594" n="36"> et quae praecepit eis dari Dominus a filiis Israël religione
+          perpetua in generationibus suis.</ab>
+        <ab xml:id="d1e597" n="37"> Ista est lex holocausti, et sacrificii pro peccato atque
+          delicto, et pro consecratione et pacificorum victimis,</ab>
+        <ab xml:id="d1e600" n="38"> quam constituit Dominus Moysi in monte Sinai, quando mandabit
+          filiis Israël ut offerrent oblationes suas Domino in deserto Sinai.</ab>
+      </div>
+      <div xml:id="d1e604" type="chap" n="8">
+        <ab xml:id="d1e606" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e609" n="2"> Tolle Aaron cum filiis suis, vestes eorum, et unctionis oleum,
+          vitulum pro peccato, duos arietes, canistrum cum azymis :</ab>
+        <ab xml:id="d1e612" n="3"> et congregabis omnem coetum ad ostium tabernaculi.</ab>
+        <ab xml:id="d1e615" n="4"> Fecit Moyses ut Dominus imperaverat. Congregataque omni turba
+          ante fores tabernaculi,</ab>
+        <ab xml:id="d1e618" n="5"> ait : Iste est sermo, quem jussit Dominus fieri.</ab>
+        <ab xml:id="d1e622" n="6"> Statimque obtulit Aaron et filios ejus. Cumque lavisset eos,</ab>
+        <ab xml:id="d1e625" n="7"> vestivit pontificem subucula linea, accingens eum balteo, et
+          induens eum tunica hyacinthina, et desuper humerale imposuit,</ab>
+        <ab xml:id="d1e628" n="8"> quod astringens cingulo aptavit rationali, in quo erat Doctrina
+          et Veritas.</ab>
+        <ab xml:id="d1e631" n="9"> Cidari quoque texit caput : et super eam, contra frontem, posuit
+          laminam auream consecratam in sanctificatione, sicut praeceperat ei Dominus.</ab>
+        <ab xml:id="d1e634" n="10"> Tulit et unctionis oleum, quo linivit tabernaculum cum omni
+          supellectili sua.</ab>
+        <ab xml:id="d1e637" n="11"> Cumque sanctificans aspersisset altare septem vicibus, unxit
+          illud, et omnia vasa ejus, labrumque cum basi sua sanctificavit oleo.</ab>
+        <ab xml:id="d1e641" n="12"> Quod fundens super caput Aaron, unxit eum, et consecravit :</ab>
+        <ab xml:id="d1e644" n="13"> filios quoque ejus oblatos vestivit tunicis lineis, et cinxit
+          balteis, imposuitque mitras, ut jusserat Dominus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e648" n="14"> Obtulit et vitulum pro peccato : cumque super caput ejus
+          posuisset Aaron et filii ejus manus suas,</ab>
+        <ab xml:id="d1e651" n="15"> immolavit eum, hauriens sanguinem, et tincto digito, tetigit
+          cornua altaris per gyrum : quo expiato et sanctificato, fudit reliquum sanguinem ad
+          fundamenta ejus.</ab>
+        <ab xml:id="d1e654" n="16"> Adipem vero qui erat super vitalia, et reticulum jecoris,
+          duosque renunculos, cum arvinulis suis, adolevit super altare :</ab>
+        <ab xml:id="d1e657" n="17"> vitulum cum pelle, et carnibus, et fimo, cremans extra castra,
+          sicut praeceperat Dominus.</ab>
+        <ab xml:id="d1e661" n="18"> Obtulit et arietem in holocaustum : super cujus caput cum
+          imposuissent Aaron et filii ejus manus suas,</ab>
+        <ab xml:id="d1e664" n="19"> immolavit eum, et fudit sanguinem ejus per circuitum
+          altaris.</ab>
+        <ab xml:id="d1e667" n="20"> Ipsumque arietem in frusta concidens, caput ejus, et artus, et
+          adipem adolevit igni,</ab>
+        <ab xml:id="d1e670" n="21"> lotis prius intestinis et pedibus : totumque simul arietem
+          incendit super altare, eo quod esset holocaustum suavissimi odoris Domino, sicut
+          praeceperat ei.</ab>
+        <ab xml:id="d1e673" n="22"> Obtulit et arietem secundum in consecratione sacerdotum,
+          posueruntque super caput ejus Aaron et filii ejus manus suas :</ab>
+        <ab xml:id="d1e676" n="23"> quem cum immolasset Moyses, sumens de sanguine ejus, tetigit
+          extremum auriculae dextrae Aaron, et pollicem manus ejus dextrae, similiter et pedis.</ab>
+        <ab xml:id="d1e680" n="24"> Obtulit et filios Aaron : cumque de sanguine arietis immolati
+          tetigisset extremum auriculae singulorum dextrae, et pollices manus ac pedis dextri,
+          reliquum fudit super altare per circuitum :</ab>
+        <ab xml:id="d1e683" n="25"> adipem vero, et caudam, omnemque pinguedinem quae operit
+          intestina, reticulumque jecoris, et duos renes cum adipibus suis et armo dextro
+            separavit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e687" n="26"> Tollens autem de canistro azymorum, quod erat coram Domino,
+          panem absque fermento, et collyridam conspersam oleo, laganumque, posuit super adipes, et
+          armum dextrum,</ab>
+        <ab xml:id="d1e690" n="27"> tradens simul omnia Aaron et filiis ejus. Qui postquam
+          levaverunt ea coram Domino,</ab>
+        <ab xml:id="d1e693" n="28"> rursum suscepta de manibus eorum, adolevit super altare
+          holocausti, eo quod consecrationis esset oblatio, in odorem suavitatis, sacrificii
+          Domino.</ab>
+        <ab xml:id="d1e696" n="29"> Tulitque pectusculum, elevans illud coram Domino, de ariete
+          consecrationis in partem suam, sicut praeceperat ei Dominus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e701" n="30"> Assumensque unguentum, et sanguinem qui erat in altari, aspersit
+          super Aaron et vestimenta ejus, et super filios illius ac vestes eorum.</ab>
+        <ab xml:id="d1e704" n="31"> Cumque sanctificasset eos in vestitu suo, praecepit eis, dicens
+          : Coquite carnes ante fores tabernaculi, et ibi comedite eas ; panes quoque consecrationis
+          edite, qui positi sunt in canistro, sicut praecepit mihi Dominus, dicens : Aaron et filii
+          ejus comedent eos :</ab>
+        <ab xml:id="d1e707" n="32"> quidquid autem reliquum fuerit de carne et panibus, ignis
+          absumet.</ab>
+        <ab xml:id="d1e710" n="33"> De ostio quoque tabernaculi non exibitis septem diebus, usque ad
+          diem quo complebitur tempus consecrationis vestrae ; septem enim diebus finitur
+          consecratio :</ab>
+        <ab xml:id="d1e713" n="34"> sicut et impraesentiarum factum est, ut ritus sacrificii
+          compleretur.</ab>
+        <ab xml:id="d1e716" n="35"> Die ac nocte manebitis in tabernaculo observantes custodias
+          Domini, ne moriamini : sic enim mihi praeceptum est.</ab>
+        <ab xml:id="d1e720" n="36"> Feceruntque Aaron et filii ejus cuncta quae locutus est Dominus
+          per manum Moysi.</ab>
+      </div>
+      <div xml:id="d1e724" type="chap" n="9">
+        <ab xml:id="d1e726" n="1"> Facto autem octavo die, vocavit Moyses Aaron, et filios ejus, ac
+          majores natu Israël, dixitque ad Aaron :</ab>
+        <ab xml:id="d1e729" n="2"> Tolle de armento vitulum pro peccato, et arietem in holocaustum,
+          utrumque immaculatum, et offer illos coram Domino.</ab>
+        <ab xml:id="d1e732" n="3"> Et ad filios Israël loqueris : Tollite hircum pro peccato, et
+          vitulum, atque agnum, anniculos, et sine macula in holocaustum,</ab>
+        <ab xml:id="d1e735" n="4"> bovem et arietem pro pacificis : et immolate eos coram Domino, in
+          sacrificio singulorum similam conspersam oleo offerentes : hodie enim Dominus apparebit
+          vobis.</ab>
+        <ab xml:id="d1e738" n="5"> Tulerunt ergo cuncta quae jusserat Moyses ad ostium tabernaculi :
+          ubi cum omnis multitudo astaret,</ab>
+        <ab xml:id="d1e742" n="6"> ait Moyses : Iste est sermo, quem praecepit Dominus : facite, et
+          apparebit vobis gloria ejus.</ab>
+        <ab xml:id="d1e745" n="7"> Et dixit ad Aaron : Accede ad altare, et immola pro peccato tuo :
+          offer holocaustum, et deprecare pro te et pro populo : cumque mactaveris hostiam populi,
+          ora pro eo, sicut praecepit Dominus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e749" n="8"> Statimque Aaron accedens ad altare, immolavit vitulum pro peccato
+          suo :</ab>
+        <ab xml:id="d1e752" n="9"> cujus sanguinem obtulerunt ei filii sui : in quo tingens digitum,
+          tetigit cornua altaris, et fudit residuum ad basim ejus.</ab>
+        <ab xml:id="d1e755" n="10"> Adipemque, et renunculos, ac reticulum jecoris, quae sunt pro
+          peccato, adolevit super altare, sicut praeceperat Dominus Moysi :</ab>
+        <ab xml:id="d1e758" n="11"> carnes vero et pellem ejus extra castra combussit igni.</ab>
+        <ab xml:id="d1e762" n="12"> Immolavit et holocausti victimam : obtuleruntque ei filii sui
+          sanguinem ejus, quem fudit per altaris circuitum.</ab>
+        <ab xml:id="d1e765" n="13"> Ipsam etiam hostiam in frusta concisam, cum capite et membris
+          singulis obtulerunt ; quae omnia super altare cremavit igni,</ab>
+        <ab xml:id="d1e768" n="14"> lotis aqua prius intestinis et pedibus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e772" n="15"> Et pro peccato populi offerens, mactavit hircum : expiatoque
+          altari,</ab>
+        <ab xml:id="d1e775" n="16"> fecit holocaustum,</ab>
+        <ab xml:id="d1e778" n="17"> addens in sacrificio libamenta, quae pariter offeruntur, et
+          adolens ea super altare, absque caeremoniis holocausti matutini.</ab>
+        <ab xml:id="d1e782" n="18"> Immolavit et bovem atque arietem, hostias pacificas populi :
+          obtuleruntque ei filii sui sanguinem, quem fudit super altare in circuitum.</ab>
+        <ab xml:id="d1e785" n="19"> Adipem autem bovis, et caudam arietis, renunculosque cum
+          adipibus suis, et reticulum jecoris,</ab>
+        <ab xml:id="d1e788" n="20"> posuerunt super pectora : cumque cremati essent adipes super
+          altare,</ab>
+        <ab xml:id="d1e791" n="21"> pectora eorum, et armos dextros separavit Aaron, elevans coram
+          Domino, sicut praeceperat Moyses.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e795" n="22"> Et extendens manus ad populum, benedixit ei. Sicque completis
+          hostiis pro peccato, et holocaustis, et pacificis, descendit.</ab>
+        <ab xml:id="d1e798" n="23"> Ingressi autem Moyses et Aaron in tabernaculum testimonii, et
+          deinceps egressi, benedixerunt populo. Apparuitque gloria Domini omni multitudini :</ab>
+        <ab xml:id="d1e802" n="24"> et ecce egressus ignis a Domino, devoravit holocaustum, et
+          adipes qui erant super altare. Quod cum vidissent turbae, laudaverunt Dominum, ruentes in
+          facies suas.</ab>
+      </div>
+      <div xml:id="d1e806" type="chap" n="10">
+        <ab xml:id="d1e808" n="1"> Arreptisque Nadab et Abiu filii Aaron thuribulis, posuerunt
+          ignem, et incensum desuper, offerentes coram Domino ignem alienum : quod eis praeceptum
+          non erat.</ab>
+        <ab xml:id="d1e811" n="2"> Egressusque ignis a Domino, devoravit eos, et mortui sunt coram
+          Domino.</ab>
+        <ab xml:id="d1e814" n="3"> Dixitque Moyses ad Aaron : Hoc est quod locutus est Dominus :
+          Sanctificabor in iis qui appropinquant mihi, et in conspectu omnis populi glorificabor.
+          Quod audiens tacuit Aaron.</ab>
+        <ab xml:id="d1e817" n="4"> Vocatis autem Moyses Misaële et Elisaphan filiis Oziel, patrui
+          Aaron, ait ad eos : Ite, et tollite fratres vestros de conspectu sanctuarii, et asportate
+          extra castra.</ab>
+        <ab xml:id="d1e820" n="5"> Confestimque pergentes, tulerunt eos sicut jacebant, vestitos
+          lineis tunicis, et ejecerunt foras, ut sibi fuerat imperatum.</ab>
+        <ab xml:id="d1e824" n="6"> Locutusque est Moyses ad Aaron, et ad Eleazar, et Ithamar, filios
+          ejus : Capita vestra nolite nudare, et vestimenta nolite scindere, ne forte moriamini, et
+          super omnem coetum oriatur indignatio. Fratres vestri, et omnis domus Israël, plangant
+          incendium quod Dominus suscitavit :</ab>
+        <ab xml:id="d1e827" n="7"> vos autem non egrediemini fores tabernaculi, alioquin peribitis :
+          oleum quippe sanctae unctionis est super vos. Qui fecerunt omnia juxta praeceptum
+          Moysi.</ab>
+        <ab xml:id="d1e830" n="8"> Dixit quoque Dominus ad Aaron :</ab>
+        <ab xml:id="d1e833" n="9"> Vinum, et omne quod inebriare potest, non bibetis tu et filii
+          tui, quando intratis in tabernaculum testimonii, ne moriamini : quia praeceptum
+          sempiternum est in generationes vestras :</ab>
+        <ab xml:id="d1e836" n="10"> et ut habeatis scientiam discernendi inter sanctum et profanum,
+          inter pollutum et mundum ;</ab>
+        <ab xml:id="d1e839" n="11"> doceatisque filios Israël omnia legitima mea quae locutus est
+          Dominus ad eos per manum Moysi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e844" n="12"> Locutusque est Moyses ad Aaron, et ad Eleazar, et Ithamar,
+          filios ejus, qui erant residui : Tollite sacrificium, quod remansit de oblatione Domini,
+          et comedite illud absque fermento juxta altare, quia Sanctum sanctorum est.</ab>
+        <ab xml:id="d1e847" n="13"> Comedetis autem in loco sancto : quod datum est tibi et filiis
+          tuis de oblationibus Domini, sicut praeceptum est mihi.</ab>
+        <ab xml:id="d1e850" n="14"> Pectusculum quoque quod oblatum est, et armum qui separatus est,
+          edetis in loco mundissimo tu et filii tui, et filiae tuae tecum : tibi enim ac liberis
+          tuis reposita sunt de hostiis salutaribus filiorum Israël :</ab>
+        <ab xml:id="d1e853" n="15"> eo quod armum et pectus, et adipes qui cremantur in altari,
+          elevaverunt coram Domino, et pertineant ad te, et ad filios tuos, lege perpetua, sicut
+          praecepit Dominus.</ab>
+        <ab xml:id="d1e856" n="16"> Inter haec, hircum, qui oblatus fuerat pro peccato, cum
+          quaereret Moyses, exustum reperit : iratusque contra Eleazar et Ithamar filios Aaron, qui
+          remanserant, ait :</ab>
+        <ab xml:id="d1e859" n="17"> Cur non comedistis hostiam pro peccato in loco sancto, quae
+          Sancta sanctorum est, et data vobis ut portetis iniquitatem multitudinis, et rogetis pro
+          ea in conspectu Domini,</ab>
+        <ab xml:id="d1e863" n="18"> praesertim cum de sanguine illius non sit illatum intra sancta,
+          et comedere debueritis eam in Sanctuario, sicut praeceptum est mihi ?</ab>
+        <ab xml:id="d1e866" n="19"> Respondit Aaron : Oblata est hodie victima pro peccato, et
+          holocaustum coram Domino : mihi autem accidit quod vides ; quomodo potui comedere eam, aut
+          placere Domino in caeremoniis mente lugubri ?</ab>
+        <ab xml:id="d1e869" n="20"> Quod cum audisset Moyses, recepit satisfactionem.</ab>
+      </div>
+      <div xml:id="d1e873" type="chap" n="11">
+        <ab xml:id="d1e875" n="1"> Locutusque est Dominus ad Moysen et Aaron, dicens :</ab>
+        <ab xml:id="d1e878" n="2"> Dicite filiis Israël : Haec sunt animalia quae comedere debetis
+          de cunctis animantibus terrae :</ab>
+        <ab xml:id="d1e881" n="3"> omne quod habet divisam ungulam, et ruminat in pecoribus,
+          comedetis.</ab>
+        <ab xml:id="d1e884" n="4"> Quidquid autem ruminat quidem, et habet ungulam, sed non dividit
+          eam, sicut camelus et cetera, non comedetis illud, et inter immunda reputabitis.</ab>
+        <ab xml:id="d1e887" n="5"> Choerogryllus qui ruminat, ungulamque non dividit, immundus
+          est.</ab>
+        <ab xml:id="d1e891" n="6"> Lepus quoque : nam et ipse ruminat, sed ungulam non dividit.</ab>
+        <ab xml:id="d1e894" n="7"> Et sus : qui cum ungulam dividat, non ruminat.</ab>
+        <ab xml:id="d1e897" n="8"> Horum carnibus non vescemini, nec cadavera contingetis, quia
+          immunda sunt vobis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e901" n="9"> Haec sunt quae gignuntur in aquis, et vesci licitum est : omne
+          quod habet pinnulas et squamas, tam in mari quam in fluminibus et stagnis, comedetis.</ab>
+        <ab xml:id="d1e904" n="10"> Quidquid autem pinnulas et squamas non habet, eorum quae in
+          aquis moventur et vivunt, abominabile vobis,</ab>
+        <ab xml:id="d1e907" n="11"> execrandumque erit : carnes eorum non comedetis, et morticina
+          vitabitis.</ab>
+        <ab xml:id="d1e911" n="12"> Cuncta quae non habent pinnulas et squamas in aquis, polluta
+            erunt.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e915" n="13"> Haec sunt quae de avibus comedere non debetis, et vitanda sunt
+          vobis : aquilam, et gryphem, et haliaeetum,</ab>
+        <ab xml:id="d1e918" n="14"> et milvum ac vulturem juxta genus suum,</ab>
+        <ab xml:id="d1e921" n="15"> et omne corvini generis in similitudinem suam,</ab>
+        <ab xml:id="d1e924" n="16"> struthionem, et noctuam, et larum, et accipitrem juxta genus
+          suum :</ab>
+        <ab xml:id="d1e927" n="17"> bubonem, et mergulum, et ibin,</ab>
+        <ab xml:id="d1e931" n="18"> et cygnum, et onocrotalum, et porphyrionem,</ab>
+        <ab xml:id="d1e934" n="19"> herodionem, et charadrion juxta genus suum, upupam quoque, et
+            vespertilionem.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e938" n="20"> Omne de volucribus quod graditur super quatuor pedes,
+          abominabile erit vobis.</ab>
+        <ab xml:id="d1e941" n="21"> Quidquid autem ambulat quidem super quatuor pedes, sed habet
+          longiora retro crura, per quae salit super terram,</ab>
+        <ab xml:id="d1e944" n="22"> comedere debetis, ut est bruchus in genere suo, et attacus atque
+          ophiomachus, ac locusta, singula juxta genus suum.</ab>
+        <ab xml:id="d1e947" n="23"> Quidquid autem ex volucribus quatuor tantum habet pedes,
+          execrabile erit vobis :</ab>
+        <ab xml:id="d1e951" n="24"> et quicumque morticina eorum tetigerit, polluetur, et erit
+          immundus usque ad vesperum :</ab>
+        <ab xml:id="d1e954" n="25"> et si necesse fuerit ut portet quippiam horum mortuum, lavabit
+          vestimenta sua, et immundus erit usque ad occasum solis.</ab>
+        <ab xml:id="d1e957" n="26"> Omne animal quod habet quidem ungulam, sed non dividit eam, nec
+          ruminat, immundum erit : et qui tetigerit illud, contaminabitur.</ab>
+        <ab xml:id="d1e960" n="27"> Quod ambulat super manus ex cunctis animantibus, quae incedunt
+          quadrupedia, immundum erit : qui tetigerit morticina eorum, polluetur usque ad
+          vesperum.</ab>
+        <ab xml:id="d1e963" n="28"> Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua,
+          et immundus erit usque ad vesperum : quia omnia haec immunda sunt vobis.</ab>
+        <ab xml:id="d1e966" n="29"> Haec quoque inter polluta reputabuntur de his quae moventur in
+          terra, mustela et mus et crocodilus, singula juxta genus suum,</ab>
+        <ab xml:id="d1e970" n="30"> mygale, et chamaeleon, et stellio, et lacerta, et talpa.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e974" n="31"> Omnia haec immunda sunt. Qui tetigerit morticina eorum, immundus
+          erit usque ad vesperum :</ab>
+        <ab xml:id="d1e977" n="32"> et super quod ceciderit quidquam de morticinis eorum, polluetur,
+          tam vas ligneum et vestimentum, quam pelles et cilicia : et in quocumque fit opus,
+          tingentur aqua, et polluta erunt usque ad vesperum, et sic postea mundabuntur.</ab>
+        <ab xml:id="d1e980" n="33"> Vas autem fictile, in quod horum quidquam intro cecidit,
+          polluetur, et idcirco frangendum est.</ab>
+        <ab xml:id="d1e983" n="34"> Omnis cibus, quem comedetis, si fusa fuerit super eum aqua,
+          immundus erit : et omne liquens quod bibitur de universo vase, immundum erit.</ab>
+        <ab xml:id="d1e986" n="35"> Et quidquid de morticinis hujuscemodi ceciderit super illud,
+          immundum erit : sive clibani, sive chytropodes, destruentur, et immundi erunt.</ab>
+        <ab xml:id="d1e990" n="36"> Fontes vero et cisternae, et omnis aquarum congregatio munda
+          erit. Qui morticinum eorum tetigerit, polluetur.</ab>
+        <ab xml:id="d1e993" n="37"> Si ceciderit super sementem, non polluet eam.</ab>
+        <ab xml:id="d1e996" n="38"> Si autem quispiam aqua sementem perfuderit, et postea morticinis
+          tacta fuerit, illico polluetur.</ab>
+        <ab xml:id="d1e999" n="39"> Si mortuum fuerit animal, quod licet vobis comedere, qui cadaver
+          ejus tetigerit, immundus erit usque ad vesperum :</ab>
+        <ab xml:id="d1e1002" n="40"> et qui comederit ex eo quippiam, sive portaverit, lavabit
+          vestimenta sua, et immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1005" n="41"> Omne quod reptat super terram, abominabile erit, nec assumetur
+          in cibum.</ab>
+        <ab xml:id="d1e1009" n="42"> Quidquid super pectus quadrupes graditur, et multos habet
+          pedes, sive per humum trahitur, non comedetis, quia abominabile est.</ab>
+        <ab xml:id="d1e1012" n="43"> Nolite contaminare animas vestras, nec tangatis quidquam eorum,
+          ne immundi sitis.</ab>
+        <ab xml:id="d1e1015" n="44"> Ego enim sum Dominus Deus vester : sancti estote, quia ego
+          sanctus sum. Ne polluatis animas vestras in omni reptili quod movetur super terram.</ab>
+        <ab xml:id="d1e1018" n="45"> Ego enim sum Dominus, qui eduxi vos de terra Aegypti, ut essem
+          vobis in Deum. Sancti eritis, quia ego sanctus sum.</ab>
+        <ab xml:id="d1e1021" n="46"> Ista est lex animantium ac volucrum, et omnis animae viventis,
+          quae movetur in aqua, et reptat in terra,</ab>
+        <ab xml:id="d1e1024" n="47"> ut differentias noveritis mundi et immundi, et sciatis quid
+          comedere et quid respuere debeatis.</ab>
+      </div>
+      <div xml:id="d1e1029" type="chap" n="12">
+        <ab xml:id="d1e1031" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e1034" n="2"> Loquere filiis Israël, et dices ad eos : Mulier, si suscepto
+          semine pepererit masculum, immunda erit septem diebus juxta dies separationis
+          menstruae.</ab>
+        <ab xml:id="d1e1037" n="3"> Et die octavo circumcidetur infantulus :</ab>
+        <ab xml:id="d1e1040" n="4"> ipsa vero triginta tribus diebus manebit in sanguine
+          purificationis suae. Omne sanctum non tanget, nec ingredietur in sanctuarium, donec
+          impleantur dies purificationis suae.</ab>
+        <ab xml:id="d1e1043" n="5"> Sin autem feminam pepererit, immunda erit duabus hebdomadibus
+          juxta ritum fluxus menstrui, et sexaginta sex diebus manebit in sanguine purificationis
+          suae.</ab>
+        <ab xml:id="d1e1047" n="6"> Cumque expleti fuerint dies purificationis suae, pro filio sive
+          pro filia, deferet agnum anniculum in holocaustum, et pullum columbae sive turturem pro
+          peccato, ad ostium tabernaculi testimonii, et tradet sacerdoti,</ab>
+        <ab xml:id="d1e1050" n="7"> qui offeret illa coram Domino, et orabit pro ea, et sic
+          mundabitur a profluvio sanguinis sui : ista est lex parientis masculum aut feminam.</ab>
+        <ab xml:id="d1e1053" n="8"> Quod si non invenerit manus ejus, nec potuerit offerre agnum,
+          sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro
+          peccato : orabitque pro ea sacerdos, et sic mundabitur.</ab>
+      </div>
+      <div xml:id="d1e1057" type="chap" n="13">
+        <ab xml:id="d1e1059" n="1"> Locutusque est Dominus ad Moysen, et Aaron, dicens :</ab>
+        <ab xml:id="d1e1062" n="2"> Homo, in cujus cute et carne ortus fuerit diversus color, sive
+          pustula, aut quasi lucens quippiam, id est, plaga leprae, adducetur ad Aaron sacerdotem,
+          vel ad unum quemlibet filiorum ejus.</ab>
+        <ab xml:id="d1e1065" n="3"> Qui cum viderit lepram in cute, et pilos in album mutatos
+          colorem, ipsamque speciem leprae humiliorem cute et carne reliqua : plaga leprae est, et
+          ad arbitrium ejus separabitur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1069" n="4"> Sin autem lucens candor fuerit in cute, nec humilior carne
+          reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus :</ab>
+        <ab xml:id="d1e1072" n="5"> et considerabit die septimo : et si quidem lepra ultra non
+          creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus
+          aliis.</ab>
+        <ab xml:id="d1e1076" n="6"> Et die septimo contemplabitur : si obscurior fuerit lepra, et
+          non creverit in cute, mundabit eum, quia scabies est : lavabitque homo vestimenta sua, et
+          mundus erit.</ab>
+        <ab xml:id="d1e1079" n="7"> Quod si postquam a sacerdote visus est, et redditus munditiae,
+          iterum lepra creverit : adducetur ad eum,</ab>
+        <ab xml:id="d1e1082" n="8"> et immunditiae condemnabitur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1086" n="9"> Plaga leprae si fuerit in homine, adducetur ad sacerdotem,</ab>
+        <ab xml:id="d1e1089" n="10"> et videbit eum. Cumque color albus in cute fuerit, et
+          capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit :</ab>
+        <ab xml:id="d1e1092" n="11"> lepra vetustissima judicabitur, atque inolita cuti.
+          Contaminabit itaque eum sacerdos, et non recludet, quia perspicuae immunditiae est.</ab>
+        <ab xml:id="d1e1096" n="12"> Sin autem effloruerit discurrens lepra in cute, et operuerit
+          omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,</ab>
+        <ab xml:id="d1e1099" n="13"> considerabit eum sacerdos, et teneri lepra mundissima judicabit
+          : eo quod omnis in candorem versa sit, et idcirco homo mundus erit.</ab>
+        <ab xml:id="d1e1102" n="14"> Quando vero caro vivens in eo apparuerit,</ab>
+        <ab xml:id="d1e1105" n="15"> tunc sacerdotis judicio polluetur, et inter immundos
+          reputabitur : caro enim viva, si lepra aspergitur, immunda est.</ab>
+        <ab xml:id="d1e1108" n="16"> Quod si rursum versa fuerit in alborem, et totum hominem
+          operuerit,</ab>
+        <ab xml:id="d1e1111" n="17"> considerabit eum sacerdos, et mundum esse decernet.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1116" n="18"> Caro autem et cutis in qua ulcus natum est, et sanatum,</ab>
+        <ab xml:id="d1e1119" n="19"> et in loco ulceris cicatrix alba apparuerit, sive subrufa,
+          adducetur homo ad sacerdotem.</ab>
+        <ab xml:id="d1e1122" n="20"> Qui cum viderit locum leprae humiliorem carne reliqua, et pilos
+          versos in candorem, contaminabit eum : plaga enim leprae orta est in ulcere.</ab>
+        <ab xml:id="d1e1125" n="21"> Quod si pilus coloris est pristini, et cicatrix subobscura, et
+          vicina carne non est humilior, recludet eum septem diebus :</ab>
+        <ab xml:id="d1e1128" n="22"> et si quidem creverit, adjudicabit eum leprae ;</ab>
+        <ab xml:id="d1e1131" n="23"> sin autem steterit in loco suo, ulceris est cicatrix, et homo
+          mundus erit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1136" n="24"> Caro autem et cutis, quam ignis exusserit, et sanata albam sive
+          rufam habuerit cicatricem,</ab>
+        <ab xml:id="d1e1139" n="25"> considerabit eam sacerdos : et ecce versa est in alborem, et
+          locus ejus reliqua cute est humilior, contaminabit eum, quia plaga leprae in cicatrice
+          orta est.</ab>
+        <ab xml:id="d1e1142" n="26"> Quod si pilorum color non fuerit immutatus, nec humilior plaga
+          carne reliqua, et ipsa leprae species fuerit subobscura, recludet eum septem diebus,</ab>
+        <ab xml:id="d1e1145" n="27"> et die septimo contemplabitur : si creverit in cute lepra,
+          contaminabit eum.</ab>
+        <ab xml:id="d1e1148" n="28"> Sin autem in loco suo candor steterit non satis clarus, plaga
+          combustionis est, et idcirco mundabitur, quia cicatrix est combusturae.<pc ana="#pilcrow"
+          />
+        </ab>
+        <ab xml:id="d1e1152" n="29"> Vir, sive mulier, in cujus capite vel barba germinaverit lepra,
+          videbit eos sacerdos.</ab>
+        <ab xml:id="d1e1156" n="30"> Et si quidem humilior fuerit locus carne reliqua, et capillus
+          flavus, solitoque subtilior, contaminabit eos, quia lepra capitis ac barbae est.</ab>
+        <ab xml:id="d1e1159" n="31"> Sin autem viderit locum maculae aequalem vicinae carni, et
+          capillum nigrum : recludet eum septem diebus,</ab>
+        <ab xml:id="d1e1162" n="32"> et die septimo intuebitur. Si non creverit macula, et capillus
+          sui coloris est, et locus plagae carni reliquae aequalis :</ab>
+        <ab xml:id="d1e1165" n="33"> radetur homo absque loco maculae, et includetur septem diebus
+          aliis.</ab>
+        <ab xml:id="d1e1168" n="34"> Si die septimo visa fuerit stetisse plaga in loco suo, nec
+          humilior carne reliqua, mundabit eum : lotisque vestibus suis, mundus erit.</ab>
+        <ab xml:id="d1e1171" n="35"> Sin autem post emundationem rursus creverit macula in
+          cute,</ab>
+        <ab xml:id="d1e1175" n="36"> non quaeret amplius utrum capillus in flavum colorem sit
+          immutatus, quia aperte immundus est.</ab>
+        <ab xml:id="d1e1178" n="37"> Porro si steterit macula, et capilli nigri fuerint, noverit
+          hominem sanatum esse, et confidenter eum pronuntiet mundum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1182" n="38"> Vir, sive mulier, in cujus cute candor apparuerit,</ab>
+        <ab xml:id="d1e1185" n="39"> intuebitur eos sacerdos. Si deprehenderit subobscurum alborem
+          lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1189" n="40"> Vir, de cujus capite capilli fluunt, calvus et mundus est
+          :</ab>
+        <ab xml:id="d1e1192" n="41"> et si a fronte ceciderint pili, recalvaster et mundus est.</ab>
+        <ab xml:id="d1e1196" n="42"> Sin autem in calvitio sive in recalvatione albus vel rufus
+          color fuerit exortus,</ab>
+        <ab xml:id="d1e1199" n="43"> et hoc sacerdos viderit, condemnabit eum haud dubiae leprae,
+          quae orta est in calvitio.</ab>
+        <ab xml:id="d1e1202" n="44"> Quicumque ergo maculatus fuerit lepra, et separatus est ad
+          arbitrium sacerdotis,</ab>
+        <ab xml:id="d1e1205" n="45"> habebit vestimenta dissuta, caput nudum, os veste contectum,
+          contaminatum ac sordidum se clamabit.</ab>
+        <ab xml:id="d1e1208" n="46"> Omni tempore quo leprosus est et immundus, solus habitabit
+          extra castra.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1212" n="47"> Vestis lanea sive linea, quae lepram habuerit,</ab>
+        <ab xml:id="d1e1216" n="48"> in stamine atque subtegmine, aut certe pellis, vel quidquid ex
+          pelle confectum est,</ab>
+        <ab xml:id="d1e1219" n="49"> si alba vel rufa macula fuerit infecta, lepra reputabitur,
+          ostendeturque sacerdoti :</ab>
+        <ab xml:id="d1e1222" n="50"> qui consideratam recludet septem diebus :</ab>
+        <ab xml:id="d1e1225" n="51"> et die septimo rursus aspiciens, si deprehenderit crevisse,
+          lepra perseverans est : pollutum judicabit vestimentum, et omne in quo fuerit inventa
+          :</ab>
+        <ab xml:id="d1e1228" n="52"> et idcirco comburetur flammis.</ab>
+        <ab xml:id="d1e1231" n="53"> Quod si eam viderit non crevisse,</ab>
+        <ab xml:id="d1e1235" n="54"> praecipiet, et lavabunt id in quo lepra est, recludetque illud
+          septem diebus aliis.</ab>
+        <ab xml:id="d1e1238" n="55"> Et cum viderit faciem quidem pristinam non reversam, nec tamen
+          crevisse lepram, immundum judicabit, et igne comburet, eo quod infusa sit in superficie
+          vestimenti, vel per totum, lepra.</ab>
+        <ab xml:id="d1e1241" n="56"> Sin autem obscurior fuerit locus leprae, postquam vestis est
+          lota, abrumpet eum, et a solido dividet.</ab>
+        <ab xml:id="d1e1244" n="57"> Quod si ultra apparuerit in his locis, quae prius immaculata
+          erant, lepra volatilis et vaga, debet igne comburi.</ab>
+        <ab xml:id="d1e1247" n="58"> Si cessaverit, lavabit aqua ea, quae pura sunt, secundo, et
+          munda erunt.</ab>
+        <ab xml:id="d1e1250" n="59"> Ista est lex leprae vestimenti lanei et linei, staminis, atque
+          subtegminis, omnisque supellectilis pelliceae, quomodo mundari debeat, vel
+          contaminari.</ab>
+      </div>
+      <div xml:id="d1e1254" type="chap" n="14">
+        <ab xml:id="d1e1256" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e1259" n="2"> Hic est ritus leprosi, quando mundandus est. Adducetur ad
+          sacerdotem :</ab>
+        <ab xml:id="d1e1262" n="3"> qui egressus de castris, cum invenerit lepram esse
+          mundatam,</ab>
+        <ab xml:id="d1e1265" n="4"> praecipiet ei, qui purificatur, ut offerat duos passeres vivos
+          pro se, quibus vesci licitum est, et lignum cedrinum, vermiculumque et hyssopum.</ab>
+        <ab xml:id="d1e1268" n="5"> Et unum ex passeribus immolari jubebit in vase fictili super
+          aquas viventes :</ab>
+        <ab xml:id="d1e1272" n="6"> alium autem vivum cum ligno cedrino, et cocco et hyssopo, tinget
+          in sanguine passeris immolati,</ab>
+        <ab xml:id="d1e1275" n="7"> quo asperget illum, qui mundandus est, septies, ut jure purgetur
+          : et dimittet passerem vivum, ut in agrum avolet.</ab>
+        <ab xml:id="d1e1278" n="8"> Cumque laverit homo vestimenta sua, radet omnes pilos corporis,
+          et lavabitur aqua : purificatusque ingredietur castra, ita dumtaxat ut maneat extra
+          tabernaculum suum septem diebus,</ab>
+        <ab xml:id="d1e1281" n="9"> et die septimo radet capillos capitis, barbamque et supercilia,
+          ac totius corporis pilos. Et lotis rursum vestibus et corpore,</ab>
+        <ab xml:id="d1e1284" n="10"> die octavo assumet duos agnos immaculatos, et ovem anniculam
+          absque macula, et tres decimas similae in sacrificium, quae conspersa sit oleo, et seorsum
+          olei sextarium.</ab>
+        <ab xml:id="d1e1287" n="11"> Cumque sacerdos purificans hominem, statuerit eum, et haec
+          omnia coram Domino in ostio tabernaculi testimonii,</ab>
+        <ab xml:id="d1e1291" n="12"> tollet agnum et offeret eum pro delicto, oleique sextarium : et
+          oblatis ante Dominum omnibus,</ab>
+        <ab xml:id="d1e1294" n="13"> immolabit agnum, ubi solet immolari hostia pro peccato, et
+          holocaustum, id est, in loco sancto. Sicut enim pro peccato, ita et pro delicto ad
+          sacerdotem pertinet hostia : Sancta sanctorum est.</ab>
+        <ab xml:id="d1e1297" n="14"> Assumensque sacerdos de sanguine hostiae, quae immolata est pro
+          delicto, ponet super extremum auriculae dextrae ejus qui mundatur, et super pollices manus
+          dextrae et pedis :</ab>
+        <ab xml:id="d1e1300" n="15"> et de olei sextario mittet in manum suam sinistram,</ab>
+        <ab xml:id="d1e1303" n="16"> tingetque digitum dextrum in eo, et asperget coram Domino
+          septies.</ab>
+        <ab xml:id="d1e1306" n="17"> Quod autem reliquum est olei in laeva manu, fundet super
+          extremum auriculae dextrae ejus qui mundatur, et super pollices manus ac pedis dextri, et
+          super sanguinem qui effusus est pro delicto,</ab>
+        <ab xml:id="d1e1310" n="18"> et super caput ejus.</ab>
+        <ab xml:id="d1e1313" n="19"> Rogabitque pro eo coram Domino, et faciet sacrificium pro
+          peccato : tunc immolabit holocaustum,</ab>
+        <ab xml:id="d1e1316" n="20"> et ponet illud in altari cum libamentis suis, et homo rite
+            mundabitur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1320" n="21"> Quod si pauper est, et non potest manus ejus invenire quae
+          dicta sunt pro delicto, assumet agnum ad oblationem, ut roget pro eo sacerdos, decimamque
+          partem similae conspersae oleo in sacrificium, et olei sextarium,</ab>
+        <ab xml:id="d1e1323" n="22"> duosque turtures sive duos pullos columbae, quorum unus sit pro
+          peccato, et alter in holocaustum :</ab>
+        <ab xml:id="d1e1326" n="23"> offeretque ea die octavo purificationis suae sacerdoti, ad
+          ostium tabernaculi testimonii coram Domino.</ab>
+        <ab xml:id="d1e1330" n="24"> Qui suscipiens agnum pro delicto et sextarium olei, levabit
+          simul :</ab>
+        <ab xml:id="d1e1333" n="25"> immolatoque agno, de sanguine ejus ponet super extremum
+          auriculae dextrae illius qui mundatur, et super pollices manus ejus ac pedis dextri :</ab>
+        <ab xml:id="d1e1336" n="26"> olei vero partem mittet in manum suam sinistram,</ab>
+        <ab xml:id="d1e1339" n="27"> in quo tingens digitum dextrae manus asperget septies coram
+          Domino :</ab>
+        <ab xml:id="d1e1342" n="28"> tangetque extremum dextrae auriculae illius qui mundatur, et
+          pollices manus ac pedis dextri, in loco sanguinis qui effusus est pro delicto :</ab>
+        <ab xml:id="d1e1345" n="29"> reliquam autem partem olei, quae est in sinistra manu, mittet
+          super caput purificati, ut placet pro eo Dominum :</ab>
+        <ab xml:id="d1e1349" n="30"> et turturem sive pullum columbae offeret,</ab>
+        <ab xml:id="d1e1352" n="31"> unum pro delicto, et alterum in holocaustum cum libamentis
+          suis.</ab>
+        <ab xml:id="d1e1355" n="32"> Hoc est sacrificium leprosi, qui habere non potest omnia in
+          emundationem sui.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1359" n="33"> Locutusque est Dominus ad Moysen et Aaron, dicens :</ab>
+        <ab xml:id="d1e1362" n="34"> Cum ingressi fueritis terram Chanaan, quam ego dabo vobis in
+          possessionem, si fuerit plaga leprae in aedibus,</ab>
+        <ab xml:id="d1e1365" n="35"> ibit cujus est domus, nuntians sacerdoti, et dicet : Quasi
+          plaga leprae videtur mihi esse in domo mea.</ab>
+        <ab xml:id="d1e1369" n="36"> At ille praecipiet ut efferant universa de domo, priusquam
+          ingrediatur eam, et videat utrum leprosa sit, ne immunda fiant omnia quae in domo sunt.
+          Intrabitque postea ut consideret lepram domus :</ab>
+        <ab xml:id="d1e1372" n="37"> et cum viderit in parietibus illius quasi valliculas pallore
+          sive rubore deformes, et humiliores superficie reliqua,</ab>
+        <ab xml:id="d1e1375" n="38"> egredietur ostium domus, et statim claudet illam septem
+          diebus.</ab>
+        <ab xml:id="d1e1378" n="39"> Reversusque die septimo, considerabit eam : si invenerit
+          crevisse lepram,</ab>
+        <ab xml:id="d1e1381" n="40"> jubebit erui lapides in quibus lepra est, et projici eos extra
+          civitatem in locum immundum :</ab>
+        <ab xml:id="d1e1384" n="41"> domum autem ipsam radi intrinsecus per circuitum, et spargi
+          pulverem rasurae extra urbem in locum immundum,</ab>
+        <ab xml:id="d1e1388" n="42"> lapidesque alios reponi pro his qui ablati fuerint, et luto
+          alio liniri domum.</ab>
+        <ab xml:id="d1e1391" n="43"> Sin autem postquam eruti sunt lapides, et pulvis erasus, et
+          alia terra lita,</ab>
+        <ab xml:id="d1e1394" n="44"> ingressus sacerdos viderit reversam lepram, et parietes
+          respersos maculis, lepra est perseverans, et immunda domus :</ab>
+        <ab xml:id="d1e1397" n="45"> quam statim destruent, et lapides ejus ac ligna, atque
+          universum pulverem projicient extra oppidum in locum immundum.</ab>
+        <ab xml:id="d1e1400" n="46"> Qui intraverit domum quando clausa est, immundus erit usque ad
+          vesperum :</ab>
+        <ab xml:id="d1e1403" n="47"> et qui dormierit in ea, et comederit quippiam, lavabit
+          vestimenta sua.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1408" n="48"> Quod si introiens sacerdos viderit lepram non crevisse in domo,
+          postquam denuo lita fuerit, purificabit eam reddita sanitate :</ab>
+        <ab xml:id="d1e1411" n="49"> et in purificationem ejus sumet duos passeres, lignumque
+          cedrinum, et vermiculum atque hyssopum :</ab>
+        <ab xml:id="d1e1414" n="50"> et immolato uno passere in vase fictili super aquas vivas,</ab>
+        <ab xml:id="d1e1417" n="51"> tollet lignum cedrinum, et hyssopum, et coccum, et passerem
+          vivum, et tinget omnia in sanguine passeris immolati, atque in aquis viventibus, et
+          asperget domum septies,</ab>
+        <ab xml:id="d1e1420" n="52"> purificabitque eam tam in sanguine passeris quam in aquis
+          viventibus, et in passere vivo, lignoque cedrino et hyssopo atque vermiculo.</ab>
+        <ab xml:id="d1e1423" n="53"> Cumque dimiserit passerem avolare in agrum libere, orabit pro
+          domo, et jure mundabitur.</ab>
+        <ab xml:id="d1e1427" n="54"> Ista est lex omnis leprae et percussurae,</ab>
+        <ab xml:id="d1e1430" n="55"> leprae vestium et domorum,</ab>
+        <ab xml:id="d1e1433" n="56"> cicatricis et erumpentium papularum, lucentis maculae, et in
+          varias species, coloribus immutatis,</ab>
+        <ab xml:id="d1e1436" n="57"> ut possit sciri quo tempore mundum quid, vel immundum sit.</ab>
+      </div>
+      <div xml:id="d1e1440" type="chap" n="15">
+        <ab xml:id="d1e1442" n="1"> Locutusque est Dominus ad Moysen et Aaron, dicens :</ab>
+        <ab xml:id="d1e1445" n="2"> Loquimini filiis Israël, et dicite eis : Vir, qui patitur fluxum
+          seminis, immundus erit.</ab>
+        <ab xml:id="d1e1448" n="3"> Et tunc judicabitur huic vitio subjacere, cum per singula
+          momenta adhaeserit carni ejus, atque concreverit foedus humor.</ab>
+        <ab xml:id="d1e1451" n="4"> Omne stratum, in quo dormierit, immundum erit, et ubicumque
+          sederit.</ab>
+        <ab xml:id="d1e1454" n="5"> Si quis hominum tetigerit lectum ejus, lavabit vestimenta sua,
+          et ipse lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1458" n="6"> Si sederit ubi ille sederat, et ipse lavabit vestimenta sua : et
+          lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1461" n="7"> Qui tetigerit carnem ejus, lavabit vestimenta sua : et ipse
+          lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1464" n="8"> Si salivam hujuscemodi homo jecerit super eum qui mundus est,
+          lavabit vestimenta sua : et lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1467" n="9"> Sagma, super quo sederit, immundum erit :</ab>
+        <ab xml:id="d1e1470" n="10"> et quidquid sub eo fuerit, qui fluxum seminis patitur, pollutum
+          erit usque ad vesperum. Qui portaverit horum aliquid, lavabit vestimenta sua : et ipse
+          lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1473" n="11"> Omnis, quem tetigerit qui talis est, non lotis ante manibus,
+          lavabit vestimenta sua, et lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1477" n="12"> Vas fictile quod tetigerit confringetur : vas autem ligneum
+          lavabitur aqua.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1481" n="13"> Si sanatus fuerit qui hujuscemodi sustinet passionem, numerabit
+          septem dies post emundationem sui, et lotis vestibus et toto corpore in aquis viventibus,
+          erit mundus.</ab>
+        <ab xml:id="d1e1484" n="14"> Die autem octavo sumet duos turtures, aut duos pullos columbae,
+          et veniet in conspectum Domini ad ostium tabernaculi testimonii, dabitque eos sacerdoti
+          :</ab>
+        <ab xml:id="d1e1487" n="15"> qui faciet unum pro peccato et alterum in holocaustum :
+          rogabitque pro eo coram Domino, ut emundetur a fluxi seminis sui.</ab>
+        <ab xml:id="d1e1490" n="16"> Vir de quo egreditur semen coitus, lavabit aqua omne corpus
+          suum : et immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1493" n="17"> Vestem et pellem, quam habuerit, lavabit aqua, et immunda erit
+          usque ad vesperum.</ab>
+        <ab xml:id="d1e1497" n="18"> Mulier, cum qua coierit, lavabitur aqua, et immunda erit usque
+          ad vesperum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1501" n="19"> Mulier, quae redeunte mense patitur fluxum sanguinis, septem
+          diebus separabitur.</ab>
+        <ab xml:id="d1e1504" n="20"> Omnis qui tetigerit eam, immundus erit usque ad vesperum :</ab>
+        <ab xml:id="d1e1507" n="21"> et in quo dormierit vel sederit diebus separationis suae,
+          polluetur.</ab>
+        <ab xml:id="d1e1510" n="22"> Qui tetigerit lectum ejus, lavabit vestimenta sua : et ipse
+          lotus aqua, immundus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1513" n="23"> Omne vas, super quo illa sederit, quisquis attigerit, lavabit
+          vestimenta sua : et ipse lotus aqua, pollutus erit usque ad vesperum.</ab>
+        <ab xml:id="d1e1517" n="24"> Si coierit cum ea vir tempore sanguinis menstrualis, immundus
+          erit septem diebus : et omne stratum, in quo dormierit, polluetur.</ab>
+        <ab xml:id="d1e1520" n="25"> Mulier, quae patitur multis diebus fluxum sanguinis non in
+          tempore menstruali, vel quae post menstruum sanguinem fluere non cessat, quamdiu subjacet
+          huic passioni, immunda erit quasi sit in tempore menstruo.</ab>
+        <ab xml:id="d1e1523" n="26"> Omne stratum, in quo dormierit, et vas in quo sederit, pollutum
+          erit.</ab>
+        <ab xml:id="d1e1526" n="27"> Quicumque tetigerit ea, lavabit vestimenta sua : et ipse lotus
+          aqua, immundus erit usque ad vesperam.</ab>
+        <ab xml:id="d1e1529" n="28"> Si steterit sanguis, et fluere cessaverit, numerabit septem
+          dies purificationis suae :</ab>
+        <ab xml:id="d1e1532" n="29"> et die octavo offeret pro se sacerdoti duos turtures, aut duos
+          pullos columbarum, ad ostium tabernaculi testimonii :</ab>
+        <ab xml:id="d1e1536" n="30"> qui unum faciet pro peccato, et alterum in holocaustum,
+          rogabitque pro ea coram Domino, et pro fluxu immunditiae ejus.</ab>
+        <ab xml:id="d1e1539" n="31"> Docebitis ergo filios Israël ut caveant immunditiam, et non
+          moriantur in sordibus suis, cum polluerint tabernaculum meum quod est inter eos.</ab>
+        <ab xml:id="d1e1542" n="32"> Ista est lex ejus, qui patitur fluxum seminis, et qui polluitur
+          coitu,</ab>
+        <ab xml:id="d1e1545" n="33"> et quae menstruis temporibus separatur, vel quae jugi fluit
+          sanguine, et hominis qui dormierit cum ea.</ab>
+      </div>
+      <div xml:id="d1e1549" type="chap" n="16">
+        <ab xml:id="d1e1551" n="1"> Locutusque est Dominus ad Moysen post mortem duorum filiorum
+          Aaron, quando offerentes ignem alienum interfecti sunt :</ab>
+        <ab xml:id="d1e1554" n="2"> et praecepit ei, dicens : Loquere ad Aaron fratrem tuum, ne omni
+          tempore ingrediatur sanctuarium, quod est intra velum coram propitiatorio quo tegitur
+          arca, ut non moriatur (quia in nube apparebo super oraculum),</ab>
+        <ab xml:id="d1e1557" n="3"> nisi haec ante fecerit : vitulum pro peccato offeret, et arietem
+          in holocaustum.</ab>
+        <ab xml:id="d1e1560" n="4"> Tunica linea vestietur, feminalibus lineis verenda celabit :
+          accingetur zona linea, cidarim lineam imponet capiti : haec enim vestimenta sunt sancta :
+          quibus cunctis, cum lotus fuerit, induetur.</ab>
+        <ab xml:id="d1e1563" n="5"> Suscipietque ab universa multitudine filiorum Israël duos hircos
+          pro peccato, et unum arietem in holocaustum.</ab>
+        <ab xml:id="d1e1567" n="6"> Cumque obtulerit vitulum, et oraverit pro se et pro domo
+          sua,</ab>
+        <ab xml:id="d1e1570" n="7"> duos hircos stare faciet coram Domino in ostio tabernaculi
+          testimonii :</ab>
+        <ab xml:id="d1e1573" n="8"> mittensque super utrumque sortem, unam Domino, alteram capro
+          emissario :</ab>
+        <ab xml:id="d1e1576" n="9"> cujus exierit sors Domino, offeret illum pro peccato :</ab>
+        <ab xml:id="d1e1579" n="10"> cujus autem in caprum emissarium, statuet eum vivum coram
+          Domino, ut fundat preces super eo, et emittat eum in solitudinem.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1583" n="11"> His rite celebratis, offeret vitulum, et rogans pro se, et pro
+          domo sua, immolabit eum :</ab>
+        <ab xml:id="d1e1587" n="12"> assumptoque thuribulo, quod de prunis altaris impleverit, et
+          hauriens manu compositum thymiama in incensum, ultra velum intrabit in sancta :</ab>
+        <ab xml:id="d1e1590" n="13"> ut, positis super ignem aromatibus, nebula eorum et vapor
+          operiat oraculum quod est supra testimonium, et non moriatur.</ab>
+        <ab xml:id="d1e1593" n="14"> Tollet quoque de sanguine vituli, et asperget digito septies
+          contra propitiatorium ad orientem.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1597" n="15"> Cumque mactaverit hircum pro peccato populi, inferet sanguinem
+          ejus intra velum, sicut praeceptum est de sanguine vituli, ut aspergat e regione
+          oraculi,</ab>
+        <ab xml:id="d1e1600" n="16"> et expiet sanctuarium ab immunditiis filiorum Israël, et a
+          praevaricationibus eorum, cunctisque peccatis. Juxta hunc ritum faciet tabernaculo
+          testimonii, quod fixum est inter eos, in medio sordium habitationis eorum.</ab>
+        <ab xml:id="d1e1603" n="17"> Nullus hominum sit in tabernaculo, quando pontifex sanctuarium
+          ingreditur, ut roget pro se, et pro domo sua, et pro universo coetu Israël, donec
+          egrediatur.</ab>
+        <ab xml:id="d1e1607" n="18"> Cum autem exierit ad altare quod coram Domino est, oret pro se,
+          et sumptum sanguinem vituli atque hirci fundat super cornua ejus per gyrum :</ab>
+        <ab xml:id="d1e1610" n="19"> aspergensque digito septies, expiet, et sanctificet illud ab
+          immunditiis filiorum Israël.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1614" n="20"> Postquam emundaverit sanctuarium, et tabernaculum, et altare,
+          tunc offerat hircum viventem :</ab>
+        <ab xml:id="d1e1617" n="21"> et posita utraque manu super caput ejus, confiteatur omnes
+          iniquitates filiorum Israël, et universa delicta atque peccata eorum : quae imprecans
+          capiti ejus, emittet illum per hominem paratum, in desertum.</ab>
+        <ab xml:id="d1e1620" n="22"> Cumque portaverit hircus omnes iniquitates eorum in terram
+          solitariam, et dimissus fuerit in deserto,</ab>
+        <ab xml:id="d1e1623" n="23"> revertetur Aaron in tabernaculum testimonii, et depositis
+          vestibus, quibus prius indutus erat, cum intraret sanctuarium, relictisque ibi,</ab>
+        <ab xml:id="d1e1627" n="24"> lavabit carnem suam in loco sancto, indueturque vestibus suis.
+          Et postquam egressus obtulerit holocaustum suum, ac plebis, rogabit tam pro se quam pro
+          populo :</ab>
+        <ab xml:id="d1e1630" n="25"> et adipem, qui oblatus est pro peccatis, adolebit super
+          altare.</ab>
+        <ab xml:id="d1e1633" n="26"> Ille vero, qui dimiserit caprum emissarium, lavabit vestimenta
+          sua, et corpus aqua, et sic ingredietur in castra.</ab>
+        <ab xml:id="d1e1636" n="27"> Vitulum autem, et hircum, qui pro peccato fuerant immolati, et
+          quorum sanguis illatus est in sanctuarium, ut expiatio compleretur, asportabunt foras
+          castra, et comburent igni tam pelles quam carnes eorum, ac fimum :</ab>
+        <ab xml:id="d1e1639" n="28"> et quicumque combusserit ea, lavabit vestimenta sua et carnem
+          aqua, et sic ingredietur in castra.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1643" n="29"> Eritque vobis hoc legitimum sempiternum : mense septimo, decima
+          die mensis, affligetis animas vestras, nullumque opus facietis, sive indigena, sive advena
+          qui peregrinatur inter vos.</ab>
+        <ab xml:id="d1e1647" n="30"> In hac die expiatio erit vestri, atque mundatio ab omnibus
+          peccatis vestris : coram Domino mundabimini.</ab>
+        <ab xml:id="d1e1650" n="31"> Sabbatum enim requietionis est, et affligetis animas vestras
+          religione perpetua.</ab>
+        <ab xml:id="d1e1653" n="32"> Expiabit autem sacerdos, qui unctus fuerit, et cujus manus
+          initiatae sunt ut sacerdotio fungatur pro patre suo : indueturque stola linea et vestibus
+          sanctis,</ab>
+        <ab xml:id="d1e1656" n="33"> et expiabit sanctuarium et tabernaculum testimonii atque
+          altare, sacerdotes quoque et universum populum.</ab>
+        <ab xml:id="d1e1659" n="34"> Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis
+          Israël, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut praeceperat
+          Dominus Moysi.</ab>
+      </div>
+      <div xml:id="d1e1663" type="chap" n="17">
+        <ab xml:id="d1e1665" n="1"> Et locutus est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e1668" n="2"> Loquere Aaron et filiis ejus, et cunctis filiis Israël, dicens
+          ad eos : Iste est sermo quem mandavit Dominus, dicens :</ab>
+        <ab xml:id="d1e1671" n="3"> Homo quilibet de domo Israël, si occiderit bovem aut ovem, sive
+          capram, in castris vel extra castra,</ab>
+        <ab xml:id="d1e1674" n="4"> et non obtulerit ad ostium tabernaculi oblationem Domino,
+          sanguinis reus erit : quasi si sanguinem fuderit, sic peribit de medio populi sui.</ab>
+        <ab xml:id="d1e1677" n="5"> Ideo sacerdoti offerre debent filii Israël hostias suas, quas
+          occident in agro, ut sanctificentur Domino ante ostium tabernaculi testimonii, et immolent
+          eas hostias pacificas Domino.</ab>
+        <ab xml:id="d1e1681" n="6"> Fundetque sacerdos sanguinem super altare Domini ad ostium
+          tabernaculi testimonii, et adolebit adipem in odorem suavitatis Domino :</ab>
+        <ab xml:id="d1e1684" n="7"> et nequaquam ultra immolabunt hostias suas daemonibus, cum
+          quibus fornicati sunt. Legitimum sempiternum erit illis et posteris eorum.</ab>
+        <ab xml:id="d1e1687" n="8"> Et ad ipsos dices : Homo de domo Israël, et de advenis qui
+          peregrinantur apud vos, qui obtulerit holocaustum sive victimam,</ab>
+        <ab xml:id="d1e1690" n="9"> et ad ostium tabernaculi testimonii non adduxerit eam, ut
+          offeratur Domino, interibit de populo suo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1694" n="10"> Homo quilibet de domo Israël et de advenis qui peregrinantur
+          inter eos, si comederit sanguinem, obfirmabo faciem meam contra animam illius, et
+          disperdam eam de populo suo,</ab>
+        <ab xml:id="d1e1697" n="11"> quia anima carnis in sanguine est : et ego dedi illum vobis, ut
+          super altare in eo expietis pro animabus vestris, et sanguis pro animae piaculo sit.</ab>
+        <ab xml:id="d1e1701" n="12"> Idcirco dixi filiis Israël : Omnis anima ex vobis non comedet
+          sanguinem, nec ex advenis qui peregrinantur apud vos.</ab>
+        <ab xml:id="d1e1704" n="13"> Homo quicumque de filiis Israël, et de advenis qui
+          peregrinantur apud vos, si venatione atque aucupio ceperit feram, vel avem, quibus vesci
+          licitum est, fundat sanguinem ejus, et operiat illum terra.</ab>
+        <ab xml:id="d1e1707" n="14"> Anima enim omnis carnis in sanguine est : unde dixi filiis
+          Israël : Sanguinem universae carnis non comedetis, quia anima carnis in sanguine est : et
+          quicumque comederit illum, interibit.</ab>
+        <ab xml:id="d1e1710" n="15"> Anima, quae comederit morticinum, vel captum a bestia, tam de
+          indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus
+          erit usque ad vesperum : et hoc ordine mundus fiet.</ab>
+        <ab xml:id="d1e1713" n="16"> Quod si non laverit vestimenta sua et corpus, portabit
+          iniquitatem suam.</ab>
+      </div>
+      <div xml:id="d1e1718" type="chap" n="18">
+        <ab xml:id="d1e1720" n="1"> Locutus est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e1723" n="2"> Loquere filiis Israël, et dices ad eos : Ego Dominus Deus vester
+          :</ab>
+        <ab xml:id="d1e1726" n="3"> juxta consuetudinem terrae Aegypti, in qua habitastis, non
+          facietis : et juxta morem regionis Chanaan, ad quam ego introducturus sum vos, non agetis,
+          nec in legitimis eorum ambulabitis.</ab>
+        <ab xml:id="d1e1729" n="4"> Facietis judicia mea, et praecepta mea servabitis, et
+          ambulabitis in eis. Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e1732" n="5"> Custodite leges meas atque judicia, quae faciens homo, vivet in
+          eis. Ego Dominus.</ab>
+        <ab xml:id="d1e1736" n="6"> Omnis homo ad proximam sanguinis sui non accedet, ut revelet
+          turpitudinem ejus. Ego Dominus.</ab>
+        <ab xml:id="d1e1739" n="7"> Turpitudinem patris tui et turpitudinem matris tuae non
+          discooperies : mater tua est : non revelabis turpitudinem ejus.</ab>
+        <ab xml:id="d1e1742" n="8"> Turpitudinem uxoris patris tui non discooperies : turpitudo enim
+          patris tui est.</ab>
+        <ab xml:id="d1e1745" n="9"> Turpitudinem sororis tuae ex patre sive ex matre, quae domi vel
+          foris genita est, non revelabis.</ab>
+        <ab xml:id="d1e1748" n="10"> Turpitudinem filiae filii tui vel neptis ex filia non revelabis
+          : quia turpitudo tua est.</ab>
+        <ab xml:id="d1e1751" n="11"> Turpitudinem filiae uxoris patris tui, quam peperit patri tuo,
+          et est soror tua, non revelabis.</ab>
+        <ab xml:id="d1e1755" n="12"> Turpitudinem sororis patris tui non discooperies : quia caro
+          est patris tui.</ab>
+        <ab xml:id="d1e1758" n="13"> Turpitudinem sororis matris tuae non revelabis, eo quod caro
+          sit matris tuae.</ab>
+        <ab xml:id="d1e1761" n="14"> Turpitudinem patrui tui non revelabis, nec accedes ad uxorem
+          ejus, quae tibi affinitate conjungitur.</ab>
+        <ab xml:id="d1e1764" n="15"> Turpitudinem nurus tuae non revelabis, quia uxor filii tui est
+          : nec discooperies ignominiam ejus.</ab>
+        <ab xml:id="d1e1767" n="16"> Turpitudinem uxoris fratris tui non revelabis : quia turpitudo
+          fratris tui est.</ab>
+        <ab xml:id="d1e1770" n="17"> Turpitudinem uxoris tuae et filiae ejus non revelabis. Filiam
+          filii ejus, et filiam filiae illius non sumes, ut reveles ignominiam ejus : quia caro
+          illius sunt, et talis coitus incestus est.</ab>
+        <ab xml:id="d1e1774" n="18"> Sororem uxoris tuae in pellicatum illius non accipies, nec
+          revelabis turpitudinem ejus adhuc illa vivente.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1778" n="19"> Ad mulierem quae patitur menstrua non accedes, nec revelabis
+          foeditatem ejus.</ab>
+        <ab xml:id="d1e1781" n="20"> Cum uxore proximi tui non coibis, nec seminis commistione
+          maculaberis.</ab>
+        <ab xml:id="d1e1784" n="21"> De semine tuo non dabis ut consecretur idolo Moloch, nec
+          pollues nomen Dei tui. Ego Dominus.</ab>
+        <ab xml:id="d1e1787" n="22"> Cum masculo non commiscearis coitu femineo, quia abominatio
+          est.</ab>
+        <ab xml:id="d1e1790" n="23"> Cum omni pecore non coibis, nec maculaberis cum eo. Mulier non
+          succumbet jumento, nec miscebitur ei, quia scelus est.</ab>
+        <ab xml:id="d1e1794" n="24"> Nec polluamini in omnibus his quibus contaminatae sunt
+          universae gentes, quas ego ejiciam ante conspectum vestrum,</ab>
+        <ab xml:id="d1e1797" n="25"> et quibus polluta est terra : cujus ego scelera visitabo, ut
+          evomat habitatores suos.</ab>
+        <ab xml:id="d1e1800" n="26"> Custodite legitima mea atque judicia, et non faciatis ex
+          omnibus abominationibus istis, tam indigena quam colonus qui peregrinantur apud vos.</ab>
+        <ab xml:id="d1e1803" n="27"> Omnes enim execrationes istas fecerunt accolae terrae qui
+          fuerunt ante vos, et polluerunt eam.</ab>
+        <ab xml:id="d1e1806" n="28"> Cavete ergo ne et vos similiter evomat, cum paria feceritis,
+          sicut evomuit gentem, quae fuit ante vos.</ab>
+        <ab xml:id="d1e1809" n="29"> Omnis anima, quae fecerit de abominationibus his quippiam,
+          peribit de medio populi sui.</ab>
+        <ab xml:id="d1e1813" n="30"> Custodite mandata mea. Nolite facere quae fecerunt hi qui
+          fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester.</ab>
+      </div>
+      <div xml:id="d1e1817" type="chap" n="19">
+        <ab xml:id="d1e1819" n="1"> Locutus est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e1822" n="2"> Loquere ad omnem coetum filiorum Israël, et dices ad eos :
+          Sancti estote, quia ego sanctus sum, Dominus Deus vester.</ab>
+        <ab xml:id="d1e1825" n="3"> Unusquisque patrem suum, et matrem suam timeat. Sabbata mea
+          custodite. Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e1828" n="4"> Nolite converti ad idola, nec deos conflatiles faciatis vobis.
+          Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e1831" n="5"> Si immolaveritis hostiam pacificorum Domino, ut sit
+          placabilis,</ab>
+        <ab xml:id="d1e1835" n="6"> eo die quo fuerit immolata, comedetis eam, et die altero :
+          quidquid autem residuum fuerit in diem tertium, igne comburetis.</ab>
+        <ab xml:id="d1e1838" n="7"> Si quis post biduum comederit ex ea, profanus erit, et
+          impietatis reus :</ab>
+        <ab xml:id="d1e1841" n="8"> portabitque iniquitatem suam, quia sanctum Domini polluit, et
+          peribit anima illa de populo suo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1845" n="9"> Cumque messueris segetes terrae tuae, non tondebis usque ad
+          solum superficiem terrae, nec remanentes spicas colliges,</ab>
+        <ab xml:id="d1e1848" n="10"> neque in vinea tua racemos et grana decidentia congregabis :
+          sed pauperibus et peregrinis carpenda dimittes. Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e1851" n="11"> Non facietis furtum. Non mentiemini, nec decipiet unusquisque
+          proximum suum.</ab>
+        <ab xml:id="d1e1855" n="12"> Non perjurabis in nomine meo, nec pollues nomen Dei tui. Ego
+          Dominus.</ab>
+        <ab xml:id="d1e1858" n="13"> Non facies calumniam proximo tuo nec vi opprimes eum. Non
+          morabitur opus mercenarii tui apud te usque mane.</ab>
+        <ab xml:id="d1e1861" n="14"> Non maledices surdo, nec coram caeco pones offendiculum : sed
+          timebis Dominum Deum tuum, quia ego sum Dominus.</ab>
+        <ab xml:id="d1e1864" n="15"> Non facies quod iniquum est, nec injuste judicabis. Non
+          consideres personam pauperis, nec honores vultum potentis. Juste judica proximo tuo.</ab>
+        <ab xml:id="d1e1867" n="16"> Non eris criminator, nec susurro in populo. Non stabis contra
+          sanguinem proximi tui. Ego Dominus.</ab>
+        <ab xml:id="d1e1870" n="17"> Non oderis fratrem tuum in corde tuo, sed publice argue eum, ne
+          habeas super illo peccatum.</ab>
+        <ab xml:id="d1e1874" n="18"> Non quaeras ultionem, nec memor eris injuriae civium tuorum.
+          Diliges amicum tuum sicut teipsum. Ego Dominus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1878" n="19"> Leges meas custodite. Jumentum tuum non facies coire cum
+          alterius generis animantibus. Agrum tuum non seres diverso semine. Veste, quae ex duobus
+          texta est, non indueris.</ab>
+        <ab xml:id="d1e1881" n="20"> Homo, si dormierit cum muliere coitu seminis, quae sit ancilla
+          etiam nubilis, et tamen pretio non redempta, nec libertate donata : vapulabunt ambo, et
+          non morientur, quia non fuit libera.</ab>
+        <ab xml:id="d1e1884" n="21"> Pro delicto autem suo offeret Domino ad ostium tabernaculi
+          testimonii arietem :</ab>
+        <ab xml:id="d1e1887" n="22"> orabitque pro eo sacerdos, et pro peccato ejus coram Domino, et
+          repropitiabitur ei, dimitteturque peccatum.</ab>
+        <ab xml:id="d1e1890" n="23"> Quando ingressi fueritis terram, et plantaveritis in ea ligna
+          pomifera, auferetis praeputia eorum : poma, quae germinant, immunda erunt vobis, nec
+          edetis ex eis.</ab>
+        <ab xml:id="d1e1894" n="24"> Quarto autem anno omnis fructus eorum sanctificabitur,
+          laudabilis Domino.</ab>
+        <ab xml:id="d1e1897" n="25"> Quinto autem anno comedetis fructus, congregantes poma, quae
+          proferunt. Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e1900" n="26"> Non comedetis cum sanguine. Non augurabimini, nec observabitis
+          somnia.</ab>
+        <ab xml:id="d1e1903" n="27"> Neque in rotundum attondebitis comam, nec radetis barbam.</ab>
+        <ab xml:id="d1e1906" n="28"> Et super mortuo non incidetis carnem vestram, neque figuras
+          aliquas aut stigmata facietis vobis. Ego Dominus.</ab>
+        <ab xml:id="d1e1909" n="29"> Ne prostituas filiam tuam, ne contaminetur terra et impleatur
+          piaculo.</ab>
+        <ab xml:id="d1e1913" n="30"> Sabbata mea custodite, et sanctuarium meum metuite. Ego
+          Dominus.</ab>
+        <ab xml:id="d1e1916" n="31"> Non declinetis ad magos, nec ab ariolis aliquid sciscitemini,
+          ut polluamini per eos. Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e1919" n="32"> Coram cano capite consurge, et honora personam senis : et time
+          Dominum Deum tuum. Ego sum Dominus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1923" n="33"> Si habitaverit advena in terra vestra, et moratus fuerit inter
+          vos, non exprobretis ei :</ab>
+        <ab xml:id="d1e1926" n="34"> sed sit inter vos quasi indigena, et diligetis eum quasi
+          vosmetipsos : fuistis enim et vos advenae in terra Aegypti. Ego Dominus Deus vester.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1930" n="35"> Nolite facere iniquum aliquid in judicio, in regula, in
+          pondere, in mensura.</ab>
+        <ab xml:id="d1e1934" n="36"> Statera justa, et aequa sint pondera, justus modius, aequusque
+          sextarius. Ego Dominus Deus vester, qui eduxi vos de terra Aegypti.</ab>
+        <ab xml:id="d1e1937" n="37"> Custodite omnia praecepta mea, et universa judicia, et facite
+          ea. Ego Dominus.</ab>
+      </div>
+      <div xml:id="d1e1941" type="chap" n="20">
+        <ab xml:id="d1e1943" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e1946" n="2"> Haec loqueris filiis Israël : Homo de filiis Israël, et de
+          advenis qui habitant in Israël, si quis dederit de semine suo idolo Moloch, morte moriatur
+          : populus terrae lapidabit eum.</ab>
+        <ab xml:id="d1e1949" n="3"> Et ego ponam faciem meam contra illum : succidamque eum de medio
+          populi sui, eo quod dederit de semine suo Moloch, et contaminaverit sanctuarium meum, ac
+          polluerit nomen sanctum meum.</ab>
+        <ab xml:id="d1e1952" n="4"> Quod si negligens populus terrae, et quasi parvipendens imperium
+          meum, dimiserit hominem qui dedit de semine suo Moloch, nec voluerit eum occidere :</ab>
+        <ab xml:id="d1e1955" n="5"> ponam faciem meam super hominem illum, et super cognationem
+          ejus, succidamque et ipsum, et omnes qui consenserunt ei ut fornicarentur cum Moloch, de
+          medio populi sui.</ab>
+        <ab xml:id="d1e1959" n="6"> Anima, quae declinaverit ad magos et ariolos, et fornicata
+          fuerit cum eis, ponam faciem meam contra eam, et interficiam illam de medio populi
+          sui.</ab>
+        <ab xml:id="d1e1962" n="7"> Sanctificamini et estote sancti, quia ego sum Dominus Deus
+          vester.</ab>
+        <ab xml:id="d1e1965" n="8"> Custodite praecepta mea, et facite ea : ego Dominus qui
+          sanctifico vos.</ab>
+        <ab xml:id="d1e1968" n="9"> Qui maledixerit patri suo, aut matri, morte moriatur : patri
+          matrique maledixit : sanguis ejus sit super eum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1972" n="10"> Si moechatus quis fuerit cum uxore alterius, et adulterium
+          perpetraverit cum conjuge proximi sui, morte moriantur et moechus et adultera.</ab>
+        <ab xml:id="d1e1975" n="11"> Qui dormierit cum noverca sua, et revelaverit ignominiam patris
+          sui, morte moriantur ambo : sanguis eorum sit super eos.</ab>
+        <ab xml:id="d1e1979" n="12"> Si quis dormierit cum nuru sua, uterque moriatur, quia scelus
+          operati sunt : sanguis eorum sit super eos.</ab>
+        <ab xml:id="d1e1982" n="13"> Qui dormierit cum masculo coitu femineo, uterque operatus est
+          nefas : morte moriantur : sit sanguis eorum super eos.</ab>
+        <ab xml:id="d1e1985" n="14"> Qui supra uxorem filiam, duxerit matrem ejus, scelus operatus
+          est : vivus ardebit cum eis, nec permanebit tantum nefas in medio vestri.</ab>
+        <ab xml:id="d1e1988" n="15"> Qui cum jumento et pecore coierit, morte moriatur : pecus
+          quoque occidite.</ab>
+        <ab xml:id="d1e1991" n="16"> Mulier, quae succubuerit cuilibet jumento, simul interficietur
+          cum eo : sanguis eorum sit super eos.</ab>
+        <ab xml:id="d1e1994" n="17"> Qui acceperit sororem suam filiam patris sui, vel filiam matris
+          suae, et viderit turpitudinem ejus, illaque conspexerit fratris ignominiam, nefariam rem
+          operati sunt : occidentur in conspectu populi sui, eo quod turpitudinem suam mutuo
+          revelaverint, et portabunt iniquitatem suam.</ab>
+        <ab xml:id="d1e1998" n="18"> Qui coierit cum muliere in fluxu menstruo, et revelaverit
+          turpitudinem ejus, ipsaque aperuerit fontem sanguinis sui, interficientur ambo de medio
+          populi sui.</ab>
+        <ab xml:id="d1e2001" n="19"> Turpitudinem materterae et amitae tuae non discooperies : qui
+          hoc fecerit, ignominiam carnis suae nudavit ; portabunt ambo iniquitatem suam.</ab>
+        <ab xml:id="d1e2004" n="20"> Qui coierit cum uxore patrui vel avunculi sui, et revelaverit
+          ignominiam cognationis suae, portabunt ambo peccatum suum : absque liberis morientur.</ab>
+        <ab xml:id="d1e2007" n="21"> Qui duxerit uxorem fratris sui, rem facit illicitam :
+          turpitudinem fratris sui revelavit : absque liberis erunt.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2011" n="22"> Custodite leges meas, atque judicia, et facite ea : ne et vos
+          evomat terra quam intraturi estis et habitaturi.</ab>
+        <ab xml:id="d1e2014" n="23"> Nolite ambulare in legitimis nationum, quas ego expulsurus sum
+          ante vos. Omnia enim haec fecerunt, et abominatus sum eas.</ab>
+        <ab xml:id="d1e2018" n="24"> Vobis autem loquor. Possidete terram eorum, quam dabo vobis in
+          haereditatem, terram fluentem lacte et melle. Ego Dominus Deus vester, qui separavi vos a
+          ceteris populis.</ab>
+        <ab xml:id="d1e2021" n="25"> Separate ergo et vos jumentum mundum ab immundo, et avem mundam
+          ab immunda : ne polluatis animas vestras in pecore, et avibus, et cunctis quae moventur in
+          terra, et quae vobis ostendi esse polluta.</ab>
+        <ab xml:id="d1e2024" n="26"> Eritis mihi sancti, quia sanctus sum ego Dominus, et separavi
+          vos a ceteris populis, ut essetis mei.</ab>
+        <ab xml:id="d1e2027" n="27"> Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit
+          spiritus, morte moriantur : lapidibus obruent eos : sanguis eorum sit super illos.</ab>
+      </div>
+      <div xml:id="d1e2031" type="chap" n="21">
+        <ab xml:id="d1e2033" n="1"> Dixit quoque Dominus ad Moysen : Loquere ad sacerdotes filios
+          Aaron, et dices ad eos : Ne contaminetur sacerdos in mortibus civium suorum,</ab>
+        <ab xml:id="d1e2036" n="2"> nisi tantum in consanguineis, ac propinquis, id est, super patre
+          et matre, et filio, et filia, fratre quoque,</ab>
+        <ab xml:id="d1e2039" n="3"> et sorore virgine quae non est nupta viro :</ab>
+        <ab xml:id="d1e2042" n="4"> sed nec in principe populi sui contaminabitur.</ab>
+        <ab xml:id="d1e2045" n="5"> Non radent caput, nec barbam, neque in carnibus suis facient
+          incisuras.</ab>
+        <ab xml:id="d1e2049" n="6"> Sancti erunt Deo suo, et non polluent nomen ejus : incensum enim
+          Domini, et panes Dei sui offerunt, et ideo sancti erunt.</ab>
+        <ab xml:id="d1e2052" n="7"> Scortum et vile prostibulum non ducent uxorem, nec eam quae
+          repudiata est a marito : quia consecrati sunt Deo suo,</ab>
+        <ab xml:id="d1e2055" n="8"> et panes propositionis offerunt. Sint ergo sancti, quia et ego
+          sanctus sum, Dominus qui sanctifico eos.</ab>
+        <ab xml:id="d1e2058" n="9"> Sacerdotis filia si deprehensa fuerit in stupro, et violaverit
+          nomen patris sui, flammis exuretur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2062" n="10"> Pontifex, id est, sacerdos maximus inter fratres suos, super
+          cujus caput fusum est unctionis oleum, et cujus manus in sacerdotio consecratae sunt,
+          vestitusque est sanctis vestibus, caput suum non discooperiet, vestimenta non scindet
+          :</ab>
+        <ab xml:id="d1e2065" n="11"> et ad omnem mortuum non ingredietur omnino : super patre quoque
+          suo et matre non contaminabitur.</ab>
+        <ab xml:id="d1e2069" n="12"> Nec egredietur de sanctis, ne polluat sanctuarium Domini, quia
+          oleum sanctae unctionis Dei sui super eum est. Ego Dominus.</ab>
+        <ab xml:id="d1e2072" n="13"> Virginem ducet uxorem :</ab>
+        <ab xml:id="d1e2075" n="14"> viduam autem et repudiatam, et sordidam, atque meretricem non
+          accipiet, sed puellam de populo suo :</ab>
+        <ab xml:id="d1e2078" n="15"> ne commisceat stirpem generis sui vulgo gentis suae : quia ego
+          Dominus, qui sanctifico eum.</ab>
+        <ab xml:id="d1e2081" n="16"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2084" n="17"> Loquere ad Aaron : Homo de semine tuo per familias qui habuerit
+          maculam, non offeret panes Deo suo,</ab>
+        <ab xml:id="d1e2088" n="18"> nec accedet ad ministerium ejus : si caecus fuerit, si claudus,
+          si parvo vel grandi, vel torto naso,</ab>
+        <ab xml:id="d1e2091" n="19"> si fracto pede, si manu,</ab>
+        <ab xml:id="d1e2094" n="20"> si gibbus, si lippus, si albuginem habens in oculo, si jugem
+          scabiem, si impetiginem in corpore, vel herniosus.</ab>
+        <ab xml:id="d1e2097" n="21"> Omnis qui habuerit maculam de semine Aaron sacerdotis, non
+          accedet offerre hostias Domino, nec panes Deo suo :</ab>
+        <ab xml:id="d1e2100" n="22"> vescetur tamen panibus qui offeruntur in sanctuario,</ab>
+        <ab xml:id="d1e2103" n="23"> ita dumtaxat, ut intra velum non ingrediatur, nec accedat ad
+          altare, quia maculam habet, et contaminare non debet sanctuarium meum. Ego Dominus qui
+          sanctifico eos.</ab>
+        <ab xml:id="d1e2107" n="24"> Locutus est ergo Moyses ad Aaron, et ad filios ejus, et ad
+          omnem Israël cuncta quae fuerant sibi imperata.</ab>
+      </div>
+      <div xml:id="d1e2111" type="chap" n="22">
+        <ab xml:id="d1e2113" n="1"> Locutus quoque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2116" n="2"> Loquere ad Aaron et ad filios ejus, ut caveant ab his quae
+          consecrata sunt filiorum Israël, et non contaminent nomen sanctificatorum mihi, quae ipsi
+          offerunt. Ego Dominus.</ab>
+        <ab xml:id="d1e2119" n="3"> Dic ad eos, et ad posteros eorum : Omnis homo qui accesserit de
+          stirpe vestra ad ea quae consecrata sunt, et quae obtulerunt filii Israël Domino, in quo
+          est immunditia, peribit coram Domino. Ego sum Dominus.</ab>
+        <ab xml:id="d1e2122" n="4"> Homo de semine Aaron, qui fuerit leprosus, aut patiens fluxum
+          seminis, non vescetur de his quae sanctificata sunt mihi, donec sanetur. Qui tetigerit
+          immundum super mortuo, et ex quo egreditur semen quasi coitus,</ab>
+        <ab xml:id="d1e2125" n="5"> et qui tangit reptile, et quodlibet immundum cujus tactus est
+          sordidus,</ab>
+        <ab xml:id="d1e2129" n="6"> immundus erit usque ad vesperum, et non vescetur his quae
+          sanctificata sunt : sed cum laverit carnem suam aqua,</ab>
+        <ab xml:id="d1e2132" n="7"> et occubuerit sol, tunc mundatus vescetur de sanctificatis, quia
+          cibus illius est.</ab>
+        <ab xml:id="d1e2135" n="8"> Morticinum et captum a bestia non comedent, nec polluentur in
+          eis. Ego sum Dominus.</ab>
+        <ab xml:id="d1e2138" n="9"> Custodiant praecepta mea, ut non subjaceant peccato, et
+          moriantur in sanctuario, cum polluerint illud. Ego Dominus qui sanctifico eos.</ab>
+        <ab xml:id="d1e2141" n="10"> Omnis alienigena non comedet de sanctificatis ; inquilinus
+          sacerdotis et mercenarius non vescentur ex eis.</ab>
+        <ab xml:id="d1e2144" n="11"> Quem autem sacerdos emerit, et qui vernaculus domus ejus
+          fuerit, his comedent ex eis.</ab>
+        <ab xml:id="d1e2148" n="12"> Si filia sacerdotis cuilibet ex populo nupta fuerit, de his
+          quae sanctificata sunt, et de primitiis non vescetur.</ab>
+        <ab xml:id="d1e2151" n="13"> Sin autem vidua, vel repudiata, et absque liberis reversa
+          fuerit ad domum patris sui : sicut puella consueverat, aletur cibis patris sui. Omnis
+          alienigena comedendi ex eis non habet potestatem.</ab>
+        <ab xml:id="d1e2154" n="14"> Qui comederit de sanctificatis per ignorantiam, addet quintam
+          partem cum eo quod comedit, et dabit sacerdoti in sanctuarium.</ab>
+        <ab xml:id="d1e2157" n="15"> Nec contaminabunt sanctificata filiorum Israël, quae offerunt
+          Domino :</ab>
+        <ab xml:id="d1e2160" n="16"> ne forte sustineant iniquitatem delicti sui, cum sanctificata
+          comederint. Ego Dominus qui sanctifico eos.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2164" n="17"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2168" n="18"> Loquere ad Aaron et filios ejus, et ad omnes filios Israël,
+          dicesque ad eos : Homo de domo Israël, et de advenis qui habitant apud vos, qui obtulerit
+          oblationem suam, vel vota solvens, vel sponte offerens, quidquid illud obtulerit in
+          holocaustum Domini,</ab>
+        <ab xml:id="d1e2171" n="19"> ut offeratur per vos, masculus immaculatus erit ex bobus, et
+          ovibus, et ex capris :</ab>
+        <ab xml:id="d1e2174" n="20"> si maculam habuerit, non offeretis, neque erit
+          acceptabile.</ab>
+        <ab xml:id="d1e2177" n="21"> Homo qui obtulerit victimam pacificorum Domino, vel vota
+          solvens, vel sponte offerens, tam de bobus quam de ovibus, immaculatum offeret ut
+          acceptabile sit : omnis macula non erit in eo.</ab>
+        <ab xml:id="d1e2180" n="22"> Si caecum fuerit, si fractum, si cicatricem habens, si papulas,
+          aut scabiem, aut impetiginem : non offeretis ea Domino, nec adolebitis ex eis super altare
+          Domini.</ab>
+        <ab xml:id="d1e2183" n="23"> Bovem et ovem, aure et cauda amputatis, voluntarie offerre
+          potes, votum autem ex eis solvi non potest.</ab>
+        <ab xml:id="d1e2187" n="24"> Omne animal, quod vel contritis, vel tusis, vel sectis
+          ablatisque testiculis est, non offeretis Domino, et in terra vestra hoc omnino ne
+          faciatis.</ab>
+        <ab xml:id="d1e2190" n="25"> De manu alienigenae non offeretis panes Deo vestro, et quidquid
+          aliud dare voluerit, quia corrupta, et maculata sunt omnia : non suscipietis ea.</ab>
+        <ab xml:id="d1e2193" n="26"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2196" n="27"> Bos, ovis et capra, cum genita fuerint, septem diebus erunt sub
+          ubere matris suae : die autem octavo, et deinceps, offerri poterunt Domino.</ab>
+        <ab xml:id="d1e2199" n="28"> Sive illa bos, sive ovis, non immolabuntur una die cum foetibus
+          suis.</ab>
+        <ab xml:id="d1e2202" n="29"> Si immolaveritis hostiam pro gratiarum actione Domino, ut
+          possit esse placabilis,</ab>
+        <ab xml:id="d1e2206" n="30"> eodem die comedetis eam : non remanebit quidquam in mane
+          alterius diei. Ego Dominus.</ab>
+        <ab xml:id="d1e2209" n="31"> Custodite mandata mea, et facite ea. Ego Dominus.</ab>
+        <ab xml:id="d1e2212" n="32"> Ne polluatis nomen meum sanctum, ut sanctificer in medio
+          filiorum Israël. Ego Dominus qui sanctifico vos,</ab>
+        <ab xml:id="d1e2215" n="33"> et eduxi de terra Aegypti, ut essem vobis in Deum. Ego
+          Dominus.</ab>
+      </div>
+      <div xml:id="d1e2219" type="chap" n="23">
+        <ab xml:id="d1e2221" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2224" n="2"> Loquere filiis Israël, et dices ad eos : Hae sunt feriae Domini,
+          quas vocabitis sanctas.</ab>
+        <ab xml:id="d1e2227" n="3"> Sex diebus facietis opus : dies septimus, quia sabbati requies
+          est, vocabitur sanctus : omne opus non facietis in eo : sabbatum Domini est in cunctis
+          habitationibus vestris.</ab>
+        <ab xml:id="d1e2230" n="4"> Hae sunt ergo feriae Domini sanctae, quas celebrare debetis
+          temporibus suis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2234" n="5"> Mense primo, quartadecima die mensis ad vesperum, Phase Domini
+          est :</ab>
+        <ab xml:id="d1e2238" n="6"> et quintadecima die mensis hujus, solemnitas azymorum Domini
+          est. Septem diebus azyma comedetis.</ab>
+        <ab xml:id="d1e2241" n="7"> Dies primus erit vobis celeberrimus, sanctusque : omne opus
+          servile non facietis in eo,</ab>
+        <ab xml:id="d1e2244" n="8"> sed offeretis sacrificium in igne Domino septem diebus. Dies
+          autem septimus erit celebrior et sanctior : nullumque servile opus facietis in eo.</ab>
+        <ab xml:id="d1e2247" n="9"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2250" n="10"> Loquere filiis Israël, et dices ad eos : Cum ingressi fueritis
+          terram, quam ego dabo vobis, et messueritis segetem, feretis manipulos spicarum, primitias
+          messis vestrae, ad sacerdotem :</ab>
+        <ab xml:id="d1e2253" n="11"> qui elevabit fasciculum coram Domino, ut acceptabile sit pro
+          vobis, altero die sabbati, et sanctificabit illum.</ab>
+        <ab xml:id="d1e2257" n="12"> Atque in eodem die quo manipulus consecratur, caedetur agnus
+          immaculatus anniculus in holocaustum Domini.</ab>
+        <ab xml:id="d1e2260" n="13"> Et libamenta offerentur cum eo, duae decimae similae conspersae
+          oleo in incensum Domini, odoremque suavissimum : liba quoque vini, quarta pars hin.</ab>
+        <ab xml:id="d1e2263" n="14"> Panem, et polentam, et pultes non comedetis ex segete, usque ad
+          diem qua offeretis ex ea Deo vestro. Praeceptum est sempiternum in generationibus,
+          cunctisque habitaculis vestris.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2267" n="15"> Numerabitis ergo ab altero die sabbati, in quo obtulistis
+          manipulum primitiarum, septem hebdomadas plenas,</ab>
+        <ab xml:id="d1e2270" n="16"> usque ad alteram diem expletionis hebdomadae septimae, id est,
+          quinquaginta dies : et sic offeretis sacrificium novum Domino</ab>
+        <ab xml:id="d1e2273" n="17"> ex omnibus habitaculis vestris, panes primitiarum duos de
+          duabus decimis similae fermentatae, quos coquetis in primitias Domini.</ab>
+        <ab xml:id="d1e2277" n="18"> Offeretisque cum panibus septem agnos immaculatos anniculos, et
+          vitulum de armento unum, et arietes duos, et erunt in holocaustum cum libamentis suis, in
+          odorem suavissimum Domini.</ab>
+        <ab xml:id="d1e2280" n="19"> Facietis et hircum pro peccato, duosque agnos anniculos hostias
+          pacificorum.</ab>
+        <ab xml:id="d1e2283" n="20"> Cumque elevaverit eos sacerdos cum panibus primitiarum coram
+          Domino, cedent in usum ejus.</ab>
+        <ab xml:id="d1e2286" n="21"> Et vocabitis hunc diem celeberrimum, atque sanctissimum : omne
+          opus servile non facietis in eo. Legitimum sempiternum erit in cunctis habitaculis, et
+          generationibus vestris.</ab>
+        <ab xml:id="d1e2289" n="22"> Postquam autem messueritis segetem terrae vestrae, nec
+          secabitis eam usque ad solum, nec remanentes spicas colligetis : sed pauperibus et
+          peregrinis dimittetis eas. Ego sum Dominus Deus vester.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2293" n="23"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2297" n="24"> Loquere filiis Israël : Mense septimo, prima die mensis, erit
+          vobis sabbatum, memoriale, clangentibus tubis, et vocabitur sanctum :</ab>
+        <ab xml:id="d1e2300" n="25"> omne opus servile non facietis in eo, et offeretis holocaustum
+            Domino.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2304" n="26"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2307" n="27"> Decimo die mensis hujus septimi, dies expiationum erit
+          celeberrimus, et vocabitur sanctus : affligetisque animas vestras in eo, et offeretis
+          holocaustum Domino.</ab>
+        <ab xml:id="d1e2310" n="28"> Omne opus servile non facietis in tempore diei hujus : quia
+          dies propitiationis est, ut propitietur vobis Dominus Deus vester.</ab>
+        <ab xml:id="d1e2313" n="29"> Omnis anima, quae afflicta non fuerit die hac, peribit de
+          populis suis :</ab>
+        <ab xml:id="d1e2317" n="30"> et quae operis quippiam fecerit, delebo eam de populo suo.</ab>
+        <ab xml:id="d1e2320" n="31"> Nihil ergo operis facietis in eo : legitimum sempiternum erit
+          vobis in cunctis generationibus, et habitationibus vestris.</ab>
+        <ab xml:id="d1e2323" n="32"> Sabbatum requietionis est, et affligetis animas vestras die
+          nono mensis : a vespera usque ad vesperam celebrabitis sabbata vestra.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2327" n="33"> Et locutus est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2330" n="34"> Loquere filiis Israël : A quintodecimo die mensis hujus
+          septimi, erunt feriae tabernaculorum septem diebus Domino.</ab>
+        <ab xml:id="d1e2333" n="35"> Dies primus vocabitur celeberrimus atque sanctissimus : omne
+          opus servile non facietis in eo.</ab>
+        <ab xml:id="d1e2337" n="36"> Et septem diebus offeretis holocausta Domino. Dies quoque
+          octavus erit celeberrimus, atque sanctissimus, et offeretis holocaustum Domino : est enim
+          coetus atque collectae : omne opus servile non facietis in eo.</ab>
+        <ab xml:id="d1e2340" n="37"> Hae sunt feriae Domini, quas vocabitis celeberrimas atque
+          sanctissimas, offeretisque in eis oblationes Domino, holocausta et libamenta juxta ritum
+          uniuscujusque diei :</ab>
+        <ab xml:id="d1e2343" n="38"> exceptis sabbatis Domini, donisque vestris, et quae offeretis
+          ex voto, vel quae sponte tribuetis Domino.</ab>
+        <ab xml:id="d1e2346" n="39"> A quintodecimo ergo die mensis septimi, quando congregaveritis
+          omnes fructus terrae vestrae, celebrabitis ferias Domini septem diebus : die primo et die
+          octavo erit sabbatum, id est, requies.</ab>
+        <ab xml:id="d1e2349" n="40"> Sumetisque vobis die primo fructus arboris pulcherrimae,
+          spatulasque palmarum, et ramos ligni densarum frondium, et salices de torrente, et
+          laetabimini coram Domino Deo vestro.</ab>
+        <ab xml:id="d1e2352" n="41"> Celebrabitisque solemnitatem ejus septem diebus per annum :
+          legitimum sempiternum erit in generationibus vestris. Mense septimo festa
+          celebrabitis,</ab>
+        <ab xml:id="d1e2356" n="42"> et habitabitis in umbraculis septem diebus : omnis, qui de
+          genere est Israël, manebit in tabernaculis,</ab>
+        <ab xml:id="d1e2359" n="43"> ut discant posteri vestri quod in tabernaculis habitare fecerim
+          filios Israël, cum educerem eos de terra Aegypti. Ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e2362" n="44"> Locutusque est Moyses super solemnitatibus Domini ad filios
+          Israël.</ab>
+      </div>
+      <div xml:id="d1e2367" type="chap" n="24">
+        <ab xml:id="d1e2369" n="1"> Et locutus est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2372" n="2"> Praecipe filiis Israël, ut afferant tibi oleum de olivis
+          purissimum, ac lucidum, ad concinnandas lucernas jugiter,</ab>
+        <ab xml:id="d1e2375" n="3"> extra velum testimonii in tabernaculo foederis. Ponetque eas
+          Aaron a vespere usque ad mane coram Domino, cultu rituque perpetuo in generationibus
+          vestris.</ab>
+        <ab xml:id="d1e2378" n="4"> Super candelabrum mundissimum ponentur semper in conspectu
+          Domini.</ab>
+        <ab xml:id="d1e2381" n="5"> Accipies quoque similam, et coques ex ea duodecim panes, qui
+          singuli habebunt duas decimas :</ab>
+        <ab xml:id="d1e2385" n="6"> quorum senos altrinsecus super mensam purissimam coram Domino
+          statues :</ab>
+        <ab xml:id="d1e2388" n="7"> et pones super eos thus lucidissimum, ut sit panis in monimentum
+          oblationis Domini.</ab>
+        <ab xml:id="d1e2391" n="8"> Per singula sabbata mutabuntur coram Domino suscepti a filiis
+          Israël foedere sempiterno :</ab>
+        <ab xml:id="d1e2394" n="9"> eruntque Aaron et filiorum ejus, ut comedant eos in loco sancto
+          : quia Sanctum sanctorum est de sacrificiis Domini jure perpetuo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2398" n="10"> Ecce autem egressus filius mulieris Israëlitidis, quem
+          pepererat de viro aegyptio inter filios Israël, jurgatus est in castris cum viro
+          Israëlita.</ab>
+        <ab xml:id="d1e2401" n="11"> Cumque blasphemasset nomen, et maledixisset ei, adductus est ad
+          Moysen. (Vocabatur autem mater ejus Salumith, filia Dabri de tribu Dan.)</ab>
+        <ab xml:id="d1e2405" n="12"> Miseruntque eum in carcerem, donec nossent quid juberet
+          Dominus.</ab>
+        <ab xml:id="d1e2408" n="13"> Qui locutus est ad Moysen,</ab>
+        <ab xml:id="d1e2411" n="14"> dicens : Educ blasphemum extra castra, et ponant omnes qui
+          audierunt, manus suas super caput ejus, et lapidet eum populus universus.</ab>
+        <ab xml:id="d1e2414" n="15"> Et ad filios Israël loqueris : Homo, qui maledixerit Deo suo,
+          portabit peccatum suum ;</ab>
+        <ab xml:id="d1e2417" n="16"> et qui blasphemaverit nomen Domini, morte moriatur : lapidibus
+          opprimet eum omnis multitudo, sive ille civis, sive peregrinus fuerit. Qui blasphemaverit
+          nomen Domini, morte moriatur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2421" n="17"> Qui percusserit, et occiderit hominem, morte moriatur.</ab>
+        <ab xml:id="d1e2425" n="18"> Qui percusserit animal, reddet vicarium, id est, animam pro
+          anima.</ab>
+        <ab xml:id="d1e2428" n="19"> Qui irrogaverit maculam cuilibet civium suorum, sicut fecit,
+          sic fiet ei :</ab>
+        <ab xml:id="d1e2431" n="20"> fracturam pro fractura, oculum pro oculo, dentem pro dente
+          restituet : qualem inflixerit maculam, talem sustinere cogetur.</ab>
+        <ab xml:id="d1e2434" n="21"> Qui percusserit jumentum, reddet aliud. Qui percusserit
+          hominem, punietur.</ab>
+        <ab xml:id="d1e2437" n="22"> Aequum judicium sit inter vos, sive peregrinus, sive civis
+          peccaverit : quia ego sum Dominus Deus vester.</ab>
+        <ab xml:id="d1e2440" n="23"> Locutusque est Moyses ad filios Israël : et eduxerunt eum, qui
+          blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israël sicut
+          praeceperat Dominus Moysi.</ab>
+      </div>
+      <div xml:id="d1e2444" type="chap" n="25">
+        <ab xml:id="d1e2446" n="1"> Locutusque est Dominus ad Moysen in monte Sinai, dicens :</ab>
+        <ab xml:id="d1e2449" n="2"> Loquere filiis Israël, et dices ad eos : Quando ingressi
+          fueritis terram quam ego dabo vobis, sabbatizes sabbatum Domino.</ab>
+        <ab xml:id="d1e2452" n="3"> Sex annis seres agrum tuum, et sex annis putabis vineam tuam,
+          colligesque fructus ejus :</ab>
+        <ab xml:id="d1e2455" n="4"> septimo autem anno sabbatum erit terrae, requietionis Domini :
+          agrum non seres, et vineam non putabis.</ab>
+        <ab xml:id="d1e2458" n="5"> Quae sponte gignet humus, non metes : et uvas primitiarum tuarum
+          non colliges quasi vindemiam : annus enim requietionis terrae est :</ab>
+        <ab xml:id="d1e2462" n="6"> sed erunt vobis in cibum, tibi et servo tuo, ancillae et
+          mercenario tuo, et advenae qui peregrinantur apud te :</ab>
+        <ab xml:id="d1e2465" n="7"> jumentis tuis et pecoribus, omnia quae nascuntur praebebunt
+            cibum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2469" n="8"> Numerabis quoque tibi septem hebdomadas annorum, id est, septies
+          septem, quae simul faciunt annos quadraginta novem :</ab>
+        <ab xml:id="d1e2472" n="9"> et clanges buccina mense septimo, decima die mensis,
+          propitiationis tempore, in universa terra vestra.</ab>
+        <ab xml:id="d1e2475" n="10"> Sanctificabisque annum quinquagesimum, et vocabis remissionem
+          cunctis habitatoribus terrae tuae : ipse est enim jubilaeus. Revertetur homo ad
+          possessionem suam, et unusquisque rediet ad familiam pristinam :</ab>
+        <ab xml:id="d1e2478" n="11"> quia jubilaeus est, et quinquagesimus annus. Non seretis neque
+          metetis sponte in agro nascentia, et primitias vindemiae non colligetis,</ab>
+        <ab xml:id="d1e2482" n="12"> ob sanctificationem jubilaei : sed statim oblata comedetis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2486" n="13"> Anno jubilaei, redient omnes ad possessiones suas.</ab>
+        <ab xml:id="d1e2489" n="14"> Quando vendes quippiam civi tuo, vel emes ab eo, ne contristes
+          fratrem tuum, sed juxta numerum annorum jubilaei emes ab eo,</ab>
+        <ab xml:id="d1e2492" n="15"> et juxta supputationem frugum vendet tibi.</ab>
+        <ab xml:id="d1e2495" n="16"> Quanto plures anni remanserint post jubilaeum, tanto crescet et
+          pretium : et quanto minus temporis numeraveris, tanto minoris et emptio constabit : tempus
+          enim frugum vendet tibi.</ab>
+        <ab xml:id="d1e2498" n="17"> Nolite affligere contribules vestros, sed timeat unusquisque
+          Deum suum, quia ego Dominus Deus vester.</ab>
+        <ab xml:id="d1e2502" n="18"> Facite praecepta mea, et judicia custodite, et implete ea : ut
+          habitare possitis in terra absque ullo pavore,</ab>
+        <ab xml:id="d1e2505" n="19"> et gignat vobis humus fructus suos, quibus vescamini usque ad
+          saturitatem, nullius impetum formidantes.</ab>
+        <ab xml:id="d1e2508" n="20"> Quod si dixeritis : Quid comedemus anno septimo, si non
+          severimus, neque collegerimus fruges nostras ?</ab>
+        <ab xml:id="d1e2511" n="21"> dabo benedictionem meam vobis anno sexto, et faciet fructus
+          trium annorum :</ab>
+        <ab xml:id="d1e2514" n="22"> seretisque anno octavo, et comedetis veteres fruges usque ad
+          nonum annum : donec nova nascantur, edetis vetera.</ab>
+        <ab xml:id="d1e2517" n="23"> Terra quoque non vendetur in perpetuum, quia mea est, et vos
+          advenae et coloni mei estis :</ab>
+        <ab xml:id="d1e2521" n="24"> unde cuncta regio possessionis vestrae sub redemptionis
+          conditione vendetur.</ab>
+        <ab xml:id="d1e2524" n="25"> Si attenuatus frater tuus vendiderit possessiunculam suam, et
+          voluerit propinquus ejus, potest redimere quod ille vendiderat.</ab>
+        <ab xml:id="d1e2527" n="26"> Sin autem non habuerit proximum, et ipse pretium ad redimendum
+          potuerit invenire,</ab>
+        <ab xml:id="d1e2530" n="27"> computabuntur fructus ex eo tempore quo vendidit : et quod
+          reliquum est, reddet emptori, sicque recipiet possessionem suam.</ab>
+        <ab xml:id="d1e2533" n="28"> Quod si non invenerit manus ejus ut reddat pretium, habebit
+          emptor quod emerat, usque ad annum jubilaeum. In ipso enim omnis venditio redibit ad
+          dominum et ad possessorem pristinum.</ab>
+        <ab xml:id="d1e2536" n="29"> Qui vendiderit domum intra urbis muros, habebit licentiam
+          redimendi, donec unus impleatur annus.</ab>
+        <ab xml:id="d1e2540" n="30"> Si non redemerit, et anni circulus fuerit evolutus, emptor
+          possidebit eam, et posteri ejus in perpetuum, et redimi non poterit, etiam in
+          jubilaeo.</ab>
+        <ab xml:id="d1e2543" n="31"> Sin autem in villa domus, quae muros non habet, agrorum jure
+          vendetur : si ante redempta non fuerit, in jubilaeo revertetur ad dominum.</ab>
+        <ab xml:id="d1e2546" n="32"> Aedes Levitarum quae in urbibus sunt, semper possunt redimi
+          :</ab>
+        <ab xml:id="d1e2549" n="33"> si redemptae non fuerint, in jubilaeo revertentur ad dominos,
+          quia domus urbium Levitarum pro possessionibus sunt inter filios Israël.</ab>
+        <ab xml:id="d1e2552" n="34"> Suburbana autem eorum non veneant, quia possessio sempiterna
+            est.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2556" n="35"> Si attenuatus fuerit frater tuus, et infirmus manu, et
+          susceperis eum quasi advenam et peregrinum, et vixerit tecum,</ab>
+        <ab xml:id="d1e2560" n="36"> ne accipias usuras ab eo, nec amplius quam dedisti : time Deum
+          tuum, ut vivere possit frater tuus apud te.</ab>
+        <ab xml:id="d1e2563" n="37"> Pecuniam tuam non dabis ei ad usuram, et frugum
+          superabundantiam non exiges.</ab>
+        <ab xml:id="d1e2566" n="38"> Ego Dominus Deus vester, qui eduxi vos de terra Aegypti, ut
+          darem vobis terram Chanaan, et essem vester Deus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2570" n="39"> Si paupertate compulsus vendiderit se tibi frater tuus, non eum
+          opprimes servitute famulorum,</ab>
+        <ab xml:id="d1e2573" n="40"> sed quasi mercenarius et colonus erit : usque ad annum
+          jubilaeum operabitur apud te,</ab>
+        <ab xml:id="d1e2576" n="41"> et postea egredietur cum liberis suis, et revertetur ad
+          cognationem, ad possessionem patrum suorum.</ab>
+        <ab xml:id="d1e2580" n="42"> Mei enim servi sunt, et ego eduxi eos de terra Aegypti : non
+          veneant conditione servorum :</ab>
+        <ab xml:id="d1e2583" n="43"> ne affligas eum per potentiam, sed metuito Deum tuum.</ab>
+        <ab xml:id="d1e2586" n="44"> Servus et ancilla sint vobis de nationibus quae in circuitu
+          vestro sunt :</ab>
+        <ab xml:id="d1e2589" n="45"> et de advenis qui peregrinantur apud vos, vel qui ex his nati
+          fuerint in terra vestra, hos habebitis famulos :</ab>
+        <ab xml:id="d1e2592" n="46"> et haereditario jure transmittetis ad posteros, ac possidebitis
+          in aeternum : fratres autem vestros filios Israël ne opprimatis per potentiam.</ab>
+        <ab xml:id="d1e2595" n="47"> Si invaluerit apud vos manus advenae atque peregrini, et
+          attenuatus frater tuus vendiderit se ei, aut cuiquam de stirpe ejus :</ab>
+        <ab xml:id="d1e2599" n="48"> post venditionem potest redimi. Qui voluerit ex fratribus suis,
+          redimet eum,</ab>
+        <ab xml:id="d1e2602" n="49"> et patruus, et patruelis, et consanguineus, et affinis. Sin
+          autem et ipse potuerit, redimet se,</ab>
+        <ab xml:id="d1e2605" n="50"> supputatis dumtaxat annis a tempore venditionis suae usque ad
+          annum jubilaeum : et pecunia, qua venditus fuerat, juxta annorum numerum, et rationem
+          mercenarii supputata.</ab>
+        <ab xml:id="d1e2608" n="51"> Si plures fuerint anni qui remanent usque ad jubilaeum,
+          secundum hos reddet et pretium :</ab>
+        <ab xml:id="d1e2611" n="52"> si pauci, ponet rationem cum eo juxta annorum numerum, et
+          reddet emptori quod reliquum est annorum,</ab>
+        <ab xml:id="d1e2614" n="53"> quibus ante servivit mercedibus imputatis : non affliget eum
+          violenter in conspectu tuo.</ab>
+        <ab xml:id="d1e2618" n="54"> Quod si per haec redimi non potuerit, anno jubilaeo egredietur
+          cum liberis suis.</ab>
+        <ab xml:id="d1e2621" n="55"> Mei enim sunt servi filii Israël, quos eduxi de terra
+          Aegypti.</ab>
+      </div>
+      <div xml:id="d1e2625" type="chap" n="26">
+        <ab xml:id="d1e2627" n="1"> Ego Dominus Deus vester : non facietis vobis idolum, et
+          sculptile, nec titulos erigetis, nec insignem lapidem ponetis in terra vestra, ut adoretis
+          eum. Ego enim sum Dominus Deus vester.</ab>
+        <ab xml:id="d1e2630" n="2"> Custodite sabbata mea, et pavete ad sanctuarium meum. Ego
+          Dominus.</ab>
+        <ab xml:id="d1e2633" n="3"> Si in praeceptis meis ambulaveritis, et mandata mea
+          custodieritis, et feceritis ea, dabo vobis pluvias temporibus suis,</ab>
+        <ab xml:id="d1e2636" n="4"> et terra gignet germen suum, et pomis arbores replebuntur.</ab>
+        <ab xml:id="d1e2639" n="5"> Apprehendet messium tritura vindemiam, et vindemia occupabit
+          sementem : et comedetis panem vestrum in saturitate, et absque pavore habitabitis in terra
+          vestra.</ab>
+        <ab xml:id="d1e2643" n="6"> Dabo pacem in finibus vestris : dormietis, et non erit qui
+          exterreat. Auferam malas bestias, et gladius non transibit terminos vestros.</ab>
+        <ab xml:id="d1e2646" n="7"> Persequemini inimicos vestros, et corruent coram vobis.</ab>
+        <ab xml:id="d1e2649" n="8"> Persequentur quinque de vestris centum alienos, et centum de
+          vobis decem millia : cadent inimici vestri gladio in conspectu vestro.</ab>
+        <ab xml:id="d1e2652" n="9"> Respiciam vos, et crescere faciam : multiplicabimini, et firmabo
+          pactum meum vobiscum.</ab>
+        <ab xml:id="d1e2655" n="10"> Comedetis vetustissima veterum, et vetera novis
+          supervenientibus projicietis.</ab>
+        <ab xml:id="d1e2658" n="11"> Ponam tabernaculum meum in medio vestri, et non abjiciet vos
+          anima mea.</ab>
+        <ab xml:id="d1e2662" n="12"> Ambulabo inter vos, et ero Deus vester, vosque eritis populus
+          meus.</ab>
+        <ab xml:id="d1e2665" n="13"> Ego Dominus Deus vester, qui eduxi vos de terra Aegyptiorum, ne
+          serviretis eis : et qui confregi catenas cervicum vestrarum, ut incederetis erecti.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2669" n="14"> Quod si non audieritis me, nec feceritis omnia mandata
+          mea,</ab>
+        <ab xml:id="d1e2672" n="15"> si spreveritis leges meas, et judicia mea contempseritis, ut
+          non faciatis ea quae a me constituta sunt, et ad irritum perducatis pactum meum :</ab>
+        <ab xml:id="d1e2675" n="16"> ego quoque haec faciam vobis : visitabo vos velociter in
+          egestate, et ardore, qui conficiat oculos vestros, et consumat animas vestras. Frustra
+          seretis sementem, quae ab hostibus devorabitur.</ab>
+        <ab xml:id="d1e2678" n="17"> Ponam faciem meam contra vos, et corruetis coram hostibus
+          vestris, et subjiciemini his qui oderunt vos : fugietis, nemine persequente.</ab>
+        <ab xml:id="d1e2682" n="18"> Sin autem nec sic obedieritis mihi, addam correptiones vestras
+          septuplum propter peccata vestra,</ab>
+        <ab xml:id="d1e2685" n="19"> et conteram superbiam duritiae vestrae. Daboque vobis caelum
+          desuper sicut ferrum, et terram aeneam.</ab>
+        <ab xml:id="d1e2688" n="20"> Consumetur incassum labor vester, non proferet terra germen,
+          nec arbores poma praebebunt.</ab>
+        <ab xml:id="d1e2691" n="21"> Si ambulaveritis ex adverso mihi, nec volueritis audire me,
+          addam plagas vestras in septuplum propter peccata vestra :</ab>
+        <ab xml:id="d1e2694" n="22"> immittamque in vos bestias agri, quae consumant vos, et pecora
+          vestra, et ad paucitatem cuncta redigant, desertaeque fiant viae vestrae.</ab>
+        <ab xml:id="d1e2697" n="23"> Quod si nec sic volueritis recipere disciplinam, sed
+          ambulaveritis ex adverso mihi :</ab>
+        <ab xml:id="d1e2701" n="24"> ego quoque contra vos adversus incedam, et percutiam vos
+          septies propter peccata vestra,</ab>
+        <ab xml:id="d1e2704" n="25"> inducamque super vos gladium ultorem foederis mei. Cumque
+          confugeritis in urbes, mittam pestilentiam in medio vestri, et trademini in manibus
+          hostium,</ab>
+        <ab xml:id="d1e2707" n="26"> postquam confregero baculum panis vestri : ita ut decem
+          mulieres in uno clibano coquant panes, et reddant eos ad pondus : et comedetis, et non
+            saturabimini.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2711" n="27"> Sin autem nec per haec audieritis me, sed ambulaveritis contra
+          me :</ab>
+        <ab xml:id="d1e2714" n="28"> et ego incedam adversus vos in furore contrario, et corripiam
+          vos septem plagis propter peccata vestra :</ab>
+        <ab xml:id="d1e2717" n="29"> ita ut comedatis carnes filiorum vestrorum et filiarum
+          vestrarum.</ab>
+        <ab xml:id="d1e2721" n="30"> Destruam excelsa vestra, et simulacra confringam. Cadetis inter
+          ruinas idolorum vestrorum, et abominabitur vos anima mea,</ab>
+        <ab xml:id="d1e2724" n="31"> in tantum ut urbes vestras redigam in solitudinem, et deserta
+          faciam sanctuaria vestra, nec recipiam ultra odorem suavissimum.</ab>
+        <ab xml:id="d1e2727" n="32"> Disperdamque terram vestram, et stupebunt super ea inimici
+          vestri, cum habitatores illius fuerint.</ab>
+        <ab xml:id="d1e2730" n="33"> Vos autem dispergam in gentes, et evaginabo post vos gladium,
+          eritque terra vestra deserta, et civitates vestrae dirutae.</ab>
+        <ab xml:id="d1e2733" n="34"> Tunc placebunt terrae sabbata sua cunctis diebus solitudinis
+          suae : quando fueritis</ab>
+        <ab xml:id="d1e2736" n="35"> in terra hostili, sabbatizabit, et requiescet in sabbatis
+          solitudinis suae, eo quod non requieverit in sabbatis vestris quando habitabatis in
+          ea.</ab>
+        <ab xml:id="d1e2740" n="36"> Et qui de vobis remanserint, dabo pavorem in cordibus eorum in
+          regionibus hostium, terrebit eos sonitus folii volantis, et ita fugient quasi gladium :
+          cadent, nullo persequente,</ab>
+        <ab xml:id="d1e2743" n="37"> et corruent singuli super fratres suos, quasi bella fugientes,
+          nemo vestrum inimicis audebit resistere.</ab>
+        <ab xml:id="d1e2746" n="38"> Peribitis inter gentes, et hostilis vos terra consumet.</ab>
+        <ab xml:id="d1e2749" n="39"> Quod si et de iis aliqui remanserint, tabescent in
+          iniquitatibus suis, in terra inimicorum suorum, et propter peccata patrum suorum et sua
+          affligentur :</ab>
+        <ab xml:id="d1e2752" n="40"> donec confiteantur iniquitates suas, et majorum suorum, quibus
+          praevaricati sunt in me, et ambulaverunt ex adverso mihi.</ab>
+        <ab xml:id="d1e2755" n="41"> Ambulabo igitur et ego contra eos, et inducam illos in terram
+          hostilem, donec erubescat incircumcisa mens eorum : tunc orabunt pro impietatibus suis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2760" n="42"> Et recordabor foederis mei, quod pepigi cum Jacob, et Isaac, et
+          Abraham. Terrae quoque memor ero :</ab>
+        <ab xml:id="d1e2763" n="43"> quae cum relicta fuerit ab eis, complacebit sibi in sabbatis
+          suis, patiens solitudinem propter illos. Ipsi vero rogabunt pro peccatis suis, eo quod
+          abjecerint judicia mea, et leges meas despexerint.</ab>
+        <ab xml:id="d1e2766" n="44"> Et tamen etiam cum essent in terra hostili, non penitus abjeci
+          eos, neque sic despexi ut consumerentur, et irritum facerent pactum meum cum eis. Ego enim
+          sum Dominus Deus eorum,</ab>
+        <ab xml:id="d1e2769" n="45"> et recordabor foederis mei pristini, quando eduxi eos de terra
+          Aegypti in conspectu gentium, ut essem Deus eorum. Ego Dominus.<pc ana="#pilcrow"/> Haec
+          sunt judicia atque praecepta et leges quas dedit Dominus inter se et filios Israël in
+          monte Sinai per manum Moysi.</ab>
+      </div>
+      <div xml:id="d1e2775" type="chap" n="27">
+        <ab xml:id="d1e2777" n="1"> Locutusque est Dominus ad Moysen, dicens :</ab>
+        <ab xml:id="d1e2780" n="2"> Loquere filiis Israël, et dices ad eos : Homo qui votum fecerit,
+          et spoponderit Deo animam suam, sub aestimatione dabit pretium.</ab>
+        <ab xml:id="d1e2783" n="3"> Si fuerit masculus a vigesimo anno usque ad sexagesimum annum,
+          dabit quinquaginta siclos argenti ad mensuram sanctuarii :</ab>
+        <ab xml:id="d1e2786" n="4"> si mulier, triginta.</ab>
+        <ab xml:id="d1e2789" n="5"> A quinto autem anno usque ad vigesimum, masculus dabit viginti
+          siclos : femina, decem.</ab>
+        <ab xml:id="d1e2793" n="6"> Ab uno mense usque ad annum quintum, pro masculo dabuntur
+          quinque sicli : pro femina, tres.</ab>
+        <ab xml:id="d1e2796" n="7"> Sexagenarius et ultra masculus dabit quindecim siclos : femina,
+          decem.</ab>
+        <ab xml:id="d1e2799" n="8"> Si pauper fuerit, et aestimationem reddere non valebit, stabit
+          coram sacerdote : et quantum ille aestimaverit, et viderit eum posse reddere, tantum
+            dabit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2803" n="9"> Animal autem, quod immolari potest Domino, si quis voverit,
+          sanctum erit,</ab>
+        <ab xml:id="d1e2806" n="10"> et mutari non poterit, id est, nec melius malo, nec pejus bono
+          : quod si mutaverit, et ipsum quod mutatum est, et illud pro quo mutatum est, consecratum
+          erit Domino.</ab>
+        <ab xml:id="d1e2809" n="11"> Animal immundum, quod immolari Domino non potest, si quis
+          voverit, adducetur ante sacerdotem :</ab>
+        <ab xml:id="d1e2813" n="12"> qui judicans utrum bonum an malum sit, statuet pretium.</ab>
+        <ab xml:id="d1e2816" n="13"> Quod si dare voluerit is qui offert, addet supra aestimationem
+          quintam partem.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2820" n="14"> Homo si voverit domum suam, et sanctificaverit Domino,
+          considerabit eam sacerdos utrum bona an mala sit, et juxta pretium, quod ab eo fuerit
+          constitutum, venundabitur :</ab>
+        <ab xml:id="d1e2823" n="15"> sin autem ille qui voverat, voluerit redimere eam, dabit
+          quintam partem aestimationis supra, et habebit domum.</ab>
+        <ab xml:id="d1e2826" n="16"> Quod si agrum possessionis suae voverit, et consecraverit
+          Domino, juxta mensuram sementis aestimabitur pretium : si triginta modiis hordei seritur
+          terra, quinquaginta siclis venundetur argenti.</ab>
+        <ab xml:id="d1e2829" n="17"> Si statim ab anno incipientis jubilaei voverit agrum, quanto
+          valere potest, tanto aestimabitur.</ab>
+        <ab xml:id="d1e2833" n="18"> Sin autem post aliquantum temporis, supputabit sacerdos
+          pecuniam juxta annorum, qui reliqui sunt, numerum usque ad jubilaeum, et detrahetur ex
+          pretio.</ab>
+        <ab xml:id="d1e2836" n="19"> Quod si voluerit redimere agrum ille qui voverat, addet quintam
+          partem aestimatae pecuniae, et possidebit eum.</ab>
+        <ab xml:id="d1e2839" n="20"> Sin autem noluerit redimere, sed alteri cuilibet fuerit
+          venundatus, ultra eum qui voverat redimere non poterit.</ab>
+        <ab xml:id="d1e2842" n="21"> Quia cum jubilaei venerit dies, sanctificatus erit Domino, et
+          possessio consecrata ad jus pertinet sacerdotum.</ab>
+        <ab xml:id="d1e2845" n="22"> Si ager emptus est, et non de possessione majorum sanctificatus
+          fuerit Domino,</ab>
+        <ab xml:id="d1e2848" n="23"> supputabit sacerdos juxta annorum numerum usque ad jubilaeum,
+          pretium : et dabit ille qui voverat eum, Domino.</ab>
+        <ab xml:id="d1e2852" n="24"> In jubilaeo autem revertetur ad priorem dominum, qui vendiderat
+          eum, et habuerat in sorte possessionis suae.</ab>
+        <ab xml:id="d1e2855" n="25"> Omnis aestimatio siclo sanctuarii ponderabitur. Siclus viginti
+          obolos habet.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2859" n="26"> Primogenita, quae ad Dominum pertinent, nemo sanctificare
+          poterit et vovere : sive bos, sive ovis fuerit, Domini sunt.</ab>
+        <ab xml:id="d1e2862" n="27"> Quod si immundum est animal, redimet qui obtulit, juxta
+          aestimationem tuam, et addet quintam partem pretii : si redimere noluerit, vendetur alteri
+          quantocumque a te fuerit aestimatum.</ab>
+        <ab xml:id="d1e2865" n="28"> Omne quod Domino consecratur, sive homo fuerit, sive animal,
+          sive ager, non vendetur, nec redimi poterit. Quidquid semel fuerit consecratum, Sanctum
+          sanctorum erit Domino :</ab>
+        <ab xml:id="d1e2868" n="29"> et omnis consecratio, quae offertur ab homine, non redimetur,
+          sed morte morietur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2873" n="30"> Omnes decimae terrae, sive de frugibus, sive de pomis arborum,
+          Domini sunt, et illi sanctificantur.</ab>
+        <ab xml:id="d1e2876" n="31"> Si quis autem voluerit redimere decimas suas, addet quintam
+          partem earum.</ab>
+        <ab xml:id="d1e2879" n="32"> Omnium decimarum bovis et ovis et caprae, quae sub pastoris
+          virga transeunt, quidquid decimum venerit, sanctificabitur Domino.</ab>
+        <ab xml:id="d1e2882" n="33"> Non eligetur nec bonum nec malum, nec altero commutabitur, si
+          quis mutaverit : et quod mutatum est, et pro quo mutatum est, sanctificabitur Domino, et
+          non redimetur.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2886" n="34"> Haec sunt praecepta, quae mandavit Dominus Moysi ad filios
+          Israël in monte Sinai.</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

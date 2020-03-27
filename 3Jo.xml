@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>III Ioannis</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Senior Gajo carissimo, quem ego diligo in veritate.</ab>
+        <ab xml:id="d1e36" n="2"> Carissime, de omnibus orationem facio prospere te ingredi, et
+          valere sicut prospere agit anima tua.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e40" n="3"> Gavisus sum valde venientibus fratribus, et testimonium
+          perhibentibus veritati tuae, sicut tu in veritate ambulas.</ab>
+        <ab xml:id="d1e43" n="4"> Majorem horum non habeo gratiam, quam ut audiam filios meos in
+          veritate ambulare.</ab>
+        <ab xml:id="d1e46" n="5"> Carissime, fideliter facis quidquid operaris in fratres, et hoc in
+          peregrinos,</ab>
+        <ab xml:id="d1e50" n="6"> qui testimonium reddiderunt caritati tuae in conspectu ecclesiae :
+          quos, benefaciens, deduces digne Deo.</ab>
+        <ab xml:id="d1e53" n="7"> Pro nomine enim ejus profecti sunt, nihil accipientes a
+          gentibus.</ab>
+        <ab xml:id="d1e56" n="8"> Nos ergo debemus suscipere hujusmodi, ut cooperatores simus
+            veritatis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e60" n="9"> Scripsissem forsitan ecclesiae : sed is qui amat primatum gerere
+          in eis, Diotrephes, non recipit nos :</ab>
+        <ab xml:id="d1e63" n="10"> propter hoc si venero, commonebo ejus opera, quae facit, verbis
+          malignis garriens in nos : et quasi non ei ista sufficiant, neque ipse suscipit fratres :
+          et eos qui suscipiunt, prohibet, et de ecclesia ejicit.</ab>
+        <ab xml:id="d1e66" n="11"> Carissime, noli imitari malum, sed quod bonum est. Qui benefacit,
+          ex Deo est : qui malefacit, non vidit Deum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e71" n="12"> Demetrio testimonium redditur ab omnibus, et ab ipsa veritate,
+          sed et nos testimonium perhibemus : et nosti quoniam testimonium nostrum verum est.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e75" n="13"> Multa habui tibi scribere : sed nolui per atramentum et calamum
+          scribere tibi.</ab>
+        <ab xml:id="d1e78" n="14"> Spero autem protinus te videre, et os ad os loquemur. Pax tibi.
+          Salutant te amici. Saluta amicos nominatim.</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

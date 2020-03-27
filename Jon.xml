@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ionas</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Et factum est verbum Domini ad Jonam, filium Amathi, dicens :</ab>
+        <ab xml:id="d1e36" n="2"> Surge, et vade in Niniven, civitatem grandem, et praedica in ea,
+          quia ascendit malitia ejus coram me.</ab>
+        <ab xml:id="d1e39" n="3"> Et surrexit Jonas, ut fugeret in Tharsis a facie Domini, et
+          descendit in Joppen : et invenit navem euntem in Tharsis, et dedit naulum ejus, et
+          descendit in eam ut iret cum eis in Tharsis a facie Domini.</ab>
+        <ab xml:id="d1e42" n="4"> Dominus autem misit ventum magnum in mare : et facta est tempestas
+          magna in mari, et navis periclitabatur conteri.</ab>
+        <ab xml:id="d1e45" n="5"> Et timuerunt nautae, et clamaverunt viri ad deum suum, et miserunt
+          vasa quae erant in navi, in mare, ut alleviaretur ab eis ; et Jonas descendit ad interiora
+          navis, et dormiebat sopore gravi.</ab>
+        <ab xml:id="d1e49" n="6"> Et accessit ad eum gubernator, et dixit ei : Quid tu sopore
+          deprimeris ? surge, invoca Deum tuum, si forte recogitet Deus de nobis, et non
+          pereamus.</ab>
+        <ab xml:id="d1e52" n="7"> Et dixit vir ad collegam suum : Venite et mittamus sortes, et
+          sciamus quare hoc malum sit nobis. Et miserunt sortes, et cecidit sors super Jonam.</ab>
+        <ab xml:id="d1e55" n="8"> Et dixerunt ad eum : Indica nobis cujus causa malum istud sit
+          nobis : quod est opus tuum ? quae terra tua, et quo vadis ? vel ex quo populo es tu ?</ab>
+        <ab xml:id="d1e58" n="9"> Et dixit ad eos : Hebraeus ego sum, et Dominum Deum caeli ego
+          timeo, qui fecit mare et aridam.</ab>
+        <ab xml:id="d1e61" n="10"> Et timuerunt viri timore magno, et dixerunt ad eum : Quid hoc
+          fecisti ? cognoverunt enim viri quod a facie Domini fugeret, quia indicaverat eis.</ab>
+        <ab xml:id="d1e64" n="11"> Et dixerunt ad eum : Quid faciemus tibi, et cessabit mare a nobis
+          ? quia mare ibat, et intumescebat.</ab>
+        <ab xml:id="d1e68" n="12"> Et dixit ad eos : Tollite me, et mittite in mare, et cessabit
+          mare a vobis : scio enim ego quoniam propter me tempestas haec grandis venit super
+          vos.</ab>
+        <ab xml:id="d1e71" n="13"> Et remigabant viri ut reverterentur ad aridam, et non valebant,
+          quia mare ibat, et intumescebat super eos.</ab>
+        <ab xml:id="d1e74" n="14"> Et clamaverunt ad Dominum, et dixerunt : Quaesumus, Domine, ne
+          pereamus in anima viri istius, et ne des super nos sanguinem innocentem : quia tu, Domine,
+          sicut voluisti, fecisti.</ab>
+        <ab xml:id="d1e77" n="15"> Et tulerunt Jonam, et miserunt in mare : et stetit mare a fervore
+          suo.</ab>
+        <ab xml:id="d1e80" n="16"> Et timuerunt viri timore magno Dominum : et immolaverunt hostias
+          Domino, et voverunt vota.</ab>
+      </div>
+      <div xml:id="d1e84" type="chap" n="2">
+        <ab xml:id="d1e86" n="1"> Et praeparavit Dominus piscem grandem ut deglutiret Jonam : et
+          erat Jonas in ventre piscis tribus diebus et tribus noctibus.</ab>
+        <ab xml:id="d1e89" n="2"> Et oravit Jonas ad Dominum Deum suum de ventre piscis,</ab>
+        <ab xml:id="d1e92" n="3"> et dixit : [Clamavi de tribulatione mea ad Dominum,/ et exaudivit
+          me ;/ de ventre inferi clamavi,/ et exaudisti vocem meam./</ab>
+        <ab xml:id="d1e95" n="4"> Et projecisti me in profundum in corde maris,/ et flumen
+          circumdedit me :/ omnes gurgites tui, et fluctus tui super me transierunt./</ab>
+        <ab xml:id="d1e98" n="5"> Et ego dixi :/ Abjectus sum a conspectu oculorum tuorum ;/
+          verumtamen rursus videbo templum sanctum tuum./</ab>
+        <ab xml:id="d1e102" n="6"> Circumdederunt me aquae usque ad animam :/ abyssus vallavit me,/
+          pelagus operuit caput meum./</ab>
+        <ab xml:id="d1e105" n="7"> Ad extrema montium descendi ;/ terrae vectes concluserunt me in
+          aeternum :/ et sublevabis de corruptione vitam meam, Domine Deus meus./</ab>
+        <ab xml:id="d1e108" n="8"> Cum angustiaretur in me anima mea,/ Domini recordatus sum :/ ut
+          veniat ad te oratio mea,/ ad templum sanctum tuum./</ab>
+        <ab xml:id="d1e111" n="9"> Qui custodiunt vanitates frustra,/ misericordiam suam
+          derelinquunt./</ab>
+        <ab xml:id="d1e114" n="10"> Ego autem in voce laudis immolabo tibi :/ quaecumque vovi,
+          reddam pro salute Domino.]</ab>
+        <ab xml:id="d1e117" n="11"> Et dixit Dominus pisci, et evomuit Jonam in aridam.</ab>
+      </div>
+      <div xml:id="d1e121" type="chap" n="3">
+        <ab xml:id="d1e123" n="1"> Et factum est verbum Domini ad Jonam secundo, dicens :</ab>
+        <ab xml:id="d1e126" n="2"> Surge, et vade in Niniven, civitatem magnam, et praedica in ea
+          praedicationem quam ego loquor ad te.</ab>
+        <ab xml:id="d1e129" n="3"> Et surrexit Jonas, et abiit in Niniven juxta verbum Domini : et
+          Ninive erat civitas magna, itinere trium dierum.</ab>
+        <ab xml:id="d1e132" n="4"> Et coepit Jonas introire in civitatem itinere diei unius : et
+          clamavit, et dixit : Adhuc quadraginta dies, et Ninive subvertetur.</ab>
+        <ab xml:id="d1e135" n="5"> Et crediderunt viri Ninivitae in Deum, et praedicaverunt
+          jejunium, et vestiti sunt saccis, a majore usque ad minorem.</ab>
+        <ab xml:id="d1e139" n="6"> Et pervenit verbum ad regem Ninive : et surrexit de solio suo, et
+          abjecit vestimentum suum a se, et indutus est sacco, et sedit in cinere.</ab>
+        <ab xml:id="d1e142" n="7"> Et clamavit, et dixit in Ninive ex ore regis et principum ejus,
+          dicens : Homines, et jumenta, et boves, et pecora non gustent quidquam : nec pascantur, et
+          aquam non bibant.</ab>
+        <ab xml:id="d1e145" n="8"> Et operiantur saccis homines et jumenta, et clament ad Dominum in
+          fortitudine : et convertatur vir a via sua mala, et ab iniquitate quae est in manibus
+          eorum.</ab>
+        <ab xml:id="d1e148" n="9"> Quis scit si convertatur et ignoscat Deus, et revertatur a furore
+          irae suae, et non peribimus ?</ab>
+        <ab xml:id="d1e151" n="10"> Et vidit Deus opera eorum, quia conversi sunt de via sua mala :
+          et misertus est Deus super malitiam quam locutus fuerat ut faceret eis, et non fecit.</ab>
+      </div>
+      <div xml:id="d1e155" type="chap" n="4">
+        <ab xml:id="d1e157" n="1"> Et afflictus est Jonas afflictione magna, et iratus est :</ab>
+        <ab xml:id="d1e160" n="2"> et oravit ad Dominum, et dixit : Obsecro, Domine, numquid non hoc
+          est verbum meum cum adhuc essem in terra mea ? propter hoc praeoccupavi ut fugerem in
+          Tharsis : scio enim quia tu Deus clemens et misericors es, patiens et multae miserationis,
+          et ignoscens super malitia.</ab>
+        <ab xml:id="d1e163" n="3"> Et nunc, Domine, tolle, quaeso, animam meam a me, quia melior est
+          mihi mors quam vita.</ab>
+        <ab xml:id="d1e166" n="4"> Et dixit Dominus : Putasne bene irasceris tu ?</ab>
+        <ab xml:id="d1e169" n="5"> Et egressus est Jonas de civitate, et sedit contra orientem
+          civitatis : et fecit sibimet umbraculum ibi, et sedebat subter illud in umbra, donec
+          videret quid accideret civitati.</ab>
+        <ab xml:id="d1e173" n="6"> Et praeparavit Dominus Deus hederam, et ascendit super caput
+          Jonae, ut esset umbra super caput ejus, et protegeret eum (laboraverat enim) : et laetatus
+          est Jonas super hedera laetitia magna.</ab>
+        <ab xml:id="d1e176" n="7"> Et paravit Deus vermen ascensu diluculi in crastinum : et
+          percussit hederam, et exaruit.</ab>
+        <ab xml:id="d1e179" n="8"> Et cum ortus fuisset sol, praecepit Dominus vento calido et
+          urenti : et percussit sol super caput Jonae, et aestuabat : et petivit animae suae ut
+          moreretur, et dixit : Melius est mihi mori quam vivere.</ab>
+        <ab xml:id="d1e182" n="9"> Et dixit Dominus ad Jonam : Putasne bene irasceris tu super
+          hedera ? Et dixit : Bene irascor ego usque ad mortem.</ab>
+        <ab xml:id="d1e185" n="10"> Et dixit Dominus : Tu doles super hederam in qua non laborasti,
+          neque fecisti ut cresceret ; quae sub una nocte nata est, et sub una nocte periit :</ab>
+        <ab xml:id="d1e188" n="11"> et ego non parcam Ninive, civitati magnae, in qua sunt plus quam
+          centum viginti millia hominum qui nesciunt quid sit inter dexteram et sinistram suam, et
+          jumenta multa ?</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

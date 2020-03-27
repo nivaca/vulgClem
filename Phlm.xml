@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Philemonem</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Paulus vinctus Christi Jesu, et Timotheus frater, Philemoni
+          dilecto, et adjutori nostro,</ab>
+        <ab xml:id="d1e36" n="2"> et Appiae sorori carissimae, et Archippo commilitoni nostro, et
+          ecclesiae, quae in domo tua est.</ab>
+        <ab xml:id="d1e39" n="3"> Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu
+            Christo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e43" n="4"> Gratias ago Deo meo, semper memoriam tui faciens in orationibus
+          meis,</ab>
+        <ab xml:id="d1e46" n="5"> audiens caritatem tuam, et fidem, quam habes in Domino Jesu, et in
+          omnes sanctos :</ab>
+        <ab xml:id="d1e50" n="6"> ut communicatio fidei tuae evidens fiat in agnitione omnis operis
+          boni, quod est in vobis in Christo Jesu.</ab>
+        <ab xml:id="d1e53" n="7"> Gaudium enim magnum habui, et consolationem in caritate tua : quia
+          viscera sanctorum requieverunt per te, frater.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e57" n="8"> Propter quod multam fiduciam habens in Christo Jesu imperandi tibi
+          quod ad rem pertinet :</ab>
+        <ab xml:id="d1e60" n="9"> propter caritatem magis obsecro, cum sis talis, ut Paulus senex,
+          nunc autem et vinctus Jesu Christi :</ab>
+        <ab xml:id="d1e63" n="10"> obsecro te pro meo filio, quem genui in vinculis, Onesimo,</ab>
+        <ab xml:id="d1e66" n="11"> qui tibi aliquando inutilis fuit, nunc autem et mihi et tibi
+          utilis,</ab>
+        <ab xml:id="d1e70" n="12"> quem remisi tibi. Tu autem illum, ut mea viscera, suscipe :</ab>
+        <ab xml:id="d1e73" n="13"> quem ego volueram mecum detinere, ut pro te mihi ministraret in
+          vinculis Evangelii :</ab>
+        <ab xml:id="d1e76" n="14"> sine consilio autem tuo nihil volui facere, uti ne velut ex
+          necessitate bonum tuum esset, sed voluntarium.</ab>
+        <ab xml:id="d1e79" n="15"> Forsitan enim ideo discessit ad horam a te, ut aeternum illum
+          reciperes :</ab>
+        <ab xml:id="d1e82" n="16"> jam non ut servum, sed pro servo carissimum fratrem, maxime mihi
+          : quanto autem magis tibi et in carne, et in Domino ?</ab>
+        <ab xml:id="d1e85" n="17"> Si ergo habes me socium, suscipe illum sicut me :</ab>
+        <ab xml:id="d1e89" n="18"> si autem aliquid nocuit tibi, aut debet, hoc mihi imputa.</ab>
+        <ab xml:id="d1e92" n="19"> Ego Paulus scripsi mea manu : ego reddam, ut non dicam tibi, quod
+          et teipsum mihi debes :</ab>
+        <ab xml:id="d1e95" n="20"> ita, frater. Ego te fruar in Domino : refice viscera mea in
+          Domino.</ab>
+        <ab xml:id="d1e98" n="21"> Confidens in obedientia tua scripsi tibi : sciens quoniam et
+          super id, quod dico, facies.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e102" n="22"> Simul autem et para mihi hospitium : nam spero per orationes
+          vestras donari me vobis.</ab>
+        <ab xml:id="d1e105" n="23"> Salutat te Epaphras concaptivus meus in Christo Jesu,</ab>
+        <ab xml:id="d1e109" n="24"> Marcus, Aristarchus, Demas, et Lucas, adjutores mei.</ab>
+        <ab xml:id="d1e112" n="25"> Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

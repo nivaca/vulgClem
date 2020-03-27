@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>II Thessalonicenses</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> Paulus, et Sylvanus, et Timotheus, ecclesiae Thessalonicensium in
+          Deo Patre nostro, et Domino Jesu Christo.</ab>
+        <ab xml:id="d1e36" n="2"> Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu
+            Christo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e40" n="3"> Gratias agere debemus semper Deo pro vobis, fratres, ita ut dignum
+          est, quoniam supercrescit fides vestra, et abundat caritas uniuscujusque vestrum in
+          invicem :</ab>
+        <ab xml:id="d1e43" n="4"> ita ut et nos ipsi in vobis gloriemur in ecclesiis Dei, pro
+          patientia vestra, et fide, et in omnibus persecutionibus vestris, et tribulationibus, quas
+          sustinetis</ab>
+        <ab xml:id="d1e46" n="5"> in exemplum justi judicii Dei, ut digni habeamini in regno Dei,
+          pro quo et patimini.</ab>
+        <ab xml:id="d1e50" n="6"> Si tamen justum est apud Deum retribuere tribulationem iis qui vos
+          tribulant :</ab>
+        <ab xml:id="d1e53" n="7"> et vobis, qui tribulamini, requiem nobiscum in revelatione Domini
+          Jesu de caelo cum angelis virtutis ejus,</ab>
+        <ab xml:id="d1e56" n="8"> in flamma ignis dantis vindictam iis qui non noverunt Deum, et qui
+          non obediunt Evangelio Domini nostri Jesu Christi,</ab>
+        <ab xml:id="d1e59" n="9"> qui poenas dabunt in interitu aeternas a facie Domini, et a gloria
+          virtutis ejus :</ab>
+        <ab xml:id="d1e62" n="10"> cum venerit glorificari in sanctis suis, et admirabilis fieri in
+          omnibus, qui crediderunt, quia creditum est testimonium nostrum super vos in die
+          illo.</ab>
+        <ab xml:id="d1e65" n="11"> In quo etiam oramus semper pro vobis : ut dignetur vos vocatione
+          sua Deus noster, et impleat omnem voluntatem bonitatis, et opus fidei in virtute,</ab>
+        <ab xml:id="d1e69" n="12"> ut clarificetur nomen Domini nostri Jesu Christi in vobis, et vos
+          in illo secundum gratiam Dei nostri, et Domini Jesu Christi.</ab>
+      </div>
+      <div xml:id="d1e73" type="chap" n="2">
+        <ab xml:id="d1e75" n="1"> Rogamus autem vos, fratres, per adventum Domini nostri Jesu
+          Christi, et nostrae congregationis in ipsum :</ab>
+        <ab xml:id="d1e78" n="2"> ut non cito moveamini a vestro sensu, neque terreamini, neque per
+          spiritum, neque per sermonem, neque per epistolam tamquam per nos missam, quasi instet
+          dies Domini.</ab>
+        <ab xml:id="d1e81" n="3"> Ne quis vos seducat ullo modo : quoniam nisi venerit discessio
+          primum, et revelatus fuerit homo peccati filius perditionis,</ab>
+        <ab xml:id="d1e84" n="4"> qui adversatur, et extollitur supra omne, quod dicitur Deus, aut
+          quod colitur, ita ut in templo Dei sedeat ostendens se tamquam sit Deus.</ab>
+        <ab xml:id="d1e87" n="5"> Non retinetis quod cum adhuc essem apud vos, haec dicebam vobis
+          ?</ab>
+        <ab xml:id="d1e91" n="6"> et nunc quid detineat scitis, ut reveletur in suo tempore.</ab>
+        <ab xml:id="d1e94" n="7"> Nam mysterium jam operatur iniquitatis : tantum ut qui tenet nunc,
+          teneat, donec de medio fiat.</ab>
+        <ab xml:id="d1e97" n="8"> Et tunc revelabitur ille iniquus, quem Dominus Jesus interficiet
+          spiritu oris sui, et destruet illustratione adventus sui eum :</ab>
+        <ab xml:id="d1e100" n="9"> cujus est adventus secundum operationem Satanae in omni virtute,
+          et signis, et prodigiis mendacibus,</ab>
+        <ab xml:id="d1e103" n="10"> et in omni seductione iniquitatis iis qui pereunt : eo quod
+          caritatem veritatis non receperunt ut salvi fierent.</ab>
+        <ab xml:id="d1e106" n="11"> Ideo mittet illis Deus operationem erroris ut credant
+          mendacio,</ab>
+        <ab xml:id="d1e110" n="12"> ut judicentur omnes qui non crediderunt veritati, sed
+          consenserunt iniquitati.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e114" n="13"> Nos autem debemus gratias agere Deo semper pro vobis, fratres
+          dilecti a Deo, quod elegerit vos Deus primitias in salutem in sanctificatione spiritus, et
+          in fide veritatis :</ab>
+        <ab xml:id="d1e117" n="14"> in qua et vocavit vos per Evangelium nostrum in acquisitionem
+          gloriae Domini nostri Jesu Christi.</ab>
+        <ab xml:id="d1e120" n="15"> Itaque fratres, state : et tenete traditiones, quas didicistis,
+          sive per sermonem, sive per epistolam nostram.</ab>
+        <ab xml:id="d1e123" n="16"> Ipse autem Dominus noster Jesus Christus, et Deus et Pater
+          noster, qui dilexit nos, et dedit consolationem aeternam, et spem bonam in gratia,</ab>
+        <ab xml:id="d1e126" n="17"> exhortetur corda vestra, et confirmet in omni opere et sermone
+          bono.</ab>
+      </div>
+      <div xml:id="d1e130" type="chap" n="3">
+        <ab xml:id="d1e132" n="1"> De cetero fratres, orate pro nobis ut sermo Dei currat, et
+          clarificetur, sicut et apud vos :</ab>
+        <ab xml:id="d1e135" n="2"> et ut liberemur ab importunis, et malis hominibus : non enim
+          omnium est fides.</ab>
+        <ab xml:id="d1e138" n="3"> Fidelis autem Deus est, qui confirmabit vos, et custodiet a
+          malo.</ab>
+        <ab xml:id="d1e141" n="4"> Confidimus autem de vobis, in Domino, quoniam quae praecepimus,
+          et facitis, et facietis.</ab>
+        <ab xml:id="d1e144" n="5"> Dominus autem dirigat corda vestra in caritate Dei, et patientia
+            Christi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e149" n="6"> Denuntiamus autem vobis, fratres, in nomine Domini nostri Jesu
+          Christi, ut subtrahatis vos ab omni fratre ambulante inordinate, et non secundum
+          traditionem, quam acceperunt a nobis.</ab>
+        <ab xml:id="d1e152" n="7"> Ipsi enim scitis quemadmodum oporteat imitari nos : quoniam non
+          inquieti fuimus inter vos :</ab>
+        <ab xml:id="d1e155" n="8"> neque gratis panem manducavimus ab aliquo, sed in labore, et in
+          fatigatione, nocte et die operantes, ne quem vestrum gravaremus.</ab>
+        <ab xml:id="d1e158" n="9"> Non quasi non habuerimus potestatem, sed ut nosmetipsos formam
+          daremus vobis ad imitandum nos.</ab>
+        <ab xml:id="d1e161" n="10"> Nam et cum essemus apud vos, hoc denuntiabamus vobis : quoniam
+          si quis non vult operari, nec manducet.</ab>
+        <ab xml:id="d1e164" n="11"> Audivimus enim inter vos quosdam ambulare inquiete, nihil
+          operantes, sed curiose agentes.</ab>
+        <ab xml:id="d1e168" n="12"> Iis autem, qui ejusmodi sunt, denuntiemus, et obsecramus in
+          Domino Jesu Christo, ut cum silentio operantes, suum panem manducent.</ab>
+        <ab xml:id="d1e171" n="13"> Vos autem, fratres, nolite deficere benefacientes.</ab>
+        <ab xml:id="d1e174" n="14"> Quod si quis non obedit verbo nostro per epistolam, hunc notate,
+          et ne commisceamini cum illo ut confundatur :</ab>
+        <ab xml:id="d1e177" n="15"> et nolite quasi inimicum existimare, sed corripite ut
+          fratrem.</ab>
+        <ab xml:id="d1e180" n="16"> Ipse autem Dominus pacis det vobis pacem sempiternam in omni
+          loco. Dominus sit cum omnibus vobis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e184" n="17"> Salutatio, mea manu Pauli : quod est signum in omni epistola,
+          ita scribo.</ab>
+        <ab xml:id="d1e188" n="18"> Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

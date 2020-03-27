@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ioannes</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1"> [In principio erat Verbum,/ et Verbum erat apud Deum,/ et Deus
+          erat Verbum./</ab>
+        <ab xml:id="d1e36" n="2"> Hoc erat in principio apud Deum./</ab>
+        <ab xml:id="d1e39" n="3"> Omnia per ipsum facta sunt :/ et sine ipso factum est nihil, quod
+          factum est./</ab>
+        <ab xml:id="d1e42" n="4"> In ipso vita erat,/ et vita erat lux hominum :/</ab>
+        <ab xml:id="d1e45" n="5"> et lux in tenebris lucet,/ et tenebrae eam non
+          comprehenderunt./</ab>
+        <ab xml:id="d1e49" n="6"> Fuit homo/ missus a Deo,/ cui nomen erat Joannes./</ab>
+        <ab xml:id="d1e52" n="7"> Hic venit in testimonium/ ut testimonium perhiberet de lumine,/ ut
+          omnes crederent per illum./</ab>
+        <ab xml:id="d1e55" n="8"> Non erat ille lux,/ sed ut testimonium perhiberet de lumine./</ab>
+        <ab xml:id="d1e58" n="9"> Erat lux vera,/ quae illuminat omnem hominem/ venientem in hunc
+          mundum./</ab>
+        <ab xml:id="d1e61" n="10"> In mundo erat,/ et mundus per ipsum factus est,/ et mundus eum
+          non cognovit./</ab>
+        <ab xml:id="d1e64" n="11"> In propria venit,/ et sui eum non receperunt./</ab>
+        <ab xml:id="d1e68" n="12"> Quotquot autem receperunt eum,/ dedit eis potestatem filios Dei
+          fieri,/ his qui credunt in nomine ejus :/</ab>
+        <ab xml:id="d1e71" n="13"> qui non ex sanguinibus,/ neque ex voluntate carnis,/ neque ex
+          voluntate viri,/ sed ex Deo nati sunt./</ab>
+        <ab xml:id="d1e74" n="14"> Et Verbum caro factum est,/ et habitavit in nobis :/ et vidimus
+          gloriam ejus,/ gloriam quasi unigeniti a Patre/ plenum gratiae et veritatis./</ab>
+        <ab xml:id="d1e77" n="15"> Joannes testimonium perhibet de ipso,/ et clamat dicens :/ Hic
+          erat quem dixi :/ Qui post me venturus est,/ ante me factus est :/ quia prior me
+          erat./</ab>
+        <ab xml:id="d1e80" n="16"> Et de plenitudine ejus/ nos omnes accepimus, et gratiam pro
+          gratia :/</ab>
+        <ab xml:id="d1e83" n="17"> quia lex per Moysen data est,/ gratia et veritas per Jesum
+          Christum facta est./</ab>
+        <ab xml:id="d1e87" n="18"> Deum nemo vidit umquam :/ unigenitus Filius, qui est in sinu
+          Patris,/ ipse enarravit.]<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e91" n="19"> Et hoc est testimonium Joannis, quando miserunt Judaei ab
+          Jerosolymis sacerdotes et Levitas ad eum ut interrogarent eum : Tu quis es ?</ab>
+        <ab xml:id="d1e94" n="20"> Et confessus est, et non negavit, et confessus est : Quia non sum
+          ego Christus.</ab>
+        <ab xml:id="d1e97" n="21"> Et interrogaverunt eum : Quid ergo ? Elias es tu ? Et dixit : Non
+          sum. Propheta es tu ? Et respondit : Non.</ab>
+        <ab xml:id="d1e100" n="22"> Dixerunt ergo ei : Quis es ut responsum demus his qui miserunt
+          nos ? quid dicis de teipso ?</ab>
+        <ab xml:id="d1e103" n="23"> Ait : Ego vox clamantis in deserto : Dirigite viam Domini, sicut
+          dixit Isaias propheta.</ab>
+        <ab xml:id="d1e107" n="24"> Et qui missi fuerant, erant ex pharisaeis.</ab>
+        <ab xml:id="d1e110" n="25"> Et interrogaverunt eum, et dixerunt ei : Quid ergo baptizas, si
+          tu non es Christus, neque Elias, neque propheta ?</ab>
+        <ab xml:id="d1e113" n="26"> Respondit eis Joannes, dicens : Ego baptizo in aqua : medius
+          autem vestrum stetit, quem vos nescitis.</ab>
+        <ab xml:id="d1e116" n="27"> Ipse est qui post me venturus est, qui ante me factus est :
+          cujus ego non sum dignus ut solvam ejus corrigiam calceamenti.</ab>
+        <ab xml:id="d1e119" n="28"> Haec in Bethania facta sunt trans Jordanem, ubi erat Joannes
+            baptizans.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e123" n="29"> Altera die vidit Joannes Jesum venientem ad se, et ait : Ecce
+          agnus Dei, ecce qui tollit peccatum mundi.</ab>
+        <ab xml:id="d1e127" n="30"> Hic est de quo dixi : Post me venit vir qui ante me factus est :
+          quia prior me erat :</ab>
+        <ab xml:id="d1e130" n="31"> et ego nesciebam eum, sed ut manifestetur in Israël, propterea
+          veni ego in aqua baptizans.</ab>
+        <ab xml:id="d1e133" n="32"> Et testimonium perhibuit Joannes, dicens : Quia vidi Spiritum
+          descendentem quasi columbam de caelo, et mansit super eum.</ab>
+        <ab xml:id="d1e136" n="33"> Et ego nesciebam eum : sed qui misit me baptizare in aqua, ille
+          mihi dixit : Super quem videris Spiritum descendentem, et manentem super eum, hic est qui
+          baptizat in Spiritu Sancto.</ab>
+        <ab xml:id="d1e139" n="34"> Et ego vidi : et testimonium perhibui quia hic est Filius
+            Dei.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e143" n="35"> Altera die iterum stabat Joannes, et ex discipulis ejus
+          duo.</ab>
+        <ab xml:id="d1e147" n="36"> Et respiciens Jesum ambulantem, dicit : Ecce agnus Dei.</ab>
+        <ab xml:id="d1e150" n="37"> Et audierunt eum duo discipuli loquentem, et secuti sunt
+          Jesum.</ab>
+        <ab xml:id="d1e153" n="38"> Conversus autem Jesus, et videns eos sequentes se, dicit eis :
+          Quid quaeritis ? Qui dixerunt ei : Rabbi (quod dicitur interpretatum Magister), ubi
+          habitas ?</ab>
+        <ab xml:id="d1e156" n="39"> Dicit eis : Venite et videte. Venerunt, et viderunt ubi maneret,
+          et apud eum manserunt die illo : hora autem erat quasi decima.</ab>
+        <ab xml:id="d1e159" n="40"> Erat autem Andreas, frater Simonis Petri, unus ex duobus qui
+          audierant a Joanne, et secuti fuerant eum.</ab>
+        <ab xml:id="d1e162" n="41"> Invenit hic primum fratrem suum Simonem, et dicit ei : Invenimus
+          Messiam (quod est interpretatum Christus).</ab>
+        <ab xml:id="d1e166" n="42"> Et adduxit eum ad Jesum. Intuitus autem eum Jesus, dixit : Tu es
+          Simon, filius Jona ; tu vocaberis Cephas, quod interpretatur Petrus.</ab>
+        <ab xml:id="d1e169" n="43"> In crastinum voluit exire in Galilaeam, et invenit Philippum. Et
+          dicit ei Jesus : Sequere me.</ab>
+        <ab xml:id="d1e172" n="44"> Erat autem Philippus a Bethsaida, civitate Andreae et
+          Petri.</ab>
+        <ab xml:id="d1e175" n="45"> Invenit Philippus Nathanaël, et dicit ei : Quem scripsit Moyses
+          in lege, et prophetae, invenimus Jesum filium Joseph a Nazareth.</ab>
+        <ab xml:id="d1e178" n="46"> Et dixit ei Nathanaël : A Nazareth potest aliquid boni esse ?
+          Dicit ei Philippus : Veni et vide.</ab>
+        <ab xml:id="d1e181" n="47"> Vidit Jesus Nathanaël venientem ad se, et dicit de eo : Ecce
+          vere Israëlita, in quo dolus non est.</ab>
+        <ab xml:id="d1e185" n="48"> Dicit ei Nathanaël : Unde me nosti ? Respondit Jesus, et dixit
+          ei : Priusquam te Philippus vocavit, cum esses sub ficu, vidi te.</ab>
+        <ab xml:id="d1e188" n="49"> Respondit ei Nathanaël, et ait : Rabbi, tu es Filius Dei, tu es
+          rex Israël.</ab>
+        <ab xml:id="d1e191" n="50"> Respondit Jesus, et dixit ei : Quia dixi tibi : Vidi te sub
+          ficu, credis ; majus his videbis.</ab>
+        <ab xml:id="d1e194" n="51"> Et dicit ei : Amen, amen dico vobis, videbitis caelum apertum,
+          et angelos Dei ascendentes, et descendentes supra Filium hominis.</ab>
+      </div>
+      <div xml:id="d1e198" type="chap" n="2">
+        <ab xml:id="d1e200" n="1"> Et die tertia nuptiae factae sunt in Cana Galilaeae, et erat
+          mater Jesu ibi.</ab>
+        <ab xml:id="d1e203" n="2"> Vocatus est autem et Jesus, et discipuli ejus, ad nuptias.</ab>
+        <ab xml:id="d1e206" n="3"> Et deficiente vino, dicit mater Jesu ad eum : Vinum non
+          habent.</ab>
+        <ab xml:id="d1e209" n="4"> Et dicit ei Jesus : Quid mihi et tibi est, mulier ? nondum venit
+          hora mea.</ab>
+        <ab xml:id="d1e212" n="5"> Dicit mater ejus ministris : Quodcumque dixerit vobis,
+          facite.</ab>
+        <ab xml:id="d1e216" n="6"> Erant autem ibi lapideae hydriae sex positae secundum
+          purificationem Judaeorum, capientes singulae metretas binas vel ternas.</ab>
+        <ab xml:id="d1e219" n="7"> Dicit eis Jesus : Implete hydrias aqua. Et impleverunt eas usque
+          ad summum.</ab>
+        <ab xml:id="d1e222" n="8"> Et dicit eis Jesus : Haurite nunc, et ferte architriclino. Et
+          tulerunt.</ab>
+        <ab xml:id="d1e225" n="9"> Ut autem gustavit architriclinus aquam vinum factam, et non
+          sciebat unde esset, ministri autem sciebant, qui hauserant aquam : vocat sponsum
+          architriclinus,</ab>
+        <ab xml:id="d1e228" n="10"> et dicit ei : Omnis homo primum bonum vinum ponit et cum
+          inebriati fuerint, tunc id, quod deterius est. Tu autem servasti bonum vinum usque
+          adhuc.</ab>
+        <ab xml:id="d1e231" n="11"> Hoc fecit initium signorum Jesus in Cana Galilaeae ; et
+          manifestavit gloriam suam, et crediderunt in eum discipuli ejus.</ab>
+        <ab xml:id="d1e235" n="12"> Post hoc descendit Capharnaum ipse, et mater ejus, et fratres
+          ejus, et discipuli ejus : et ibi manserunt non multis diebus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e239" n="13"> Et prope erat Pascha Judaeorum, et ascendit Jesus Jerosolymam
+          :</ab>
+        <ab xml:id="d1e242" n="14"> et invenit in templo vendentes boves, et oves, et columbas, et
+          numularios sedentes.</ab>
+        <ab xml:id="d1e245" n="15"> Et cum fecisset quasi flagellum de funiculis, omnes ejecit de
+          templo, oves quoque, et boves, et numulariorum effudit aes, et mensas subvertit.</ab>
+        <ab xml:id="d1e248" n="16"> Et his qui columbas vendebant, dixit : Auferte ista hinc, et
+          nolite facere domum patris mei, domum negotiationis.</ab>
+        <ab xml:id="d1e251" n="17"> Recordati sunt vero discipuli ejus quia scriptum est : Zelus
+          domus tuae comedit me.</ab>
+        <ab xml:id="d1e255" n="18"> Responderunt ergo Judaei, et dixerunt ei : Quod signum ostendis
+          nobis, quia haec facis ?</ab>
+        <ab xml:id="d1e258" n="19"> Respondit Jesus, et dixit eis : Solvite templum hoc, et in
+          tribus diebus excitabo illud.</ab>
+        <ab xml:id="d1e261" n="20"> Dixerunt ergo Judaei : Quadraginta et sex annis aedificatum est
+          templum hoc, et tu in tribus diebus excitabis illud ?</ab>
+        <ab xml:id="d1e264" n="21"> Ille autem dicebat de templo corporis sui.</ab>
+        <ab xml:id="d1e267" n="22"> Cum ergo resurrexisset a mortuis, recordati sunt discipuli ejus,
+          quia hoc dicebat, et crediderunt scripturae et sermoni quem dixit Jesus.</ab>
+        <ab xml:id="d1e270" n="23"> Cum autem esset Jerosolymis in Pascha in die festo, multi
+          crediderunt in nomine ejus, videntes signa ejus, quae faciebat.</ab>
+        <ab xml:id="d1e274" n="24"> Ipse autem Jesus non credebat semetipsum eis, eo quod ipse
+          nosset omnes,</ab>
+        <ab xml:id="d1e277" n="25"> et quia opus ei non erat ut quis testimonium perhiberet de
+          homine : ipse enim sciebat quid esset in homine.</ab>
+      </div>
+      <div xml:id="d1e281" type="chap" n="3">
+        <ab xml:id="d1e283" n="1"> Erat autem homo ex pharisaeis, Nicodemus nomine, princeps
+          Judaeorum.</ab>
+        <ab xml:id="d1e286" n="2"> Hic venit ad Jesum nocte, et dixit ei : Rabbi, scimus quia a Deo
+          venisti magister, nemo enim potest haec signa facere, quae tu facis, nisi fuerit Deus cum
+          eo.</ab>
+        <ab xml:id="d1e289" n="3"> Respondit Jesus, et dixit ei : Amen, amen dico tibi, nisi quis
+          renatus fuerit denuo, non potest videre regnum Dei.</ab>
+        <ab xml:id="d1e292" n="4"> Dicit ad eum Nicodemus : Quomodo potest homo nasci, cum sit senex
+          ? numquid potest in ventrem matris suae iterato introire et renasci ?</ab>
+        <ab xml:id="d1e295" n="5"> Respondit Jesus : Amen, amen dico tibi, nisi quis renatus fuerit
+          ex aqua, et Spiritu Sancto, non potest introire in regnum Dei.</ab>
+        <ab xml:id="d1e299" n="6"> Quod natum est ex carne, caro est : et quod natum est ex spiritu,
+          spiritus est.</ab>
+        <ab xml:id="d1e302" n="7"> Non mireris quia dixi tibi : oportet vos nasci denuo.</ab>
+        <ab xml:id="d1e305" n="8"> Spiritus ubi vult spirat, et vocem ejus audis, sed nescis unde
+          veniat, aut quo vadat : sic est omnis qui natus est ex spiritu.</ab>
+        <ab xml:id="d1e308" n="9"> Respondit Nicodemus, et dixit ei : Quomodo possunt haec fieri
+          ?</ab>
+        <ab xml:id="d1e311" n="10"> Respondit Jesus, et dixit ei : Tu es magister in Israël, et haec
+          ignoras ?</ab>
+        <ab xml:id="d1e314" n="11"> Amen, amen dico tibi, quia quod scimus loquimur, et quod vidimus
+          testamur, et testimonium nostrum non accipitis.</ab>
+        <ab xml:id="d1e318" n="12"> Si terrena dixi vobis, et non creditis : quomodo, si dixero
+          vobis caelestia, credetis ?</ab>
+        <ab xml:id="d1e321" n="13"> Et nemo ascendit in caelum, nisi qui descendit de caelo, Filius
+          hominis, qui est in caelo.</ab>
+        <ab xml:id="d1e324" n="14"> Et sicut Moyses exaltavit serpentem in deserto, ita exaltari
+          oportet Filium hominis :</ab>
+        <ab xml:id="d1e327" n="15"> ut omnis qui credit in ipsum, non pereat, sed habeat vitam
+          aeternam.</ab>
+        <ab xml:id="d1e330" n="16"> Sic enim Deus dilexit mundum, ut Filium suum unigenitum daret :
+          ut omnis qui credit in eum, non pereat, sed habeat vitam aeternam.</ab>
+        <ab xml:id="d1e333" n="17"> Non enim misit Deus Filium suum in mundum, ut judicet mundum,
+          sed ut salvetur mundus per ipsum.</ab>
+        <ab xml:id="d1e337" n="18"> Qui credit in eum, non judicatur ; qui autem non credit, jam
+          judicatus est : quia non credit in nomine unigeniti Filii Dei.</ab>
+        <ab xml:id="d1e340" n="19"> Hoc est autem judicium : quia lux venit in mundum, et dilexerunt
+          homines magis tenebras quam lucem : erant enim eorum mala opera.</ab>
+        <ab xml:id="d1e343" n="20"> Omnis enim qui male agit, odit lucem, et non venit ad lucem, ut
+          non arguantur opera ejus :</ab>
+        <ab xml:id="d1e346" n="21"> qui autem facit veritatem, venit ad lucem, ut manifestentur
+          opera ejus, quia in Deo sunt facta.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e350" n="22"> Post haec venit Jesus et discipuli ejus in terram Judaeam : et
+          illic demorabatur cum eis, et baptizabat.</ab>
+        <ab xml:id="d1e353" n="23"> Erat autem et Joannes baptizans, in Aennon, juxta Salim : quia
+          aquae multae erant illic, et veniebant et baptizabantur.</ab>
+        <ab xml:id="d1e357" n="24"> Nondum enim missus fuerat Joannes in carcerem.</ab>
+        <ab xml:id="d1e360" n="25"> Facta est autem quaestio ex discipulis Joannis cum Judaeis de
+          purificatione.</ab>
+        <ab xml:id="d1e363" n="26"> Et venerunt ad Joannem, et dixerunt ei : Rabbi, qui erat tecum
+          trans Jordanem, cui tu testimonium perhibuisti, ecce hic baptizat, et omnes veniunt ad
+          eum.</ab>
+        <ab xml:id="d1e366" n="27"> Respondit Joannes, et dixit : Non potest homo accipere quidquam,
+          nisi fuerit ei datum de caelo.</ab>
+        <ab xml:id="d1e369" n="28"> Ipsi vos mihi testimonium perhibetis, quod dixerim : Non sum ego
+          Christus : sed quia missus sum ante illum.</ab>
+        <ab xml:id="d1e372" n="29"> Qui habet sponsam, sponsus est : amicus autem sponsi, qui stat,
+          et audit eum, gaudio gaudet propter vocem sponsi. Hoc ergo gaudium meum impletum est.</ab>
+        <ab xml:id="d1e376" n="30"> Illum oportet crescere, me autem minui.</ab>
+        <ab xml:id="d1e379" n="31"> Qui desursum venit, super omnes est. Qui est de terra, de terra
+          est, et de terra loquitur. Qui de caelo venit, super omnes est.</ab>
+        <ab xml:id="d1e382" n="32"> Et quod vidit, et audivit, hoc testatur : et testimonium ejus
+          nemo accipit.</ab>
+        <ab xml:id="d1e385" n="33"> Qui accepit ejus testimonium signavit, quia Deus verax est.</ab>
+        <ab xml:id="d1e388" n="34"> Quem enim misit Deus, verba Dei loquitur : non enim ad mensuram
+          dat Deus spiritum.</ab>
+        <ab xml:id="d1e391" n="35"> Pater diligit Filium et omnia dedit in manu ejus.</ab>
+        <ab xml:id="d1e395" n="36"> Qui credit in Filium, habet vitam aeternam ; qui autem
+          incredulus est Filio, non videbit vitam, sed ira Dei manet super eum.</ab>
+      </div>
+      <div xml:id="d1e399" type="chap" n="4">
+        <ab xml:id="d1e401" n="1"> Ut ergo cognovit Jesus quia audierunt pharisaei quod Jesus plures
+          discipulos facit, et baptizat, quam Joannes</ab>
+        <ab xml:id="d1e404" n="2"> (quamquam Jesus non baptizaret, sed discipuli ejus),</ab>
+        <ab xml:id="d1e407" n="3"> reliquit Judaeam, et abiit iterum in Galilaeam.</ab>
+        <ab xml:id="d1e410" n="4"> Oportebat autem eum transire per Samariam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e414" n="5"> Venit ergo in civitatem Samariae, quae dicitur Sichar, juxta
+          praedium quod dedit Jacob Joseph filio suo.</ab>
+        <ab xml:id="d1e418" n="6"> Erat autem ibi fons Jacob. Jesus ergo fatigatus ex itinere,
+          sedebat sic supra fontem. Hora erat quasi sexta.</ab>
+        <ab xml:id="d1e421" n="7"> Venit mulier de Samaria haurire aquam. Dicit ei Jesus : Da mihi
+          bibere.</ab>
+        <ab xml:id="d1e424" n="8"> (Discipuli enim ejus abierant in civitatem ut cibos
+          emerent.)</ab>
+        <ab xml:id="d1e427" n="9"> Dicit ergo ei mulier illa Samaritana : Quomodo tu, Judaeus cum
+          sis, bibere a me poscis, quae sum mulier Samaritana ? non enim coutuntur Judaei
+          Samaritanis.</ab>
+        <ab xml:id="d1e430" n="10"> Respondit Jesus, et dixit ei : Si scires donum Dei, et quis est
+          qui dicit tibi : Da mihi bibere, tu forsitan petisses ab eo, et dedisset tibi aquam
+          vivam.</ab>
+        <ab xml:id="d1e433" n="11"> Dicit ei mulier : Domine, neque in quo haurias habes, et puteus
+          altus est : unde ergo habes aquam vivam ?</ab>
+        <ab xml:id="d1e437" n="12"> Numquid tu major es patre nostro Jacob, qui dedit nobis puteum,
+          et ipse ex eo bibit, et filii ejus, et pecora ejus ?</ab>
+        <ab xml:id="d1e440" n="13"> Respondit Jesus, et dixit ei : Omnis qui bibit ex aqua hac,
+          sitiet iterum ; qui autem biberit ex aqua quam ego dabo ei, non sitiet in aeternum :</ab>
+        <ab xml:id="d1e443" n="14"> sed aqua quam ego dabo ei, fiet in eo fons aquae salientis in
+          vitam aeternam.</ab>
+        <ab xml:id="d1e446" n="15"> Dicit ad eum mulier : Domine, da mihi hanc aquam, ut non sitiam,
+          neque veniam huc haurire.</ab>
+        <ab xml:id="d1e449" n="16"> Dicit ei Jesus : Vade, voca virum tuum, et veni huc.</ab>
+        <ab xml:id="d1e452" n="17"> Respondit mulier, et dixit : Non habeo virum. Dicit ei Jesus :
+          Bene dixisti, quia non habeo virum ;</ab>
+        <ab xml:id="d1e456" n="18"> quinque enim viros habuisti, et nunc, quem habes, non est tuus
+          vir : hoc vere dixisti.</ab>
+        <ab xml:id="d1e459" n="19"> Dicit ei mulier : Domine, video quia propheta es tu.</ab>
+        <ab xml:id="d1e462" n="20"> Patres nostri in monte hoc adoraverunt, et vos dicitis, quia
+          Jerosolymis est locus ubi adorare oportet.</ab>
+        <ab xml:id="d1e465" n="21"> Dicit ei Jesus : Mulier, crede mihi, quia venit hora, quando
+          neque in monte hoc, neque in Jerosolymis adorabitis Patrem.</ab>
+        <ab xml:id="d1e468" n="22"> Vos adoratis quod nescitis : nos adoramus quod scimus, quia
+          salus ex Judaeis est.</ab>
+        <ab xml:id="d1e471" n="23"> Sed venit hora, et nunc est, quando veri adoratores adorabunt
+          Patrem in spiritu et veritate. Nam et Pater tales quaerit, qui adorent eum.</ab>
+        <ab xml:id="d1e475" n="24"> Spiritus est Deus : et eos qui adorant eum, in spiritu et
+          veritate oportet adorare.</ab>
+        <ab xml:id="d1e478" n="25"> Dicit ei mulier : Scio quia Messias venit (qui dicitur Christus)
+          : cum ergo venerit ille, nobis annuntiabit omnia.</ab>
+        <ab xml:id="d1e481" n="26"> Dicit ei Jesus : Ego sum, qui loquor tecum.</ab>
+        <ab xml:id="d1e484" n="27"> Et continuo venerunt discipuli ejus, et mirabantur quia cum
+          muliere loquebatur. Nemo tamen dixit : Quid quaeris ? aut, Quid loqueris cum ea ?</ab>
+        <ab xml:id="d1e487" n="28"> Reliquit ergo hydriam suam mulier, et abiit in civitatem, et
+          dicit illis hominibus :</ab>
+        <ab xml:id="d1e490" n="29"> Venite, et videte hominem qui dixit mihi omnia quaecumque feci :
+          numquid ipse est Christus ?</ab>
+        <ab xml:id="d1e494" n="30"> Exierunt ergo de civitate et veniebant ad eum.</ab>
+        <ab xml:id="d1e497" n="31"> Interea rogabant eum discipuli, dicentes : Rabbi, manduca.</ab>
+        <ab xml:id="d1e500" n="32"> Ille autem dicit eis : Ego cibum habeo manducare, quem vos
+          nescitis.</ab>
+        <ab xml:id="d1e503" n="33"> Dicebant ergo discipuli ad invicem : Numquid aliquis attulit ei
+          manducare ?</ab>
+        <ab xml:id="d1e506" n="34"> Dicit eis Jesus : Meus cibus est ut faciam voluntatem ejus qui
+          misit me, ut perficiam opus ejus.</ab>
+        <ab xml:id="d1e509" n="35"> Nonne vos dicitis quod adhuc quatuor menses sunt, et messis
+          venit ? Ecce dico vobis : levate oculos vestros, et videte regiones, quia albae sunt jam
+          ad messem.</ab>
+        <ab xml:id="d1e513" n="36"> Et qui metit, mercedem accipit, et congregat fructum in vitam
+          aeternam : ut et qui seminat, simul gaudeat, et qui metit.</ab>
+        <ab xml:id="d1e516" n="37"> In hoc enim est verbum verum : quia alius est qui seminat, et
+          alius est qui metit.</ab>
+        <ab xml:id="d1e519" n="38"> Ego misi vos metere quod vos non laborastis : alii laboraverunt,
+          et vos in labores eorum introistis.</ab>
+        <ab xml:id="d1e522" n="39"> Ex civitate autem illa multi crediderunt in eum Samaritanorum,
+          propter verbum mulieris testimonium perhibentis : Quia dixit mihi omnia quaecumque
+          feci.</ab>
+        <ab xml:id="d1e525" n="40"> Cum venissent ergo ad illum Samaritani, rogaverunt eum ut ibi
+          maneret. Et mansit ibi duos dies.</ab>
+        <ab xml:id="d1e528" n="41"> Et multo plures crediderunt in eum propter sermonem ejus.</ab>
+        <ab xml:id="d1e532" n="42"> Et mulieri dicebant : Quia jam non propter tuam loquelam
+          credimus : ipsi enim audivimus, et scimus quia hic est vere Salvator mundi.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e536" n="43"> Post duos autem dies exiit inde, et abiit in Galilaeam.</ab>
+        <ab xml:id="d1e539" n="44"> Ipse enim Jesus testimonium perhibuit, quia propheta in sua
+          patria honorem non habet.</ab>
+        <ab xml:id="d1e542" n="45"> Cum ergo venisset in Galilaeam, exceperunt eum Galilaei, cum
+          omnia vidissent quae fecerat Jerosolymis in die festo : et ipsi enim venerant ad diem
+          festum.</ab>
+        <ab xml:id="d1e545" n="46"> Venit ergo iterum in Cana Galilaeae, ubi fecit aquam vinum. Et
+          erat quidam regulus, cujus filius infirmabatur Capharnaum.</ab>
+        <ab xml:id="d1e548" n="47"> Hic cum audisset quia Jesus adveniret a Judaea in Galilaeam,
+          abiit ad eum, et rogabat eum ut descenderet, et sanaret filium ejus : incipiebat enim
+          mori.</ab>
+        <ab xml:id="d1e552" n="48"> Dixit ergo Jesus ad eum : Nisi signa et prodigia videritis, non
+          creditis.</ab>
+        <ab xml:id="d1e555" n="49"> Dicit ad eum regulus : Domine, descende priusquam moriatur
+          filius meus.</ab>
+        <ab xml:id="d1e558" n="50"> Dicit ei Jesus : Vade, filius tuus vivit. Credidit homo sermoni
+          quem dixit ei Jesus, et ibat.</ab>
+        <ab xml:id="d1e561" n="51"> Jam autem eo descendente, servi occurrerunt ei, et nuntiaverunt
+          dicentes, quia filius ejus viveret.</ab>
+        <ab xml:id="d1e564" n="52"> Interrogabat ergo horam ab eis in qua melius habuerit. Et
+          dixerunt ei : Quia heri hora septima reliquit eum febris.</ab>
+        <ab xml:id="d1e567" n="53"> Cognovit ergo pater, quia illa hora erat in qua dixit ei Jesus :
+          Filius tuus vivit ; et credidit ipse et domus ejus tota.</ab>
+        <ab xml:id="d1e571" n="54"> Hoc iterum secundum signum fecit Jesus, cum venisset a Judaea in
+          Galilaeam.</ab>
+      </div>
+      <div xml:id="d1e575" type="chap" n="5">
+        <ab xml:id="d1e577" n="1"> Post haec erat dies festus Judaeorum, et ascendit Jesus
+          Jerosolymam.</ab>
+        <ab xml:id="d1e580" n="2"> Est autem Jerosolymis probatica piscina, quae cognominatur
+          hebraice Bethsaida, quinque porticus habens.</ab>
+        <ab xml:id="d1e583" n="3"> In his jacebat multitudo magna languentium, caecorum, claudorum,
+          aridorum, exspectantium aquae motum.</ab>
+        <ab xml:id="d1e586" n="4"> Angelus autem Domini descendebat secundum tempus in piscinam, et
+          movebatur aqua. Et qui prior descendisset in piscinam post motionem aquae, sanus fiebat a
+          quacumque detinebatur infirmitate.</ab>
+        <ab xml:id="d1e589" n="5"> Erat autem quidam homo ibi triginta et octo annos habens in
+          infirmitate sua.</ab>
+        <ab xml:id="d1e593" n="6"> Hunc autem cum vidisset Jesus jacentem, et cognovisset quia jam
+          multum tempus haberet, dicit ei : Vis sanus fieri ?</ab>
+        <ab xml:id="d1e596" n="7"> Respondit ei languidus : Domine, hominem non habeo, ut, cum
+          turbata fuerit aqua, mittat me in piscinam : dum venio enim ego, alius ante me
+          descendit.</ab>
+        <ab xml:id="d1e599" n="8"> Dicit ei Jesus : Surge, tolle grabatum tuum et ambula.</ab>
+        <ab xml:id="d1e602" n="9"> Et statim sanus factus est homo ille : et sustulit grabatum suum,
+          et ambulabat. Erat autem sabbatum in die illo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e606" n="10"> Dicebant ergo Judaei illi qui sanatus fuerat : Sabbatum est, non
+          licet tibi tollere grabatum tuum.</ab>
+        <ab xml:id="d1e609" n="11"> Respondit eis : Qui me sanum fecit, ille mihi dixit : Tolle
+          grabatum tuum et ambula.</ab>
+        <ab xml:id="d1e613" n="12"> Interrogaverunt ergo eum : Quis est ille homo qui dixit tibi :
+          Tolle grabatum tuum et ambula ?</ab>
+        <ab xml:id="d1e616" n="13"> Is autem qui sanus fuerat effectus, nesciebat quis esset. Jesus
+          enim declinavit a turba constituta in loco.</ab>
+        <ab xml:id="d1e619" n="14"> Postea invenit eum Jesus in templo, et dixit illi : Ecce sanus
+          factus es ; jam noli peccare, ne deterius tibi aliquid contingat.</ab>
+        <ab xml:id="d1e622" n="15"> Abiit ille homo, et nuntiavit Judaeis quia Jesus esset, qui
+          fecit eum sanum.</ab>
+        <ab xml:id="d1e625" n="16"> Propterea persequebantur Judaei Jesum, quia haec faciebat in
+          sabbato.</ab>
+        <ab xml:id="d1e628" n="17"> Jesus autem respondit eis : Pater meus usque modo operatur, et
+          ego operor.</ab>
+        <ab xml:id="d1e632" n="18"> Propterea ergo magis quaerebant eum Judaei interficere : quia
+          non solum solvebat sabbatum, sed et patrem suum dicebat Deum, aequalem se faciens Deo.<pc
+            ana="#pilcrow"/> Respondit itaque Jesus, et dixit eis :</ab>
+        <ab xml:id="d1e637" n="19"> Amen, amen dico vobis : non potest Filius a se facere quidquam,
+          nisi quod viderit Patrem facientem : quaecumque enim ille fecerit, haec et Filius
+          similiter facit.</ab>
+        <ab xml:id="d1e640" n="20"> Pater enim diligit Filium, et omnia demonstrat ei quae ipse
+          facit : et majora his demonstrabit ei opera, ut vos miremini.</ab>
+        <ab xml:id="d1e643" n="21"> Sicut enim Pater suscitat mortuos, et vivificat, sic et Filius,
+          quos vult, vivificat.</ab>
+        <ab xml:id="d1e646" n="22"> Neque enim Pater judicat quemquam : sed omne judicium dedit
+          Filio,</ab>
+        <ab xml:id="d1e649" n="23"> ut omnes honorificent Filium, sicut honorificant Patrem ; qui
+          non honorificat Filium, non honorificat Patrem, qui misit illum.</ab>
+        <ab xml:id="d1e653" n="24"> Amen, amen dico vobis, quia qui verbum meum audit, et credit ei
+          qui misit me, habet vitam aeternam, et in judicium non venit, sed transiit a morte in
+          vitam.</ab>
+        <ab xml:id="d1e656" n="25"> Amen, amen dico vobis, quia venit hora, et nunc est, quando
+          mortui audient vocem Filii Dei : et qui audierint, vivent.</ab>
+        <ab xml:id="d1e659" n="26"> Sicut enim Pater habet vitam in semetipso, sic dedit et Filio
+          habere vitam in semetipso :</ab>
+        <ab xml:id="d1e662" n="27"> et potestatem dedit ei judicium facere, quia Filius hominis
+          est.</ab>
+        <ab xml:id="d1e665" n="28"> Nolite mirari hoc, quia venit hora in qua omnes qui in
+          monumentis sunt audient vocem Filii Dei :</ab>
+        <ab xml:id="d1e668" n="29"> et procedent qui bona fecerunt, in resurrectionem vitae ; qui
+          vero mala egerunt, in resurrectionem judicii.</ab>
+        <ab xml:id="d1e672" n="30"> Non possum ego a meipso facere quidquam. Sicut audio, judico :
+          et judicium meum justum est, quia non quaero voluntatem meam, sed voluntatem ejus qui
+          misit me.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e676" n="31"> Si ego testimonium perhibeo de meipso, testimonium meum non est
+          verum.</ab>
+        <ab xml:id="d1e679" n="32"> Alius est qui testimonium perhibet de me : et scio quia verum
+          est testimonium, quod perhibet de me.</ab>
+        <ab xml:id="d1e682" n="33"> Vos misistis ad Joannem, et testimonium perhibuit veritati.</ab>
+        <ab xml:id="d1e685" n="34"> Ego autem non ab homine testimonium accipio : sed haec dico ut
+          vos salvi sitis.</ab>
+        <ab xml:id="d1e688" n="35"> Ille erat lucerna ardens et lucens : vos autem voluistis ad
+          horam exsultare in luce ejus.</ab>
+        <ab xml:id="d1e692" n="36"> Ego autem habeo testimonium majus Joanne. Opera enim quae dedit
+          mihi Pater ut perficiam ea : ipsa opera, quae ego facio, testimonium perhibent de me, quia
+          Pater misit me :</ab>
+        <ab xml:id="d1e695" n="37"> et qui misit me Pater, ipse testimonium perhibuit de me : neque
+          vocem ejus umquam audistis, neque speciem ejus vidistis :</ab>
+        <ab xml:id="d1e698" n="38"> et verbum ejus non habetis in vobis manens : quia quem misit
+          ille, huic vos non creditis.</ab>
+        <ab xml:id="d1e701" n="39"> Scrutamini Scripturas, quia vos putatis in ipsis vitam aeternam
+          habere : et illae sunt quae testimonium perhibent de me :</ab>
+        <ab xml:id="d1e704" n="40"> et non vultis venire ad me ut vitam habeatis.</ab>
+        <ab xml:id="d1e707" n="41"> Claritatem ab hominibus non accipio.</ab>
+        <ab xml:id="d1e711" n="42"> Sed cognovi vos, quia dilectionem Dei non habetis in vobis.</ab>
+        <ab xml:id="d1e714" n="43"> Ego veni in nomine Patris mei, et non accipitis me ; si alius
+          venerit in nomine suo, illum accipietis.</ab>
+        <ab xml:id="d1e717" n="44"> Quomodo vos potestis credere, qui gloriam ab invicem accipitis,
+          et gloriam quae a solo Deo est, non quaeritis ?</ab>
+        <ab xml:id="d1e720" n="45"> Nolite putare quia ego accusaturus sim vos apud Patrem : est qui
+          accusat vos Moyses, in quo vos speratis.</ab>
+        <ab xml:id="d1e723" n="46"> Si enim crederetis Moysi, crederetis forsitan et mihi : de me
+          enim ille scripsit.</ab>
+        <ab xml:id="d1e726" n="47"> Si autem illius litteris non creditis, quomodo verbis meis
+          credetis ?</ab>
+      </div>
+      <div xml:id="d1e731" type="chap" n="6">
+        <ab xml:id="d1e733" n="1"> Post haec abiit Jesus trans mare Galilaeae, quod est Tiberiadis
+          :</ab>
+        <ab xml:id="d1e736" n="2"> et sequebatur eum multitudo magna, quia videbant signa quae
+          faciebat super his qui infirmabantur.</ab>
+        <ab xml:id="d1e739" n="3"> Subiit ergo in montem Jesus et ibi sedebat cum discipulis
+          suis.</ab>
+        <ab xml:id="d1e742" n="4"> Erat autem proximum Pascha dies festus Judaeorum.</ab>
+        <ab xml:id="d1e745" n="5"> Cum sublevasset ergo oculos Jesus, et vidisset quia multitudo
+          maxima venit ad eum, dixit ad Philippum : Unde ememus panes, ut manducent hi ?</ab>
+        <ab xml:id="d1e749" n="6"> Hoc autem dicebat tentans eum : ipse enim sciebat quid esset
+          facturus.</ab>
+        <ab xml:id="d1e752" n="7"> Respondit ei Philippus : Ducentorum denariorum panes non
+          sufficiunt eis, ut unusquisque modicum quid accipiat.</ab>
+        <ab xml:id="d1e755" n="8"> Dicit ei unus ex discipulis ejus, Andreas, frater Simonis Petri
+          :</ab>
+        <ab xml:id="d1e758" n="9"> Est puer unus hic qui habet quinque panes hordeaceos et duos
+          pisces : sed haec quid sunt inter tantos ?</ab>
+        <ab xml:id="d1e761" n="10"> Dixit ergo Jesus : Facite homines discumbere. Erat autem foenum
+          multum in loco. Discubuerunt ergo viri, numero quasi quinque millia.</ab>
+        <ab xml:id="d1e764" n="11"> Accepit ergo Jesus panes : et cum gratias egisset, distribuit
+          discumbentibus : similiter et ex piscibus quantum volebant.</ab>
+        <ab xml:id="d1e768" n="12"> Ut autem impleti sunt, dixit discipulis suis : Colligite quae
+          superaverunt fragmenta, ne pereant.</ab>
+        <ab xml:id="d1e771" n="13"> Collegerunt ergo, et impleverunt duodecim cophinos fragmentorum
+          ex quinque panibus hordeaceis, quae superfuerunt his qui manducaverant.</ab>
+        <ab xml:id="d1e774" n="14"> Illi ergo homines cum vidissent quod Jesus fecerat signum,
+          dicebant : Quia hic est vere propheta, qui venturus est in mundum.</ab>
+        <ab xml:id="d1e777" n="15"> Jesus ergo cum cognovisset quia venturi essent ut raperent eum,
+          et facerent eum regem, fugit iterum in montem ipse solus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e781" n="16"> Ut autem sero factum est, descenderunt discipuli ejus ad
+          mare.</ab>
+        <ab xml:id="d1e784" n="17"> Et cum ascendissent navim, venerunt trans mare in Capharnaum :
+          et tenebrae jam factae erant et non venerat ad eos Jesus.</ab>
+        <ab xml:id="d1e788" n="18"> Mare autem, vento magno flante, exsurgebat.</ab>
+        <ab xml:id="d1e791" n="19"> Cum remigassent ergo quasi stadia viginti quinque aut triginta,
+          vident Jesum ambulantem supra mare, et proximum navi fieri, et timuerunt.</ab>
+        <ab xml:id="d1e794" n="20"> Ille autem dicit eis : Ego sum, nolite timere.</ab>
+        <ab xml:id="d1e797" n="21"> Voluerunt ergo accipere eum in navim et statim navis fuit ad
+          terram, in quam ibant.</ab>
+        <ab xml:id="d1e800" n="22"> Altera die, turba, quae stabat trans mare, vidit quia navicula
+          alia non erat ibi nisi una, et quia non introisset cum discipulis suis Jesus in navim, sed
+          soli discipuli ejus abiissent :</ab>
+        <ab xml:id="d1e803" n="23"> aliae vero supervenerunt naves a Tiberiade juxta locum ubi
+          manducaverunt panem, gratias agente Domino.</ab>
+        <ab xml:id="d1e807" n="24"> Cum ergo vidisset turba quia Jesus non esset ibi, neque
+          discipuli ejus, ascenderunt in naviculas, et venerunt Capharnaum quaerentes Jesum.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e811" n="25"> Et cum invenissent eum trans mare, dixerunt ei : Rabbi, quando
+          huc venisti ?</ab>
+        <ab xml:id="d1e814" n="26"> Respondit eis Jesus, et dixit : Amen, amen dico vobis :
+          quaeritis me non quia vidistis signa, sed quia manducastis ex panibus et saturati
+          estis.</ab>
+        <ab xml:id="d1e817" n="27"> Operamini non cibum, qui perit, sed qui permanet in vitam
+          aeternam, quem Filius hominis dabit vobis. Hunc enim Pater signavit Deus.</ab>
+        <ab xml:id="d1e820" n="28"> Dixerunt ergo ad eum : Quid faciemus ut operemur opera Dei
+          ?</ab>
+        <ab xml:id="d1e823" n="29"> Respondit Jesus, et dixit eis : Hoc est opus Dei, ut credatis in
+          eum quem misit ille.</ab>
+        <ab xml:id="d1e827" n="30"> Dixerunt ergo ei : Quod ergo tu facis signum ut videamus et
+          credamus tibi ? quid operaris ?</ab>
+        <ab xml:id="d1e830" n="31"> Patres nostri manducaverunt manna in deserto, sicut scriptum est
+          : Panem de caelo dedit eis manducare.</ab>
+        <ab xml:id="d1e833" n="32"> Dixit ergo eis Jesus : Amen, amen dico vobis : non Moyses dedit
+          vobis panem de caelo, sed Pater meus dat vobis panem de caelo verum.</ab>
+        <ab xml:id="d1e836" n="33"> Panis enim Dei est, qui de caelo descendit, et dat vitam
+          mundo.</ab>
+        <ab xml:id="d1e839" n="34"> Dixerunt ergo ad eum : Domine, semper da nobis panem hunc.</ab>
+        <ab xml:id="d1e842" n="35"> Dixit autem eis Jesus : Ego sum panis vitae : qui venit ad me,
+          non esuriet, et qui credit in me, non sitiet umquam.</ab>
+        <ab xml:id="d1e846" n="36"> Sed dixi vobis quia et vidistis me, et non creditis.</ab>
+        <ab xml:id="d1e849" n="37"> Omne quod dat mihi Pater, ad me veniet : et eum qui venit ad me,
+          non ejiciam foras :</ab>
+        <ab xml:id="d1e852" n="38"> quia descendi de caelo, non ut faciam voluntatem meam, sed
+          voluntatem ejus qui misit me.</ab>
+        <ab xml:id="d1e855" n="39"> Haec est autem voluntas ejus qui misit me, Patris : ut omne quod
+          dedit mihi, non perdam ex eo, sed resuscitem illud in novissimo die.</ab>
+        <ab xml:id="d1e858" n="40"> Haec est autem voluntas Patris mei, qui misit me : ut omnis qui
+          videt Filium et credit in eum, habeat vitam aeternam, et ego resuscitabo eum in novissimo
+          die.</ab>
+        <ab xml:id="d1e861" n="41"> Murmurabant ergo Judaei de illo, quia dixisset : Ego sum panis
+          vivus, qui de caelo descendi,</ab>
+        <ab xml:id="d1e865" n="42"> et dicebant : Nonne hic est Jesus filius Joseph, cujus nos
+          novimus patrem et matrem ? quomodo ergo dicit hic : Quia de caelo descendi ?</ab>
+        <ab xml:id="d1e868" n="43"> Respondit ergo Jesus, et dixit eis : Nolite murmurare in invicem
+          :</ab>
+        <ab xml:id="d1e871" n="44"> nemo potest venire ad me, nisi Pater, qui misit me, traxerit eum
+          ; et ego resuscitabo eum in novissimo die.</ab>
+        <ab xml:id="d1e874" n="45"> Est scriptum in prophetis : Et erunt omnes docibiles Dei. Omnis
+          qui audivit a Patre, et didicit, venit ad me.</ab>
+        <ab xml:id="d1e877" n="46"> Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic
+          vidit Patrem.</ab>
+        <ab xml:id="d1e880" n="47"> Amen, amen dico vobis : qui credit in me, habet vitam
+            aeternam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e885" n="48"> Ego sum panis vitae.</ab>
+        <ab xml:id="d1e888" n="49"> Patres vestri manducaverunt manna in deserto, et mortui
+          sunt.</ab>
+        <ab xml:id="d1e891" n="50"> Hic est panis de caelo descendens : ut si quis ex ipso
+          manducaverit, non moriatur.</ab>
+        <ab xml:id="d1e894" n="51"> Ego sum panis vivus, qui de caelo descendi.</ab>
+        <ab xml:id="d1e897" n="52"> Si quis manducaverit ex hoc pane, vivet in aeternum : et panis
+          quem ego dabo, caro mea est pro mundi vita.</ab>
+        <ab xml:id="d1e900" n="53"> Litigabant ergo Judaei ad invicem, dicentes : Quomodo potest hic
+          nobis carnem suam dare ad manducandum ?</ab>
+        <ab xml:id="d1e904" n="54"> Dixit ergo eis Jesus : Amen, amen dico vobis : nisi
+          manducaveritis carnem Filii hominis, et biberitis ejus sanguinem, non habebitis vitam in
+          vobis.</ab>
+        <ab xml:id="d1e907" n="55"> Qui manducat meam carnem, et bibit meum sanguinem, habet vitam
+          aeternam : et ego resuscitabo eum in novissimo die.</ab>
+        <ab xml:id="d1e910" n="56"> Caro enim mea vere est cibus : et sanguis meus, vere est potus
+          ;</ab>
+        <ab xml:id="d1e913" n="57"> qui manducat meam carnem et bibit meum sanguinem, in me manet,
+          et ego in illo.</ab>
+        <ab xml:id="d1e916" n="58"> Sicut misit me vivens Pater, et ego vivo propter Patrem : et qui
+          manducat me, et ipse vivet propter me.</ab>
+        <ab xml:id="d1e919" n="59"> Hic est panis qui de caelo descendit. Non sicut manducaverunt
+          patres vestri manna, et mortui sunt. Qui manducat hunc panem, vivet in aeternum.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e924" n="60"> Haec dixit in synagoga docens, in Capharnaum.</ab>
+        <ab xml:id="d1e927" n="61"> Multi ergo audientes ex discipulis ejus, dixerunt : Durus est
+          hic sermo, et quis potest eum audire ?</ab>
+        <ab xml:id="d1e930" n="62"> Sciens autem Jesus apud semetipsum quia murmurarent de hoc
+          discipuli ejus, dixit eis : Hoc vos scandalizat ?</ab>
+        <ab xml:id="d1e933" n="63"> si ergo videritis Filium hominis ascendentem ubi erat prius
+          ?</ab>
+        <ab xml:id="d1e936" n="64"> Spiritus est qui vivificat : caro non prodest quidquam : verba
+          quae ego locutus sum vobis, spiritus et vita sunt.</ab>
+        <ab xml:id="d1e939" n="65"> Sed sunt quidam ex vobis qui non credunt. Sciebat enim ab initio
+          Jesus qui essent non credentes, et quis traditurus esset eum.</ab>
+        <ab xml:id="d1e943" n="66"> Et dicebat : Propterea dixi vobis, quia nemo potest venire ad
+          me, nisi fuerit ei datum a Patre meo.</ab>
+        <ab xml:id="d1e946" n="67"> Ex hoc multi discipulorum ejus abierunt retro : et jam non cum
+          illo ambulabant.</ab>
+        <ab xml:id="d1e949" n="68"> Dixit ergo Jesus ad duodecim : Numquid et vos vultis abire
+          ?</ab>
+        <ab xml:id="d1e952" n="69"> Respondit ergo ei Simon Petrus : Domine, ad quem ibimus ? verba
+          vitae aeternae habes :</ab>
+        <ab xml:id="d1e955" n="70"> et nos credidimus, et cognovimus quia tu es Christus Filius
+          Dei.</ab>
+        <ab xml:id="d1e958" n="71"> Respondit eis Jesus : Nonne ego vos duodecim elegi : et ex vobis
+          unus diabolus est ?</ab>
+        <ab xml:id="d1e962" n="72"> Dicebat autem Judam Simonis Iscariotem : hic enim erat
+          traditurus eum, cum esset unus ex duodecim.</ab>
+      </div>
+      <div xml:id="d1e966" type="chap" n="7">
+        <ab xml:id="d1e968" n="1"> Post haec autem ambulabat Jesus in Galilaeam : non enim volebat
+          in Judaeam ambulare, quia quaerebant eum Judaei interficere.</ab>
+        <ab xml:id="d1e971" n="2"> Erat autem in proximo dies festus Judaeorum, Scenopegia.</ab>
+        <ab xml:id="d1e974" n="3"> Dixerunt autem ad eum fratres ejus : Transi hinc, et vade in
+          Judaeam, ut et discipuli tui videant opera tua, quae facis.</ab>
+        <ab xml:id="d1e977" n="4"> Nemo quippe in occulto quid facit, et quaerit ipse in palam esse
+          : si haec facis, manifesta teipsum mundo.</ab>
+        <ab xml:id="d1e980" n="5"> Neque enim fratres ejus credebant in eum.</ab>
+        <ab xml:id="d1e984" n="6"> Dicit ergo eis Jesus : Tempus meum nondum advenit : tempus autem
+          vestrum semper est paratum.</ab>
+        <ab xml:id="d1e987" n="7"> Non potest mundus odisse vos : me autem odit, quia ego
+          testimonium perhibeo de illo quod opera ejus mala sunt.</ab>
+        <ab xml:id="d1e990" n="8"> Vos ascendite ad diem festum hunc, ego autem non ascendo ad diem
+          festum istum : quia meum tempus nondum impletum est.</ab>
+        <ab xml:id="d1e993" n="9"> Haec cum dixisset, ipse mansit in Galilaea.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e997" n="10"> Ut autem ascenderunt fratres ejus, tunc et ipse ascendit ad diem
+          festum non manifeste, sed quasi in occulto.</ab>
+        <ab xml:id="d1e1000" n="11"> Judaei ergo quaerebant eum in die festo, et dicebant : Ubi est
+          ille ?</ab>
+        <ab xml:id="d1e1004" n="12"> Et murmur multum erat in turba de eo. Quidam enim dicebant :
+          Quia bonus est. Alii autem dicebant : Non, sed seducit turbas.</ab>
+        <ab xml:id="d1e1007" n="13"> Nemo tamen palam loquebatur de illo propter metum Judaeorum.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1011" n="14"> Jam autem die festo mediante, ascendit Jesus in templum, et
+          docebat.</ab>
+        <ab xml:id="d1e1014" n="15"> Et mirabantur Judaei, dicentes : Quomodo hic litteras scit, cum
+          non didicerit ?</ab>
+        <ab xml:id="d1e1017" n="16"> Respondit eis Jesus, et dixit : Mea doctrina non est mea, sed
+          ejus qui misit me.</ab>
+        <ab xml:id="d1e1020" n="17"> Si quis voluerit voluntatem ejus facere, cognoscet de doctrina,
+          utrum ex Deo sit, an ego a meipso loquar.</ab>
+        <ab xml:id="d1e1024" n="18"> Qui a semetipso loquitur, gloriam propriam quaerit ; qui autem
+          quaerit gloriam ejus qui misit eum, hic verax est, et injustitia in illo non est.</ab>
+        <ab xml:id="d1e1027" n="19"> Nonne Moyses dedit vobis legem : et nemo ex vobis facit legem
+          ?</ab>
+        <ab xml:id="d1e1030" n="20"> Quid me quaeritis interficere ? Respondit turba, et dixit :
+          Daemonium habes : quis te quaerit interficere ?</ab>
+        <ab xml:id="d1e1033" n="21"> Respondit Jesus et dixit eis : Unum opus feci, et omnes
+          miramini :</ab>
+        <ab xml:id="d1e1036" n="22"> propterea Moyses dedit vobis circumcisionem (non quia ex Moyse
+          est, sed ex patribus), et in sabbato circumciditis hominem.</ab>
+        <ab xml:id="d1e1039" n="23"> Si circumcisionem accipit homo in sabbato, ut non solvatur lex
+          Moysi : mihi indignamini quia totum hominem sanum feci in sabbato ?</ab>
+        <ab xml:id="d1e1043" n="24"> Nolite judicare secundum faciem, sed justum judicium
+            judicate.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1047" n="25"> Dicebant ergo quidam ex Jerosolymis : Nonne hic est, quem
+          quaerunt interficere ?</ab>
+        <ab xml:id="d1e1050" n="26"> et ecce palam loquitur, et nihil ei dicunt. Numquid vere
+          cognoverunt principes quia hic est Christus ?</ab>
+        <ab xml:id="d1e1053" n="27"> Sed hunc scimus unde sit : Christus autem cum venerit, nemo
+          scit unde sit.</ab>
+        <ab xml:id="d1e1056" n="28"> Clamabat ergo Jesus in templo docens, et dicens : Et me scitis,
+          et unde sim scitis : et a meipso non veni, sed est verus qui misit me, quem vos
+          nescitis.</ab>
+        <ab xml:id="d1e1059" n="29"> Ego scio eum : quia ab ipso sum, et ipse me misit.</ab>
+        <ab xml:id="d1e1063" n="30"> Quaerebant ergo eum apprehendere : et nemo misit in illum
+          manus, quia nondum venerat hora ejus.</ab>
+        <ab xml:id="d1e1066" n="31"> De turba autem multi crediderunt in eum, et dicebant : Christus
+          cum venerit, numquid plura signa faciet quam quae hic facit ?</ab>
+        <ab xml:id="d1e1069" n="32"> Audierunt pharisaei turbam murmurantem de illo haec : et
+          miserunt principes et pharisaei ministros ut apprehenderent eum.</ab>
+        <ab xml:id="d1e1072" n="33"> Dixit ergo eis Jesus : Adhuc modicum tempus vobiscum sum : et
+          vado ad eum qui me misit.</ab>
+        <ab xml:id="d1e1075" n="34"> Quaeretis me, et non invenietis : et ubi ego sum, vos non
+          potestis venire.</ab>
+        <ab xml:id="d1e1078" n="35"> Dixerunt ergo Judaei ad semetipsos : Quo hic iturus est, quia
+          non inveniemus eum ? numquid in dispersionem gentium iturus est, et docturus gentes ?</ab>
+        <ab xml:id="d1e1082" n="36"> quis est hic sermo, quem dixit : Quaeretis me, et non
+          invenietis : et ubi sum ego, vos non potestis venire ?<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1086" n="37"> In novissimo autem die magno festivitatis stabat Jesus, et
+          clamabat dicens : Si quis sitit, veniat ad me et bibat.</ab>
+        <ab xml:id="d1e1089" n="38"> Qui credit in me, sicut dicit Scriptura, flumina de ventre ejus
+          fluent aquae vivae.</ab>
+        <ab xml:id="d1e1092" n="39"> Hoc autem dixit de Spiritu, quem accepturi erant credentes in
+          eum : nondum enim erat Spiritus datus, quia Jesus nondum erat glorificatus.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1096" n="40"> Ex illa ergo turba cum audissent hos sermones ejus, dicebant :
+          Hic est vere propheta.</ab>
+        <ab xml:id="d1e1099" n="41"> Alii dicebant : Hic est Christus. Quidam autem dicebant :
+          Numquid a Galilaea venit Christus ?</ab>
+        <ab xml:id="d1e1103" n="42"> nonne Scriptura dicit : Quia ex semine David, et de Bethlehem
+          castello, ubi erat David, venit Christus ?</ab>
+        <ab xml:id="d1e1106" n="43"> Dissensio itaque facta est in turba propter eum.</ab>
+        <ab xml:id="d1e1109" n="44"> Quidam autem ex ipsis volebant apprehendere eum : sed nemo
+          misit super eum manus.</ab>
+        <ab xml:id="d1e1112" n="45"> Venerunt ergo ministri ad pontifices et pharisaeos. Et dixerunt
+          eis illi : Quare non adduxistis illum ?</ab>
+        <ab xml:id="d1e1115" n="46"> Responderunt ministri : Numquam sic locutus est homo, sicut hic
+          homo.</ab>
+        <ab xml:id="d1e1118" n="47"> Responderunt ergo eis pharisaei : Numquid et vos seducti estis
+          ?</ab>
+        <ab xml:id="d1e1122" n="48"> numquid ex principibus aliquis credidit in eum, aut ex
+          pharisaeis ?</ab>
+        <ab xml:id="d1e1125" n="49"> sed turba haec, quae non novit legem, maledicti sunt.</ab>
+        <ab xml:id="d1e1128" n="50"> Dixit Nicodemus ad eos, ille qui venit ad eum nocte, qui unus
+          erat ex ipsis :</ab>
+        <ab xml:id="d1e1131" n="51"> Numquid lex nostra judicat hominem, nisi prius audierit ab
+          ipso, et cognoverit quid faciat ?</ab>
+        <ab xml:id="d1e1134" n="52"> Responderunt, et dixerunt ei : Numquid et tu Galilaeus es ?
+          scrutare Scripturas, et vide quia a Galilaea propheta non surgit.</ab>
+        <ab xml:id="d1e1137" n="53"> Et reversi sunt unusquisque in domum suam.</ab>
+      </div>
+      <div xml:id="d1e1141" type="chap" n="8">
+        <ab xml:id="d1e1143" n="1"> Jesus autem perrexit in montem Oliveti :</ab>
+        <ab xml:id="d1e1146" n="2"> et diluculo iterum venit in templum, et omnis populus venit ad
+          eum, et sedens docebat eos.</ab>
+        <ab xml:id="d1e1149" n="3"> Adducunt autem scribae et pharisaei mulierem in adulterio
+          deprehensam : et statuerunt eam in medio,</ab>
+        <ab xml:id="d1e1152" n="4"> et dixerunt ei : Magister, haec mulier modo deprehensa est in
+          adulterio.</ab>
+        <ab xml:id="d1e1155" n="5"> In lege autem Moyses mandavit nobis hujusmodi lapidare. Tu ergo
+          quid dicis ?</ab>
+        <ab xml:id="d1e1159" n="6"> Hoc autem dicebant tentantes eum, ut possent accusare eum. Jesus
+          autem inclinans se deorsum, digito scribebat in terra.</ab>
+        <ab xml:id="d1e1162" n="7"> Cum ergo perseverarent interrogantes eum, erexit se, et dixit
+          eis : Qui sine peccato est vestrum, primus in illam lapidem mittat.</ab>
+        <ab xml:id="d1e1165" n="8"> Et iterum se inclinans, scribebat in terra.</ab>
+        <ab xml:id="d1e1168" n="9"> Audientes autem unus post unum exibant, incipientes a senioribus
+          : et remansit solus Jesus, et mulier in medio stans.</ab>
+        <ab xml:id="d1e1171" n="10"> Erigens autem se Jesus, dixit ei : Mulier, ubi sunt qui te
+          accusabant ? nemo te condemnavit ?</ab>
+        <ab xml:id="d1e1174" n="11"> Quae dixit : Nemo, Domine. Dixit autem Jesus : Nec ego te
+          condemnabo : vade, et jam amplius noli peccare.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1179" n="12"> Iterum ergo locutus est eis Jesus, dicens : Ego sum lux mundi :
+          qui sequitur me, non ambulat in tenebris, sed habebit lumen vitae.</ab>
+        <ab xml:id="d1e1182" n="13"> Dixerunt ergo ei pharisaei : Tu de teipso testimonium perhibes
+          ; testimonium tuum non est verum.</ab>
+        <ab xml:id="d1e1185" n="14"> Respondit Jesus, et dixit eis : Et si ego testimonium perhibeo
+          de meipso, verum est testimonium meum : quia scio unde veni et quo vado ; vos autem
+          nescitis unde venio aut quo vado.</ab>
+        <ab xml:id="d1e1188" n="15"> Vos secundum carnem judicatis : ego non judico quemquam ;</ab>
+        <ab xml:id="d1e1191" n="16"> et si judico ego, judicium meum verum est, quia solus non sum :
+          sed ego et qui misit me, Pater.</ab>
+        <ab xml:id="d1e1194" n="17"> Et in lege vestra scriptum est, quia duorum hominum testimonium
+          verum est.</ab>
+        <ab xml:id="d1e1198" n="18"> Ego sum qui testimonium perhibeo de meipso, et testimonium
+          perhibet de me qui misit me, Pater.</ab>
+        <ab xml:id="d1e1201" n="19"> Dicebant ergo ei : Ubi est Pater tuus ? Respondit Jesus : Neque
+          me scitis, neque Patrem meum : si me sciretis, forsitan et Patrem meum sciretis.</ab>
+        <ab xml:id="d1e1204" n="20"> Haec verba locutus est Jesus in gazophylacio, docens in templo
+          : et nemo apprehendit eum, quia necdum venerat hora ejus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1208" n="21"> Dixit ergo iterum eis Jesus : Ego vado, et quaeretis me, et in
+          peccato vestro moriemini. Quo ego vado, vos non potestis venire.</ab>
+        <ab xml:id="d1e1211" n="22"> Dicebant ergo Judaei : Numquid interficiet semetipsum, quia
+          dixit : Quo ego vado, vos non potestis venire ?</ab>
+        <ab xml:id="d1e1214" n="23"> Et dicebat eis : Vos de deorsum estis, ego de supernis sum. Vos
+          de mundo hoc estis, ego non sum de hoc mundo.</ab>
+        <ab xml:id="d1e1218" n="24"> Dixi ergo vobis quia moriemini in peccatis vestris : si enim
+          non credideritis quia ego sum, moriemini in peccato vestro.</ab>
+        <ab xml:id="d1e1221" n="25"> Dicebant ergo ei : Tu quis es ? Dixit eis Jesus : Principium,
+          qui et loquor vobis.</ab>
+        <ab xml:id="d1e1224" n="26"> Multa habeo de vobis loqui, et judicare ; sed qui me misit,
+          verax est ; et ego quae audivi ab eo, haec loquor in mundo.</ab>
+        <ab xml:id="d1e1227" n="27"> Et non cognoverunt quia Patrem ejus dicebat Deum.</ab>
+        <ab xml:id="d1e1230" n="28"> Dixit ergo eis Jesus : Cum exaltaveritis Filium hominis, tunc
+          cognoscetis quia ego sum, et a meipso facio nihil, sed sicut docuit me Pater, haec loquor
+          :</ab>
+        <ab xml:id="d1e1233" n="29"> et qui me misit, mecum est, et non reliquit me solum : quia ego
+          quae placita sunt ei, facio semper.</ab>
+        <ab xml:id="d1e1237" n="30"> Haec illo loquente, multi crediderunt in eum.</ab>
+        <ab xml:id="d1e1240" n="31"> Dicebat ergo Jesus ad eos, qui crediderunt ei, Judaeos : Si vos
+          manseritis in sermone meo, vere discipuli mei eritis,</ab>
+        <ab xml:id="d1e1243" n="32"> et cognoscetis veritatem, et veritas liberabit vos.</ab>
+        <ab xml:id="d1e1246" n="33"> Responderunt ei : Semen Abrahae sumus, et nemini servivimus
+          umquam : quomodo tu dicis : Liberi eritis ?</ab>
+        <ab xml:id="d1e1249" n="34"> Respondit eis Jesus : Amen, amen dico vobis : quia omnis qui
+          facit peccatum, servus est peccati.</ab>
+        <ab xml:id="d1e1252" n="35"> Servus autem non manet in domo in aeternum : filius autem manet
+          in aeternum.</ab>
+        <ab xml:id="d1e1256" n="36"> Si ergo vos filius liberaverit, vere liberi eritis.</ab>
+        <ab xml:id="d1e1259" n="37"> Scio quia filii Abrahae estis : sed quaeritis me interficere,
+          quia sermo meus non capit in vobis.</ab>
+        <ab xml:id="d1e1262" n="38"> Ego quod vidi apud Patrem meum, loquor : et vos quae vidistis
+          apud patrem vestrum, facitis.</ab>
+        <ab xml:id="d1e1265" n="39"> Responderunt, et dixerunt ei : Pater noster Abraham est. Dicit
+          eis Jesus : Si filii Abrahae estis, opera Abrahae facite.</ab>
+        <ab xml:id="d1e1268" n="40"> Nunc autem quaeritis me interficere, hominem, qui veritatem
+          vobis locutus sum, quam audivi a Deo : hoc Abraham non fecit.</ab>
+        <ab xml:id="d1e1271" n="41"> Vos facitis opera patris vestri. Dixerunt itaque ei : Nos ex
+          fornicatione non sumus nati : unum patrem habemus Deum.</ab>
+        <ab xml:id="d1e1275" n="42"> Dixit ergo eis Jesus : Si Deus pater vester esset, diligeretis
+          utique et me ; ego enim ex Deo processi, et veni : neque enim a meipso veni, sed ille me
+          misit.</ab>
+        <ab xml:id="d1e1278" n="43"> Quare loquelam meam non cognoscitis ? Quia non potestis audire
+          sermonem meum.</ab>
+        <ab xml:id="d1e1281" n="44"> Vos ex patre diabolo estis : et desideria patris vestri vultis
+          facere. Ille homicida erat ab initio, et in veritate non stetit : quia non est veritas in
+          eo : cum loquitur mendacium, ex propriis loquitur, quia mendax est, et pater ejus.</ab>
+        <ab xml:id="d1e1284" n="45"> Ego autem si veritatem dico, non creditis mihi.</ab>
+        <ab xml:id="d1e1287" n="46"> Quis ex vobis arguet me de peccato ? si veritatem dico vobis,
+          quare non creditis mihi ?</ab>
+        <ab xml:id="d1e1290" n="47"> Qui ex Deo est, verba Dei audit. Propterea vos non auditis,
+          quia ex Deo non estis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1295" n="48"> Responderunt ergo Judaei, et dixerunt ei : Nonne bene dicimus
+          nos quia Samaritanus es tu, et daemonium habes ?</ab>
+        <ab xml:id="d1e1298" n="49"> Respondit Jesus : Ego daemonium non habeo : sed honorifico
+          Patrem meum, et vos inhonorastis me.</ab>
+        <ab xml:id="d1e1301" n="50"> Ego autem non quaero gloriam meam : est qui quaerat, et
+          judicet.</ab>
+        <ab xml:id="d1e1304" n="51"> Amen, amen dico vobis : si quis sermonem meum servaverit,
+          mortem non videbit in aeternum.</ab>
+        <ab xml:id="d1e1307" n="52"> Dixerunt ergo Judaei : Nunc cognovimus quia daemonium habes.
+          Abraham mortuus est, et prophetae ; et tu dicis : Si quis sermonem meum servaverit, non
+          gustabit mortem in aeternum.</ab>
+        <ab xml:id="d1e1310" n="53"> Numquid tu major es patre nostro Abraham, qui mortuus est ? et
+          prophetae mortui sunt. Quem teipsum facis ?</ab>
+        <ab xml:id="d1e1314" n="54"> Respondit Jesus : Si ego glorifico meipsum, gloria mea nihil
+          est : est Pater meus, qui glorificat me, quem vos dicitis quia Deus vester est,</ab>
+        <ab xml:id="d1e1317" n="55"> et non cognovistis eum : ego autem novi eum. Et si dixero quia
+          non scio eum, ero similis vobis, mendax. Sed scio eum, et sermonem ejus servo.</ab>
+        <ab xml:id="d1e1320" n="56"> Abraham pater vester exsultavit ut videret diem meum : vidit,
+          et gavisus est.</ab>
+        <ab xml:id="d1e1323" n="57"> Dixerunt ergo Judaei ad eum : Quinquaginta annos nondum habes,
+          et Abraham vidisti ?</ab>
+        <ab xml:id="d1e1326" n="58"> Dixit eis Jesus : Amen, amen dico vobis, antequam Abraham
+          fieret, ego sum.</ab>
+        <ab xml:id="d1e1329" n="59"> Tulerunt ergo lapides, ut jacerent in eum : Jesus autem
+          abscondit se, et exivit de templo.</ab>
+      </div>
+      <div xml:id="d1e1333" type="chap" n="9">
+        <ab xml:id="d1e1335" n="1"> Et praeteriens Jesus vidit hominem caecum a nativitate :</ab>
+        <ab xml:id="d1e1338" n="2"> et interrogaverunt eum discipuli ejus : Rabbi, quis peccavit,
+          hic, aut parentes ejus, ut caecus nasceretur ?</ab>
+        <ab xml:id="d1e1341" n="3"> Respondit Jesus : Neque hic peccavit, neque parentes ejus : sed
+          ut manifestentur opera Dei in illo.</ab>
+        <ab xml:id="d1e1344" n="4"> Me oportet operari opera ejus qui misit me, donec dies est :
+          venit nox, quando nemo potest operari :</ab>
+        <ab xml:id="d1e1347" n="5"> quamdiu sum in mundo, lux sum mundi.</ab>
+        <ab xml:id="d1e1351" n="6"> Haec cum dixisset, exspuit in terram, et fecit lutum ex sputo,
+          et linivit lutum super oculos ejus,</ab>
+        <ab xml:id="d1e1354" n="7"> et dixit ei : Vade, lava in natatoria Siloë (quod interpretatur
+          Missus). Abiit ergo, et lavit, et venit videns.</ab>
+        <ab xml:id="d1e1357" n="8"> Itaque vicini, et qui viderant eum prius quia mendicus erat,
+          dicebant : Nonne hic est qui sedebat, et mendicabat ? Alii dicebant : Quia hic est.</ab>
+        <ab xml:id="d1e1360" n="9"> Alii autem : Nequaquam, sed similis est ei. Ille vero dicebat :
+          Quia ego sum.</ab>
+        <ab xml:id="d1e1363" n="10"> Dicebant ergo ei : Quomodo aperti sunt tibi oculi ?</ab>
+        <ab xml:id="d1e1366" n="11"> Respondit : Ille homo qui dicitur Jesus, lutum fecit : et unxit
+          oculos meos, et dixit mihi : Vade ad natatoria Siloë, et lava. Et abii, et lavi, et
+          video.</ab>
+        <ab xml:id="d1e1370" n="12"> Et dixerunt ei : Ubi est ille ? Ait : Nescio.<pc ana="#pilcrow"
+          />
+        </ab>
+        <ab xml:id="d1e1374" n="13"> Adducunt eum ad pharisaeos, qui caecus fuerat.</ab>
+        <ab xml:id="d1e1377" n="14"> Erat autem sabbatum quando lutum fecit Jesus, et aperuit oculos
+          ejus.</ab>
+        <ab xml:id="d1e1380" n="15"> Iterum ergo interrogabant eum pharisaei quomodo vidisset. Ille
+          autem dixit eis : Lutum mihi posuit super oculos, et lavi, et video.</ab>
+        <ab xml:id="d1e1383" n="16"> Dicebant ergo ex pharisaeis quidam : Non est hic homo a Deo,
+          qui sabbatum non custodit. Alii autem dicebant : Quomodo potest homo peccator haec signa
+          facere ? Et schisma erat inter eos.</ab>
+        <ab xml:id="d1e1386" n="17"> Dicunt ergo caeco iterum : Tu quid dicis de illo qui aperuit
+          oculos tuos ? Ille autem dixit : Quia propheta est.</ab>
+        <ab xml:id="d1e1390" n="18"> Non crediderunt ergo Judaei de illo, quia caecus fuisset et
+          vidisset, donec vocaverunt parentes ejus, qui viderat :</ab>
+        <ab xml:id="d1e1393" n="19"> et interrogaverunt eos, dicentes : Hic est filius vester, quem
+          vos dicitis quia caecus natus est ? quomodo ergo nunc videt ?</ab>
+        <ab xml:id="d1e1396" n="20"> Responderunt eis parentes ejus, et dixerunt : Scimus quia hic
+          est filius noster, et quia caecus natus est :</ab>
+        <ab xml:id="d1e1399" n="21"> quomodo autem nunc videat, nescimus : aut quis ejus aperuit
+          oculos, nos nescimus ; ipsum interrogate : aetatem habet, ipse de se loquatur.</ab>
+        <ab xml:id="d1e1402" n="22"> Haec dixerunt parentes ejus, quoniam timebant Judaeos : jam
+          enim conspiraverunt Judaei, ut si quis eum confiteretur esse Christum, extra synagogam
+          fieret.</ab>
+        <ab xml:id="d1e1405" n="23"> Propterea parentes ejus dixerunt : Quia aetatem habet, ipsum
+          interrogate.</ab>
+        <ab xml:id="d1e1409" n="24"> Vocaverunt ergo rursum hominem qui fuerat caecus, et dixerunt
+          ei : Da gloriam Deo : nos scimus quia hic homo peccator est.</ab>
+        <ab xml:id="d1e1412" n="25"> Dixit ergo eis ille : Si peccator est, nescio ; unum scio, quia
+          caecus cum essem, modo video.</ab>
+        <ab xml:id="d1e1415" n="26"> Dixerunt ergo illi : Quid fecit tibi ? quomodo aperuit tibi
+          oculos ?</ab>
+        <ab xml:id="d1e1418" n="27"> Respondit eis : Dixi vobis jam, et audistis : quod iterum
+          vultis audire ? numquid et vos vultis discipuli ejus fieri ?</ab>
+        <ab xml:id="d1e1421" n="28"> Maledixerunt ergo ei, et dixerunt : Tu discipulus illius sis :
+          nos autem Moysi discipuli sumus.</ab>
+        <ab xml:id="d1e1424" n="29"> Nos scimus quia Moysi locutus est Deus ; hunc autem nescimus
+          unde sit.</ab>
+        <ab xml:id="d1e1428" n="30"> Respondit ille homo, et dixit eis : In hoc enim mirabile est
+          quia vos nescitis unde sit, et aperuit meos oculos :</ab>
+        <ab xml:id="d1e1431" n="31"> scimus autem quia peccatores Deus non audit : sed si quis Dei
+          cultor est, et voluntatem ejus facit, hunc exaudit.</ab>
+        <ab xml:id="d1e1434" n="32"> A saeculo non est auditum quia quis aperuit oculos caeci
+          nati.</ab>
+        <ab xml:id="d1e1437" n="33"> Nisi esset hic a Deo, non poterat facere quidquam.</ab>
+        <ab xml:id="d1e1440" n="34"> Responderunt, et dixerunt ei : In peccatis natus es totus, et
+          tu doces nos ? Et ejecerunt eum foras.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1444" n="35"> Audivit Jesus quia ejecerunt eum foras : et cum invenisset eum,
+          dixit ei : Tu credis in Filium Dei ?</ab>
+        <ab xml:id="d1e1448" n="36"> Respondit ille, et dixit : Quis est, Domine, ut credam in eum
+          ?</ab>
+        <ab xml:id="d1e1451" n="37"> Et dixit ei Jesus : Et vidisti eum, et qui loquitur tecum, ipse
+          est.</ab>
+        <ab xml:id="d1e1454" n="38"> At ille ait : Credo, Domine. Et procidens adoravit eum.</ab>
+        <ab xml:id="d1e1457" n="39"> Et dixit Jesus : In judicium ego in hunc mundum veni : ut qui
+          non vident videant, et qui vident caeci fiant.</ab>
+        <ab xml:id="d1e1460" n="40"> Et audierunt quidam ex pharisaeis qui cum ipso erant, et
+          dixerunt ei : Numquid et nos caeci sumus ?</ab>
+        <ab xml:id="d1e1463" n="41"> Dixit eis Jesus : Si caeci essetis, non haberetis peccatum.
+          Nunc vero dicitis, Quia videmus : peccatum vestrum manet.</ab>
+      </div>
+      <div xml:id="d1e1467" type="chap" n="10">
+        <ab xml:id="d1e1469" n="1"> Amen, amen dico vobis : qui non intrat per ostium in ovile
+          ovium, sed ascendit aliunde, ille fur est et latro.</ab>
+        <ab xml:id="d1e1472" n="2"> Qui autem intrat per ostium, pastor est ovium.</ab>
+        <ab xml:id="d1e1475" n="3"> Huic ostiarius aperit, et oves vocem ejus audiunt, et proprias
+          oves vocat nominatim, et educit eas.</ab>
+        <ab xml:id="d1e1478" n="4"> Et cum proprias oves emiserit, ante eas vadit : et oves illum
+          sequuntur, quia sciunt vocem ejus.</ab>
+        <ab xml:id="d1e1481" n="5"> Alienum autem non sequuntur, sed fugiunt ab eo : quia non
+          noverunt vocem alienorum.</ab>
+        <ab xml:id="d1e1485" n="6"> Hoc proverbium dixit eis Jesus : illi autem non cognoverunt quid
+          loqueretur eis.</ab>
+        <ab xml:id="d1e1488" n="7"> Dixit ergo eis iterum Jesus : Amen, amen dico vobis, quia ego
+          sum ostium ovium.</ab>
+        <ab xml:id="d1e1491" n="8"> Omnes quotquot venerunt, fures sunt, et latrones, et non
+          audierunt eos oves.</ab>
+        <ab xml:id="d1e1494" n="9"> Ego sum ostium. Per me si quis introierit, salvabitur : et
+          ingredietur, et egredietur, et pascua inveniet.</ab>
+        <ab xml:id="d1e1497" n="10"> Fur non venit nisi ut furetur, et mactet, et perdat. Ego veni
+          ut vitam habeant, et abundantius habeant.</ab>
+        <ab xml:id="d1e1500" n="11"> Ego sum pastor bonus. Bonus pastor animam suam dat pro ovibus
+          suis.</ab>
+        <ab xml:id="d1e1504" n="12"> Mercenarius autem, et qui non est pastor, cujus non sunt oves
+          propriae, videt lupum venientem, et dimittit oves, et fugit : et lupus rapit, et dispergit
+          oves ;</ab>
+        <ab xml:id="d1e1507" n="13"> mercenarius autem fugit, quia mercenarius est, et non pertinet
+          ad eum de ovibus.</ab>
+        <ab xml:id="d1e1510" n="14"> Ego sum pastor bonus : et cognosco meas, et cognoscunt me
+          meae.</ab>
+        <ab xml:id="d1e1513" n="15"> Sicut novit me Pater, et ego agnosco Patrem : et animam meam
+          pono pro ovibus meis.</ab>
+        <ab xml:id="d1e1516" n="16"> Et alias oves habeo, quae non sunt ex hoc ovili : et illas
+          oportet me adducere, et vocem meam audient, et fiet unum ovile et unus pastor.</ab>
+        <ab xml:id="d1e1519" n="17"> Propterea me diligit Pater : quia ego pono animam meam, ut
+          iterum sumam eam.</ab>
+        <ab xml:id="d1e1523" n="18"> Nemo tollit eam a me : sed ego pono eam a meipso, et potestatem
+          habeo ponendi eam, et potestatem habeo iterum sumendi eam. Hoc mandatum accepi a Patre
+            meo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1527" n="19"> Dissensio iterum facta est inter Judaeos propter sermones
+          hos.</ab>
+        <ab xml:id="d1e1530" n="20"> Dicebant autem multi ex ipsis : Daemonium habet, et insanit :
+          quid eum auditis ?</ab>
+        <ab xml:id="d1e1533" n="21"> Alii dicebant : Haec verba non sunt daemonium habentis :
+          numquid daemonium potest caecorum oculos aperire ?<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1537" n="22"> Facta sunt autem Encaenia in Jerosolymis, et hiems erat.</ab>
+        <ab xml:id="d1e1540" n="23"> Et ambulabat Jesus in templo, in porticu Salomonis.</ab>
+        <ab xml:id="d1e1544" n="24"> Circumdederunt ergo eum Judaei, et dicebant ei : Quousque
+          animam nostram tollis ? si tu es Christus, dic nobis palam.</ab>
+        <ab xml:id="d1e1547" n="25"> Respondit eis Jesus : Loquor vobis, et non creditis : opera
+          quae ego facio in nomine Patris mei, haec testimonium perhibent de me :</ab>
+        <ab xml:id="d1e1550" n="26"> sed vos non creditis, quia non estis ex ovibus meis.</ab>
+        <ab xml:id="d1e1553" n="27"> Oves meae vocem meam audiunt, et ego cognosco eas, et sequuntur
+          me :</ab>
+        <ab xml:id="d1e1556" n="28"> et ego vitam aeternam do eis, et non peribunt in aeternum, et
+          non rapiet eas quisquam de manu mea.</ab>
+        <ab xml:id="d1e1559" n="29"> Pater meus quod dedit mihi, majus omnibus est : et nemo potest
+          rapere de manu Patris mei.</ab>
+        <ab xml:id="d1e1563" n="30"> Ego et Pater unum sumus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1567" n="31"> Sustulerunt ergo lapides Judaei, ut lapidarent eum.</ab>
+        <ab xml:id="d1e1570" n="32"> Respondit eis Jesus : Multa bona opera ostendi vobis ex Patre
+          meo : propter quod eorum opus me lapidatis ?</ab>
+        <ab xml:id="d1e1573" n="33"> Responderunt ei Judaei : De bono opere non lapidamus te, sed de
+          blasphemia ; et quia tu homo cum sis, facis teipsum Deum.</ab>
+        <ab xml:id="d1e1576" n="34"> Respondit eis Jesus : Nonne scriptum est in lege vestra, Quia
+          ego dixi : Dii estis ?</ab>
+        <ab xml:id="d1e1579" n="35"> Si illos dixit deos, ad quos sermo Dei factus est, et non
+          potest solvi Scriptura :</ab>
+        <ab xml:id="d1e1583" n="36"> quem Pater sanctificavit, et misit in mundum vos dicitis : Quia
+          blasphemas, quia dixi : Filius Dei sum ?</ab>
+        <ab xml:id="d1e1586" n="37"> Si non facio opera Patris mei, nolite credere mihi.</ab>
+        <ab xml:id="d1e1589" n="38"> Si autem facio : etsi mihi non vultis credere, operibus
+          credite, ut cognoscatis, et credatis quia Pater in me est, et ego in Patre.</ab>
+        <ab xml:id="d1e1592" n="39"> Quaerebant ergo eum apprehendere : et exivit de manibus
+          eorum.</ab>
+        <ab xml:id="d1e1595" n="40"> Et abiit iterum trans Jordanem, in eum locum ubi erat Joannes
+          baptizans primum, et mansit illic ;</ab>
+        <ab xml:id="d1e1598" n="41"> et multi venerunt ad eum, et dicebant : Quia Joannes quidem
+          signum fecit nullum.</ab>
+        <ab xml:id="d1e1602" n="42"> Omnia autem quaecumque dixit Joannes de hoc, vera erant. Et
+          multi crediderunt in eum.</ab>
+      </div>
+      <div xml:id="d1e1606" type="chap" n="11">
+        <ab xml:id="d1e1608" n="1"> Erat autem quidam languens Lazarus a Bethania, de castello
+          Mariae et Marthae sororis ejus.</ab>
+        <ab xml:id="d1e1611" n="2"> (Maria autem erat quae unxit Dominum unguento, et extersit pedes
+          ejus capillis suis : cujus frater Lazarus infirmabatur.)</ab>
+        <ab xml:id="d1e1614" n="3"> Miserunt ergo sorores ejus ad eum dicentes : Domine, ecce quem
+          amas infirmatur.</ab>
+        <ab xml:id="d1e1617" n="4"> Audiens autem Jesus dixit eis : Infirmitas haec non est ad
+          mortem, sed pro gloria Dei, ut glorificetur Filius Dei per eam.</ab>
+        <ab xml:id="d1e1620" n="5"> Diligebat autem Jesus Martham, et sororem ejus Mariam, et
+          Lazarum.</ab>
+        <ab xml:id="d1e1624" n="6"> Ut ergo audivit quia infirmabatur, tunc quidem mansit in eodem
+          loco duobus diebus ;</ab>
+        <ab xml:id="d1e1627" n="7"> deinde post haec dixit discipulis suis : Eamus in Judaeam
+          iterum.</ab>
+        <ab xml:id="d1e1630" n="8"> Dicunt ei discipuli : Rabbi, nunc quaerebant te Judaei lapidare,
+          et iterum vadis illuc ?</ab>
+        <ab xml:id="d1e1633" n="9"> Respondit Jesus : Nonne duodecim sunt horae diei ? Si quis
+          ambulaverit in die, non offendit, quia lucem hujus mundi videt :</ab>
+        <ab xml:id="d1e1636" n="10"> si autem ambulaverit in nocte, offendit, quia lux non est in
+          eo.</ab>
+        <ab xml:id="d1e1639" n="11"> Haec ait, et post haec dixit eis : Lazarus amicus noster dormit
+          : sed vado ut a somno excitem eum.</ab>
+        <ab xml:id="d1e1643" n="12"> Dixerunt ergo discipuli ejus : Domine, si dormit, salvus
+          erit.</ab>
+        <ab xml:id="d1e1646" n="13"> Dixerat autem Jesus de morte ejus : illi autem putaverunt quia
+          de dormitione somni diceret.</ab>
+        <ab xml:id="d1e1649" n="14"> Tunc ergo Jesus dixit eis manifeste : Lazarus mortuus est
+          :</ab>
+        <ab xml:id="d1e1652" n="15"> et gaudeo propter vos, ut credatis, quoniam non eram ibi, sed
+          eamus ad eum.</ab>
+        <ab xml:id="d1e1655" n="16"> Dixit ergo Thomas, qui dicitur Didymus, ad condiscipulos :
+          Eamus et nos, ut moriamur cum eo.</ab>
+        <ab xml:id="d1e1658" n="17"> Venit itaque Jesus : et invenit eum quatuor dies jam in
+          monumento habentem.</ab>
+        <ab xml:id="d1e1662" n="18"> (Erat autem Bethania juxta Jerosolymam quasi stadiis
+          quindecim.)</ab>
+        <ab xml:id="d1e1665" n="19"> Multi autem ex Judaeis venerant ad Martham et Mariam, ut
+          consolarentur eas de fratre suo.</ab>
+        <ab xml:id="d1e1668" n="20"> Martha ergo ut audivit quia Jesus venit, occurrit illi : Maria
+          autem domi sedebat.</ab>
+        <ab xml:id="d1e1671" n="21"> Dixit ergo Martha ad Jesum : Domine, si fuisses hic, frater
+          meus non fuisset mortuus :</ab>
+        <ab xml:id="d1e1674" n="22"> sed et nunc scio quia quaecumque poposceris a Deo, dabit tibi
+          Deus.</ab>
+        <ab xml:id="d1e1677" n="23"> Dicit illi Jesus : Resurget frater tuus.</ab>
+        <ab xml:id="d1e1681" n="24"> Dicit ei Martha : Scio quia resurget in resurrectione in
+          novissimo die.</ab>
+        <ab xml:id="d1e1684" n="25"> Dixit ei Jesus : Ego sum resurrectio et vita : qui credit in
+          me, etiam si mortuus fuerit, vivet :</ab>
+        <ab xml:id="d1e1687" n="26"> et omnis qui vivit et credit in me, non morietur in aeternum.
+          Credis hoc ?</ab>
+        <ab xml:id="d1e1690" n="27"> Ait illi : Utique Domine, ego credidi quia tu es Christus,
+          Filius Dei vivi, qui in hunc mundum venisti.</ab>
+        <ab xml:id="d1e1693" n="28"> Et cum haec dixisset, abiit, et vocavit Mariam sororem suam
+          silentio, dicens : Magister adest, et vocat te.</ab>
+        <ab xml:id="d1e1696" n="29"> Illa ut audivit, surgit cito, et venit ad eum ;</ab>
+        <ab xml:id="d1e1700" n="30"> nondum enim venerat Jesus in castellum : sed erat adhuc in illo
+          loco, ubi occurrerat ei Martha.</ab>
+        <ab xml:id="d1e1703" n="31"> Judaei ergo, qui erant cum ea in domo, et consolabantur eam,
+          cum vidissent Mariam quia cito surrexit, et exiit, secuti sunt eam dicentes : Quia vadit
+          ad monumentum, ut ploret ibi.</ab>
+        <ab xml:id="d1e1706" n="32"> Maria ergo, cum venisset ubi erat Jesus, videns eum, cecidit ad
+          pedes ejus, et dicit ei : Domine, si fuisses hic, non esset mortuus frater meus.</ab>
+        <ab xml:id="d1e1709" n="33"> Jesus ergo, ut vidit eam plorantem, et Judaeos, qui venerant
+          cum ea, plorantes, infremuit spiritu, et turbavit seipsum,</ab>
+        <ab xml:id="d1e1712" n="34"> et dixit : Ubi posuistis eum ? Dicunt ei : Domine, veni, et
+          vide.</ab>
+        <ab xml:id="d1e1715" n="35"> Et lacrimatus est Jesus.</ab>
+        <ab xml:id="d1e1719" n="36"> Dixerunt ergo Judaei : Ecce quomodo amabat eum.</ab>
+        <ab xml:id="d1e1722" n="37"> Quidam autem ex ipsis dixerunt : Non poterat hic, qui aperuit
+          oculos caeci nati, facere ut hic non moreretur ?</ab>
+        <ab xml:id="d1e1725" n="38"> Jesus ergo rursum fremens in semetipso, venit ad monumentum.
+          Erat autem spelunca, et lapis superpositus erat ei.</ab>
+        <ab xml:id="d1e1728" n="39"> Ait Jesus : Tollite lapidem. Dicit ei Martha, soror ejus qui
+          mortuus fuerat : Domine, jam foetet, quatriduanus est enim.</ab>
+        <ab xml:id="d1e1731" n="40"> Dicit ei Jesus : Nonne dixi tibi quoniam si credideris, videbis
+          gloriam Dei ?</ab>
+        <ab xml:id="d1e1734" n="41"> Tulerunt ergo lapidem : Jesus autem, elevatis sursum oculis,
+          dixit : Pater, gratias ago tibi quoniam audisti me.</ab>
+        <ab xml:id="d1e1738" n="42"> Ego autem sciebam quia semper me audis, sed propter populum qui
+          circumstat, dixi : ut credant quia tu me misisti.</ab>
+        <ab xml:id="d1e1741" n="43"> Haec cum dixisset, voce magna clamavit : Lazare, veni
+          foras.</ab>
+        <ab xml:id="d1e1744" n="44"> Et statim prodiit qui fuerat mortuus, ligatus pedes, et manus
+          institis, et facies illius sudario erat ligata. Dixit eis Jesus : Solvite eum et sinite
+          abire.</ab>
+        <ab xml:id="d1e1747" n="45"> Multi ergo ex Judaeis, qui venerant ad Mariam, et Martham, et
+          viderant quae fecit Jesus, crediderunt in eum.</ab>
+        <ab xml:id="d1e1750" n="46"> Quidam autem ex ipsis abierunt ad pharisaeos, et dixerunt eis
+          quae fecit Jesus.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1754" n="47"> Collegerunt ergo pontifices et pharisaei concilium, et dicebant
+          : Quid facimus, quia hic homo multa signa facit ?</ab>
+        <ab xml:id="d1e1758" n="48"> Si dimittimus eum sic, omnes credent in eum, et venient Romani,
+          et tollent nostrum locum, et gentem.</ab>
+        <ab xml:id="d1e1761" n="49"> Unus autem ex ipsis, Caiphas nomine, cum esset pontifex anni
+          illius, dixit eis : Vos nescitis quidquam,</ab>
+        <ab xml:id="d1e1764" n="50"> nec cogitatis quia expedit vobis ut unus moriatur homo pro
+          populo, et non tota gens pereat.</ab>
+        <ab xml:id="d1e1767" n="51"> Hoc autem a semetipso non dixit : sed cum esset pontifex anni
+          illius, prophetavit, quod Jesus moriturus erat pro gente,</ab>
+        <ab xml:id="d1e1770" n="52"> et non tantum pro gente, sed ut filios Dei, qui erant dispersi,
+          congregaret in unum.</ab>
+        <ab xml:id="d1e1773" n="53"> Ab illo ergo die cogitaverunt ut interficerent eum.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1778" n="54"> Jesus ergo jam non in palam ambulabat apud Judaeos, sed abiit
+          in regionem juxta desertum, in civitatem quae dicitur Ephrem, et ibi morabatur cum
+          discipulis suis.</ab>
+        <ab xml:id="d1e1781" n="55"> Proximum autem erat Pascha Judaeorum, et ascenderunt multi
+          Jerosolymam de regione ante Pascha, ut sanctificarent seipsos.</ab>
+        <ab xml:id="d1e1784" n="56"> Quaerebant ergo Jesum, et colloquebantur ad invicem, in templo
+          stantes : Quid putatis, quia non venit ad diem festum ? Dederant autem pontifices et
+          pharisaei mandatum ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.</ab>
+      </div>
+      <div xml:id="d1e1789" type="chap" n="12">
+        <ab xml:id="d1e1791" n="1"> Jesus ergo ante sex dies Paschae venit Bethaniam, ubi Lazarus
+          fuerat mortuus, quem suscitavit Jesus.</ab>
+        <ab xml:id="d1e1794" n="2"> Fecerunt autem ei coenam ibi, et Martha ministrabat, Lazarus
+          vero unus erat ex discumbentibus cum eo.</ab>
+        <ab xml:id="d1e1797" n="3"> Maria ergo accepit libram unguenti nardi pistici pretiosi, et
+          unxit pedes Jesu, et extersit pedes ejus capillis suis : et domus impleta est ex odore
+          unguenti.</ab>
+        <ab xml:id="d1e1800" n="4"> Dixit ergo unus ex discipulis ejus, Judas Iscariotes, qui erat
+          eum traditurus :</ab>
+        <ab xml:id="d1e1803" n="5"> Quare hoc unguentum non veniit trecentis denariis, et datum est
+          egenis ?</ab>
+        <ab xml:id="d1e1807" n="6"> Dixit autem hoc, non quia de egenis pertinebat ad eum, sed quia
+          fur erat, et loculos habens, ea quae mittebantur, portabat.</ab>
+        <ab xml:id="d1e1810" n="7"> Dixit ergo Jesus : Sinite illam ut in diem sepulturae meae
+          servet illud.</ab>
+        <ab xml:id="d1e1813" n="8"> Pauperes enim semper habetis vobiscum : me autem non semper
+          habetis.</ab>
+        <ab xml:id="d1e1816" n="9"> Cognovit ergo turba multa ex Judaeis quia illic est, et
+          venerunt, non propter Jesum tantum, sed ut Lazarum viderent, quem suscitavit a mortuis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1820" n="10"> Cogitaverunt autem principes sacerdotum ut et Lazarum
+          interficerent :</ab>
+        <ab xml:id="d1e1823" n="11"> quia multi propter illum abibant ex Judaeis, et credebant in
+          Jesum.</ab>
+        <ab xml:id="d1e1827" n="12"> In crastinum autem, turba multa quae venerat ad diem festum,
+          cum audissent quia venit Jesus Jerosolymam,</ab>
+        <ab xml:id="d1e1830" n="13"> acceperunt ramos palmarum, et processerunt obviam ei, et
+          clamabant : Hosanna, benedictus qui venit in nomine Domini, rex Israël.</ab>
+        <ab xml:id="d1e1833" n="14"> Et invenit Jesus asellum, et sedit super eum, sicut scriptum
+          est :</ab>
+        <ab xml:id="d1e1836" n="15"> Noli timere, filia Sion : ecce rex tuus venit sedens super
+          pullum asinae.</ab>
+        <ab xml:id="d1e1839" n="16"> Haec non cognoverunt discipuli ejus primum : sed quando
+          glorificatus est Jesus, tunc recordati sunt quia haec erant scripta de eo, et haec
+          fecerunt ei.</ab>
+        <ab xml:id="d1e1842" n="17"> Testimonium ergo perhibebat turba, quae erat cum eo quando
+          Lazarum vocavit de monumento, et suscitavit eum a mortuis.</ab>
+        <ab xml:id="d1e1846" n="18"> Propterea et obviam venit ei turba : quia audierunt fecisse hoc
+          signum.</ab>
+        <ab xml:id="d1e1849" n="19"> Pharisaei ergo dixerunt ad semetipsos : Videtis quia nihil
+          proficimus ? ecce mundus totus post eum abiit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1853" n="20"> Erant autem quidam gentiles, ex his qui ascenderant ut
+          adorarent in die festo.</ab>
+        <ab xml:id="d1e1856" n="21"> Hi ergo accesserunt ad Philippum, qui erat a Bethsaida
+          Galilaeae, et rogabant eum, dicentes : Domine, volumus Jesum videre.</ab>
+        <ab xml:id="d1e1859" n="22"> Venit Philippus, et dicit Andreae ; Andreas rursum et Philippus
+          dixerunt Jesu.</ab>
+        <ab xml:id="d1e1862" n="23"> Jesus autem respondit eis, dicens : Venit hora, ut clarificetur
+          Filius hominis.</ab>
+        <ab xml:id="d1e1866" n="24"> Amen, amen dico vobis, nisi granum frumenti cadens in terram,
+          mortuum fuerit,</ab>
+        <ab xml:id="d1e1869" n="25"> ipsum solum manet : si autem mortuum fuerit, multum fructum
+          affert. Qui amat animam suam, perdet eam ; et qui odit animam suam in hoc mundo, in vitam
+          aeternam custodit eam.</ab>
+        <ab xml:id="d1e1872" n="26"> Si quis mihi ministrat, me sequatur, et ubi sum ego, illic et
+          minister meus erit. Si quis mihi ministraverit, honorificabit eum Pater meus.</ab>
+        <ab xml:id="d1e1875" n="27"> Nunc anima mea turbata est. Et quid dicam ? Pater, salvifica me
+          ex hac hora. Sed propterea veni in horam hanc :</ab>
+        <ab xml:id="d1e1878" n="28"> Pater, clarifica nomen tuum. Venit ergo vox de caelo : Et
+          clarificavi, et iterum clarificabo.</ab>
+        <ab xml:id="d1e1881" n="29"> Turba ergo, quae stabat, et audierat, dicebat tonitruum esse
+          factum. Alii dicebant : Angelus ei locutus est.</ab>
+        <ab xml:id="d1e1885" n="30"> Respondit Jesus, et dixit : Non propter me haec vox venit, sed
+          propter vos.</ab>
+        <ab xml:id="d1e1888" n="31"> Nunc judicium est mundi : nunc princeps hujus mundi ejicietur
+          foras.</ab>
+        <ab xml:id="d1e1891" n="32"> Et ego, si exaltatus fuero a terra, omnia traham ad
+          meipsum.</ab>
+        <ab xml:id="d1e1894" n="33"> (Hoc autem dicebat, significans qua morte esset moriturus.)<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1898" n="34"> Respondit ei turba : Nos audivimus ex lege, quia Christus manet
+          in aeternum : et quomodo tu dicis : Oportet exaltari Filium hominis ? quis est iste Filius
+          hominis ?</ab>
+        <ab xml:id="d1e1901" n="35"> Dixit ergo eis Jesus : Adhuc modicum, lumen in vobis est.
+          Ambulate dum lucem habetis, ut non vos tenebrae comprehendant ; et qui ambulat in
+          tenebris, nescit quo vadat.</ab>
+        <ab xml:id="d1e1905" n="36"> Dum lucem habetis, credite in lucem, ut filii lucis sitis. Haec
+          locutus est Jesus, et abiit et abscondit se ab eis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1909" n="37"> Cum autem tanta signa fecisset coram eis, non credebant in eum
+          ;</ab>
+        <ab xml:id="d1e1912" n="38"> ut sermo Isaiae prophetae impleretur, quem dixit : [Domine,
+          quis credidit auditui nostro ?/ et brachium Domini cui revelatum est ?]</ab>
+        <ab xml:id="d1e1915" n="39"> Propterea non poterant credere, quia iterum dixit Isaias :</ab>
+        <ab xml:id="d1e1918" n="40"> [Excaecavit oculos eorum, et induravit cor eorum/ ut non
+          videant oculis, et non intelligant corde,/ et convertantur, et sanem eos.]</ab>
+        <ab xml:id="d1e1921" n="41"> Haec dixit Isaias, quando vidit gloriam ejus, et locutus est de
+            eo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e1926" n="42"> Verumtamen et ex principibus multi crediderunt in eum : sed
+          propter pharisaeos non confitebantur, ut e synagoga non ejicerentur.</ab>
+        <ab xml:id="d1e1929" n="43"> Dilexerunt enim gloriam hominum magis quam gloriam Dei.</ab>
+        <ab xml:id="d1e1932" n="44"> Jesus autem clamavit, et dixit : Qui credit in me, non credit
+          in me, sed in eum qui misit me.</ab>
+        <ab xml:id="d1e1935" n="45"> Et qui videt me, videt eum qui misit me.</ab>
+        <ab xml:id="d1e1938" n="46"> Ego lux in mundum veni, ut omnis qui credit in me, in tenebris
+          non maneat.</ab>
+        <ab xml:id="d1e1941" n="47"> Et si quis audierit verba mea, et non custodierit, ego non
+          judico eum ; non enim veni ut judicem mundum, sed ut salvificem mundum.</ab>
+        <ab xml:id="d1e1945" n="48"> Qui spernit me et non accipit verba mea, habet qui judicet eum.
+          Sermo quem locutus sum, ille judicabit eum in novissimo die.</ab>
+        <ab xml:id="d1e1948" n="49"> Quia ego ex meipso non sum locutus, sed qui misit me, Pater,
+          ipse mihi mandatum dedit quid dicam et quid loquar.</ab>
+        <ab xml:id="d1e1951" n="50"> Et scio quia mandatum ejus vita aeterna est : quae ergo ego
+          loquor, sicut dixit mihi Pater, sic loquor.</ab>
+      </div>
+      <div xml:id="d1e1955" type="chap" n="13">
+        <ab xml:id="d1e1957" n="1"> Ante diem festum Paschae, sciens Jesus quia venit hora ejus ut
+          transeat ex hoc mundo ad Patrem : cum dilexisset suos, qui erant in mundo, in finem
+          dilexit eos.</ab>
+        <ab xml:id="d1e1960" n="2"> Et coena facta, cum diabolus jam misisset in cor ut traderet eum
+          Judas Simonis Iscariotae :</ab>
+        <ab xml:id="d1e1963" n="3"> sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit,
+          et ad Deum vadit :</ab>
+        <ab xml:id="d1e1966" n="4"> surgit a coena, et ponit vestimenta sua, et cum accepisset
+          linteum, praecinxit se.</ab>
+        <ab xml:id="d1e1969" n="5"> Deinde mittit aquam in pelvim, et coepit lavare pedes
+          discipulorum, et extergere linteo, quo erat praecinctus.</ab>
+        <ab xml:id="d1e1973" n="6"> Venit ergo ad Simonem Petrum. Et dicit ei Petrus : Domine, tu
+          mihi lavas pedes ?</ab>
+        <ab xml:id="d1e1976" n="7"> Respondit Jesus, et dixit ei : Quod ego facio, tu nescis modo :
+          scies autem postea.</ab>
+        <ab xml:id="d1e1979" n="8"> Dicit ei Petrus : Non lavabis mihi pedes in aeternum. Respondit
+          ei Jesus : Si non lavero te, non habebis partem mecum.</ab>
+        <ab xml:id="d1e1982" n="9"> Dicit ei Simon Petrus : Domine, non tantum pedes meos, sed et
+          manus, et caput.</ab>
+        <ab xml:id="d1e1985" n="10"> Dicit ei Jesus : Qui lotus est, non indiget nisi ut pedes
+          lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.</ab>
+        <ab xml:id="d1e1988" n="11"> Sciebat enim quisnam esset qui traderet eum ; propterea dixit :
+          Non estis mundi omnes.</ab>
+        <ab xml:id="d1e1992" n="12"> Postquam ergo lavit pedes eorum, et accepit vestimenta sua, cum
+          recubuisset iterum, dixit eis : Scitis quid fecerim vobis ?</ab>
+        <ab xml:id="d1e1995" n="13"> Vos vocatis me Magister et Domine, et bene dicitis : sum
+          etenim.</ab>
+        <ab xml:id="d1e1998" n="14"> Si ergo ego lavi pedes vestros, Dominus et Magister, et vos
+          debetis alter alterius lavare pedes.</ab>
+        <ab xml:id="d1e2001" n="15"> Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et
+          vos faciatis.</ab>
+        <ab xml:id="d1e2004" n="16"> Amen, amen dico vobis : non est servus major domino suo : neque
+          apostolus major est eo qui misit illum.</ab>
+        <ab xml:id="d1e2007" n="17"> Si haec scitis, beati eritis si feceritis ea.</ab>
+        <ab xml:id="d1e2011" n="18"> Non de omnibus vobis dico : ego scio quos elegerim ; sed ut
+          adimpleatur Scriptura : Qui manducat mecum panem, levabit contra me calcaneum suum.</ab>
+        <ab xml:id="d1e2014" n="19"> Amodo dico vobis, priusquam fiat : ut cum factum fuerit,
+          credatis quia ego sum.</ab>
+        <ab xml:id="d1e2017" n="20"> Amen, amen dico vobis : qui accipit si quem misero, me accipit
+          ; qui autem me accipit, accipit eum qui me misit.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2021" n="21"> Cum haec dixisset Jesus, turbatus est spiritu : et protestatus
+          est, et dixit : Amen, amen dico vobis, quia unus ex vobis tradet me.</ab>
+        <ab xml:id="d1e2024" n="22"> Aspiciebant ergo ad invicem discipuli, haesitantes de quo
+          diceret.</ab>
+        <ab xml:id="d1e2027" n="23"> Erat ergo recumbens unus ex discipulis ejus in sinu Jesu, quem
+          diligebat Jesus.</ab>
+        <ab xml:id="d1e2031" n="24"> Innuit ergo huic Simon Petrus, et dixit ei : Quis est, de quo
+          dicit ?</ab>
+        <ab xml:id="d1e2034" n="25"> Itaque cum recubuisset ille supra pectus Jesu, dicit ei :
+          Domine, quis est ?</ab>
+        <ab xml:id="d1e2037" n="26"> Respondit Jesus : Ille est cui ego intinctum panem porrexero.
+          Et cum intinxisset panem, dedit Judae Simonis Iscariotae.</ab>
+        <ab xml:id="d1e2040" n="27"> Et post buccellam, introivit in eum Satanas. Et dixit ei Jesus
+          : Quod facis, fac citius.</ab>
+        <ab xml:id="d1e2043" n="28"> Hoc autem nemo scivit discumbentium ad quid dixerit ei.</ab>
+        <ab xml:id="d1e2046" n="29"> Quidam enim putabant, quia loculos habebat Judas, quod dixisset
+          ei Jesus : Eme ea quae opus sunt nobis ad diem festum : aut egenis ut aliquid daret.</ab>
+        <ab xml:id="d1e2050" n="30"> Cum ergo accepisset ille buccellam, exivit continuo. Erat autem
+            nox.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2054" n="31"> Cum ergo exisset, dixit Jesus : Nunc clarificatus est Filius
+          hominis, et Deus clarificatus est in eo.</ab>
+        <ab xml:id="d1e2057" n="32"> Si Deus clarificatus est in eo, et Deus clarificabit eum in
+          semetipso : et continuo clarificabit eum.</ab>
+        <ab xml:id="d1e2060" n="33"> Filioli, adhuc modicum vobiscum sum. Quaeretis me ; et sicut
+          dixi Judaeis, quo ego vado, vos non potestis venire : et vobis dico modo.</ab>
+        <ab xml:id="d1e2063" n="34"> Mandatum novum do vobis : ut diligatis invicem : sicut dilexi
+          vos, ut et vos diligatis invicem.</ab>
+        <ab xml:id="d1e2066" n="35"> In hoc cognoscent omnes quia discipuli mei estis, si
+          dilectionem habueritis ad invicem.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2071" n="36"> Dicit ei Simon Petrus : Domine, quo vadis ? Respondit Jesus :
+          Quo ego vado non potes me modo sequi : sequeris autem postea.</ab>
+        <ab xml:id="d1e2074" n="37"> Dicit ei Petrus : Quare non possum te sequi modo ? animam meam
+          pro te ponam.</ab>
+        <ab xml:id="d1e2077" n="38"> Respondit ei Jesus : Animam tuam pro me pones ? amen, amen dico
+          tibi : non cantabit gallus, donec ter me neges.</ab>
+      </div>
+      <div xml:id="d1e2081" type="chap" n="14">
+        <ab xml:id="d1e2083" n="1"> Non turbetur cor vestrum. Creditis in Deum, et in me
+          credite.</ab>
+        <ab xml:id="d1e2086" n="2"> In domo Patris mei mansiones multae sunt ; si quominus dixissem
+          vobis : quia vado parare vobis locum.</ab>
+        <ab xml:id="d1e2089" n="3"> Et si abiero, et praeparavero vobis locum, iterum venio, et
+          accipiam vos ad meipsum : ut ubi sum ego, et vos sitis.</ab>
+        <ab xml:id="d1e2092" n="4"> Et quo ego vado scitis, et viam scitis.</ab>
+        <ab xml:id="d1e2095" n="5"> Dicit ei Thomas : Domine, nescimus quo vadis : et quomodo
+          possumus viam scire ?</ab>
+        <ab xml:id="d1e2099" n="6"> Dicit ei Jesus : Ego sum via, et veritas, et vita. Nemo venit ad
+          Patrem, nisi per me.</ab>
+        <ab xml:id="d1e2102" n="7"> Si cognovissetis me, et Patrem meum utique cognovissetis : et
+          amodo cognoscetis eum, et vidistis eum.</ab>
+        <ab xml:id="d1e2105" n="8"> Dicit ei Philippus : Domine, ostende nobis Patrem, et sufficit
+          nobis.</ab>
+        <ab xml:id="d1e2108" n="9"> Dicit ei Jesus : Tanto tempore vobiscum sum, et non cognovistis
+          me ? Philippe, qui videt me, videt et Patrem. Quomodo tu dicis : Ostende nobis Patrem
+          ?</ab>
+        <ab xml:id="d1e2111" n="10"> Non creditis quia ego in Patre, et Pater in me est ? Verba quae
+          ego loquor vobis, a meipso non loquor. Pater autem in me manens, ipse fecit opera.</ab>
+        <ab xml:id="d1e2114" n="11"> Non creditis quia ego in Patre, et Pater in me est ?</ab>
+        <ab xml:id="d1e2118" n="12"> alioquin propter opera ipsa credite. Amen, amen dico vobis, qui
+          credit in me, opera quae ego facio, et ipse faciet, et majora horum faciet : quia ego ad
+          Patrem vado.</ab>
+        <ab xml:id="d1e2121" n="13"> Et quodcumque petieritis Patrem in nomine meo, hoc faciam : ut
+          glorificetur Pater in Filio.</ab>
+        <ab xml:id="d1e2124" n="14"> Si quid petieritis me in nomine meo, hoc faciam.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2128" n="15"> Si diligitis me, mandata mea servate :</ab>
+        <ab xml:id="d1e2131" n="16"> et ego rogabo Patrem, et alium Paraclitum dabit vobis, ut
+          maneat vobiscum in aeternum,</ab>
+        <ab xml:id="d1e2134" n="17"> Spiritum veritatis, quem mundus non potest accipere, quia non
+          videt eum, nec scit eum : vos autem cognoscetis eum, quia apud vos manebit, et in vobis
+          erit.</ab>
+        <ab xml:id="d1e2138" n="18"> Non relinquam vos orphanos : veniam ad vos.</ab>
+        <ab xml:id="d1e2141" n="19"> Adhuc modicum, et mundus me jam non videt. Vos autem videtis me
+          : quia ego vivo, et vos vivetis.</ab>
+        <ab xml:id="d1e2144" n="20"> In illo die vos cognoscetis quia ego sum in Patre meo, et vos
+          in me, et ego in vobis.</ab>
+        <ab xml:id="d1e2147" n="21"> Qui habet mandata mea, et servat ea : ille est qui diligit me.
+          Qui autem diligit me, diligetur a Patre meo : et ego diligam eum, et manifestabo ei
+          meipsum.</ab>
+        <ab xml:id="d1e2150" n="22"> Dicit ei Judas, non ille Iscariotes : Domine, quid factum est,
+          quia manifestaturus es nobis teipsum, et non mundo ?</ab>
+        <ab xml:id="d1e2153" n="23"> Respondit Jesus, et dixit ei : Si quis diligit me, sermonem
+          meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum
+          faciemus ;</ab>
+        <ab xml:id="d1e2157" n="24"> qui non diligit me, sermones meos non servat. Et sermonem, quem
+          audistis, non est meus : sed ejus qui misit me, Patris.</ab>
+        <ab xml:id="d1e2160" n="25"> Haec locutus sum vobis apud vos manens.</ab>
+        <ab xml:id="d1e2163" n="26"> Paraclitus autem Spiritus Sanctus, quem mittet Pater in nomine
+          meo, ille vos docebit omnia, et suggeret vobis omnia quaecumque dixero vobis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2167" n="27"> Pacem relinquo vobis, pacem meam do vobis : non quomodo mundus
+          dat, ego do vobis. Non turbetur cor vestrum, neque formidet.</ab>
+        <ab xml:id="d1e2170" n="28"> Audistis quia ego dixi vobis : Vado, et venio ad vos. Si
+          diligeretis me, gauderetis utique, quia vado ad Patrem : quia Pater major me est.</ab>
+        <ab xml:id="d1e2173" n="29"> Et nunc dixi vobis priusquam fiat : ut cum factum fuerit,
+          credatis.</ab>
+        <ab xml:id="d1e2177" n="30"> Jam non multa loquar vobiscum : venit enim princeps mundi
+          hujus, et in me non habet quidquam.</ab>
+        <ab xml:id="d1e2180" n="31"> Sed ut cognoscat mundus quia diligo Patrem, et sicut mandatum
+          dedit mihi Pater, sic facio. Surgite, eamus hinc.</ab>
+      </div>
+      <div xml:id="d1e2184" type="chap" n="15">
+        <ab xml:id="d1e2186" n="1"> Ego sum vitis vera, et Pater meus agricola est.</ab>
+        <ab xml:id="d1e2189" n="2"> Omnem palmitem in me non ferentem fructum, tollet eum, et omnem
+          qui fert fructum, purgabit eum, ut fructum plus afferat.</ab>
+        <ab xml:id="d1e2192" n="3"> Jam vos mundi estis propter sermonem quem locutus sum
+          vobis.</ab>
+        <ab xml:id="d1e2195" n="4"> Manete in me, et ego in vobis. Sicut palmes non potest ferre
+          fructum a semetipso, nisi manserit in vite, sic nec vos, nisi in me manseritis.</ab>
+        <ab xml:id="d1e2198" n="5"> Ego sum vitis, vos palmites : qui manet in me, et ego in eo, hic
+          fert fructum multum, quia sine me nihil potestis facere.</ab>
+        <ab xml:id="d1e2202" n="6"> Si quis in me non manserit, mittetur foras sicut palmes, et
+          arescet, et colligent eum, et in ignem mittent, et ardet.</ab>
+        <ab xml:id="d1e2205" n="7"> Si manseritis in me, et verba mea in vobis manserint, quodcumque
+          volueritis petetis, et fiet vobis.</ab>
+        <ab xml:id="d1e2208" n="8"> In hoc clarificatus est Pater meus, ut fructum plurimum
+          afferatis, et efficiamini mei discipuli.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2212" n="9"> Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione
+          mea.</ab>
+        <ab xml:id="d1e2215" n="10"> Si praecepta mea servaveritis, manebitis in dilectione mea,
+          sicut et ego Patris mei praecepta servavi, et maneo in ejus dilectione.</ab>
+        <ab xml:id="d1e2218" n="11"> Haec locutus sum vobis : ut gaudium meum in vobis sit, et
+          gaudium vestrum impleatur.</ab>
+        <ab xml:id="d1e2222" n="12"> Hoc est praeceptum meum, ut diligatis invicem, sicut dilexi
+          vos.</ab>
+        <ab xml:id="d1e2225" n="13"> Majorem hac dilectionem nemo habet, ut animam suam ponat quis
+          pro amicis suis.</ab>
+        <ab xml:id="d1e2228" n="14"> Vos amici mei estis, si feceritis quae ego praecipio
+          vobis.</ab>
+        <ab xml:id="d1e2231" n="15"> Jam non dicam vos servos : quia servus nescit quid faciat
+          dominus ejus. Vos autem dixi amicos : quia omnia quaecumque audivi a Patre meo, nota feci
+          vobis.</ab>
+        <ab xml:id="d1e2234" n="16"> Non vos me elegistis, sed ego elegi vos, et posui vos ut eatis,
+          et fructum afferatis, et fructus vester maneat : ut quodcumque petieritis Patrem in nomine
+          meo, det vobis.</ab>
+        <ab xml:id="d1e2237" n="17"> Haec mando vobis : ut diligatis invicem.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2242" n="18"> Si mundus vos odit, scitote quia me priorem vobis odio
+          habuit.</ab>
+        <ab xml:id="d1e2245" n="19"> Si de mundo fuissetis, mundus quod suum erat diligeret : quia
+          vero de mundo non estis, sed ego elegi vos de mundo, propterea odit vos mundus.</ab>
+        <ab xml:id="d1e2248" n="20"> Mementote sermonis mei, quem ego dixi vobis : non est servus
+          major domino suo. Si me persecuti sunt, et vos persequentur ; si sermonem meum
+          servaverunt, et vestrum servabunt.</ab>
+        <ab xml:id="d1e2251" n="21"> Sed haec omnia facient vobis propter nomen meum : quia nesciunt
+          eum qui misit me.</ab>
+        <ab xml:id="d1e2254" n="22"> Si non venissem, et locutus fuissem eis, peccatum non haberent
+          : nunc autem excusationem non habent de peccato suo.</ab>
+        <ab xml:id="d1e2257" n="23"> Qui me odit, et Patrem meum odit.</ab>
+        <ab xml:id="d1e2261" n="24"> Si opera non fecissem in eis quae nemo alius fecit, peccatum
+          non haberent : nunc autem et viderunt, et oderunt et me, et Patrem meum.</ab>
+        <ab xml:id="d1e2264" n="25"> Sed ut adimpleatur sermo, qui in lege eorum scriptus est : Quia
+          odio habuerunt me gratis.</ab>
+        <ab xml:id="d1e2267" n="26"> Cum autem venerit Paraclitus, quem ego mittam vobis a Patre,
+          Spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me ;</ab>
+        <ab xml:id="d1e2270" n="27"> et vos testimonium perhibebitis, quia ab initio mecum
+          estis.</ab>
+      </div>
+      <div xml:id="d1e2274" type="chap" n="16">
+        <ab xml:id="d1e2276" n="1"> Haec locutus sum vobis, ut non scandalizemini.</ab>
+        <ab xml:id="d1e2279" n="2"> Absque synagogis facient vos : sed venit hora, ut omnis qui
+          interficit vos arbitretur obsequium se praestare Deo.</ab>
+        <ab xml:id="d1e2282" n="3"> Et haec facient vobis, quia non noverunt Patrem, neque me.</ab>
+        <ab xml:id="d1e2285" n="4"> Sed haec locutus sum vobis, ut cum venerit hora eorum,
+          reminiscamini quia ego dixi vobis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2289" n="5"> Haec autem vobis ab initio non dixi, quia vobiscum eram. Et nunc
+          vado ad eum qui misit me ; et nemo ex vobis interrogat me : Quo vadis ?</ab>
+        <ab xml:id="d1e2293" n="6"> sed quia haec locutus sum vobis, tristitia implevit cor
+          vestrum.</ab>
+        <ab xml:id="d1e2296" n="7"> Sed ego veritatem dico vobis : expedit vobis ut ego vadam : si
+          enim non abiero, Paraclitus non veniet ad vos ; si autem abiero, mittam eum ad vos.</ab>
+        <ab xml:id="d1e2299" n="8"> Et cum venerit ille, arguet mundum de peccato, et de justitia,
+          et de judicio.</ab>
+        <ab xml:id="d1e2302" n="9"> De peccato quidem, quia non crediderunt in me.</ab>
+        <ab xml:id="d1e2305" n="10"> De justitia vero, quia ad Patrem vado, et jam non videbitis
+          me.</ab>
+        <ab xml:id="d1e2308" n="11"> De judicio autem, quia princeps hujus mundi jam judicatus
+          est.</ab>
+        <ab xml:id="d1e2312" n="12"> Adhuc multa habeo vobis dicere, sed non potestis portare
+          modo.</ab>
+        <ab xml:id="d1e2315" n="13"> Cum autem venerit ille Spiritus veritatis, docebit vos omnem
+          veritatem : non enim loquetur a semetipso, sed quaecumque audiet loquetur, et quae ventura
+          sunt annuntiabit vobis.</ab>
+        <ab xml:id="d1e2318" n="14"> Ille me clarificabit, quia de meo accipiet, et annuntiabit
+          vobis.</ab>
+        <ab xml:id="d1e2321" n="15"> Omnia quaecumque habet Pater, mea sunt. Propterea dixi : quia
+          de meo accipiet, et annuntiabit vobis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2325" n="16"> Modicum, et jam non videbitis me ; et iterum modicum, et
+          videbitis me : quia vado ad Patrem.</ab>
+        <ab xml:id="d1e2328" n="17"> Dixerunt ergo ex discipulis ejus ad invicem : Quid est hoc quod
+          dicit nobis : Modicum, et non videbitis me ; et iterum modicum, et videbitis me, et quia
+          vado ad Patrem ?</ab>
+        <ab xml:id="d1e2332" n="18"> Dicebant ergo : Quid est hoc quod dicit : Modicum ? nescimus
+          quid loquitur.</ab>
+        <ab xml:id="d1e2335" n="19"> Cognovit autem Jesus, quia volebant eum interrogare, et dixit
+          eis : De hoc quaeritis inter vos quia dixi : Modicum, et non videbitis me ; et iterum
+          modicum, et videbitis me.</ab>
+        <ab xml:id="d1e2338" n="20"> Amen, amen dico vobis : quia plorabitis, et flebitis vos,
+          mundus autem gaudebit ; vos autem contristabimini, sed tristitia vestra vertetur in
+          gaudium.</ab>
+        <ab xml:id="d1e2341" n="21"> Mulier cum parit, tristitiam habet, quia venit hora ejus ; cum
+          autem pepererit puerum, jam non meminit pressurae propter gaudium, quia natus est homo in
+          mundum.</ab>
+        <ab xml:id="d1e2344" n="22"> Et vos igitur nunc quidem tristitiam habetis, iterum autem
+          videbo vos, et gaudebit cor vestrum : et gaudium vestrum nemo tollet a vobis.</ab>
+        <ab xml:id="d1e2347" n="23"> Et in illo die me non rogabitis quidquam. Amen, amen dico vobis
+          : si quid petieritis Patrem in nomine meo, dabit vobis.</ab>
+        <ab xml:id="d1e2351" n="24"> Usque modo non petistis quidquam in nomine meo : petite, et
+          accipietis, ut gaudium vestrum sit plenum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2355" n="25"> Haec in proverbiis locutus sum vobis. Venit hora cum jam non in
+          proverbiis loquar vobis, sed palam de Patre annuntiabo vobis :</ab>
+        <ab xml:id="d1e2358" n="26"> in illo die in nomine meo petetis : et non dico vobis quia ego
+          rogabo Patrem de vobis :</ab>
+        <ab xml:id="d1e2361" n="27"> ipse enim Pater amat vos, quia vos me amastis, et credidistis,
+          quia ego a Deo exivi.</ab>
+        <ab xml:id="d1e2364" n="28"> Exivi a Patre, et veni in mundum : iterum relinquo mundum, et
+          vado ad Patrem.</ab>
+        <ab xml:id="d1e2367" n="29"> Dicunt ei discipuli ejus : Ecce nunc palam loqueris, et
+          proverbium nullum dicis :</ab>
+        <ab xml:id="d1e2371" n="30"> nunc scimus quia scis omnia, et non opus est tibi ut quis te
+          interroget : in hoc credimus quia a Deo existi.</ab>
+        <ab xml:id="d1e2374" n="31"> Respondit eis Jesus : Modo creditis ?</ab>
+        <ab xml:id="d1e2377" n="32"> ecce venit hora, et jam venit, ut dispergamini unusquisque in
+          propria, et me solum relinquatis : et non sum solus, quia Pater mecum est.</ab>
+        <ab xml:id="d1e2380" n="33"> Haec locutus sum vobis, ut in me pacem habeatis. In mundo
+          pressuram habebitis : sed confidite, ego vici mundum.</ab>
+      </div>
+      <div xml:id="d1e2384" type="chap" n="17">
+        <ab xml:id="d1e2386" n="1"> Haec locutus est Jesus : et sublevatis oculis in caelum, dixit :
+          Pater, venit hora : clarifica Filium tuum, ut Filius tuus clarificet te :</ab>
+        <ab xml:id="d1e2389" n="2"> sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti
+          ei, det eis vitam aeternam.</ab>
+        <ab xml:id="d1e2392" n="3"> Haec est autem vita aeterna : ut cognoscant te, solum Deum
+          verum, et quem misisti Jesum Christum.</ab>
+        <ab xml:id="d1e2395" n="4"> Ego te clarificavi super terram : opus consummavi, quod dedisti
+          mihi ut faciam :</ab>
+        <ab xml:id="d1e2398" n="5"> et nunc clarifica me tu, Pater, apud temetipsum, claritate quam
+          habui, priusquam mundus esset, apud te.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2403" n="6"> Manifestavi nomen tuum hominibus, quos dedisti mihi de mundo :
+          tui erant, et mihi eos dedisti : et sermonem tuum servaverunt.</ab>
+        <ab xml:id="d1e2406" n="7"> Nunc cognoverunt quia omnia quae dedisti mihi, abs te sunt
+          :</ab>
+        <ab xml:id="d1e2409" n="8"> quia verba quae dedisti mihi, dedi eis : et ipsi acceperunt, et
+          cognoverunt vere quia a te exivi, et crediderunt quia tu me misisti.</ab>
+        <ab xml:id="d1e2412" n="9"> Ego pro eis rogo ; non pro mundo rogo, sed pro his quos dedisti
+          mihi : quia tui sunt :</ab>
+        <ab xml:id="d1e2415" n="10"> et mea omnia tua sunt, et tua mea sunt : et clarificatus sum in
+          eis.</ab>
+        <ab xml:id="d1e2418" n="11"> Et jam non sum in mundo, et hi in mundo sunt, et ego ad te
+          venio. Pater sancte, serva eos in nomine tuo, quos dedisti mihi : ut sint unum, sicut et
+          nos.</ab>
+        <ab xml:id="d1e2422" n="12"> Cum essem cum eis, ego servabam eos in nomine tuo. Quos dedisti
+          mihi, custodivi : et nemo ex eis periit, nisi filius perditionis, ut Scriptura
+          impleatur.</ab>
+        <ab xml:id="d1e2425" n="13"> Nunc autem ad te venio : et haec loquor in mundo, ut habeant
+          gaudium meum impletum in semetipsis.</ab>
+        <ab xml:id="d1e2428" n="14"> Ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non
+          sunt de mundo, sicut et ego non sum de mundo.</ab>
+        <ab xml:id="d1e2431" n="15"> Non rogo ut tollas eos de mundo, sed ut serves eos a malo.</ab>
+        <ab xml:id="d1e2434" n="16"> De mundo non sunt, sicut et ego non sum de mundo.</ab>
+        <ab xml:id="d1e2437" n="17"> Sanctifica eos in veritate. Sermo tuus veritas est.</ab>
+        <ab xml:id="d1e2441" n="18"> Sicut tu me misisti in mundum, et ego misi eos in mundum :</ab>
+        <ab xml:id="d1e2444" n="19"> et pro eis ego sanctifico meipsum : ut sint et ipsi
+          sanctificati in veritate.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2448" n="20"> Non pro eis autem rogo tantum, sed et pro eis qui credituri
+          sunt per verbum eorum in me :</ab>
+        <ab xml:id="d1e2451" n="21"> ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et
+          ipsi in nobis unum sint : ut credat mundus, quia tu me misisti.</ab>
+        <ab xml:id="d1e2454" n="22"> Et ego claritatem, quam dedisti mihi, dedi eis : ut sint unum,
+          sicut et nos unum sumus.</ab>
+        <ab xml:id="d1e2457" n="23"> Ego in eis, et tu in me : ut sint consummati in unum : et
+          cognoscat mundus quia tu me misisti, et dilexisti eos, sicut et me dilexisti.</ab>
+        <ab xml:id="d1e2461" n="24"> Pater, quos dedisti mihi, volo ut ubi sum ego, et illi sint
+          mecum : ut videant claritatem meam, quam dedisti mihi : quia dilexisti me ante
+          constitutionem mundi.</ab>
+        <ab xml:id="d1e2464" n="25"> Pater juste, mundus te non cognovit, ego autem te cognovi : et
+          hi cognoverunt, quia tu me misisti.</ab>
+        <ab xml:id="d1e2467" n="26"> Et notum feci eis nomen tuum, et notum faciam : ut dilectio,
+          qua dilexisti me, in ipsis sit, et ego in ipsis.</ab>
+      </div>
+      <div xml:id="d1e2472" type="chap" n="18">
+        <ab xml:id="d1e2474" n="1"> Haec cum dixisset Jesus, egressus est cum discipulis suis trans
+          torrentem Cedron, ubi erat hortus, in quem introivit ipse, et discipuli ejus.</ab>
+        <ab xml:id="d1e2477" n="2"> Sciebat autem et Judas, qui tradebat eum, locum : quia
+          frequenter Jesus convenerat illuc cum discipulis suis.</ab>
+        <ab xml:id="d1e2480" n="3"> Judas ergo cum accepisset cohortem, et a pontificibus et
+          pharisaeis ministros, venit illuc cum laternis, et facibus, et armis.</ab>
+        <ab xml:id="d1e2483" n="4"> Jesus itaque sciens omnia quae ventura erant super eum,
+          processit, et dixit eis : Quem quaeritis ?</ab>
+        <ab xml:id="d1e2486" n="5"> Responderunt ei : Jesum Nazarenum. Dicit eis Jesus : Ego sum.
+          Stabat autem et Judas, qui tradebat eum, cum ipsis.</ab>
+        <ab xml:id="d1e2490" n="6"> Ut ergo dixit eis : Ego sum : abierunt retrorsum, et ceciderunt
+          in terram.</ab>
+        <ab xml:id="d1e2493" n="7"> Iterum ergo interrogavit eos : Quem quaeritis ? Illi autem
+          dixerunt : Jesum Nazarenum.</ab>
+        <ab xml:id="d1e2496" n="8"> Respondit Jesus : Dixi vobis, quia ego sum : si ergo me
+          quaeritis, sinite hos abire.</ab>
+        <ab xml:id="d1e2499" n="9"> Ut impleretur sermo, quem dixit : Quia quos dedisti mihi, non
+          perdidi ex eis quemquam.</ab>
+        <ab xml:id="d1e2502" n="10"> Simon ergo Petrus habens gladium eduxit eum : et percussit
+          pontificis servum, et abscidit auriculam ejus dexteram. Erat autem nomen servo
+          Malchus.</ab>
+        <ab xml:id="d1e2505" n="11"> Dixit ergo Jesus Petro : Mitte gladium tuum in vaginam.
+          Calicem, quem dedit mihi Pater, non bibam illum ?</ab>
+        <ab xml:id="d1e2509" n="12"> Cohors ergo, et tribunus, et ministri Judaeorum comprehenderunt
+          Jesum, et ligaverunt eum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2513" n="13"> Et adduxerunt eum ad Annam primum : erat enim socer Caiphae,
+          qui erat pontifex anni illius.</ab>
+        <ab xml:id="d1e2516" n="14"> Erat autem Caiphas, qui consilium dederat Judaeis : Quia
+          expedit unum hominem mori pro populo.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2520" n="15"> Sequebatur autem Jesum Simon Petrus, et alius discipulus.
+          Discipulus autem ille erat notus pontifici, et introivit cum Jesu in atrium
+          pontificis.</ab>
+        <ab xml:id="d1e2523" n="16"> Petrus autem stabat ad ostium foris. Exivit ergo discipulus
+          alius, qui erat notus pontifici, et dixit ostiariae : et introduxit Petrum.</ab>
+        <ab xml:id="d1e2526" n="17"> Dicit ergo Petro ancilla ostiaria : Numquid et tu ex discipulis
+          es hominis istius ? Dicit ille : Non sum.</ab>
+        <ab xml:id="d1e2530" n="18"> Stabant autem servi et ministri ad prunas, quia frigus erat, et
+          calefaciebant se : erat autem cum eis et Petrus stans, et calefaciens se.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2534" n="19"> Pontifex ergo interrogavit Jesum de discipulis suis, et de
+          doctrina ejus.</ab>
+        <ab xml:id="d1e2537" n="20"> Respondit ei Jesus : Ego palam locutus sum mundo : ego semper
+          docui in synagoga, et in templo, quo omnes Judaei conveniunt, et in occulto locutus sum
+          nihil.</ab>
+        <ab xml:id="d1e2540" n="21"> Quid me interrogas ? interroga eos qui audierunt quid locutus
+          sim ipsis : ecce hi sciunt quae dixerim ego.</ab>
+        <ab xml:id="d1e2543" n="22"> Haec autem cum dixisset, unus assistens ministrorum dedit
+          alapam Jesu, dicens : Sic respondes pontifici ?</ab>
+        <ab xml:id="d1e2546" n="23"> Respondit ei Jesus : Si male locutus sum, testimonium perhibe
+          de malo : si autem bene, quid me caedis ?</ab>
+        <ab xml:id="d1e2550" n="24"> Et misit eum Annas ligatum ad Caipham pontificem.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2554" n="25"> Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo
+          ei : Numquid et tu ex discipulis ejus es ? Negavit ille, et dixit : Non sum.</ab>
+        <ab xml:id="d1e2557" n="26"> Dicit ei unus ex servis pontificis, cognatus ejus, cujus
+          abscidit Petrus auriculam : Nonne ego te vidi in horto cum illo ?</ab>
+        <ab xml:id="d1e2560" n="27"> Iterum ergo negavit Petrus : et statim gallus cantavit.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2564" n="28"> Adducunt ergo Jesum a Caipha in praetorium. Erat autem mane :
+          et ipsi non introierunt in praetorium, ut non contaminarentur, sed ut manducarent
+          Pascha.</ab>
+        <ab xml:id="d1e2567" n="29"> Exivit ergo Pilatus ad eos foras, et dixit : Quam accusationem
+          affertis adversus hominem hunc ?</ab>
+        <ab xml:id="d1e2571" n="30"> Responderunt, et dixerunt ei : Si non esset hic malefactor, non
+          tibi tradidissemus eum.</ab>
+        <ab xml:id="d1e2574" n="31"> Dixit ergo eis Pilatus : Accipite eum vos, et secundum legem
+          vestram judicate eum. Dixerunt ergo ei Judaei : Nobis non licet interficere quemquam.</ab>
+        <ab xml:id="d1e2577" n="32"> Ut sermo Jesu impleretur, quem dixit, significans qua morte
+          esset moriturus.</ab>
+        <ab xml:id="d1e2580" n="33"> Introivit ergo iterum in praetorium Pilatus : et vocavit Jesum,
+          et dixit ei : Tu es rex Judaeorum ?</ab>
+        <ab xml:id="d1e2583" n="34"> Respondit Jesus : A temetipso hoc dicis, an alii dixerunt tibi
+          de me ?</ab>
+        <ab xml:id="d1e2586" n="35"> Respondit Pilatus : Numquid ego Judaeus sum ? gens tua et
+          pontifices tradiderunt te mihi : quid fecisti ?</ab>
+        <ab xml:id="d1e2590" n="36"> Respondit Jesus : Regnum meum non est de hoc mundo. Si ex hoc
+          mundo esset regnum meum, ministri mei utique decertarent ut non traderer Judaeis : nunc
+          autem regnum meum non est hinc.</ab>
+        <ab xml:id="d1e2593" n="37"> Dixit itaque ei Pilatus : Ergo rex es tu ? Respondit Jesus : Tu
+          dicis quia rex sum ego. Ego in hoc natus sum, et ad hoc veni in mundum, ut testimonium
+          perhibeam veritati : omnis qui est ex veritate, audit vocem meam.</ab>
+        <ab xml:id="d1e2596" n="38"> Dicit ei Pilatus : Quid est veritas ? Et cum hoc dixisset,
+          iterum exivit ad Judaeos, et dicit eis : Ego nullam invenio in eo causam.</ab>
+        <ab xml:id="d1e2599" n="39"> Est autem consuetudo vobis ut unum dimittam vobis in Pascha :
+          vultis ergo dimittam vobis regem Judaeorum ?</ab>
+        <ab xml:id="d1e2602" n="40"> Clamaverunt ergo rursum omnes, dicentes : Non hunc, sed
+          Barabbam. Erat autem Barabbas latro.</ab>
+      </div>
+      <div xml:id="d1e2606" type="chap" n="19">
+        <ab xml:id="d1e2608" n="1"> Tunc ergo apprehendit Pilatus Jesum, et flagellavit.</ab>
+        <ab xml:id="d1e2611" n="2"> Et milites plectentes coronam de spinis, imposuerunt capiti ejus
+          : et veste purpurea circumdederunt eum.</ab>
+        <ab xml:id="d1e2614" n="3"> Et veniebant ad eum, et dicebant : Ave, rex Judaeorum : et
+          dabant ei alapas.</ab>
+        <ab xml:id="d1e2617" n="4"> Exivit ergo iterum Pilatus foras, et dicit eis : Ecce adduco
+          vobis eum foras, ut cognoscatis quia nullam invenio in eo causam.</ab>
+        <ab xml:id="d1e2620" n="5"> (Exivit ergo Jesus portans coronam spineam, et purpureum
+          vestimentum.) Et dicit eis : Ecce homo.</ab>
+        <ab xml:id="d1e2624" n="6"> Cum ergo vidissent eum pontifices et ministri, clamabant,
+          dicentes : Crucifige, crucifige eum. Dicit eis Pilatus : Accipite eum vos, et crucifigite
+          : ego enim non invenio in eo causam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2628" n="7"> Responderunt ei Judaei : Nos legem habemus, et secundum legem
+          debet mori, quia Filium Dei se fecit.</ab>
+        <ab xml:id="d1e2631" n="8"> Cum ergo audisset Pilatus hunc sermonem, magis timuit.</ab>
+        <ab xml:id="d1e2634" n="9"> Et ingressus est praetorium iterum : et dixit ad Jesum : Unde es
+          tu ? Jesus autem responsum non dedit ei.</ab>
+        <ab xml:id="d1e2637" n="10"> Dicit ergo ei Pilatus : Mihi non loqueris ? nescis quia
+          potestatem habeo crucifigere te, et potestatem habeo dimittere te ?</ab>
+        <ab xml:id="d1e2640" n="11"> Respondit Jesus : Non haberes potestatem adversum me ullam,
+          nisi tibi datum esset desuper. Propterea qui me tradidit tibi, majus peccatum habet.</ab>
+        <ab xml:id="d1e2644" n="12"> Et exinde quaerebat Pilatus dimittere eum. Judaei autem
+          clamabant dicentes : Si hunc dimittis, non es amicus Caesaris. Omnis enim qui se regem
+          facit, contradicit Caesari.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2648" n="13"> Pilatus autem cum audisset hos sermones, adduxit foras Jesum :
+          et sedit pro tribunali, in loco qui dicitur Lithostrotos, hebraice autem Gabbatha.</ab>
+        <ab xml:id="d1e2651" n="14"> Erat autem parasceve Paschae, hora quasi sexta, et dicit
+          Judaeis : Ecce rex vester.</ab>
+        <ab xml:id="d1e2654" n="15"> Illi autem clamabant : Tolle, tolle, crucifige eum. Dicit eis
+          Pilatus : Regem vestrum crucifigam ? Responderunt pontifices : Non habemus regem, nisi
+          Caesarem.</ab>
+        <ab xml:id="d1e2657" n="16"> Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt
+          autem Jesum, et eduxerunt.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2661" n="17"> Et bajulans sibi crucem exivit in eum, qui dicitur Calvariae
+          locum, hebraice autem Golgotha :</ab>
+        <ab xml:id="d1e2665" n="18"> ubi crucifixerunt eum, et cum eo alios duos hinc et hinc,
+          medium autem Jesum.</ab>
+        <ab xml:id="d1e2668" n="19"> Scripsit autem et titulum Pilatus, et posuit super crucem. Erat
+          autem scriptum : Jesus Nazarenus, Rex Judaeorum.</ab>
+        <ab xml:id="d1e2671" n="20"> Hunc ergo titulum multi Judaeorum legerunt : quia prope
+          civitatem erat locus, ubi crucifixus est Jesus, et erat scriptum hebraice, graece, et
+          latine.</ab>
+        <ab xml:id="d1e2674" n="21"> Dicebant ergo Pilato pontifices Judaeorum : Noli scribere : Rex
+          Judaeorum : sed quia ipse dixit : Rex sum Judaeorum.</ab>
+        <ab xml:id="d1e2677" n="22"> Respondit Pilatus : Quod scripsi, scripsi.</ab>
+        <ab xml:id="d1e2680" n="23"> Milites ergo cum crucifixissent eum, acceperunt vestimenta ejus
+          (et fecerunt quatuor partes, unicuique militi partem) et tunicam. Erat autem tunica
+          inconsutilis, desuper contexta per totum.</ab>
+        <ab xml:id="d1e2684" n="24"> Dixerunt ergo ad invicem : Non scindamus eam, sed sortiamur de
+          illa cujus sit. Ut Scriptura impleretur, dicens : Partiti sunt vestimenta mea sibi : et in
+          vestem meam miserunt sortem. Et milites quidem haec fecerunt.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2688" n="25"> Stabant autem juxta crucem Jesu mater ejus, et soror matris
+          ejus, Maria Cleophae, et Maria Magdalene.</ab>
+        <ab xml:id="d1e2691" n="26"> Cum vidisset ergo Jesus matrem, et discipulum stantem, quem
+          diligebat, dicit matri suae : Mulier, ecce filius tuus.</ab>
+        <ab xml:id="d1e2694" n="27"> Deinde dicit discipulo : Ecce mater tua. Et ex illa hora
+          accepit eam discipulus in sua.</ab>
+        <ab xml:id="d1e2697" n="28"> Postea sciens Jesus quia omnia consummata sunt, ut
+          consummaretur Scriptura, dixit : Sitio.</ab>
+        <ab xml:id="d1e2700" n="29"> Vas ergo erat positum aceto plenum. Illi autem spongiam plenam
+          aceto, hyssopo circumponentes, obtulerunt ori ejus.</ab>
+        <ab xml:id="d1e2704" n="30"> Cum ergo accepisset Jesus acetum, dixit : Consummatum est. Et
+          inclinato capite tradidit spiritum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2708" n="31"> Judaei ergo (quoniam parasceve erat) ut non remanerent in cruce
+          corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum ut frangerentur
+          eorum crura, et tollerentur.</ab>
+        <ab xml:id="d1e2711" n="32"> Venerunt ergo milites : et primi quidem fregerunt crura, et
+          alterius, qui crucifixus est cum eo.</ab>
+        <ab xml:id="d1e2714" n="33"> Ad Jesum autem cum venissent, ut viderunt eum jam mortuum, non
+          fregerunt ejus crura,</ab>
+        <ab xml:id="d1e2717" n="34"> sed unus militum lancea latus ejus aperuit, et continuo exivit
+          sanguis et aqua.</ab>
+        <ab xml:id="d1e2720" n="35"> Et qui vidit, testimonium perhibuit : et verum est testimonium
+          ejus. Et ille scit quia vera dicit : ut et vos credatis.</ab>
+        <ab xml:id="d1e2724" n="36"> Facta sunt enim haec ut Scriptura impleretur : Os non
+          comminuetis ex eo.</ab>
+        <ab xml:id="d1e2727" n="37"> Et iterum alia Scriptura dicit : Videbunt in quem
+            transfixerunt.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2731" n="38"> Post haec autem rogavit Pilatum Joseph ab Arimathaea (eo quod
+          esset discipulus Jesu, occultus autem propter metum Judaeorum), ut tolleret corpus Jesu.
+          Et permisit Pilatus. Venit ergo, et tulit corpus Jesu.</ab>
+        <ab xml:id="d1e2734" n="39"> Venit autem et Nicodemus, qui venerat ad Jesum nocte primum,
+          ferens mixturam myrrhae et aloës, quasi libras centum.</ab>
+        <ab xml:id="d1e2737" n="40"> Acceperunt ergo corpus Jesu, et ligaverunt illud linteis cum
+          aromatibus, sicut mos est Judaeis sepelire.</ab>
+        <ab xml:id="d1e2740" n="41"> Erat autem in loco, ubi crucifixus est, hortus : et in horto
+          monumentum novum, in quo nondum quisquam positus erat.</ab>
+        <ab xml:id="d1e2744" n="42"> Ibi ergo propter parasceven Judaeorum, quia juxta erat
+          monumentum, posuerunt Jesum.</ab>
+      </div>
+      <div xml:id="d1e2748" type="chap" n="20">
+        <ab xml:id="d1e2750" n="1"> Una autem sabbati, Maria Magdalene venit mane, cum adhuc
+          tenebrae essent, ad monumentum : et vidit lapidem sublatum a monumento.</ab>
+        <ab xml:id="d1e2753" n="2"> Cucurrit ergo, et venit ad Simonem Petrum, et ad alium
+          discipulum, quem amabat Jesus, et dicit illis : Tulerunt Dominum de monumento, et nescimus
+          ubi posuerunt eum.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2757" n="3"> Exiit ergo Petrus, et ille alius discipulus, et venerunt ad
+          monumentum.</ab>
+        <ab xml:id="d1e2760" n="4"> Currebant autem duo simul, et ille alius discipulus praecucurrit
+          citius Petro, et venit primus ad monumentum.</ab>
+        <ab xml:id="d1e2763" n="5"> Et cum se inclinasset, vidit posita linteamina : non tamen
+          introivit.</ab>
+        <ab xml:id="d1e2767" n="6"> Venit ergo Simon Petrus sequens eum, et introivit in monumentum,
+          et vidit linteamina posita,</ab>
+        <ab xml:id="d1e2770" n="7"> et sudarium, quod fuerat super caput ejus, non cum linteaminibus
+          positum, sed separatim involutum in unum locum.</ab>
+        <ab xml:id="d1e2773" n="8"> Tunc ergo introivit et ille discipulus qui venerat primus ad
+          monumentum : et vidit, et credidit :</ab>
+        <ab xml:id="d1e2776" n="9"> nondum enim sciebant Scripturam, quia oportebat eum a mortuis
+          resurgere.</ab>
+        <ab xml:id="d1e2779" n="10"> Abierunt ergo iterum discipuli ad semetipsos.<pc ana="#pilcrow"
+          />
+        </ab>
+        <ab xml:id="d1e2783" n="11"> Maria autem stabat ad monumentum foris, plorans. Dum ergo
+          fleret, inclinavit se, et prospexit in monumentum :</ab>
+        <ab xml:id="d1e2787" n="12"> et vidit duos angelos in albis sedentes, unum ad caput, et unum
+          ad pedes, ubi positum fuerat corpus Jesu.</ab>
+        <ab xml:id="d1e2790" n="13"> Dicunt ei illi : Mulier, quid ploras ? Dicit eis : Quia
+          tulerunt Dominum meum : et nescio ubi posuerunt eum.</ab>
+        <ab xml:id="d1e2793" n="14"> Haec cum dixisset, conversa est retrorsum, et vidit Jesum
+          stantem : et non sciebat quia Jesus est.</ab>
+        <ab xml:id="d1e2796" n="15"> Dicit ei Jesus : Mulier, quid ploras ? quem quaeris ? Illa
+          existimans quia hortulanus esset, dicit ei : Domine, si tu sustulisti eum, dicito mihi ubi
+          posuisti eum, et ego eum tollam.</ab>
+        <ab xml:id="d1e2799" n="16"> Dicit ei Jesus : Maria. Conversa illa, dicit ei : Rabboni (quod
+          dicitur Magister).</ab>
+        <ab xml:id="d1e2802" n="17"> Dicit ei Jesus : Noli me tangere, nondum enim ascendi ad Patrem
+          meum : vade autem ad fratres meos, et dic eis : Ascendo ad Patrem meum, et Patrem vestrum,
+          Deum meum, et Deum vestrum.</ab>
+        <ab xml:id="d1e2806" n="18"> Venit Maria Magdalene annuntians discipulis : Quia vidi
+          Dominum, et haec dixit mihi.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2810" n="19"> Cum ergo sero esset die illo, una sabbatorum, et fores essent
+          clausae, ubi erant discipuli congregati propter metum Judaeorum : venit Jesus, et stetit
+          in medio, et dixit eis : Pax vobis.</ab>
+        <ab xml:id="d1e2813" n="20"> Et cum hoc dixisset, ostendit eis manus et latus. Gavisi sunt
+          ergo discipuli, viso Domino.</ab>
+        <ab xml:id="d1e2816" n="21"> Dixit ergo eis iterum : Pax vobis. Sicut misit me Pater, et ego
+          mitto vos.</ab>
+        <ab xml:id="d1e2819" n="22"> Haec cum dixisset, insufflavit, et dixit eis : Accipite
+          Spiritum Sanctum :</ab>
+        <ab xml:id="d1e2822" n="23"> quorum remiseritis peccata, remittuntur eis : et quorum
+          retinueritis, retenta sunt.</ab>
+        <ab xml:id="d1e2826" n="24"> Thomas autem unus ex duodecim, qui dicitur Didymus, non erat
+          cum eis quando venit Jesus.</ab>
+        <ab xml:id="d1e2829" n="25"> Dixerunt ergo ei alii discipuli : Vidimus Dominum. Ille autem
+          dixit eis : Nisi videro in manibus ejus fixuram clavorum, et mittam digitum meum in locum
+          clavorum, et mittam manum meam in latus ejus, non credam.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2833" n="26"> Et post dies octo, iterum erant discipuli ejus intus, et Thomas
+          cum eis. Venit Jesus januis clausis, et stetit in medio, et dixit : Pax vobis.</ab>
+        <ab xml:id="d1e2836" n="27"> Deinde dicit Thomae : Infer digitum tuum huc, et vide manus
+          meas, et affer manum tuam, et mitte in latus meum : et noli esse incredulus, sed
+          fidelis.</ab>
+        <ab xml:id="d1e2839" n="28"> Respondit Thomas, et dixit ei : Dominus meus et Deus meus.</ab>
+        <ab xml:id="d1e2842" n="29"> Dixit ei Jesus : Quia vidisti me, Thoma, credidisti : beati qui
+          non viderunt, et crediderunt.</ab>
+        <ab xml:id="d1e2846" n="30"> Multa quidem et alia signa fecit Jesus in conspectu
+          discipulorum suorum, quae non sunt scripta in libro hoc.</ab>
+        <ab xml:id="d1e2849" n="31"> Haec autem scripta sunt ut credatis, quia Jesus est Christus
+          Filius Dei : et ut credentes, vitam habeatis in nomine ejus.</ab>
+      </div>
+      <div xml:id="d1e2853" type="chap" n="21">
+        <ab xml:id="d1e2855" n="1"> Postea manifestavit se iterum Jesus discipulis ad mare
+          Tiberiadis. Manifestavit autem sic :</ab>
+        <ab xml:id="d1e2858" n="2"> erant simul Simon Petrus, et Thomas, qui dicitur Didymus, et
+          Nathanaël, qui erat a Cana Galilaeae, et filii Zebedaei, et alii ex discipulis ejus
+          duo.</ab>
+        <ab xml:id="d1e2861" n="3"> Dicit eis Simon Petrus : Vado piscari. Dicunt ei : Venimus et
+          nos tecum. Et exierunt, et ascenderunt in navim : et illa nocte nihil prendiderunt.</ab>
+        <ab xml:id="d1e2864" n="4"> Mane autem facto stetit Jesus in littore : non tamen cognoverunt
+          discipuli quia Jesus est.</ab>
+        <ab xml:id="d1e2867" n="5"> Dixit ergo eis Jesus : Pueri, numquid pulmentarium habetis ?
+          Responderunt ei : Non.</ab>
+        <ab xml:id="d1e2871" n="6"> Dicit eis : Mittite in dexteram navigii rete, et invenietis.
+          Miserunt ergo : et jam non valebant illud trahere prae multitudine piscium.</ab>
+        <ab xml:id="d1e2874" n="7"> Dixit ergo discipulus ille, quem diligebat Jesus, Petro :
+          Dominus est. Simon Petrus cum audisset quia Dominus est, tunica succinxit se (erat enim
+          nudus) et misit se in mare.</ab>
+        <ab xml:id="d1e2877" n="8"> Alii autem discipuli navigio venerunt (non enim longe erant a
+          terra, sed quasi cubitis ducentis), trahentes rete piscium.</ab>
+        <ab xml:id="d1e2880" n="9"> Ut ergo descenderunt in terram, viderunt prunas positas, et
+          piscem superpositum, et panem.</ab>
+        <ab xml:id="d1e2883" n="10"> Dicit eis Jesus : Afferte de piscibus, quos prendidistis
+          nunc.</ab>
+        <ab xml:id="d1e2886" n="11"> Ascendit Simon Petrus et traxit rete in terram, plenum magnis
+          piscibus centum quinquaginta tribus. Et cum tanti essent, non est scissum rete.</ab>
+        <ab xml:id="d1e2890" n="12"> Dicit eis Jesus : Venite, prandete. Et nemo audebat
+          discumbentium interrogare eum : Tu quis es ? scientes, quia Dominus est.</ab>
+        <ab xml:id="d1e2893" n="13"> Et venit Jesus, et accipit panem, et dat eis, et piscem
+          similiter.</ab>
+        <ab xml:id="d1e2896" n="14"> Hoc jam tertio manifestatus est Jesus discipulis suis cum
+          resurrexisset a mortuis.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2900" n="15"> Cum ergo prandissent, dicit Simoni Petro Jesus : Simon Joannis,
+          diligis me plus his ? Dicit ei : Etiam Domine, tu scis quia amo te. Dicit ei : Pasce agnos
+          meos.</ab>
+        <ab xml:id="d1e2903" n="16"> Dicit ei iterum : Simon Joannis, diligis me ? Ait illi : Etiam
+          Domine, tu scis quia amo te. Dicit ei : Pasce agnos meos.</ab>
+        <ab xml:id="d1e2906" n="17"> Dicit ei tertio : Simon Joannis, amas me ? Contristatus est
+          Petrus, quia dixit ei tertio : Amas me ? et dixit ei : Domine, tu omnia nosti, tu scis
+          quia amo te. Dixit ei : Pasce oves meas.</ab>
+        <ab xml:id="d1e2910" n="18"> Amen, amen dico tibi : cum esses junior, cingebas te, et
+          ambulabas ubi volebas : cum autem senueris, extendes manus tuas, et alius te cinget, et
+          ducet quo tu non vis.</ab>
+        <ab xml:id="d1e2913" n="19"> Hoc autem dixit significans qua morte clarificaturus esset
+          Deum. Et cum hoc dixisset, dicit ei : Sequere me.<pc ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e2917" n="20"> Conversus Petrus vidit illum discipulum, quem diligebat Jesus,
+          sequentem, qui et recubuit in coena super pectus ejus, et dixit : Domine, quis est qui
+          tradet te ?</ab>
+        <ab xml:id="d1e2920" n="21"> Hunc ergo cum vidisset Petrus, dixit Jesu : Domine, hic autem
+          quid ?</ab>
+        <ab xml:id="d1e2923" n="22"> Dicit ei Jesus : Sic eum volo manere donec veniam, quid ad te ?
+          tu me sequere.</ab>
+        <ab xml:id="d1e2926" n="23"> Exiit ergo sermo iste inter fratres quia discipulus ille non
+          moritur. Et non dixit ei Jesus : Non moritur, sed : Sic eum volo manere donec veniam, quid
+          ad te ?</ab>
+        <ab xml:id="d1e2930" n="24"> Hic est discipulus ille qui testimonium perhibet de his, et
+          scripsit haec : et scimus quia verum est testimonium ejus.</ab>
+        <ab xml:id="d1e2933" n="25"> Sunt autem et alia multa quae fecit Jesus : quae si scribantur
+          per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>

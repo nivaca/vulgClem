@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I Paralipomenon</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+        <div xml:id="d1e31" type="chap" n="1">
+          <ab xml:id="d1e33" n="1"> Adam, Seth, Enos,</ab>
+          <ab xml:id="d1e36" n="2"> Cainan, Malaleel, Jared,</ab>
+          <ab xml:id="d1e39" n="3"> Henoch, Mathusale, Lamech,</ab>
+          <ab xml:id="d1e42" n="4"> Noë, Sem, Cham, et Japtheth.</ab>
+          <ab xml:id="d1e45" n="5"> Filii Japheth : Gomer, et Magog, et Madai, et Javan, Thubal,
+            Mosoch, Thiras.</ab>
+          <ab xml:id="d1e49" n="6"> Porro filii Gomer : Ascenez, et Riphath, et Thogorma.</ab>
+          <ab xml:id="d1e52" n="7"> Filii autem Javan : Elisa et Tharsis, Cethim et Dodanim.</ab>
+          <ab xml:id="d1e55" n="8"> Filii Cham : Chus, et Mesraim, et Phut, et Chanaan.</ab>
+          <ab xml:id="d1e58" n="9"> Filii autem Chus : Saba, et Hevila, Sabatha, et Regma, et
+            Sabathacha. Porro filii Regma : Saba, et Dadan.</ab>
+          <ab xml:id="d1e61" n="10"> Chus autem genuit Nemrod : iste coepit esse potens in
+            terra.</ab>
+          <ab xml:id="d1e64" n="11"> Mesraim vero genuit Ludim, et Anamim, et Laabim, et
+            Nephtuim,</ab>
+          <ab xml:id="d1e68" n="12"> Phetrusim quoque, et Casluim : de quibus egressi sunt
+            Philisthiim, et Caphtorim.</ab>
+          <ab xml:id="d1e71" n="13"> Chanaan vero genuit Sidonem primogenitum suum, Hethaeum
+            quoque,</ab>
+          <ab xml:id="d1e74" n="14"> et Jebusaeum, et Amorrhaeum, et Gergesaeum,</ab>
+          <ab xml:id="d1e77" n="15"> Hevaeumque et Aracaeum, et Sinaeum.</ab>
+          <ab xml:id="d1e80" n="16"> Aradium quoque, et Samaraeum, et Hamathaeum.</ab>
+          <ab xml:id="d1e83" n="17"> Filii Sem : Aelam, et Assur, et Arphaxad, et Lud, et Aram, et
+            Hus, et Hul, et Gether, et Mosoch.</ab>
+          <ab xml:id="d1e87" n="18"> Arphaxad autem genuit Sale, qui et ipse genuit Heber.</ab>
+          <ab xml:id="d1e90" n="19"> Porro Heber nati sunt duo filii : nomen uni Phaleg, quia in
+            diebus ejus divisa est terra ; et nomen fratris ejus Jectan.</ab>
+          <ab xml:id="d1e93" n="20"> Jectan autem genuit Elmodad, et Saleph, et Asarmoth, et
+            Jare,</ab>
+          <ab xml:id="d1e96" n="21"> Adoram quoque, et Huzal, et Decla,</ab>
+          <ab xml:id="d1e99" n="22"> Hebal etiam, et Abimaël, et Saba, necnon</ab>
+          <ab xml:id="d1e102" n="23"> et Ophir, et Hevila, et Jobab : omnes isti filii Jectan.</ab>
+          <ab xml:id="d1e106" n="24"> Sem, Arphaxad, Sale,</ab>
+          <ab xml:id="d1e109" n="25"> Heber, Phaleg, Ragau,</ab>
+          <ab xml:id="d1e112" n="26"> Serug, Nachor, Thare,</ab>
+          <ab xml:id="d1e115" n="27"> Abram : iste est Abraham.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e119" n="28"> Filii autem Abraham, Isaac et Ismahel.</ab>
+          <ab xml:id="d1e122" n="29"> Et hae generationes eorum. Primogenitus Ismahelis, Nabaioth,
+            et Cedar, et Adbeel, et Mabsam,</ab>
+          <ab xml:id="d1e126" n="30"> et Masma, et Duma, Massa, Hadad, et Thema,</ab>
+          <ab xml:id="d1e129" n="31"> Jetur, Naphis, Cedma : hi sunt filii Ismahelis.</ab>
+          <ab xml:id="d1e132" n="32"> Filii autem Ceturae concubinae Abraham, quos genuit : Zamran,
+            Jecsan, Madan, Madian, Jesboc, et Sue. Porro filii Jecsan : Saba, et Dadan. Filii autem
+            Dadan : Assurim, et Latussim, et Laomim.</ab>
+          <ab xml:id="d1e135" n="33"> Filii autem Madian : Epha, et Epher, et Henoch, et Abida, et
+            Eldaa : omnes hi filii Ceturae.</ab>
+          <ab xml:id="d1e138" n="34"> Genuit autem Abraham Isaac : cujus fuerunt filii Esau, et
+            Israël.</ab>
+          <ab xml:id="d1e141" n="35"> Filii Esau : Eliphaz, Rahuel, Jehus, Ihelom, et Core.</ab>
+          <ab xml:id="d1e145" n="36"> Filii Eliphaz : Theman, Omar, Sephi, Gathan, Cenez, Thamna,
+            Amalec.</ab>
+          <ab xml:id="d1e148" n="37"> Filii Rahuel : Nahath, Zara, Samma, Meza.</ab>
+          <ab xml:id="d1e151" n="38"> Filii Seir : Lotan, Sobal, Sebeon, Ana, Dison, Eser,
+            Disan.</ab>
+          <ab xml:id="d1e154" n="39"> Filii Lotan : Hori, Homam. Soror autem Lotan fuit Thamna.</ab>
+          <ab xml:id="d1e157" n="40"> Filii Sobal : Alian, et Manahath, et Ebal, Sephi et Onam.
+            Filii Sebeon : Aja et Ana. Filii Ana : Dison.</ab>
+          <ab xml:id="d1e160" n="41"> Filii Dison : Hamram, et Heseban, et Jethran, et Charan.</ab>
+          <ab xml:id="d1e164" n="42"> Filii Eser : Balaan, et Zavan, et Jacan. Filii Disan : Hus et
+              Aran.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e168" n="43"> Isti sunt reges qui imperaverunt in terra Edom, antequam esset
+            rex super filios Israël. Bale filius Beor : et nomen civitatis ejus, Denaba.</ab>
+          <ab xml:id="d1e171" n="44"> Mortuus est autem Bale, et regnavit pro eo Jobab filius Zare
+            de Bosra.</ab>
+          <ab xml:id="d1e174" n="45"> Cumque et Jobab fuisset mortuus, regnavit pro eo Husam de
+            terra Themanorum.</ab>
+          <ab xml:id="d1e177" n="46"> Obiit quoque et Husam, et regnavit pro eo Adad filius Badad,
+            qui percussit Madian in terra Moab : et nomen civitatis ejus Avith.</ab>
+          <ab xml:id="d1e180" n="47"> Cumque et Adad fuisset mortuus, regnavit pro eo Semla de
+            Masreca.</ab>
+          <ab xml:id="d1e184" n="48"> Sed et Semla mortuus est, et regnavit pro eo Saul de Rohoboth,
+            quae juxta amnem sita est.</ab>
+          <ab xml:id="d1e187" n="49"> Mortuo quoque Saul, regnavit pro eo Balanan filius
+            Achobor.</ab>
+          <ab xml:id="d1e190" n="50"> Sed et hic mortuus est, et regnavit pro eo Adad : cujus urbis
+            nomen fuit Phau, et appellata est uxor ejus Meetabel filia Matred filiae Mezaab.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e194" n="51"> Adad autem mortuo, duces pro regibus in Edom esse coeperunt :
+            dux Thamna, dux Alva, dux Jetheth,</ab>
+          <ab xml:id="d1e197" n="52"> dux Oolibama, dux Ela, dux Phinon,</ab>
+          <ab xml:id="d1e200" n="53"> dux Cenez, dux Theman, dux Mabsar,</ab>
+          <ab xml:id="d1e204" n="54"> dux Magdiel, dux Hiram : hi duces Edom.</ab>
+        </div>
+        <div xml:id="d1e208" type="chap" n="2">
+          <ab xml:id="d1e210" n="1"> Filii autem Israël : Ruben, Simeon, Levi, Juda, Issachar, et
+            Zabulon,</ab>
+          <ab xml:id="d1e213" n="2"> Dan, Joseph, Benjamin, Nephthali, Gad, et Aser.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e217" n="3"> Filii Juda : Her, Onan, et Sela : hi tres nati sunt ei de filia
+            Sue Chananitide. Fuit autem Her primogenitus Juda malus coram Domino, et occidit
+            eum.</ab>
+          <ab xml:id="d1e220" n="4"> Thamar autem nurus ejus peperit ei Phares et Zara : omnes ergo
+            filii Juda, quinque.</ab>
+          <ab xml:id="d1e223" n="5"> Filii autem Phares : Hesron et Hamul.</ab>
+          <ab xml:id="d1e227" n="6"> Filii quoque Zarae : Zamri, et Ethan, et Eman, Chalchal quoque,
+            et Dara, simul quinque.</ab>
+          <ab xml:id="d1e230" n="7"> Filii Charmi : Achar, qui turbavit Israël, et peccavit in furto
+            anathematis.</ab>
+          <ab xml:id="d1e233" n="8"> Filii Ethan : Azarias.</ab>
+          <ab xml:id="d1e236" n="9"> Filii autem Hesron qui nati sunt ei : Jerameel, et Ram, et
+            Calubi.</ab>
+          <ab xml:id="d1e239" n="10"> Porro Ram genuit Aminadab. Aminadab autem genuit Nahasson,
+            principem filiorum Juda.</ab>
+          <ab xml:id="d1e242" n="11"> Nahasson quoque genuit Salma, de quo ortus est Booz.</ab>
+          <ab xml:id="d1e246" n="12"> Booz vero genuit Obed, qui et ipse genuit Isai.</ab>
+          <ab xml:id="d1e249" n="13"> Isai autem genuit primogenitum Eliab, secundum Abinadab,
+            tertium Simmaa,</ab>
+          <ab xml:id="d1e252" n="14"> quartum Nathanaël, quintum Raddai,</ab>
+          <ab xml:id="d1e255" n="15"> sextum Asom, septimum David.</ab>
+          <ab xml:id="d1e258" n="16"> Quorum sorores fuerunt Sarvia et Abigail. Filii Sarviae :
+            Abisai, Joab, et Asaël, tres.</ab>
+          <ab xml:id="d1e261" n="17"> Abigail autem genuit Amasa, cujus pater fuit Jether
+            Ismahelites.</ab>
+          <ab xml:id="d1e265" n="18"> Caleb vero filius Hesron accepit uxorem nomine Azuba, de qua
+            genuit Jerioth : fueruntque filii ejus Jaser, et Sobab, et Ardon.</ab>
+          <ab xml:id="d1e268" n="19"> Cumque mortua fuisset Azuba, accepit uxorem Caleb Ephratha,
+            quae peperit ei Hur.</ab>
+          <ab xml:id="d1e271" n="20"> Porro Hur genuit Uri, et Uri genuit Bezeleel.</ab>
+          <ab xml:id="d1e274" n="21"> Post haec ingressus est Hesron ad filiam Machir patris Galaad,
+            et accepit eam cum esset annorum sexaginta : quae peperit ei Segub.</ab>
+          <ab xml:id="d1e277" n="22"> Sed et Segub genuit Jair, et possedit viginti tres civitates
+            in terra Galaad.</ab>
+          <ab xml:id="d1e280" n="23"> Cepitque Gessur et Aram oppida Jair, et Canath, et viculos
+            ejus sexaginta civitatum : omnes isti filii Machir patris Galaad.</ab>
+          <ab xml:id="d1e284" n="24"> Cum autem mortuus esset Hesron, ingressus est Caleb ad
+            Ephratha. Habuit quoque Hesron uxorem Abia, quae peperit ei Assur patrem Thecuae.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e288" n="25"> Nati sunt autem filii Jerameel primogeniti Hesron, Ram
+            primogenitus ejus, et Buna, et Aram, et Asom, et Achia.</ab>
+          <ab xml:id="d1e291" n="26"> Duxit quoque uxorem alteram Jerameel, nomine Atara, quae fuit
+            mater Onam.</ab>
+          <ab xml:id="d1e294" n="27"> Sed et filii Ram primogeniti Jerameel fuerunt Moos, Jamin, et
+            Achar.</ab>
+          <ab xml:id="d1e297" n="28"> Onam autem habuit filios Semei et Jada. Filii autem Semei :
+            Nadab et Abisur.</ab>
+          <ab xml:id="d1e300" n="29"> Nomen vero uxoris Abisur, Abihail, quae peperit ei Ahobban et
+            Molid.</ab>
+          <ab xml:id="d1e304" n="30"> Filii autem Nadab fuerunt Saled et Apphaim. Mortuus est autem
+            Saled absque liberis.</ab>
+          <ab xml:id="d1e307" n="31"> Filius vero Apphaim, Jesi : qui Jesi genuit Sesan. Porro Sesan
+            genuit Oholai.</ab>
+          <ab xml:id="d1e310" n="32"> Filii autem Jada fratris Semei : Jether, et Jonathan. Sed et
+            Jether mortuus est absque liberis.</ab>
+          <ab xml:id="d1e313" n="33"> Porro Jonathan genuit Phaleth, et Ziza. Isti fuerunt filii
+            Jerameel.</ab>
+          <ab xml:id="d1e316" n="34"> Sesan autem non habuit filios, sed filias : et servum
+            aegyptium nomine Jeraa.</ab>
+          <ab xml:id="d1e319" n="35"> Deditque ei filiam suam uxorem : quae peperit ei Ethei.</ab>
+          <ab xml:id="d1e323" n="36"> Ethei autem genuit Nathan, et Nathan genuit Zabad.</ab>
+          <ab xml:id="d1e326" n="37"> Zabad quoque genuit Ophlal, et Ophlal genuit Obed.</ab>
+          <ab xml:id="d1e329" n="38"> Obed genuit Jehu, Jehu genuit Azariam,</ab>
+          <ab xml:id="d1e332" n="39"> Azarias genuit Helles, et Helles genuit Elasa.</ab>
+          <ab xml:id="d1e335" n="40"> Elasa genuit Sisamoi, Sisamoi genuit Sellum,</ab>
+          <ab xml:id="d1e338" n="41"> Sellum genuit Icamiam, Icamia autem genuit Elisama.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e343" n="42"> Filii autem Caleb fratris Jerameel : Mesa primogenitus ejus ;
+            ipse est pater Ziph : et filii Maresa patris Hebron.</ab>
+          <ab xml:id="d1e346" n="43"> Porro filii Hebron, Core, et Taphua, et Recem, et Samma.</ab>
+          <ab xml:id="d1e349" n="44"> Samma autem genuit Raham, patrem Jercaam, et Recem genuit
+            Sammai.</ab>
+          <ab xml:id="d1e352" n="45"> Filius Sammai, Maon : et Maon pater Bethsur.</ab>
+          <ab xml:id="d1e355" n="46"> Epha autem concubina Caleb peperit Haran, et Mosa, et Gezez.
+            Porro Haran genuit Gezez.</ab>
+          <ab xml:id="d1e358" n="47"> Filii autem Jahaddai, Regom, et Joathan, et Gesan, et Phalet,
+            et Epha, et Saaph.</ab>
+          <ab xml:id="d1e362" n="48"> Concubina Caleb Maacha, peperit Saber, et Tharana.</ab>
+          <ab xml:id="d1e365" n="49"> Genuit autem Saaph pater Madmena Sue, patrem Machbena et
+            patrem Gabaa. Filia vero Caleb fuit Achsa.</ab>
+          <ab xml:id="d1e368" n="50"> Hi erant filii Caleb, filii Hur primogeniti Ephratha, Sobal
+            pater Cariathiarim.</ab>
+          <ab xml:id="d1e371" n="51"> Salma pater Bethlehem, Hariph pater Bethgader.</ab>
+          <ab xml:id="d1e374" n="52"> Fuerunt autem filii Sobal patris Cariathiarim, qui videbat
+            dimidium requietionum.</ab>
+          <ab xml:id="d1e377" n="53"> Et de cognatione Cariathiarim, Jethrei, et Aphuthei, et
+            Semathei, et Maserei. Ex his egressi sunt Saraitae, et Esthaolitae.</ab>
+          <ab xml:id="d1e381" n="54"> Filii Salma, Bethlehem, et Netophathi, coronae domus Joab, et
+            dimidium requietionis Sarai :</ab>
+          <ab xml:id="d1e384" n="55"> cognationes quoque scribarum habitantium in Jabes, canentes
+            atque resonantes, et in tabernaculis commorantes. Hi sunt Cinaei, qui venerunt de Calore
+            patris domus Rechab.</ab>
+        </div>
+        <div xml:id="d1e388" type="chap" n="3">
+          <ab xml:id="d1e390" n="1"> David vero hos habuit filios, qui ei nati sunt in Hebron :
+            primogenitum Amnon ex Achinoam Jezrahelitide, secundum Daniel de Abigail
+            Carmelitide,</ab>
+          <ab xml:id="d1e393" n="2"> tertium Absalom filium Maacha filiae Tholmai regis Gessur,
+            quartum Adoniam filium Aggith,</ab>
+          <ab xml:id="d1e396" n="3"> quintum Saphathiam ex Abital, sextum Jethraham de Egla uxore
+            sua.</ab>
+          <ab xml:id="d1e399" n="4"> Sex ergo nati sunt ei in Hebron, ubi regnavit septem annis et
+            sex mensibus. Triginta autem et tribus annis regnavit in Jerusalem.</ab>
+          <ab xml:id="d1e402" n="5"> Porro in Jerusalem nati sunt ei filii, Simmaa, et Sobab, et
+            Nathan, et Salomon, quatuor de Bethsabee filia Ammiel :</ab>
+          <ab xml:id="d1e406" n="6"> Jebaar quoque et Elisama,</ab>
+          <ab xml:id="d1e409" n="7"> et Eliphaleth, et Noge, et Nepheg, et Japhia,</ab>
+          <ab xml:id="d1e412" n="8"> necnon Elisama, et Eliada, et Elipheleth, novem :</ab>
+          <ab xml:id="d1e415" n="9"> omnes hi, filii David absque filiis concubinarum : habueruntque
+            sororem Thamar.</ab>
+          <ab xml:id="d1e418" n="10"> Filius autem Salomonis, Roboam : cujus Abia filius genuit Asa.
+            De hoc quoque natus est Josaphat,</ab>
+          <ab xml:id="d1e421" n="11"> pater Joram : qui Joram genuit Ochoziam, ex quo ortus est Joas
+            :</ab>
+          <ab xml:id="d1e425" n="12"> et hujus Amasias filius genuit Azariam. Porro Azariae filius
+            Joatham</ab>
+          <ab xml:id="d1e428" n="13"> procreavit Achaz patrem Ezechiae, de quo natus est
+            Manasses.</ab>
+          <ab xml:id="d1e431" n="14"> Sed et Manasses genuit Amon patrem Josiae.</ab>
+          <ab xml:id="d1e434" n="15"> Filii autem Josiae fuerunt : primogenitus Johanan, secundus
+            Joakim, tertius Sedecias, quartus Sellum.</ab>
+          <ab xml:id="d1e437" n="16"> De Joakim natus est Jechonias, et Sedecias.</ab>
+          <ab xml:id="d1e440" n="17"> Filii Jechoniae fuerunt : Asir, Salathiel,</ab>
+          <ab xml:id="d1e444" n="18"> Melchiram, Phadaia, Senneser, et Jecemia, Sama, et
+            Nadabia.</ab>
+          <ab xml:id="d1e447" n="19"> De Phadaia orti sunt Zorobabel et Semei. Zorobabel genuit
+            Mosollam, Hananiam, et Salomith sororem eorum :</ab>
+          <ab xml:id="d1e450" n="20"> Hasaban quoque, et Ohol, et Barachian, et Hasadian,
+            Josabhesed, quinque.</ab>
+          <ab xml:id="d1e453" n="21"> Filius autem Hananiae, Phaltias pater Jeseiae, cujus filius
+            Raphaia : hujus quoque filius, Arnan, de quo natus est Obdia, cujus filius fuit
+            Sechenias.</ab>
+          <ab xml:id="d1e456" n="22"> Filius Secheniae, Semeia : cujus filii Hattus, et Jegaal, et
+            Baria, et Naaria, et Saphat, sex numero.</ab>
+          <ab xml:id="d1e459" n="23"> Filius Naariae, Elioënai, et Ezechias, et Ezricam, tres.</ab>
+          <ab xml:id="d1e463" n="24"> Filii Elioënai, Oduia, et Eliasub, et Pheleia, et Accub, et
+            Johanan, et Dalaia, et Anani, septem.</ab>
+        </div>
+        <div xml:id="d1e467" type="chap" n="4">
+          <ab xml:id="d1e469" n="1"> Filii Juda : Phares, Hesron, et Charmi, et Hur, et Sobal.</ab>
+          <ab xml:id="d1e472" n="2"> Raia vero filius Sobal genuit Jahath, de quo nati sunt Ahumai,
+            et Laad : hae cognationes Sarathi.</ab>
+          <ab xml:id="d1e475" n="3"> Ista quoque stirps Etam : Jezrahel, et Jesema, et Jedebos.
+            Nomen quoque sororis eorum, Asalelphuni.</ab>
+          <ab xml:id="d1e478" n="4"> Phanuel autem pater Gedor, et Ezer pater Hosa : isti sunt filii
+            Hur primogeniti Ephratha patris Bethlehem.</ab>
+          <ab xml:id="d1e481" n="5"> Assur vero patri Thecuae erant duae uxores, Halaa et
+            Naara.</ab>
+          <ab xml:id="d1e485" n="6"> Peperit autem ei Naara, Oozam, et Hepher, et Themani, et
+            Ahasthari : isti sunt filii Naara.</ab>
+          <ab xml:id="d1e488" n="7"> Porro filii Halaa, Sereth, Isaar et Ethnan.</ab>
+          <ab xml:id="d1e491" n="8"> Cos autem genuit Anob, et Soboba, et cognationem Aharehel filii
+            Arum.</ab>
+          <ab xml:id="d1e494" n="9"> Fuit autem Jabes inclytus prae fratribus suis, et mater ejus
+            vocavit nomen illius Jabes, dicens : Quia peperi eum in dolore.</ab>
+          <ab xml:id="d1e497" n="10"> Invocavit vero Jabes Deum Israël, dicens : Si benedicens
+            benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me
+            a malitia non opprimi. Et praestitit Deus quae precatus est.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e501" n="11"> Caleb autem frater Sua genuit Mahir, qui fuit pater
+            Esthon.</ab>
+          <ab xml:id="d1e505" n="12"> Porro Esthon genuit Bethrapha, et Phesse, et Tehinna patrem
+            urbis Naas : hi sunt viri Recha.</ab>
+          <ab xml:id="d1e508" n="13"> Filii autem Cenez, Othoniel, et Saraia. Porro filii Othoniel,
+            Hathath, et Maonathi.</ab>
+          <ab xml:id="d1e511" n="14"> Maonathi genuit Ophra, Saraia autem genuit Joab patrem Vallis
+            artificum : ibi quippe artifices erant.</ab>
+          <ab xml:id="d1e514" n="15"> Filii vero Caleb filii Jephone, Hir, et Ela, et Naham. Filii
+            quoque Ela : Cenez.</ab>
+          <ab xml:id="d1e517" n="16"> Filii quoque Jaleleel : Ziph, et Zipha, Thiria, et
+            Asraël.</ab>
+          <ab xml:id="d1e520" n="17"> Et filii Ezra, Jether, et Mered, et Epher, et Jalon, genuitque
+            Mariam, et Sammai, et Jesba patrem Esthamo.</ab>
+          <ab xml:id="d1e524" n="18"> Uxor quoque ejus Judaia, peperit Jared patrem Gedor, et Heber
+            patrem Socho, et Icuthiel patrem Zanoë : hi autem filii Bethiae filiae Pharaonis, quam
+            accepit Mered.</ab>
+          <ab xml:id="d1e527" n="19"> Et filii uxoris Odaiae sororis Naham patris Ceila, Garmi, et
+            Esthamo, qui fuit de Machathi.</ab>
+          <ab xml:id="d1e530" n="20"> Filii quoque Simon, Amnon, et Rinna filius Hanan, et Thilon.
+            Et filii Jesi, Zoheth, et Benzoheth.</ab>
+          <ab xml:id="d1e533" n="21"> Filii Sela, filii Juda : Her pater Lecha, et Laada pater
+            Maresa, et cognationes domus operantium byssum in domo juramenti.</ab>
+          <ab xml:id="d1e536" n="22"> Et qui stare fecit solem, virique Mendacii, et Securus, et
+            Incendens, qui principes fuerunt in Moab, et qui reversi sunt in Lahem : haec autem
+            verba vetera.</ab>
+          <ab xml:id="d1e539" n="23"> Hi sunt figuli habitantes in plantationibus et in sepibus,
+            apud regem in operibus ejus : commoratique sunt ibi.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e544" n="24"> Filii Simeon : Namuel et Jamin, Jarib, Zara, Saul.</ab>
+          <ab xml:id="d1e547" n="25"> Sellum filius ejus, Mapsam filius ejus, Masma filius
+            ejus.</ab>
+          <ab xml:id="d1e550" n="26"> Filii Masma : Hamuel filius ejus, Zachur filius ejus, Semei
+            filius ejus.</ab>
+          <ab xml:id="d1e553" n="27"> Filii Semei sedecim, et filiae sex : fratres autem ejus non
+            habuerunt filios multos, et universa cognatio non potuit adaequare summam filiorum
+            Juda.</ab>
+          <ab xml:id="d1e556" n="28"> Habitaverunt autem in Bersabee, et Molada, et Hasarsuhal,</ab>
+          <ab xml:id="d1e559" n="29"> et in Bala, et in Asom, et in Tholad,</ab>
+          <ab xml:id="d1e563" n="30"> et in Bathuel, et in Horma, et in Siceleg,</ab>
+          <ab xml:id="d1e566" n="31"> et in Bethmarchaboth, et in Hasarsusim, et in Bethberai, et in
+            Saarim : hae civitates eorum usque ad regem David.</ab>
+          <ab xml:id="d1e569" n="32"> Villae quoque eorum : Etam, et Aën, Remmon, et Thochen, et
+            Asan, civitates quinque.</ab>
+          <ab xml:id="d1e572" n="33"> Et universi viculi eorum per circuitum civitatum istarum usque
+            ad Baal : haec est habitatio eorum, et sedium distributio.</ab>
+          <ab xml:id="d1e575" n="34"> Mosobab quoque et Jemlech, et Josa filius Amasiae,</ab>
+          <ab xml:id="d1e578" n="35"> et Joël, et Jehu filius Josabiae filii Saraiae filii
+            Asiel,</ab>
+          <ab xml:id="d1e582" n="36"> et Elioënai, et Jacoba, et Isuhaia, et Asaia, et Adiel, et
+            Ismiel, et Banaia,</ab>
+          <ab xml:id="d1e585" n="37"> Ziza quoque filius Sephei filii Allon filii Idaia filii Semri
+            filii Samaia.</ab>
+          <ab xml:id="d1e588" n="38"> Isti sunt nominati principes in cognationibus suis, et in domo
+            affinitatum suarum multiplicati sunt vehementer.</ab>
+          <ab xml:id="d1e591" n="39"> Et profecti sunt ut ingrederentur in Gador usque ad orientem
+            vallis, et ut quaererent pascua gregibus suis.</ab>
+          <ab xml:id="d1e594" n="40"> Inveneruntque pascuas uberes, et valde bonas, et terram
+            latissimam et quietam et fertilem, in qua ante habitaverant de stirpe Cham.</ab>
+          <ab xml:id="d1e597" n="41"> Hi ergo venerunt, quos supra descripsimus nominatim, in diebus
+            Ezechiae regis Juda : et percusserunt tabernacula eorum, et habitatores qui inventi
+            fuerant ibi, et deleverunt eos usque in praesentem diem : habitaveruntque pro eis,
+            quoniam uberrimas pascuas ibidem repererunt.</ab>
+          <ab xml:id="d1e601" n="42"> De filiis quoque Simeon abierunt in montem Seir viri
+            quingenti, habentes principes Phalthiam et Naariam et Raphaiam et Oziel filios Jesi
+            :</ab>
+          <ab xml:id="d1e604" n="43"> et percusserunt reliquias, quae evadere potuerant,
+            Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.</ab>
+        </div>
+        <div xml:id="d1e608" type="chap" n="5">
+          <ab xml:id="d1e610" n="1"> Filii quoque Ruben primogeniti Israël. (Ipse quippe fuit
+            primogenitus ejus : sed cum violasset thorum patris sui, data sunt primogenita ejus
+            filiis Joseph filii Israël, et non est ille reputatus in primogenitum.</ab>
+          <ab xml:id="d1e613" n="2"> Porro Judas, qui erat fortissimus inter fratres suos, de stirpe
+            ejus principes germinati sunt : primogenita autem reputata sunt Joseph.)</ab>
+          <ab xml:id="d1e616" n="3"> Filii ergo Ruben primogeniti Israël : Enoch, et Phallu, Esron,
+            et Carmi.</ab>
+          <ab xml:id="d1e619" n="4"> Filii Joël : Samia filius ejus, Gog filius ejus, Semei filius
+            ejus,</ab>
+          <ab xml:id="d1e622" n="5"> Micha filius ejus, Reia filius ejus, Baal filius ejus,</ab>
+          <ab xml:id="d1e626" n="6"> Beera filius ejus, quem captivum duxit Thelgathphalnasar rex
+            Assyriorum, et fuit princeps in tribu Ruben.</ab>
+          <ab xml:id="d1e629" n="7"> Fratres autem ejus, et universa cognatio ejus, quando
+            numerabantur per familias suas, habuerunt principes Jehiel, et Zachariam.</ab>
+          <ab xml:id="d1e632" n="8"> Porro Bala filius Azaz filii Samma filii Joël, ipse habitavit
+            in Aroër usque ad Nebo, et Beelmeon.</ab>
+          <ab xml:id="d1e635" n="9"> Contra orientalem quoque plagam habitavit usque ad introitum
+            eremi, et flumen Euphraten. Multum quippe jumentorum numerum possidebant in terra
+            Galaad.</ab>
+          <ab xml:id="d1e638" n="10"> In diebus autem Saul praeliati sunt contra Agareos, et
+            interfecerunt illos, habitaveruntque pro eis in tabernaculis eorum, in omni plaga quae
+            respicit ad orientem Galaad.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e642" n="11"> Filii vero Gad e regione eorum habitaverunt in terra Basan
+            usque Selcha :</ab>
+          <ab xml:id="d1e646" n="12"> Joël in capite, et Saphan secundus : Janai autem et Saphat in
+            Basan.</ab>
+          <ab xml:id="d1e649" n="13"> Fratres vero eorum secundum domos cognationum suarum, Michaël,
+            et Mosollam, et Sebe, et Jorai, et Jachan, et Zie, et Heber, septem.</ab>
+          <ab xml:id="d1e652" n="14"> Hi filii Abihail, filii Huri, filii Jara, filii Galaad, filii
+            Michaël, filii Jesesi, filii Jeddo, filii Buz.</ab>
+          <ab xml:id="d1e655" n="15"> Fratres quoque, filii Abdiel filii Guni, princeps domus in
+            familiis suis.</ab>
+          <ab xml:id="d1e658" n="16"> Et habitaverunt in Galaad, et in Basan, et in viculis ejus, et
+            in cunctis suburbanis Saron, usque ad terminos.</ab>
+          <ab xml:id="d1e661" n="17"> Omnes hi numerati sunt in diebus Joathan regis Juda, et in
+            diebus Jeroboam regis Israël.</ab>
+          <ab xml:id="d1e665" n="18"> Filii Ruben, et Gad, et dimidiae tribus Manasse, viri
+            bellatores, scuta portantes et gladios, et tendentes arcum, eruditique ad praelia,
+            quadraginta quatuor millia et septingenti sexaginta, procedentes ad pugnam.</ab>
+          <ab xml:id="d1e668" n="19"> Dimicaverunt contra Agareos : Ituraei vero, et Naphis, et
+            Nodab</ab>
+          <ab xml:id="d1e671" n="20"> praebuerunt eis auxilium. Traditique sunt in manus eorum
+            Agarei, et universi qui fuerant cum eis, quia Deum invocaverunt cum praeliarentur : et
+            exaudivit eos, eo quod credidissent in eum.</ab>
+          <ab xml:id="d1e674" n="21"> Ceperuntque omnia quae possederant, camelorum quinquaginta
+            millia, et ovium ducenta quinquaginta millia, et asinos duo millia, et animas hominum
+            centum millia.</ab>
+          <ab xml:id="d1e677" n="22"> Vulnerati autem multi corruerunt : fuit enim bellum Domini.
+            Habitaveruntque pro eis usque ad transmigrationem.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e681" n="23"> Filii quoque dimidiae tribus Manasse possederunt terram a
+            finibus Basan usque Baal, Hermon, et Sanir, et montem Hermon : ingens quippe numerus
+            erat.</ab>
+          <ab xml:id="d1e685" n="24"> Et hi fuerunt principes domus cognationis eorum : Epher, et
+            Jesi, et Eliel, et Ezriel, et Jeremia, et Odoia, et Jediel, viri fortissimi et potentes,
+            et nominati duces in familiis suis.</ab>
+          <ab xml:id="d1e688" n="25"> Reliquerunt autem Deum patrum suorum, et fornicati sunt post
+            deos populorum terrae, quos abstulit Deus coram eis.</ab>
+          <ab xml:id="d1e691" n="26"> Et suscitavit Deus Israël spiritum Phul regis Assyriorum, et
+            spiritum Thelgathphalnasar regis Assur : et transtulit Ruben, et Gad, et dimidiam tribum
+            Manasse, et adduxit eos in Lahela, et in Habor, et Ara, et fluvium Gozan, usque ad diem
+            hanc.</ab>
+        </div>
+        <div xml:id="d1e696" type="chap" n="6">
+          <ab xml:id="d1e698" n="1"> Filii Levi : Gerson, Caath, et Merari.</ab>
+          <ab xml:id="d1e701" n="2"> Filii Caath : Amram, Isaar, Hebron, et Oziel.</ab>
+          <ab xml:id="d1e704" n="3"> Filii Amram : Aaron, Moyses, et Maria. Filii Aaron : Nadab et
+            Abiu, Eleazar, et Ithamar.</ab>
+          <ab xml:id="d1e707" n="4"> Eleazar genuit Phinees, et Phinees genuit Abisue.</ab>
+          <ab xml:id="d1e710" n="5"> Abisue vero genuit Bocci, et Bocci genuit Ozi.</ab>
+          <ab xml:id="d1e714" n="6"> Ozi genuit Zaraiam, et Zaraias genuit Meraioth.</ab>
+          <ab xml:id="d1e717" n="7"> Porro Meraioth genuit Amariam, et Amarias genuit Achitob.</ab>
+          <ab xml:id="d1e720" n="8"> Achitob genuit Sadoc, et Sadoc genuit Achimaas,</ab>
+          <ab xml:id="d1e723" n="9"> Achimaas genuit Azariam, Azarias genuit Johanan,</ab>
+          <ab xml:id="d1e726" n="10"> Johanan genuit Azariam : ipse est qui sacerdotio functus est
+            in domo quam aedificavit Salomon in Jerusalem.</ab>
+          <ab xml:id="d1e729" n="11"> Genuit autem Azarias Amariam, et Amarias genuit Achitob,</ab>
+          <ab xml:id="d1e733" n="12"> Achitob genuit Sadoc, et Sadoc genuit Sellum,</ab>
+          <ab xml:id="d1e736" n="13"> Sellum genuit Helciam, et Helcias genuit Azariam,</ab>
+          <ab xml:id="d1e739" n="14"> Azarias genuit Saraiam, et Saraias genuit Josedec.</ab>
+          <ab xml:id="d1e742" n="15"> Porro Josedec egressus est, quando transtulit Dominus Judam et
+            Jerusalem per manus Nabuchodonosor.</ab>
+          <ab xml:id="d1e745" n="16"> Filii ergo Levi : Gersom, Caath, et Merari.</ab>
+          <ab xml:id="d1e748" n="17"> Et haec nomina filiorum Gersom : Lobni, et Semei.</ab>
+          <ab xml:id="d1e752" n="18"> Filii Caath : Amram, et Isaar, et Hebron, et Oziel.</ab>
+          <ab xml:id="d1e755" n="19"> Filii Merari : Moholi et Musi. Hae autem cognationes Levi
+            secundum familias eorum.</ab>
+          <ab xml:id="d1e758" n="20"> Gersom : Lobni filius ejus, Jahath filius ejus, Zamma filius
+            ejus,</ab>
+          <ab xml:id="d1e761" n="21"> Joah filius ejus, Addo filius ejus, Zara filius ejus, Jethrai
+            filius ejus.</ab>
+          <ab xml:id="d1e764" n="22"> Filii Caath : Aminadab filius ejus, Core filius ejus, Asir
+            filius ejus,</ab>
+          <ab xml:id="d1e767" n="23"> Elcana filius ejus, Abiasaph filius ejus, Asir filius
+            ejus,</ab>
+          <ab xml:id="d1e771" n="24"> Thahath filius ejus, Uriel filius ejus, Ozias filius ejus,
+            Saul filius ejus.</ab>
+          <ab xml:id="d1e774" n="25"> Filii Elcana, Amasai et Achimoth</ab>
+          <ab xml:id="d1e777" n="26"> et Elcana. Filii Elcana : Sophai filius ejus, Nahath filius
+            ejus,</ab>
+          <ab xml:id="d1e780" n="27"> Eliab filius ejus, Jeroham filius ejus, Elcana filius
+            ejus.</ab>
+          <ab xml:id="d1e783" n="28"> Filii Samuel : primogenitus Vasseni, et Abia.</ab>
+          <ab xml:id="d1e786" n="29"> Filii autem Merari, Moholi : Lobni filius ejus, Semei filius
+            ejus, Oza filius ejus,</ab>
+          <ab xml:id="d1e790" n="30"> Sammaa filius ejus, Haggia filius ejus, Asaia filius
+            ejus.</ab>
+          <ab xml:id="d1e793" n="31"> Isti sunt quos constituit David super cantores domus Domini,
+            ex quo collocata est arca :</ab>
+          <ab xml:id="d1e796" n="32"> et ministrabant coram tabernaculo testimonii, canentes donec
+            aedificaret Salomon domum Domini in Jerusalem : stabant autem juxta ordinem suum in
+            ministerio.</ab>
+          <ab xml:id="d1e799" n="33"> Hi vero sunt qui assistebant cum filiis suis, de filiis Caath,
+            Hemam cantor filius Johel, filii Samuel,</ab>
+          <ab xml:id="d1e802" n="34"> filii Elcana, filii Jeroham, filii Eliel, filii Thohu,</ab>
+          <ab xml:id="d1e805" n="35"> filii Suph, filii Elcana, filii Mahath, filii Amasai,</ab>
+          <ab xml:id="d1e809" n="36"> filii Elcana, filii Johel, filii Azariae, filii
+            Sophoniae,</ab>
+          <ab xml:id="d1e812" n="37"> filii Thahath, filii Asir, filii Abiasaph, filii Core,</ab>
+          <ab xml:id="d1e815" n="38"> filii Isaar, filii Caath, filii Levi, filii Israël.</ab>
+          <ab xml:id="d1e818" n="39"> Et frater ejus Asaph, qui stabat a dextris ejus, Asaph filius
+            Barachiae, filii Samaa,</ab>
+          <ab xml:id="d1e821" n="40"> filii Michaël, filii Basaiae, filii Melchiae,</ab>
+          <ab xml:id="d1e824" n="41"> filii Athanai, filii Zara, filii Adaia,</ab>
+          <ab xml:id="d1e828" n="42"> filii Ethan, filii Zamma, filii Semei,</ab>
+          <ab xml:id="d1e831" n="43"> filii Jeth, filii Gersom, filii Levi.</ab>
+          <ab xml:id="d1e834" n="44"> Filii autem Merari fratres eorum, ad sinistram, Ethan filius
+            Cusi, filii Abdi, filii Maloch,</ab>
+          <ab xml:id="d1e837" n="45"> filii Hasabiae, filii Amasiae, filii Helciae,</ab>
+          <ab xml:id="d1e840" n="46"> filii Amasai, filii Boni, filii Somer,</ab>
+          <ab xml:id="d1e843" n="47"> filii Moholi, filii Musi, filii Merari, filii Levi.</ab>
+          <ab xml:id="d1e847" n="48"> Fratres quoque eorum Levitae, qui ordinati sunt in cunctum
+            ministerium tabernaculi domus Domini.</ab>
+          <ab xml:id="d1e850" n="49"> Aaron vero et filii ejus adolebant incensum super altare
+            holocausti, et super altare thymiamatis, in omne opus Sancti sanctorum : et ut
+            precarentur pro Israël juxta omnia quae praeceperat Moyses servus Dei.</ab>
+          <ab xml:id="d1e853" n="50"> Hi sunt autem filii Aaron : Eleazar filius ejus, Phinees
+            filius ejus, Abisue filius ejus,</ab>
+          <ab xml:id="d1e856" n="51"> Bocci filius ejus, Ozi filius ejus, Zarahia filius ejus,</ab>
+          <ab xml:id="d1e859" n="52"> Meraioth filius ejus, Amarias filius ejus, Achitob filius
+            ejus,</ab>
+          <ab xml:id="d1e862" n="53"> Sadoc filius ejus, Achimaas filius ejus.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e867" n="54"> Et haec habitacula eorum per vicos atque confinia, filiorum
+            scilicet Aaron, juxta cognationes Caathitarum : ipsis enim sorte contigerant.</ab>
+          <ab xml:id="d1e870" n="55"> Dederunt igitur eis Hebron in terra Juda, et suburbana ejus
+            per circuitum :</ab>
+          <ab xml:id="d1e873" n="56"> agros autem civitatis, et villas, Caleb filio Jephone.</ab>
+          <ab xml:id="d1e876" n="57"> Porro filiis Aaron dederunt civitates ad confugiendum Hebron,
+            et Lobna, et suburbana ejus,</ab>
+          <ab xml:id="d1e879" n="58"> Jether quoque, et Esthemo cum suburbanis suis, sed et Helon,
+            et Dabir cum suburbanis suis,</ab>
+          <ab xml:id="d1e882" n="59"> Asan quoque, et Bethsemes, et suburbana earum.</ab>
+          <ab xml:id="d1e886" n="60"> De tribu autem Benjamin, Gabee et suburbana ejus, et Almath
+            cum suburbanis suis, Anathoth quoque cum suburbanis suis : omnes civitates, tredecim,
+            per cognationes suas.</ab>
+          <ab xml:id="d1e889" n="61"> Filiis autem Caath residuis de cognatione sua dederunt ex
+            dimidia tribu Manasse in possessionem urbes decem.</ab>
+          <ab xml:id="d1e892" n="62"> Porro filiis Gersom per cognationes suas de tribu Issachar, et
+            de tribu Aser, et de tribu Nephthali, et de tribu Manasse in Basan, urbes tredecim.</ab>
+          <ab xml:id="d1e895" n="63"> Filiis autem Merari per cognationes suas de tribu Ruben, et de
+            tribu Gad, et de tribu Zabulon, dederunt sorte civitates duodecim.</ab>
+          <ab xml:id="d1e898" n="64"> Dederunt quoque filii Israël Levitis civitates, et suburbana
+            earum :</ab>
+          <ab xml:id="d1e901" n="65"> dederuntque per sortem, ex tribu filiorum Juda, et ex tribu
+            filiorum Simeon, et ex tribu filiorum Benjamin urbes has, quas vocaverunt nominibus
+            suis,</ab>
+          <ab xml:id="d1e905" n="66"> et his, qui erant de cognatione filiorum Caath, fueruntque
+            civitates in terminis eorum de tribu Ephraim.</ab>
+          <ab xml:id="d1e908" n="67"> Dederunt ergo eis urbes ad confugiendum, Sichem cum suburbanis
+            suis in monte Ephraim, et Gazer cum suburbanis suis,</ab>
+          <ab xml:id="d1e911" n="68"> Jecmaam quoque cum suburbanis suis, et Bethoron
+            similiter,</ab>
+          <ab xml:id="d1e914" n="69"> necnon et Helon cum suburbanis suis, et Gethremmon in eumdem
+            modum.</ab>
+          <ab xml:id="d1e917" n="70"> Porro ex dimidia tribu Manasse, Aner et suburbana ejus, Balaam
+            et suburbana ejus : his videlicet, qui de cognatione filiorum Caath reliqui erant.</ab>
+          <ab xml:id="d1e920" n="71"> Filiis autem Gersom de cognatione dimidiae tribus Manasse,
+            Gaulon in Basan, et suburbana ejus, et Astaroth cum suburbanis suis.</ab>
+          <ab xml:id="d1e924" n="72"> De tribu Issachar, Cedes et suburbanis suis, et Dabereth cum
+            suburbanis suis,</ab>
+          <ab xml:id="d1e927" n="73"> Ramoth quoque et suburbana ejus, et Anem cum suburbanis
+            suis.</ab>
+          <ab xml:id="d1e930" n="74"> De tribu vero Aser : Masal cum suburbanis suis, et Abdon
+            similiter,</ab>
+          <ab xml:id="d1e933" n="75"> Hucac quoque et suburbana ejus, et Rohob cum suburbanis
+            suis.</ab>
+          <ab xml:id="d1e936" n="76"> Porro de tribu Nephthali, Cedes in Galilaea et suburbana ejus,
+            Hamon cum suburbanis suis, et Cariathaim et suburbana ejus.</ab>
+          <ab xml:id="d1e939" n="77"> Filiis autem Merari residuis : de tribu Zabulon, Remmono et
+            suburbana ejus, et Thabor cum suburbanis sus :</ab>
+          <ab xml:id="d1e943" n="78"> trans Jordanem quoque ex adverso Jericho contra orientem
+            Jordanis, de tribu Ruben, Bosor in solitudine cum suburbanis suis, et Jassa cum
+            suburbanis suis,</ab>
+          <ab xml:id="d1e946" n="79"> Cademoth quoque et suburbana ejus, et Mephaat cum suburbanis
+            suis.</ab>
+          <ab xml:id="d1e949" n="80"> Necnon et de tribu Gad, Ramoth in Galaad et suburbana ejus, et
+            Manaim cum suburbanis suis,</ab>
+          <ab xml:id="d1e952" n="81"> sed et Hesebon cum suburbanis suis, et Jezer cum suburbanis
+            suis.</ab>
+        </div>
+        <div xml:id="d1e956" type="chap" n="7">
+          <ab xml:id="d1e958" n="1"> Porro filii Issachar : Thola, et Phua, Jasub, et Simeron,
+            quatuor.</ab>
+          <ab xml:id="d1e961" n="2"> Filii Thola : Ozi, et Raphaia, et Jeriel, et Jemai, et Jebsem,
+            et Samuel, principes per domos cognationum suarum. De stirpe Thola viri fortissimi
+            numerati sunt in diebus David, viginti duo millia sexcenti.</ab>
+          <ab xml:id="d1e964" n="3"> Filii Ozi : Izrahia, de quo nati sunt Michaël, et Obadia, et
+            Joël, et Jesia, quinque omnes principes.</ab>
+          <ab xml:id="d1e967" n="4"> Cumque eis per familias et populos suos, accincti ad praelium,
+            viri fortissimi, triginta sex millia : multas enim habuerunt uxores, et filios.</ab>
+          <ab xml:id="d1e970" n="5"> Fratres quoque eorum per omnem cognationem Issachar
+            robustissimi ad pugnandum, octoginta septem millia numerati sunt.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e975" n="6"> Filii Benjamin : Bela, et Bechor, et Jadihel, tres.</ab>
+          <ab xml:id="d1e978" n="7"> Filii Bela : Esbon, et Ozi, et Oziel, et Jerimoth, et Urai,
+            quinque principes familiarum, et ad pugnandum robustissimi : numerus autem eorum,
+            viginti duo millia et triginta quatuor.</ab>
+          <ab xml:id="d1e981" n="8"> Porro filii Bechor : Zamira, et Joas, et Eliezer, et Elioënai,
+            et Amri, et Jerimoth, et Abia, et Anathoth, et Almath : omnes hi filii Bechor.</ab>
+          <ab xml:id="d1e984" n="9"> Numerati sunt autem per familias suas principes cognationum
+            suarum ad bella fortissimi, viginti millia et ducenti.</ab>
+          <ab xml:id="d1e987" n="10"> Porro filii Jadihel : Balan. Filii autem Balan : Jehus, et
+            Benjamin, et Aod, et Chanana, et Zethan, et Tharsis, et Ahisahar :</ab>
+          <ab xml:id="d1e990" n="11"> omnes hi filii Jadihel, principes cognationum suarum viri
+            fortissimi, decem et septem millia et ducenti ad praelium procedentes.</ab>
+          <ab xml:id="d1e994" n="12"> Sepham quoque et Hapham filii Hir : et Hasim filii Aher.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e998" n="13"> Filii autem Nephthali : Jaziel, et Guni, et Jeser, et Sellum,
+            filii Bala.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1002" n="14"> Porro filius Manasse, Esriel : concubinaque ejus Syra peperit
+            Machir patrem Galaad.</ab>
+          <ab xml:id="d1e1005" n="15"> Machir autem accepit uxores filiis suis Happhim, et Saphan :
+            et habuit sororem nomine Maacha : nomen autem secundi, Salphaad, nataeque sunt Salphaad
+            filiae.</ab>
+          <ab xml:id="d1e1008" n="16"> Et peperit Maacha uxor Machir filium, vocavitque nomen ejus
+            Phares : porro nomen fratris ejus, Sares : et filii ejus, Ulam, et Recen.</ab>
+          <ab xml:id="d1e1011" n="17"> Filius autem Ulam, Badan : hi sunt filii Galaad, filii
+            Machir, filii Manasse.</ab>
+          <ab xml:id="d1e1015" n="18"> Soror autem ejus Regina peperit Virum decorum, et Abiezer, et
+            Mohola.</ab>
+          <ab xml:id="d1e1018" n="19"> Erant autem filii Semida, Ahin, et Sechem, et Leci, et
+              Aniam.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1022" n="20"> Filii autem Ephraim : Suthala, Bared filius ejus, Thahath
+            filius ejus, Elada filius ejus, Thahath filius ejus, hujus filius Zabad,</ab>
+          <ab xml:id="d1e1025" n="21"> et hujus filius Suthula, et hujus filius Ezer et Elad :
+            occiderunt autem eos viri Geth indigenae, quia descenderant ut invaderent possessiones
+            eorum.</ab>
+          <ab xml:id="d1e1028" n="22"> Luxit igitur Ephraim pater eorum multis diebus, et venerunt
+            fratres ejus ut consolarentur eum.</ab>
+          <ab xml:id="d1e1031" n="23"> Ingressusque est ad uxorem suam : quae concepit, et peperit
+            filium, et vocavit nomen ejus Beria, eo quod in malis domus ejus ortus esset :</ab>
+          <ab xml:id="d1e1035" n="24"> filia autem ejus fuit Sara, quae aedificavit Bethoron
+            inferiorem et superiorem, et Ozensara.</ab>
+          <ab xml:id="d1e1038" n="25"> Porro filius ejus Rapha, et Reseph, et Thale, de quo natus
+            est Thaan,</ab>
+          <ab xml:id="d1e1041" n="26"> qui genuit Laadan : hujus quoque filius Ammiud, qui genuit
+            Elisama,</ab>
+          <ab xml:id="d1e1044" n="27"> de quo ortus est Nun, qui habuit filium Josue.</ab>
+          <ab xml:id="d1e1047" n="28"> Possessio autem eorum et habitatio, Bethel cum filiabus suis,
+            et contra orientem Noran, ad occidentalem plagam Gazer et filiae ejus, Sichem quoque cum
+            filiabus suis, usque ad Aza cum filiabus ejus.</ab>
+          <ab xml:id="d1e1050" n="29"> Juxta filios quoque Manasse, Bethsan et filias ejus, Thanach
+            et filias ejus, Mageddo et filias ejus, Dor et filias ejus : in his habitaverunt filii
+            Joseph, filii Israël.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1055" n="30"> Filii Aser : Jemna, et Jesua, et Jessui, et Baria, et Sara
+            soror eorum.</ab>
+          <ab xml:id="d1e1058" n="31"> Filii autem Baria : Heber, et Melchiel : ipse est pater
+            Barsaith.</ab>
+          <ab xml:id="d1e1061" n="32"> Heber autem genuit Jephlat, et Somer, et Hotham, et Suaa
+            sororem eorum.</ab>
+          <ab xml:id="d1e1064" n="33"> Filii Jephlat : Phosech, et Chamaal, et Asoth : hi filii
+            Jephlat.</ab>
+          <ab xml:id="d1e1067" n="34"> Porro filii Somer : Ahi, et Roaga, et Haba, et Aram.</ab>
+          <ab xml:id="d1e1070" n="35"> Filii autem Helem fratris ejus : Supha, et Jemna, et Selles,
+            et Amal.</ab>
+          <ab xml:id="d1e1074" n="36"> Filii Supha : Sue, Harnapher, et Sual, et Beri, et
+            Jamra,</ab>
+          <ab xml:id="d1e1077" n="37"> Bosor, et Hod, et Samma, et Salusa, et Jethran, et Bera.</ab>
+          <ab xml:id="d1e1080" n="38"> Filii Jether : Jephone, et Phaspha, et Ara.</ab>
+          <ab xml:id="d1e1083" n="39"> Filii autem Olla : Aree, et Haniel, et Resia.</ab>
+          <ab xml:id="d1e1086" n="40"> Omnes hi filii Aser, principes cognationum, electi atque
+            fortissimi duces ducum : numerus autem eorum aetatis quae apta esset ad bellum, viginti
+            sex millia.</ab>
+        </div>
+        <div xml:id="d1e1090" type="chap" n="8">
+          <ab xml:id="d1e1092" n="1"> Benjamin autem genuit Bale primogenitum suum, Asbel secundum,
+            Ahara tertium,</ab>
+          <ab xml:id="d1e1095" n="2"> Nohaa quartum, et Rapha quintum.</ab>
+          <ab xml:id="d1e1098" n="3"> Fueruntque filii Bale : Addar, et Gera, et Abiud,</ab>
+          <ab xml:id="d1e1101" n="4"> Abisue quoque et Naaman, et Ahoë,</ab>
+          <ab xml:id="d1e1104" n="5"> sed et Gera, et Sephuphan, et Huram.</ab>
+          <ab xml:id="d1e1108" n="6"> Hi sunt filii Ahod, principes cognationum habitantium in
+            Gabaa, qui translati sunt in Manahath.</ab>
+          <ab xml:id="d1e1111" n="7"> Naaman autem, et Achia, et Gera, ipse transtulit eos, et
+            genuit Osa, et Ahiud.</ab>
+          <ab xml:id="d1e1114" n="8"> Porro Saharaim genuit in regione Moab, postquam dimisit Husim
+            et Bara uxores suas.</ab>
+          <ab xml:id="d1e1117" n="9"> Genuit autem de Hodes uxore sua Jobab, et Sebia, et Mosa, et
+            Molchom,</ab>
+          <ab xml:id="d1e1120" n="10"> Jehus quoque, et Sechia, et Marma : hi sunt filii ejus
+            principes in familiis suis.</ab>
+          <ab xml:id="d1e1123" n="11"> Mehusim vero genuit Abitob et Elphaal.</ab>
+          <ab xml:id="d1e1127" n="12"> Porro filii Elphaal : Heber, et Misaam, et Samad : hic
+            aedificavit Ono, et Lod, et filias ejus.</ab>
+          <ab xml:id="d1e1130" n="13"> Baria autem et Sama principes cognationum habitantium in
+            Ajalon : hi fugaverunt habitatores Geth.</ab>
+          <ab xml:id="d1e1133" n="14"> Et Ahio, et Sesac, et Jerimoth,</ab>
+          <ab xml:id="d1e1136" n="15"> et Zabadia, et Arod, et Heder,</ab>
+          <ab xml:id="d1e1139" n="16"> Michaël quoque, et Jespha, et Joha filii Baria.</ab>
+          <ab xml:id="d1e1142" n="17"> Et Zabadia, et Mosollam, et Hezeci, et Heber,</ab>
+          <ab xml:id="d1e1146" n="18"> et Jesamari, et Jezlia, et Jobab filii Elphaal,</ab>
+          <ab xml:id="d1e1149" n="19"> et Jacim, et Zechri, et Zabdi,</ab>
+          <ab xml:id="d1e1152" n="20"> et Elioënai, et Selethai, et Eliel,</ab>
+          <ab xml:id="d1e1155" n="21"> et Adaia, et Baraia, et Samarath, filii Semei.</ab>
+          <ab xml:id="d1e1158" n="22"> Et Jespham, et Heber, et Eliel,</ab>
+          <ab xml:id="d1e1161" n="23"> et Abdon, et Zechri, et Hanan,</ab>
+          <ab xml:id="d1e1165" n="24"> et Hanania, et Aelam, et Anathothia,</ab>
+          <ab xml:id="d1e1168" n="25"> et Jephdaia, et Phanuel, filii Sesac.</ab>
+          <ab xml:id="d1e1171" n="26"> Et Samsari, et Sohoria, et Otholia,</ab>
+          <ab xml:id="d1e1174" n="27"> et Jersia, et Elia, et Zechri, filii Jeroham.</ab>
+          <ab xml:id="d1e1177" n="28"> Hi patriarchae, et cognationum principes, qui habitaverunt in
+            Jerusalem.</ab>
+          <ab xml:id="d1e1180" n="29"> In Gabaon autem habitaverunt Abigabaon, et nomen uxoris ejus
+            Maacha :</ab>
+          <ab xml:id="d1e1184" n="30"> filiusque ejus primogenitus Abdon, et Sur, et Cis, et Baal,
+            et Nadab,</ab>
+          <ab xml:id="d1e1187" n="31"> Gedor quoque, et Ahio, et Zacher, et Macelloth :</ab>
+          <ab xml:id="d1e1190" n="32"> et Macelloth genuit Samaa : habitaveruntque ex adverso
+            fratrum suorum in Jerusalem cum fratribus suis.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1194" n="33"> Ner autem genuit Cis, et Cis genuit Saul. Porro Saul genuit
+            Jonathan, et Melchisua, et Abinadab, et Esbaal.</ab>
+          <ab xml:id="d1e1197" n="34"> Filius autem Jonathan, Meribbaal : et Meribbaal genuit
+            Micha.</ab>
+          <ab xml:id="d1e1200" n="35"> Filii Micha, Phithon, et Melech, et Tharaa, et Ahaz.</ab>
+          <ab xml:id="d1e1204" n="36"> Et Ahaz genuit Joada, et Joada genuit Alamath, et Azmoth, et
+            Zamri : porro Zamri genuit Mosa,</ab>
+          <ab xml:id="d1e1207" n="37"> et Mosa genuit Banaa, cujus filius fuit Rapha, de quo ortus
+            est Elasa, qui genuit Asel.</ab>
+          <ab xml:id="d1e1210" n="38"> Porro Asel sex filii fuerunt his nominibus : Ezricam, Bocru,
+            Ismahel, Saria, Obdia, et Hanan : omnes hi filii Asel.</ab>
+          <ab xml:id="d1e1213" n="39"> Filii autem Esec fratris ejus, Ulam primogenitus, et Jehus
+            secundus, et Eliphalet tertius.</ab>
+          <ab xml:id="d1e1216" n="40"> Fueruntque filii Ulam viri robustissimi, et magno robore
+            tendentes arcum : et multos habentes filios ac nepotes, usque ad centum quinquaginta.
+            Omnes hi filii Benjamin.</ab>
+        </div>
+        <div xml:id="d1e1220" type="chap" n="9">
+          <ab xml:id="d1e1222" n="1"> Universus ergo Israël dinumeratus est, et summa eorum scripta
+            est in libro regum Israël et Juda : translatique sunt in Babylonem propter delictum
+            suum.</ab>
+          <ab xml:id="d1e1225" n="2"> Qui autem habitaverunt primi in possessionibus et in urbibus
+            suis : Israël, et sacerdotes, et Levitae, et Nathinaei.</ab>
+          <ab xml:id="d1e1228" n="3"> Commorati sunt in Jerusalem de filiis Juda, et de filiis
+            Benjamin, de filiis quoque Ephraim, et Manasse.</ab>
+          <ab xml:id="d1e1231" n="4"> Othei filius Ammiud, filii Amri, filii Omrai, filii Bonni, de
+            filiis Phares filii Juda.</ab>
+          <ab xml:id="d1e1234" n="5"> Et de Siloni : Asaia primogenitus, et filii ejus.</ab>
+          <ab xml:id="d1e1238" n="6"> De filiis autem Zara, Jehuel, et fratres eorum, sexcenti
+            nonaginta.</ab>
+          <ab xml:id="d1e1241" n="7"> Porro de filiis Benjamin : Salo filius Mosollam, filii Oduia,
+            filii Asana,</ab>
+          <ab xml:id="d1e1244" n="8"> et Jobania filius Jeroham, et Ela filius Ozi, filii Mochori,
+            et Mosollam filius Saphatiae, filii Rahuel, filii Jebaniae,</ab>
+          <ab xml:id="d1e1247" n="9"> et fratres eorum per familias suas, nongenti quinquaginta sex.
+            Omnes hi principes cognationum per domos patrum suorum.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1251" n="10"> De sacerdotibus autem : Jedaia, Jojarib, et Jachin :</ab>
+          <ab xml:id="d1e1254" n="11"> Azarias quoque filius Helciae, filii Mosollam, filii Sadoc,
+            filii Maraioth, filii Achitob, pontifex domus Dei.</ab>
+          <ab xml:id="d1e1258" n="12"> Porro Adaias filius Jeroham, filii Phassur, filii Melchiae,
+            et Maasai filius Adiel filii Jezra, filii Mosollam, filii Mosollamith, filii Emmer.</ab>
+          <ab xml:id="d1e1261" n="13"> Fratres quoque eorum principes per familias suas, mille
+            septingenti sexaginta, fortissimi robore ad faciendum opus ministerii in domo Dei.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1265" n="14"> De Levitis autem : Semeia filius Hassub filii Ezricam, filii
+            Hasebia de filiis Merari.</ab>
+          <ab xml:id="d1e1268" n="15"> Bacbacar quoque carpentarius, et Galal, et Mathania filius
+            Micha, filii Zechri, filii Asaph :</ab>
+          <ab xml:id="d1e1271" n="16"> et Obdia filius Semeiae, filii Galal, filii Idithun : et
+            Barachia filius Asa, filii Elcana, qui habitavit in atriis Netophati.</ab>
+          <ab xml:id="d1e1274" n="17"> Janitores autem : Sellum, et Accub, et Telmon, et Ahimam : et
+            frater eorum Sellum princeps,</ab>
+          <ab xml:id="d1e1278" n="18"> usque ad illud tempus, in porta regis ad orientem,
+            observabant per vices suas de filiis Levi.</ab>
+          <ab xml:id="d1e1281" n="19"> Sellum vero filius Core filii Abiasaph, filii Core, cum
+            fratribus suis, et domo patris sui, hi sunt Coritae super opera ministerii, custodes
+            vestibulorum tabernaculi : et familiae eorum per vices castrorum Domini custodientes
+            introitum.</ab>
+          <ab xml:id="d1e1284" n="20"> Phinees autem filius Eleazari erat dux eorum coram
+            Domino.</ab>
+          <ab xml:id="d1e1287" n="21"> Porro Zacharias filius Mosollamia, janitor portae tabernaculi
+            testimonii.</ab>
+          <ab xml:id="d1e1290" n="22"> Omnes hi electi in ostiarios per portas, ducenti duodecim :
+            et descripti in villis propriis, quos constituerunt David, et Samuel videns, in fide
+            sua,</ab>
+          <ab xml:id="d1e1293" n="23"> tam ipsos quam filios eorum, in ostiis domus Domini et in
+            tabernaculo vicibus suis.</ab>
+          <ab xml:id="d1e1297" n="24"> Per quatuor ventos erant ostiarii : id est, ad orientem, et
+            ad occidentem, et ad aquilonem, et ad austrum.</ab>
+          <ab xml:id="d1e1300" n="25"> Fratres autem eorum in viculis morabantur, et veniebant in
+            sabbatis suis de tempore usque ad tempus.</ab>
+          <ab xml:id="d1e1303" n="26"> His quatuor Levitis creditus erat omnis numerus janitorum, et
+            erant super exedras et thesauros domus Domini.</ab>
+          <ab xml:id="d1e1306" n="27"> Per gyrum quoque templi Domini morabantur in custodiis suis :
+            ut cum tempus fuisset, ipsi mane aperirent fores.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1310" n="28"> De horum genere erant et super vasa ministerii : ad numerum
+            enim et inferebantur vasa, et efferebantur.</ab>
+          <ab xml:id="d1e1313" n="29"> De ipsis et qui credita habebant utensilia sanctuarii,
+            praeerant similae, et vino, et oleo, et thuri, et aromatibus.</ab>
+          <ab xml:id="d1e1317" n="30"> Filii autem sacerdotum unguenta ex aromatibus
+            conficiebant.</ab>
+          <ab xml:id="d1e1320" n="31"> Et Mathathias Levites primogenitus Sellum Coritae, praefectus
+            erat eorum quae in sartagine frigebantur.</ab>
+          <ab xml:id="d1e1323" n="32"> Porro de filiis Caath fratribus eorum, super panes erant
+            propositionis, ut semper novos per singula sabbata praepararent.</ab>
+          <ab xml:id="d1e1326" n="33"> Hi sunt principes cantorum per familias Levitarum, qui in
+            exedris morabantur, ut die ac nocte jugiter suo ministerio deservirent.</ab>
+          <ab xml:id="d1e1329" n="34"> Capita Levitarum, per familias suas principes, manserunt in
+            Jerusalem.</ab>
+          <ab xml:id="d1e1332" n="35"> In Gabaon autem commorati sunt pater Gabaon Jehiel, et nomen
+            uxoris ejus Maacha.</ab>
+          <ab xml:id="d1e1336" n="36"> Filius primogenitus ejus Abdon, et Sur, et Cis, et Baal, et
+            Ner, et Nadab,</ab>
+          <ab xml:id="d1e1339" n="37"> Gedor quoque, et Ahio, et Zacharias, et Macelloth.</ab>
+          <ab xml:id="d1e1342" n="38"> Porro Macelloth genuit Samaan : isti habitaverunt e regione
+            fratrum suorum in Jerusalem cum fratribus suis.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1346" n="39"> Ner autem genuit Cis, et Cis genuit Saul, et Saul genuit
+            Jonathan, et Melchisua, et Abinadab, et Esbaal.</ab>
+          <ab xml:id="d1e1349" n="40"> Filius autem Jonathan, Meribbaal : et Meribbaal genuit
+            Micha.</ab>
+          <ab xml:id="d1e1352" n="41"> Porro filii Micha, Phithon, et Melech, et Tharaa, et
+            Ahaz.</ab>
+          <ab xml:id="d1e1356" n="42"> Ahaz autem genuit Jara, et Jara genuit Alamath, et Azmoth, et
+            Zamri. Zamri autem genuit Mosa.</ab>
+          <ab xml:id="d1e1359" n="43"> Mosa vero genuit Banaa, cujus filius Raphaia, genuit Elasa,
+            de quo ortus est Asel.</ab>
+          <ab xml:id="d1e1362" n="44"> Porro Asel sex filios habuit, his nominibus : Ezricam, Bocru,
+            Ismahel, Saria, Obdia, Hanan : hi sunt filii Asel.</ab>
+        </div>
+        <div xml:id="d1e1366" type="chap" n="10">
+          <ab xml:id="d1e1368" n="1"> Philisthiim autem pugnabant contra Israël, fugeruntque viri
+            Israël Palaesthinos, et ceciderunt vulnerati in monte Gelboë.</ab>
+          <ab xml:id="d1e1371" n="2"> Cumque appropinquassent Philisthaei, persequentes Saul et
+            filios ejus, percusserunt Jonathan, et Abinadab, et Melchisua filios Saul.</ab>
+          <ab xml:id="d1e1374" n="3"> Et aggravatum est praelium contra Saul, inveneruntque eum
+            sagittarii, et vulneraverunt jaculis.</ab>
+          <ab xml:id="d1e1377" n="4"> Et dixit Saul ad armigerum suum : Evagina gladium tuum, et
+            interfice me, ne forte veniant incircumcisi isti, et illudant mihi. Noluit autem armiger
+            ejus hoc facere, timore perterritus : arripuit ergo Saul ensem, et irruit in eum.</ab>
+          <ab xml:id="d1e1380" n="5"> Quod cum vidisset armiger ejus, videlicet mortuum esse Saul,
+            irruit etiam ipse in gladium suum, et mortuus est.</ab>
+          <ab xml:id="d1e1384" n="6"> Interiit ergo Saul : et tres filii ejus, et omnis domus illius
+            pariter concidit.</ab>
+          <ab xml:id="d1e1387" n="7"> Quod cum vidissent viri Israël qui habitabant in campestribus,
+            fugerunt : et Saul ac filiis ejus mortuis, dereliquerunt urbes suas, et huc illucque
+            dispersi sunt : veneruntque Philisthiim, et habitaverunt in eis.</ab>
+          <ab xml:id="d1e1390" n="8"> Die igitur altero detrahentes Philisthiim spolia caesorum,
+            invenerunt Saul et filios ejus jacentes in monte Gelboë.</ab>
+          <ab xml:id="d1e1393" n="9"> Cumque spoliassent eum, et amputassent caput, armisque
+            nudassent, miserunt in terram suam, ut circumferretur, et ostenderetur idolorum templis,
+            et populis :</ab>
+          <ab xml:id="d1e1396" n="10"> arma autem ejus consecraverunt in fano dei sui, et caput
+            affixerunt in templo Dagon.</ab>
+          <ab xml:id="d1e1399" n="11"> Hoc cum audissent viri Jabes Galaad, omnia scilicet quae
+            Philisthiim fecerant super Saul,</ab>
+          <ab xml:id="d1e1403" n="12"> consurrexerunt singuli virorum fortium, et tulerunt cadavera
+            Saul et filiorum ejus : attuleruntque ea in Jabes, et sepelierunt ossa eorum subter
+            quercum, quae erat in Jabes, et jejunaverunt septem diebus.</ab>
+          <ab xml:id="d1e1406" n="13"> Mortuus est ergo Saul propter iniquitates suas, eo quod
+            praevaricatus sit mandatum Domini quod praeceperat, et non custodierit illud : sed
+            insuper etiam pythonissam consuluerit,</ab>
+          <ab xml:id="d1e1409" n="14"> nec speraverit in Domino : propter quod interfecit eum, et
+            transtulit regnum ejus ad David filium Isai.</ab>
+        </div>
+        <div xml:id="d1e1413" type="chap" n="11">
+          <ab xml:id="d1e1415" n="1"> Congregatus est igitur omnis Israël ad David in Hebron, dicens
+            : Os tuum sumus, et caro tua.</ab>
+          <ab xml:id="d1e1418" n="2"> Heri quoque et nudiustertius cum adhuc regnaret Saul, tu eras
+            qui educebas et introducebas Israël : tibi enim dixit Dominus Deus tuus : Tu pasces
+            populum meum Israël, et tu eris princeps super eum.</ab>
+          <ab xml:id="d1e1421" n="3"> Venerunt ergo omnes majores natu Israël ad regem in Hebron, et
+            iniit David cum eis foedus coram Domino : unxeruntque eum regem super Israël, juxta
+            sermonem Domini quem locutus est in manu Samuel.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1425" n="4"> Abiit quoque David et omnis Israël in Jerusalem : haec est
+            Jebus, ubi erant Jebusaei habitatores terrae.</ab>
+          <ab xml:id="d1e1428" n="5"> Dixeruntque qui habitabant in Jebus ad David : Non ingredieris
+            huc. Porro David cepit arcem Sion, quae est civitas David,</ab>
+          <ab xml:id="d1e1432" n="6"> dixitque : Omnis qui percusserit Jebusaeum in primis, erit
+            princeps et dux. Ascendit igitur primus Joab filius Sarviae, et factus est
+            princeps.</ab>
+          <ab xml:id="d1e1435" n="7"> Habitavit autem David in arce, et idcirco appellata est
+            civitas David.</ab>
+          <ab xml:id="d1e1438" n="8"> Aedificavitque urbem in circuitu a Mello usque ad gyrum ; Joab
+            autem reliqua urbis exstruxit.</ab>
+          <ab xml:id="d1e1441" n="9"> Proficiebatque David vadens et crescens, et Dominus exercituum
+            erat cum eo.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1445" n="10"> Hi principes virorum fortium David, qui adjuverunt eum ut rex
+            fieret super omnem Israël, juxta verbum Domini quod locutus est ad Israël.</ab>
+          <ab xml:id="d1e1448" n="11"> Et iste numerus robustorum David : Jesbaam filius Hachamoni
+            princeps inter triginta : iste levavit hastam suam super trecentos vulneratos una
+            vice.</ab>
+          <ab xml:id="d1e1452" n="12"> Et post eum Eleazar filius patrui ejus Ahohites, qui erat
+            inter tres potentes.</ab>
+          <ab xml:id="d1e1455" n="13"> Iste fuit cum David in Phesdomim, quando Philisthiim
+            congregati sunt ad locum illum in praelium : et erat ager regionis illius plenus hordeo,
+            fugeratque populus a facie Philisthinorum.</ab>
+          <ab xml:id="d1e1458" n="14"> Hi steterunt in medio agri, et defenderunt eum : cumque
+            percussissent Philisthaeos, dedit Dominus salutem magnam populo suo.</ab>
+          <ab xml:id="d1e1461" n="15"> Descenderunt autem tres de triginta principibus ad petram, in
+            qua erat David, ad speluncam Odollam, quando Philisthiim fuerant castrametati in valle
+            Raphaim.</ab>
+          <ab xml:id="d1e1464" n="16"> Porro David erat in praesidio, et statio Philisthinorum in
+            Bethlehem.</ab>
+          <ab xml:id="d1e1467" n="17"> Desideravit igitur David, et dixit : O si quis daret mihi
+            aquam de cisterna Bethlehem, quae est in porta !</ab>
+          <ab xml:id="d1e1471" n="18"> Tres ergo isti per media castra Philisthinorum perrexerunt,
+            et hauserunt aquam de cisterna Bethlehem quae erat in porta, et attulerunt ad David ut
+            biberet. Qui noluit, sed magis libavit illam Domino,</ab>
+          <ab xml:id="d1e1474" n="19"> dicens : Absit ut in conspectu Dei mei hoc faciam, et
+            sanguinem istorum virorum bibam : quia in periculo animarum suarum attulerunt mihi
+            aquam. Et ob hanc causam noluit bibere : haec fecerunt tres robustissimi.</ab>
+          <ab xml:id="d1e1477" n="20"> Abisai quoque frater Joab ipse erat princeps trium, et ipse
+            levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres
+            nominatissimus,</ab>
+          <ab xml:id="d1e1480" n="21"> et inter tres secundos inclytus, et princeps eorum :
+            verumtamen usque ad tres primos non pervenerat.</ab>
+          <ab xml:id="d1e1483" n="22"> Banaias filius Jojadae viri robustissimi, qui multa opera
+            perpetrarat, de Cabseel : ipse percussit duos ariel Moab, et ipse descendit et
+            interfecit leonem in media cisterna tempore nivis.</ab>
+          <ab xml:id="d1e1486" n="23"> Et ipse percussit virum aegyptium, cujus statura erat quinque
+            cubitorum, et habebat lanceam ut liciatorium texentium : descendit igitur ad eum cum
+            virga, et rapuit hastam quam tenebat manu, et interfecit eum hasta sua.</ab>
+          <ab xml:id="d1e1490" n="24"> Haec fecit Banaias filius Jojadae, qui erat inter tres
+            robustos nominatissimus,</ab>
+          <ab xml:id="d1e1493" n="25"> inter triginta primus, verumtamen ad tres usque non
+            pervenerat : posuit autem eum David ad auriculam suam.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1497" n="26"> Porro fortissimi viri in exercitu, Asahel frater Joab, et
+            Elchanan filius patrui ejus de Bethlehem,</ab>
+          <ab xml:id="d1e1500" n="27"> Sammoth Arorites, Helles Pharonites,</ab>
+          <ab xml:id="d1e1503" n="28"> Ira filius Acces Thecuites, Abiezer Anathothites,</ab>
+          <ab xml:id="d1e1506" n="29"> Sobbochai Husathites, Ilai Ahohites,</ab>
+          <ab xml:id="d1e1510" n="30"> Maharai Netophathites, Heled filius Baana Netophathites,</ab>
+          <ab xml:id="d1e1513" n="31"> Ethai filius Ribai de Gabaath filiorum Benjamin, Banaia
+            Pharatonites,</ab>
+          <ab xml:id="d1e1516" n="32"> Hurai de torrente Gaas, Abiel Arbathites, Azmoth Bauramites,
+            Eliaba Salabonites.</ab>
+          <ab xml:id="d1e1519" n="33"> Filii Assem Gezonites, Jonathan filius Sage Ararites,</ab>
+          <ab xml:id="d1e1522" n="34"> Ahiam filius Sachar Ararites,</ab>
+          <ab xml:id="d1e1525" n="35"> Eliphal filius Ur,</ab>
+          <ab xml:id="d1e1529" n="36"> Hepher Mecherathites, Ahia Phelonites,</ab>
+          <ab xml:id="d1e1532" n="37"> Hesro Carmelites, Naarai filius Asbai,</ab>
+          <ab xml:id="d1e1535" n="38"> Joël frater Nathan, Mibahar filius Agarai,</ab>
+          <ab xml:id="d1e1538" n="39"> Selec Ammonites, Naharai Berothites armiger Joab filii
+            Sarviae,</ab>
+          <ab xml:id="d1e1541" n="40"> Ira Jethraeus, Gareb Jethraeus,</ab>
+          <ab xml:id="d1e1544" n="41"> Urias Hethaeus, Zabad filius Oholi,</ab>
+          <ab xml:id="d1e1548" n="42"> Adina filius Siza Rubenites princeps Rubenitarum, et cum eo
+            triginta :</ab>
+          <ab xml:id="d1e1551" n="43"> Hanan filius Maacha, et Josaphat Mathanites,</ab>
+          <ab xml:id="d1e1554" n="44"> Ozia Astarothites, Samma, et Jehiel filii Hotham
+            Arorites,</ab>
+          <ab xml:id="d1e1557" n="45"> Jedihel filius Samri, et Joha frater ejus Thosaites,</ab>
+          <ab xml:id="d1e1560" n="46"> Eliel Mahumites, et Jeribai, et Josaia filii Elnaëm, et
+            Jethma Moabites, Eliel, et Obed, et Jasiel de Masobia.</ab>
+        </div>
+        <div xml:id="d1e1565" type="chap" n="12">
+          <ab xml:id="d1e1567" n="1"> Hi quoque venerunt ad David in Siceleg, cum adhuc fugeret Saul
+            filium Cis, qui erant fortissimi et egregii pugnatores,</ab>
+          <ab xml:id="d1e1570" n="2"> tendentes arcum, et utraque manu fundis saxa jacientes, et
+            dirigentes sagittas, de fratribus Saul ex Benjamin.</ab>
+          <ab xml:id="d1e1573" n="3"> Princeps Ahiecer, et Joas filii Samaa Gabaathites, et Jaziel,
+            et Phallet filii Azmoth, et Baracha, et Jehu Anathotites.</ab>
+          <ab xml:id="d1e1576" n="4"> Samaias quoque Gabaonites fortissimus inter triginta et super
+            triginta. Jeremias, et Jeheziel, et Johanan, et Jezabad Gaderothites.</ab>
+          <ab xml:id="d1e1579" n="5"> Et Eluzai, et Jerimuth, et Baalia, et Samaria, et Saphatia
+            Haruphites.</ab>
+          <ab xml:id="d1e1583" n="6"> Elcana, et Jesia, et Azareel, et Joëzer, et Jesbaam de Carehim
+            :</ab>
+          <ab xml:id="d1e1586" n="7"> Joëla quoque, et Zabadia filii Jeroham de Gedor.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1590" n="8"> Sed et de Gaddi transfugerunt ad David cum lateret in deserto,
+            viri robustissimi, et pugnatores optimi, tenentes clypeum et hastam : facies eorum quasi
+            facies leonis, et veloces quasi capreae in montibus :</ab>
+          <ab xml:id="d1e1593" n="9"> Ezer princeps, Obdias secundus, Eliab tertius,</ab>
+          <ab xml:id="d1e1596" n="10"> Masmana quartus, Jeremias quintus,</ab>
+          <ab xml:id="d1e1599" n="11"> Ethi sextus, Eliel septimus,</ab>
+          <ab xml:id="d1e1603" n="12"> Johanan octavus, Elzebad nonus,</ab>
+          <ab xml:id="d1e1606" n="13"> Jeremias decimus, Machbanai undecimus.</ab>
+          <ab xml:id="d1e1609" n="14"> Hi de filiis Gad principes exercitus : novissimus centum
+            militibus praeerat, et maximus mille.</ab>
+          <ab xml:id="d1e1612" n="15"> Isti sunt qui transierunt Jordanem mense primo, quando
+            inundare consuevit super ripas suas : et omnes fugaverunt qui morabantur in vallibus ad
+            orientalem plagam et occidentalem.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1616" n="16"> Venerunt autem et de Benjamin et de Juda ad praesidium in quo
+            morabatur David.</ab>
+          <ab xml:id="d1e1619" n="17"> Egressusque est David obviam eis, et ait : Si pacifice
+            venistis ad me ut auxiliemini mihi, cor meum jungatur vobis : si autem insidiamini mihi
+            pro adversariis meis, cum ego iniquitatem in manibus non habeam, videat Deus patrum
+            nostrorum, et judicet.</ab>
+          <ab xml:id="d1e1623" n="18"> Spiritus vero induit Amasai principem inter triginta, et ait
+            : Tui sumus, o David, et tecum, fili Isai. Pax, pax tibi, et pax adjutoribus tuis : te
+            enim adjuvat Deus tuus. Suscepit ergo eos David, et constituit principes turmae.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1627" n="19"> Porro de Manasse transfugerunt ad David, quando veniebat cum
+            Philisthiim adversus Saul ut pugnaret : et non dimicavit cum eis, quia inito consilio
+            remiserunt eum principes Philisthinorum, dicentes : Periculo capitis nostri revertetur
+            ad dominum suum Saul.</ab>
+          <ab xml:id="d1e1630" n="20"> Quando igitur reversus est in Siceleg, transfugerunt ad eum
+            de Manasse, Ednas, et Jozabad, et Jedihel, et Michaël, et Ednas, et Jozabad, et Eliu, et
+            Salathi, principes millium in Manasse.</ab>
+          <ab xml:id="d1e1633" n="21"> Hi praebuerunt auxilium David adversus latrunculos : omnes
+            enim erant viri fortissimi, et facti sunt principes in exercitu.</ab>
+          <ab xml:id="d1e1636" n="22"> Sed et per singulos dies veniebant ad David ad auxiliandum
+            ei, usque dum fieret grandis numerus, quasi exercitus Dei.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1640" n="23"> Iste quoque est numerus principum exercitus qui venerunt ad
+            David cum esset in Hebron, ut transferrent regnum Saul ad eum, juxta verbum Domini.</ab>
+          <ab xml:id="d1e1644" n="24"> Filii Juda portantes clypeum et hastam, sex millia octingenti
+            expediti ad praelium.</ab>
+          <ab xml:id="d1e1647" n="25"> De filiis Simeon virorum fortissimorum ad pugnandum, septem
+            millia centum.</ab>
+          <ab xml:id="d1e1650" n="26"> De filiis Levi, quatuor millia sexcenti.</ab>
+          <ab xml:id="d1e1653" n="27"> Jojoda quoque princeps de stirpe Aaron, et cum eo tria millia
+            septingenti.</ab>
+          <ab xml:id="d1e1656" n="28"> Sadoc etiam puer egregiae indolis, et domus patris ejus,
+            principes viginti duo.</ab>
+          <ab xml:id="d1e1659" n="29"> De filiis autem Benjamin fratribus Saul, tria millia : magna
+            enim pars eorum adhuc sequebatur domum Saul.</ab>
+          <ab xml:id="d1e1663" n="30"> Porro de filiis Ephraim viginti millia octingenti, fortissimi
+            robore, viri nominati in cognationibus suis.</ab>
+          <ab xml:id="d1e1666" n="31"> Et ex dimidia tribu Manasse, decem et octo millia, singuli
+            per nomina sua, venerunt ut constituerent regem David.</ab>
+          <ab xml:id="d1e1669" n="32"> De filiis quoque Issachar viri eruditi, qui noverant singula
+            tempora ad praecipiendum quid facere deberet Israël, principes ducenti : omnis autem
+            reliqua tribus eorum consilium sequebatur.</ab>
+          <ab xml:id="d1e1672" n="33"> Porro de Zabulon qui egrediebantur ad praelium, et stabant in
+            acie instructi armis bellicis, quinquaginta millia venerunt in auxilium, non in corde
+            duplici.</ab>
+          <ab xml:id="d1e1675" n="34"> Et de Nephthali, principes mille, et cum eis instructi clypeo
+            et hasta, triginta et septem millia.</ab>
+          <ab xml:id="d1e1678" n="35"> De Dan etiam praeparati ad praelium, viginti octo millia
+            sexcenti.</ab>
+          <ab xml:id="d1e1682" n="36"> Et de Aser egredientes ad pugnam, et in acie provocantes,
+            quadraginta millia.</ab>
+          <ab xml:id="d1e1685" n="37"> Trans Jordanem autem de filiis Ruben, et de Gad, et dimidia
+            parte tribus Manasse, instructi armis bellicis, centum viginti millia.</ab>
+          <ab xml:id="d1e1688" n="38"> Omnes isti viri bellatores expediti ad pugnandum, corde
+            perfecto venerunt in Hebron, ut constituerent regem David super universum Israël : sed
+            et omnes reliqui ex Israël uno corde erant, ut rex fieret David.</ab>
+          <ab xml:id="d1e1691" n="39"> Fueruntque ibi apud David tribus diebus comedentes et
+            bibentes : praeparaverant enim eis fratres sui.</ab>
+          <ab xml:id="d1e1694" n="40"> Sed et qui juxta eos erant, usque ad Issachar, et Zabulon, et
+            Nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum :
+            farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam : gaudium
+            quippe erat in Israël.</ab>
+        </div>
+        <div xml:id="d1e1698" type="chap" n="13">
+          <ab xml:id="d1e1700" n="1"> Iniit autem consilium David cum tribunis, et centurionibus, et
+            universis principibus,</ab>
+          <ab xml:id="d1e1703" n="2"> et ait ad omnem coetum Israël : Si placet vobis, et a Domino
+            Deo nostro egreditur sermo quem loquor, mittamus ad fratres nostros reliquos in
+            universas regiones Israël, et ad sacerdotes et Levitas qui habitant in suburbanis
+            urbium, ut congregentur ad nos,</ab>
+          <ab xml:id="d1e1706" n="3"> et reducamus arcam Dei nostri ad nos : non enim requisivimus
+            eam in diebus Saul.</ab>
+          <ab xml:id="d1e1709" n="4"> Et respondit universa multitudo ut ita fieret : placuerat enim
+            sermo omni populo.</ab>
+          <ab xml:id="d1e1712" n="5"> Congregavit ergo David cunctum Israël, a Sihor Aegypti usque
+            dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.</ab>
+          <ab xml:id="d1e1716" n="6"> Et ascendit David, et omnis vir Israël, ad collem
+            Cariathiarim, qui est in Juda, ut afferret inde arcam Domini Dei sedentis super
+            cherubim, ubi invocatum est nomen ejus.</ab>
+          <ab xml:id="d1e1719" n="7"> Imposueruntque arcam Dei super plaustrum novum, de domo
+            Abinadab : Oza autem, et frater ejus minabant plaustrum.</ab>
+          <ab xml:id="d1e1722" n="8"> Porro David, et universus Israël, ludebant coram Deo omni
+            virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et
+            tubis.</ab>
+          <ab xml:id="d1e1725" n="9"> Cum autem pervenisset ad aream Chidon, tetendit Oza manum
+            suam, ut sustentaret arcam : bos quippe lasciviens paululum inclinaverat eam.</ab>
+          <ab xml:id="d1e1728" n="10"> Iratus est itaque Dominus contra Ozam, et percussit eum, eo
+            quod tetigisset arcam : et mortuus est ibi coram Domino.</ab>
+          <ab xml:id="d1e1731" n="11"> Contristatusque est David, eo quod divisisset Dominus Ozam :
+            vocavitque locum illum Divisio Ozae, usque in praesentem diem.</ab>
+          <ab xml:id="d1e1735" n="12"> Et timuit Deum tunc temporis, dicens : Quomodo possum ad me
+            introducere arcam Dei ?</ab>
+          <ab xml:id="d1e1738" n="13"> et ob hanc causam non adduxit eam ad se, hoc est, in
+            civitatem David, sed avertit in domum Obededom Gethaei.</ab>
+          <ab xml:id="d1e1741" n="14"> Mansit ergo arca Dei in domo Obededom tribus mensibus : et
+            benedixit Dominus domui ejus, et omnibus quae habebat.</ab>
+        </div>
+        <div xml:id="d1e1745" type="chap" n="14">
+          <ab xml:id="d1e1747" n="1"> Misit quoque Hiram rex Tyri nuntios ad David, et ligna
+            cedrina, et artifices parietum, lignorumque, ut aedificarent ei domum.</ab>
+          <ab xml:id="d1e1750" n="2"> Cognovitque David quod confirmasset eum Dominus in regem super
+            Israël, et sublevatum esset regnum suum super populum ejus Israël.</ab>
+          <ab xml:id="d1e1753" n="3"> Accepit quoque David alias uxores in Jerusalem, genuitque
+            filios et filias.</ab>
+          <ab xml:id="d1e1756" n="4"> Et haec nomina eorum, qui nati sunt ei in Jerusalem : Samua,
+            et Sobab, Nathan, et Salomon,</ab>
+          <ab xml:id="d1e1759" n="5"> Jebahar, et Elisua, et Eliphalet,</ab>
+          <ab xml:id="d1e1763" n="6"> Noga quoque, et Napheg, et Japhia,</ab>
+          <ab xml:id="d1e1766" n="7"> Elisama, et Baaliada, et Eliphalet.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1770" n="8"> Audientes autem Philisthiim eo quod unctus esset David regem
+            super universum Israël, ascenderunt omnes ut quaererent eum : quod cum audisset David,
+            egressus est obviam eis.</ab>
+          <ab xml:id="d1e1773" n="9"> Porro Philisthiim venientes, diffusi sunt in valle
+            Raphaim.</ab>
+          <ab xml:id="d1e1776" n="10"> Consuluitque David Dominum, dicens : Si ascendam ad
+            Philisthaeos, et si trades eos in manu mea ? Et dixit ei Dominus : Ascende, et tradam
+            eos in manu tua.</ab>
+          <ab xml:id="d1e1779" n="11"> Cumque illi ascendissent in Baalpharasim, percussit eos ibi
+            David, et dixit : Divisit Deus inimicos meos per manum meam, sicut dividuntur aquae : et
+            idcirco vocatum est nomen illius loci Baalpharasim.</ab>
+          <ab xml:id="d1e1783" n="12"> Dereliqueruntque ibi deos suos, quos David jussit exuri.</ab>
+          <ab xml:id="d1e1786" n="13"> Alia etiam vice Philisthiim irruerunt, et diffusi sunt in
+            valle.</ab>
+          <ab xml:id="d1e1789" n="14"> Consuluitque rursum David Deum, et dixit ei Deus : Non
+            ascendas post eos : recede ab eis, et venies contra illos ex adverso pyrorum.</ab>
+          <ab xml:id="d1e1792" n="15"> Cumque audieris sonitum gradientis in cacumine pyrorum, tunc
+            egredieris ad bellum : egressus est enim Deus ante te, ut percutiat castra
+            Philisthiim.</ab>
+          <ab xml:id="d1e1795" n="16"> Fecit ergo David sicut praeceperat ei Deus, et percussit
+            castra Philisthinorum, de Gabaon usque Gazera.</ab>
+          <ab xml:id="d1e1798" n="17"> Divulgatumque est nomen David in universis regionibus, et
+            Dominus dedit pavorem ejus super omnes gentes.</ab>
+        </div>
+        <div xml:id="d1e1802" type="chap" n="15">
+          <ab xml:id="d1e1804" n="1"> Fecit quoque sibi domos in civitate David : et aedificavit
+            locum arcae Dei, tetenditque ei tabernaculum.</ab>
+          <ab xml:id="d1e1807" n="2"> Tunc dixit David : Illicitum est ut a quocumque portetur arca
+            Dei nisi a Levitis, quos elegit Dominus ad portandum eam, et ad ministrandum sibi usque
+            in aeternum.</ab>
+          <ab xml:id="d1e1810" n="3"> Congregavitque universum Israël in Jerusalem, ut afferretur
+            arca Dei in locum suum, quem praeparaverat ei :</ab>
+          <ab xml:id="d1e1813" n="4"> necnon et filios Aaron, et Levitas.</ab>
+          <ab xml:id="d1e1816" n="5"> De filiis Caath, Uriel princeps fuit, et fratres ejus centum
+            viginti.</ab>
+          <ab xml:id="d1e1820" n="6"> De filiis Merari, Asaia princeps : et fratres ejus ducenti
+            viginti.</ab>
+          <ab xml:id="d1e1823" n="7"> De filiis Gersom, Joël princeps : et fratres ejus centum
+            triginta.</ab>
+          <ab xml:id="d1e1826" n="8"> De filiis Elisaphan, Semeias princeps : et fratres ejus
+            ducenti.</ab>
+          <ab xml:id="d1e1829" n="9"> De filiis Hebron, Eliel princeps : et fratres ejus
+            octoginta.</ab>
+          <ab xml:id="d1e1832" n="10"> De filiis Oziel, Aminadab princeps : et fratres ejus centum
+            duodecim.</ab>
+          <ab xml:id="d1e1835" n="11"> Vocavitque David Sadoc et Abiathar sacerdotes, et Levitas,
+            Uriel, Asaiam, Joël, Semeiam, Eliel, et Aminadab :</ab>
+          <ab xml:id="d1e1839" n="12"> et dixit ad eos : Vos, qui estis principes familiarum
+            Leviticarum, sanctificamini cum fratribus vestris, et afferte arcam Domini Dei Israël ad
+            locum qui ei praeparatus est :</ab>
+          <ab xml:id="d1e1842" n="13"> ne ut a principio, quia non eratis praesentes, percussit nos
+            Dominus ; sic et nunc fiat, illicitum quid nobis agentibus.</ab>
+          <ab xml:id="d1e1845" n="14"> Sanctificati sunt ergo sacerdotes et Levitae ut portarent
+            arcam Domini Dei Israël.</ab>
+          <ab xml:id="d1e1848" n="15"> Et tulerunt filii Levi arcam Dei, sicut praeceperat Moyses
+            juxta verbum Domini, humeris suis in vectibus.</ab>
+          <ab xml:id="d1e1851" n="16"> Dixitque David principibus Levitarum, ut constituerent de
+            fratribus suis cantores in organis musicorum, nablis videlicet, et lyris, et cymbalis,
+            ut resonaret in excelsis sonitus laetitiae.</ab>
+          <ab xml:id="d1e1854" n="17"> Constitueruntque Levitas : Heman filium Joël, et de fratribus
+            ejus Asaph filium Barachiae : de filiis vero Merari, fratribus eorum : Ethan filium
+            Casaiae.</ab>
+          <ab xml:id="d1e1858" n="18"> Et cum eis fratres eorum : in secundo ordine, Zachariam, et
+            Ben, et Jaziel, et Semiramoth, et Jahiel, et Ani, Eliab, et Banaiam, et Maasiam, et
+            Mathathiam, et Eliphalu, et Maceniam, et Obededom, et Jehiel, janitores.</ab>
+          <ab xml:id="d1e1861" n="19"> Porro cantores, Heman, Asaph, et Ethan, in cymbalis aeneis
+            concrepantes.</ab>
+          <ab xml:id="d1e1864" n="20"> Zacharias autem, et Oziel, et Semiramoth, et Jahiel, et Ani,
+            et Eliab, et Maasias, et Banaias in nablis arcana cantabant.</ab>
+          <ab xml:id="d1e1867" n="21"> Porro Mathathias, et Eliphalu, et Macenias, et Obededom, et
+            Jehiel, et Ozaziu, in citharis pro octava canebant epinicion.</ab>
+          <ab xml:id="d1e1870" n="22"> Chonenias autem princeps Levitarum, prophetiae praeerat, ad
+            praecinendam melodiam : erat quippe valde sapiens.</ab>
+          <ab xml:id="d1e1873" n="23"> Et Barachias, et Elcana, janitores arcae.</ab>
+          <ab xml:id="d1e1877" n="24"> Porro Sebenias, et Josaphat, et Nathanaël, et Amasai, et
+            Zacharias, et Banaias, et Eliezer sacerdotes, clangebant tubis coram arca Dei : et
+            Obededom et Jehias erant janitores arcae.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1881" n="25"> Igitur David, et omnes majores natu Israël, et tribuni,
+            ierunt ad deportandam arcam foederis Domini de domo Obededom cum laetitia.</ab>
+          <ab xml:id="d1e1884" n="26"> Cumque adjuvisset Deus Levitas qui portabant arcam foederis
+            Domini, immolabantur septem tauri, et septem arietes.</ab>
+          <ab xml:id="d1e1887" n="27"> Porro David erat indutus stola byssina, et universi Levitae
+            qui portabant arcam, cantoresque, et Chonenias princeps prophetiae inter cantores :
+            David autem etiam indutus erat ephod lineo.</ab>
+          <ab xml:id="d1e1890" n="28"> Universusque Israël deducebant arcam foederis Domini in
+            jubilo, et sonitu buccinae, et tubis, et cymbalis, et nablis, et citharis
+            concrepantes.</ab>
+          <ab xml:id="d1e1893" n="29"> Cumque pervenisset arca foederis Domini usque ad civitatem
+            David, Michol filia Saul prospiciens per fenestram vidit regem David saltantem atque
+            ludentem, et despexit eum in corde suo.</ab>
+        </div>
+        <div xml:id="d1e1897" type="chap" n="16">
+          <ab xml:id="d1e1899" n="1"> Attulerunt igitur arcam Dei, et constituerunt eam in medio
+            tabernaculi quod tetenderat ei David : et obtulerunt holocausta et pacifica coram
+            Deo.</ab>
+          <ab xml:id="d1e1902" n="2"> Cumque complesset David offerens holocausta et pacifica,
+            benedixit populo in nomine Domini.</ab>
+          <ab xml:id="d1e1905" n="3"> Et divisit universis per singulos, a viro usque ad mulierem,
+            tortam panis, et partem assae carnis bubalae, et frixam oleo similam.<pc ana="#pilcrow"
+            />
+          </ab>
+          <ab xml:id="d1e1909" n="4"> Constituitque coram arca Domini de Levitis, qui ministrarent,
+            et recordarentur operum ejus, et glorificarent atque laudarent Dominum Deum Israël
+            :</ab>
+          <ab xml:id="d1e1912" n="5"> Asaph principem, et secundum ejus Zachariam : porro Jahiel, et
+            Semiramoth, et Jehiel, et Mathathiam, et Eliab, et Banaiam, et Obededom : Jehiel super
+            organa psalterii et lyras : Asaph autem ut cymbalis personaret :</ab>
+          <ab xml:id="d1e1916" n="6"> Banaiam vero et Jaziel sacerdotes canere tuba jugiter coram
+            arca foederis Domini.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e1920" n="7"> In illo die fecit David principem ad confitendum Domino Asaph
+            et fratres ejus :</ab>
+          <ab xml:id="d1e1923" n="8"> [Confitemini Domino, et invocate nomen ejus :/ notas facite in
+            populis adinventiones ejus./</ab>
+          <ab xml:id="d1e1926" n="9"> Cantate ei, et psallite ei,/ et narrate omnia mirabilia
+            ejus./</ab>
+          <ab xml:id="d1e1929" n="10"> Laudate nomen sanctum ejus :/ laetetur cor quaerentium
+            Dominum./</ab>
+          <ab xml:id="d1e1932" n="11"> Quaerite Dominum, et virtutem ejus :/ quaerite faciem ejus
+            semper./</ab>
+          <ab xml:id="d1e1936" n="12"> Recordamini mirabilium ejus quae fecit ;/ signorum illius, et
+            judiciorum oris ejus,/</ab>
+          <ab xml:id="d1e1939" n="13"> semen Israël servi ejus,/ filii Jacob electi ejus./</ab>
+          <ab xml:id="d1e1942" n="14"> Ipse Dominus Deus noster :/ in universa terra judicia
+            ejus./</ab>
+          <ab xml:id="d1e1945" n="15"> Recordamini in sempiternum pacti ejus :/ sermonis quem
+            praecepit in mille generationes,/</ab>
+          <ab xml:id="d1e1948" n="16"> quem pepigit cum Abraham,/ et juramenti illius cum
+            Isaac./</ab>
+          <ab xml:id="d1e1951" n="17"> Et constituit illud Jacob in praeceptum,/ et Israël in pactum
+            sempiternum,/</ab>
+          <ab xml:id="d1e1955" n="18"> dicens : Tibi dabo terram Chanaan,/ funiculum haereditatis
+            vestrae :/</ab>
+          <ab xml:id="d1e1958" n="19"> cum essent pauci numero,/ parvi et coloni ejus./</ab>
+          <ab xml:id="d1e1961" n="20"> Et transierunt de gente in gentem,/ et de regno ad populum
+            alterum./</ab>
+          <ab xml:id="d1e1964" n="21"> Non dimisit quemquam calumniari eos,/ sed increpavit pro eis
+            reges./</ab>
+          <ab xml:id="d1e1967" n="22"> Nolite tangere christos meos,/ et in prophetis meis nolite
+            malignari./</ab>
+          <ab xml:id="d1e1970" n="23"> Cantate Domino omnis terra ;/ annuntiate ex die in diem
+            salutare ejus :/</ab>
+          <ab xml:id="d1e1974" n="24"> narrate in gentibus gloriam ejus ;/ in cunctis populis
+            mirabilia ejus./</ab>
+          <ab xml:id="d1e1977" n="25"> Quia magnus Dominus, et laudabilis nimis,/ et horribilis
+            super omnes deos./</ab>
+          <ab xml:id="d1e1980" n="26"> Omnes enim dii populorum idola :/ Dominus autem caelos
+            fecit./</ab>
+          <ab xml:id="d1e1983" n="27"> Confessio et magnificentia coram eo :/ fortitudo et gaudium
+            in loco ejus./</ab>
+          <ab xml:id="d1e1986" n="28"> Afferte Domino, familiae populorum :/ afferte Domino gloriam
+            et imperium./</ab>
+          <ab xml:id="d1e1989" n="29"> Date Domino gloriam ;/ nomini ejus levate sacrificium,/ et
+            venite in conspectu ejus :/ et adorate Dominum in decore sancto./</ab>
+          <ab xml:id="d1e1993" n="30"> Commoveatur a facie ejus omnis terra :/ ipse enim fundavit
+            orbem immobilem./</ab>
+          <ab xml:id="d1e1996" n="31"> Laetentur caeli, et exultet terra,/ et dicant in nationibus :
+            Dominus regnavit./</ab>
+          <ab xml:id="d1e1999" n="32"> Tonet mare et plenitudo ejus ;/ exultent agri, et omnia quae
+            in eis sunt./</ab>
+          <ab xml:id="d1e2002" n="33"> Tunc laudabunt ligna saltus coram Domino :/ quia venit
+            judicare terram./</ab>
+          <ab xml:id="d1e2005" n="34"> Confitemini Domino, quoniam bonus :/ quoniam in aeternum
+            misericordia ejus./</ab>
+          <ab xml:id="d1e2008" n="35"> Et dicite : Salva nos, Deus salvator noster,/ et congrega
+            nos, et erue de gentibus :/ ut confiteamur nomini sancto tuo,/ et exultemus in
+            carminibus tuis./</ab>
+          <ab xml:id="d1e2012" n="36"> Benedictus Dominus Deus Israël,/ ab aeterno usque in
+            aeternum.] Et dicat omnis populo : Amen, et hymnum Domino.</ab>
+          <ab xml:id="d1e2015" n="37"> Reliquit itaque ibi coram arca foederis Domini Asaph et
+            fratres ejus, ut ministrarent in conspectu arcae jugiter per singulos dies, et vices
+            suas.</ab>
+          <ab xml:id="d1e2018" n="38"> Porro Obededom, et fratres ejus sexaginta octo : et Obededom
+            filium Idithun, et Hosa, constituit janitores ;</ab>
+          <ab xml:id="d1e2021" n="39"> Sadoc autem sacerdotem, et fratres ejus sacerdotes, coram
+            tabernaculo Domini in excelso quod erat in Gabaon,</ab>
+          <ab xml:id="d1e2024" n="40"> ut offerrent holocausta Domino super altare holocautomatis
+            jugiter, mane et vespere, juxta omnia quae scripta sunt in lege Domini, quam praecepit
+            Israëli.</ab>
+          <ab xml:id="d1e2027" n="41"> Et post eum Heman, et Idithun, et reliquos electos,
+            unumquemque vocabulo suo ad confitendum Domino, quoniam in aeternum misericordia
+            ejus.</ab>
+          <ab xml:id="d1e2031" n="42"> Heman quoque et Idithun canentes tuba, et quatientes cymbala
+            et omnia musicorum organa ad canendum Deo : filios autem Idithun fecit esse
+            portarios.</ab>
+          <ab xml:id="d1e2034" n="43"> Reversusque est omnis populus in domum suam : et David, ut
+            benediceret etiam domui suae.</ab>
+        </div>
+        <div xml:id="d1e2038" type="chap" n="17">
+          <ab xml:id="d1e2040" n="1"> Cum autem habitaret David in domo sua, dixit ad Nathan
+            prophetam : Ecce ego habito in domo cedrina : arca autem foederis Domini sub pellibus
+            est.</ab>
+          <ab xml:id="d1e2043" n="2"> Et ait Nathan ad David : Omnia quae in corde tuo sunt, fac :
+            Deus enim tecum est.</ab>
+          <ab xml:id="d1e2046" n="3"> Igitur nocte illa factus est sermo Dei ad Nathan, dicens
+            :</ab>
+          <ab xml:id="d1e2049" n="4"> Vade, et loquere David servo meo : Haec dicit Dominus : Non
+            aedificabis tu mihi domum ad habitandum.</ab>
+          <ab xml:id="d1e2052" n="5"> Neque enim mansi in domo ex eo tempore quo eduxi Israël usque
+            ad diem hanc : sed fui semper mutans loca tabernaculi, et in tentorio</ab>
+          <ab xml:id="d1e2056" n="6"> manens cum omni Israël. Numquid locutus sum saltem uni judicum
+            Israël, quibus praeceperam ut pascerent populum meum, et dixi : Quare non aedificastis
+            mihi domum cedrinam ?</ab>
+          <ab xml:id="d1e2059" n="7"> Nunc itaque sic loqueris ad servum meum David : Haec dicit
+            Dominus exercituum : Ego tuli te, cum in pascuis sequereris gregem, ut esses dux populi
+            mei Israël :</ab>
+          <ab xml:id="d1e2062" n="8"> et fui tecum quocumque perrexisti, et interfeci omnes inimicos
+            tuos coram te, fecique tibi nomen quasi unius magnorum qui celebrantur in terra.</ab>
+          <ab xml:id="d1e2065" n="9"> Et dedi locum populo meo Israël : plantabitur, et habitabit in
+            eo, et ultra non commovebitur : nec filii iniquitatis atterent eos, sicut a
+            principio,</ab>
+          <ab xml:id="d1e2068" n="10"> ex diebus quibus dedi judices populo meo Israël, et humiliavi
+            universos inimicos tuos. Annuntio ergo tibi, quod aedificaturus sit tibi Dominus
+            domum.</ab>
+          <ab xml:id="d1e2071" n="11"> Cumque impleveris dies tuos ut vadas ad patres tuos,
+            suscitabo semen tuum post te, quod erit de filiis tuis : et stabiliam regnum ejus.</ab>
+          <ab xml:id="d1e2075" n="12"> Ipse aedificabit mihi domum, et firmabo solium ejus usque in
+            aeternum.</ab>
+          <ab xml:id="d1e2078" n="13"> Ego ero ei in patrem, et ipse erit mihi in filium : et
+            misericordiam meam non auferam ab eo, sicut abstuli ab eo qui ante te fuit.</ab>
+          <ab xml:id="d1e2081" n="14"> Et statuam eum in domo mea, et in regno meo usque in
+            sempiternum : et thronus ejus erit firmissimus in perpetuum.</ab>
+          <ab xml:id="d1e2084" n="15"> Juxta omnia verba haec, et juxta universam visionem istam,
+            sic locutus est Nathan ad David.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2088" n="16"> Cumque venisset rex David, et sedisset coram Domino, dixit :
+            Quis ego sum, Domine Deus, et quae domus mea, ut praestares mihi talia ?</ab>
+          <ab xml:id="d1e2091" n="17"> sed et hoc parum visum est in conspectu tuo, ideoque locutus
+            es super domum servi tui etiam in futurum : et fecisti me spectabilem super omnes
+            homines, Domine Deus.</ab>
+          <ab xml:id="d1e2095" n="18"> Quid ultra addere potest David, cum ita glorificaveris servum
+            tuum, et cognoveris eum ?</ab>
+          <ab xml:id="d1e2098" n="19"> Domine, propter famulum tuum juxta cor tuum fecisti omnem
+            magnificentiam hanc, et nota esse voluisti universa magnalia.</ab>
+          <ab xml:id="d1e2101" n="20"> Domine, non est similis tui, et non est alius deus absque te,
+            ex omnibus quos audivimus auribus nostris.</ab>
+          <ab xml:id="d1e2104" n="21"> Quis enim est alius, ut populus tuus Israël, gens una in
+            terra, ad quam perrexit Deus ut liberaret et faceret populum sibi, et magnitudine sua
+            atque terroribus ejiceret nationes a facie ejus, quem de Aegypto liberarat ?</ab>
+          <ab xml:id="d1e2107" n="22"> Et posuisti populum tuum Israël tibi in populum usque in
+            aeternum, et tu, Domine, factus es Deus ejus.</ab>
+          <ab xml:id="d1e2110" n="23"> Nunc igitur Domine, sermo quem locutus es famulo tuo et super
+            domum ejus confirmetur in perpetuum, et fac sicut locutus es.</ab>
+          <ab xml:id="d1e2114" n="24"> Permaneatque et magnificetur nomen tuum usque in sempiternum,
+            et dicatur : Dominus exercituum Deus Israël, et domus David servi ejus permanens coram
+            eo.</ab>
+          <ab xml:id="d1e2117" n="25"> Tu enim, Domine Deus meus, revelasti auriculam servi tui, ut
+            aedificares ei domum : et idcirco invenit servus tuus fiduciam, ut oret coram te.</ab>
+          <ab xml:id="d1e2120" n="26"> Nunc ergo Domine, tu es Deus, et locutus es ad servum tuum
+            tanta beneficia.</ab>
+          <ab xml:id="d1e2123" n="27"> Et coepisti benedicere domui servi tui, ut sit semper coram
+            te : te enim, Domine, benedicente, benedicta erit in perpetuum.</ab>
+        </div>
+        <div xml:id="d1e2128" type="chap" n="18">
+          <ab xml:id="d1e2130" n="1"> Factum est autem post haec, ut percuteret David Philisthiim,
+            et humiliaret eos, et tolleret Geth et filias ejus de manu Philisthiim,</ab>
+          <ab xml:id="d1e2133" n="2"> percuteretque Moab, et fierent Moabitae servi David,
+            offerentes ei munera.</ab>
+          <ab xml:id="d1e2136" n="3"> Eo tempore percussit David etiam Adarezer regem Soba regionis
+            Hemath, quando perrexit ut dilataret imperium suum usque ad flumen Euphraten.</ab>
+          <ab xml:id="d1e2139" n="4"> Cepit ergo David mille quadrigas ejus, et septem millia
+            equitum, ac viginti millia virorum peditum, subnervavitque omnes equos curruum, exceptis
+            centum quadrigis, quas reservavit sibi.</ab>
+          <ab xml:id="d1e2142" n="5"> Supervenit autem et Syrus Damascenus, ut auxilium praeberet
+            Adarezer regi Soba : sed et hujus percussit David viginti duo millia virorum.</ab>
+          <ab xml:id="d1e2146" n="6"> Et posuit milites in Damasco, ut Syria quoque serviret sibi,
+            et offerret munera. Adjuvitque eum Dominus in cunctis ad quae perrexerat.</ab>
+          <ab xml:id="d1e2149" n="7"> Tulit quoque David pharetras aureas, quas habuerant servi
+            Adarezer, et attulit eas in Jerusalem.</ab>
+          <ab xml:id="d1e2152" n="8"> Necnon de Thebath et Chun urbibus Adarezer aeris plurimum, de
+            quo fecit Salomon mare aeneum, et columnas, et vasa aenea.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2156" n="9"> Quod cum audisset Thou rex Hemath, percussisse videlicet David
+            omnem exercitum Adarezer regis Soba,</ab>
+          <ab xml:id="d1e2159" n="10"> misit Adoram filium suum ad regem David, ut postularet ab eo
+            pacem, et congratularetur ei quod percussisset et expugnasset Adarezer : adversarius
+            quippe erat Thou Adarezer.</ab>
+          <ab xml:id="d1e2162" n="11"> Sed et omnia vasa aurea, et argentea, et aenea consecravit
+            David rex Domino, cum argento et auro quod tulerat ex universis gentibus, tam de
+            Idumaea, et Moab, et filiis Ammon, quam de Philisthiim et Amalec.</ab>
+          <ab xml:id="d1e2166" n="12"> Abisai vero filius Sarviae percussit Edom in valle Salinarum,
+            decem et octo millia :</ab>
+          <ab xml:id="d1e2169" n="13"> et constituit in Edom praesidium, ut serviret Idumaea David :
+            salvavitque Dominus David in cunctis ad quae perrexerat.</ab>
+          <ab xml:id="d1e2172" n="14"> Regnavit ergo David super universum Israël, et faciebat
+            judicium atque justitiam cuncto populo suo.</ab>
+          <ab xml:id="d1e2175" n="15"> Porro Joab filius Sarviae erat super exercitum, et Josaphat
+            filius Ahilud a commentariis :</ab>
+          <ab xml:id="d1e2178" n="16"> Sadoc autem filius Achitob, et Ahimelech filius Abiathar,
+            sacerdotes : et Susa, scriba :</ab>
+          <ab xml:id="d1e2181" n="17"> Banaias quoque filius Jojadae super legiones Cerethi et
+            Phelethi : porro filii David, primi ad manum regis.</ab>
+        </div>
+        <div xml:id="d1e2185" type="chap" n="19">
+          <ab xml:id="d1e2187" n="1"> Accidit autem ut moreretur Naas rex filiorum Ammon, et
+            regnaret filius ejus pro eo.</ab>
+          <ab xml:id="d1e2190" n="2"> Dixitque David : Faciam misericordiam cum Hanon filio Naas :
+            praestitit enim mihi pater ejus gratiam. Misitque David nuntios ad consolandum eum super
+            morte patris sui. Qui cum pervenissent in terram filiorum Ammon ut consolarentur
+            Hanon,</ab>
+          <ab xml:id="d1e2193" n="3"> dixerunt principes filiorum Ammon ad Hanon : Tu forsitan
+            putas, quod David honoris causa in patrem tuum miserit qui consolentur te : nec
+            animadvertis quod ut explorent, et investigent, et scrutentur terram tuam, venerint ad
+            te servi ejus.</ab>
+          <ab xml:id="d1e2196" n="4"> Igitur Hanon pueros David decalvavit, et rasit, et praecidit
+            tunicas eorum a natibus usque ad pedes, et dimisit eos.</ab>
+          <ab xml:id="d1e2199" n="5"> Qui cum abiissent, et hoc mandassent David, misit in occursum
+            eorum (grandem enim contumeliam sustinuerant) et praecepit ut manerent in Jericho, donec
+            cresceret barba eorum, et tunc reverterentur.</ab>
+          <ab xml:id="d1e2203" n="6"> Videntes autem filii Ammon quod injuriam fecissent David, tam
+            Hanon quam reliquus populus, miserunt mille talenta argenti, ut conducerent sibi de
+            Mesopotamia, et de Syria Maacha, et de Soba currus et equites.</ab>
+          <ab xml:id="d1e2206" n="7"> Conduxeruntque triginta duo millia curruum, et regem Maacha
+            cum populo ejus. Qui cum venissent, castrametati sunt e regione Medaba. Filii quoque
+            Ammon congregati de urbibus suis venerunt ad bellum.</ab>
+          <ab xml:id="d1e2209" n="8"> Quod cum audisset David, misit Joab, et omnem exercitum
+            virorum fortium :</ab>
+          <ab xml:id="d1e2212" n="9"> egressique filii Ammon, direxerunt aciem juxta portam
+            civitatis ; reges autem, qui ad auxilium ejus venerant, separatim in agro steterunt.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2216" n="10"> Igitur Joab, intelligens bellum ex adverso et post tergum
+            contra se fieri, elegit viros fortissimos de universo Israël, et perrexit contra
+            Syrum.</ab>
+          <ab xml:id="d1e2219" n="11"> Reliquam autem partem populi dedit sub manu Abisai fratris
+            sui : et perrexerunt contra filios Ammon.</ab>
+          <ab xml:id="d1e2223" n="12"> Dixitque : Si vicerit me Syrus, auxilio eris mihi : si autem
+            superaverint te filii Ammon, ero tibi in praesidium.</ab>
+          <ab xml:id="d1e2226" n="13"> Confortare, et agamus viriliter pro populo nostro, et pro
+            urbibus Dei nostri : Dominus autem, quod in conspectu suo bonum est, faciet.</ab>
+          <ab xml:id="d1e2229" n="14"> Perrexit ergo Joab et populus qui cum eo erat, contra Syrum
+            ad praelium : et fugavit eos.</ab>
+          <ab xml:id="d1e2232" n="15"> Porro filii Ammon videntes quod fugisset Syrus, ipsi quoque
+            fugerunt Abisai fratrem ejus, et ingressi sunt civitatem : reversusque est etiam Joab in
+            Jerusalem.</ab>
+          <ab xml:id="d1e2235" n="16"> Videns autem Syrus quod cecidisset coram Israël, misit
+            nuntios, et adduxit Syrum, qui erat trans fluvium : Sophach autem princeps militiae
+            Adarezer erat dux eorum.</ab>
+          <ab xml:id="d1e2238" n="17"> Quod cum nuntiatum esset David, congregavit universum Israël,
+            et transivit Jordanem, irruitque in eos et direxit ex adverso aciem, illis contra
+            pugnantibus.</ab>
+          <ab xml:id="d1e2242" n="18"> Fugit autem Syrus Israël, et interfecit David de Syris septem
+            millia curruum, et quadraginta millia peditum, et Sophach exercitus principem.</ab>
+          <ab xml:id="d1e2245" n="19"> Videntes autem servi Adarezer se ab Israël esse superatos,
+            transfugerunt ad David, et servierunt ei : noluitque ultra Syria auxilium praebere
+            filiis Ammon.</ab>
+        </div>
+        <div xml:id="d1e2249" type="chap" n="20">
+          <ab xml:id="d1e2251" n="1"> Factum est autem post anni circulum, eo tempore quo solent
+            reges ad bella procedere, congregavit Joab exercitum, et robur militiae, et vastavit
+            terram filiorum Ammon : perrexitque et obsedit Rabba. Porro David manebat in Jerusalem,
+            quando Joab percussit Rabba et destruxit eam.</ab>
+          <ab xml:id="d1e2254" n="2"> Tulit autem David coronam Melchom de capite ejus, et invenit
+            in ea auri pondo talentum, et pretiosissimas gemmas, fecitque sibi inde diadema :
+            manubias quoque urbis plurimas tulit ;</ab>
+          <ab xml:id="d1e2257" n="3"> populum autem, qui erat in ea, eduxit, et fecit super eos
+            tribulas, et trahas, et ferrata carpenta transire, ita ut dissecarentur et
+            contererentur. Sic fecit David cunctis urbibus filiorum Ammon : et reversus est cum omni
+            populo suo in Jerusalem.</ab>
+          <ab xml:id="d1e2260" n="4"> Post haec initum est bellum in Gazer adversum Philisthaeos, in
+            quo percussit Sobochai Husathites, Saphai de genere Raphaim, et humiliavit eos.</ab>
+          <ab xml:id="d1e2263" n="5"> Aliud quoque bellum gestum est adversus Philisthaeos, in quo
+            percussit Adeodatus filius Saltus Bethlehemites fratrem Goliath Gethaei, cujus hastae
+            lignum erat quasi liciatorium texentium.</ab>
+          <ab xml:id="d1e2267" n="6"> Sed et aliud bellum accidit in Geth, in quo fuit homo
+            longissimus, senos habens digitos, id est, simul viginti quatuor : qui et ipse de Rapha
+            fuerat stirpe generatus.</ab>
+          <ab xml:id="d1e2270" n="7"> Hic blasphemavit Israël : et percussit eum Jonathan filius
+            Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et
+            servorum ejus.</ab>
+        </div>
+        <div xml:id="d1e2274" type="chap" n="21">
+          <ab xml:id="d1e2276" n="1"> Consurrexit autem Satan contra Israël, et concitavit David ut
+            numeraret Israël.</ab>
+          <ab xml:id="d1e2279" n="2"> Dixitque David ad Joab et ad principes populi : Ite, et
+            numerate Israël a Bersabee usque Dan : et afferte mihi numerum ut sciam.</ab>
+          <ab xml:id="d1e2282" n="3"> Responditque Joab : Augeat Dominus populum suum centuplum quam
+            sunt : nonne, domine mi rex, omnes servi tui sunt ? quare hoc quaerit dominus meus, quod
+            in peccatum reputetur Israëli ?</ab>
+          <ab xml:id="d1e2285" n="4"> Sed sermo regis magis praevaluit : egressusque est Joab, et
+            circuivit universum Israël : et reversus est Jerusalem,</ab>
+          <ab xml:id="d1e2288" n="5"> deditque David numerum eorum quos circuierat : et inventus est
+            omnis numerus Israël, mille millia et centum millia virorum educentium gladium : de Juda
+            autem quadringenta septuaginta millia bellatorum.</ab>
+          <ab xml:id="d1e2292" n="6"> Nam Levi et Benjamin non numeravit : eo quod Joab invitus
+            exsequeretur regis imperium.</ab>
+          <ab xml:id="d1e2295" n="7"> Displicuit autem Deo quod jussum erat : et percussit
+            Israël.</ab>
+          <ab xml:id="d1e2298" n="8"> Dixitque David ad Deum : Peccavi nimis ut hoc facerem :
+            obsecro, aufer iniquitatem servi tui, quia insipienter egi.</ab>
+          <ab xml:id="d1e2301" n="9"> Et locutus est Dominus ad Gad videntem Davidis, dicens :</ab>
+          <ab xml:id="d1e2304" n="10"> Vade, et loquere ad David, et dic ei : Haec dicit Dominus :
+            Trium tibi optionem do : unum, quod volueris, elige, et faciam tibi.</ab>
+          <ab xml:id="d1e2307" n="11"> Cumque venisset Gad ad David, dixit ei : Haec dicit Dominus :
+            Elige, quod volueris :</ab>
+          <ab xml:id="d1e2311" n="12"> aut tribus annis famem ; aut tribus mensibus te fugere hostes
+            tuos, et gladium eorum non posse evadere ; aut tribus diebus gladium Domini, et
+            pestilentiam versari in terra, et angelum Domini interficere in universis finibus Israël
+            : nunc igitur vide quid respondeam ei qui misit me.</ab>
+          <ab xml:id="d1e2314" n="13"> Et dixit David ad Gad : Ex omni parte me angustiae premunt :
+            sed melius mihi est ut incidam in manus Domini, quia multae sunt miserationes ejus, quam
+            in manus hominum.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2318" n="14"> Misit ergo Dominus pestilentiam in Israël : et ceciderunt de
+            Israël septuaginta millia virorum.</ab>
+          <ab xml:id="d1e2321" n="15"> Misit quoque angelum in Jerusalem ut percuteret eam : cumque
+            percuteretur, vidit Dominus, et misertus est super magnitudine mali : et imperavit
+            angelo qui percutiebat : Sufficit, jam cesset manus tua. Porro angelus Domini stabat
+            juxta aream Ornan Jebusaei.</ab>
+          <ab xml:id="d1e2324" n="16"> Levansque David oculos suos, vidit angelum Domini stantem
+            inter caelum et terram, et evaginatum gladium in manu ejus, et versum contra Jerusalem :
+            et ceciderunt tam ipse quam majores natu, vestiti ciliciis, proni in terram.</ab>
+          <ab xml:id="d1e2327" n="17"> Dixitque David ad Deum : Nonne ego sum, qui jussi ut
+            numeraretur populus ? ego, qui peccavi ? ego, qui malum feci ? iste grex, quid commeruit
+            ? Domine Deus meus, vertatur, obsecro, manus tua in me, et in domum patris mei : populus
+            autem tuus non percutiatur.</ab>
+          <ab xml:id="d1e2331" n="18"> Angelus autem Domini praecepit Gad ut diceret Davidi ut
+            ascenderet, exstrueretque altare Domino Deo in area Ornan Jebusaei.</ab>
+          <ab xml:id="d1e2334" n="19"> Ascendit ergo David juxta sermonem Gad, quem locutus ei
+            fuerat ex nomine Domini.</ab>
+          <ab xml:id="d1e2337" n="20"> Porro Ornan cum suspexisset et vidisset angelum, quatuorque
+            filii ejus cum eo, absconderunt se : nam eo tempore terebat in area triticum.</ab>
+          <ab xml:id="d1e2340" n="21"> Igitur cum veniret David ad Ornan, conspexit eum Ornan, et
+            processit ei obviam de area, et adoravit eum pronus in terram.</ab>
+          <ab xml:id="d1e2343" n="22"> Dixitque ei David : Da mihi locum areae tuae, ut aedificem in
+            ea altare Domino : ita ut quantum valet argenti accipias, et cesset plaga a populo.</ab>
+          <ab xml:id="d1e2346" n="23"> Dixit autem Ornan ad David : Tolle, et faciat dominus meus
+            rex quodcumque ei placet : sed et boves do in holocaustum, et tribulas in ligna, et
+            triticum in sacrificium : omnia libens praebebo.</ab>
+          <ab xml:id="d1e2350" n="24"> Dixitque ei rex David : Nequaquam ita fiet, sed argentum dabo
+            quantum valet : neque enim tibi auferre debeo, et sic offerre Domino holocausta
+            gratuita.</ab>
+          <ab xml:id="d1e2353" n="25"> Dedit ergo David Ornan pro loco siclos auri justissimi
+            ponderis sexcentos.</ab>
+          <ab xml:id="d1e2356" n="26"> Et aedificavit ibi altare Domino, obtulitque holocausta et
+            pacifica, et invocavit Dominum ; et exaudivit eum in igne de caelo super altare
+            holocausti.</ab>
+          <ab xml:id="d1e2359" n="27"> Praecepitque Dominus angelo, et convertit gladium suum in
+            vaginam.</ab>
+          <ab xml:id="d1e2362" n="28"> Protinus ergo David, videns quod exaudisset eum Dominus in
+            area Ornan Jebusaei, immolavit ibi victimas.</ab>
+          <ab xml:id="d1e2365" n="29"> Tabernaculum autem Domini, quod fecerat Moyses in deserto, et
+            altare holocaustorum, ea tempestate erat in excelso Gabaon.</ab>
+          <ab xml:id="d1e2369" n="30"> Et non praevaluit David ire ad altare ut ibi obsecraret Deum
+            : nimio enim fuerat in timore perterritus, videns gladium angeli Domini.</ab>
+        </div>
+        <div xml:id="d1e2373" type="chap" n="22">
+          <ab xml:id="d1e2375" n="1"> Dixitque David : Haec est domus Dei, et hoc altare in
+            holocaustum Israëli.</ab>
+          <ab xml:id="d1e2378" n="2"> Et praecepit ut congregarentur omnes proselyti de terra
+            Israël, et constituit ex eis latomos ad caedendos lapides et poliendos, ut aedificaretur
+            domus Dei.</ab>
+          <ab xml:id="d1e2381" n="3"> Ferrum quoque plurimum ad clavos januarum, et ad commissuras
+            atque juncturas, praeparavit David : et aeris pondus innumerabile.</ab>
+          <ab xml:id="d1e2384" n="4"> Ligna quoque cedrina non poterant aestimari, quae Sidonii et
+            Tyrii deportaverant ad David.</ab>
+          <ab xml:id="d1e2387" n="5"> Et dixit David : Solomon filius meus puer parvulus est et
+            delicatus : domus autem, quam aedificari volo Domino, talis esse debet ut in cunctis
+            regionibus nominetur : praeparabo ergo ei necessaria. Et ob hanc causam ante mortem suam
+            omnes praeparavit impensas.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2392" n="6"> Vocavitque Salomonem filium suum, et praecepit ei ut
+            aedificaret domum Domino Deo Israël.</ab>
+          <ab xml:id="d1e2395" n="7"> Dixitque David ad Salomonem : Fili mi, voluntatis meae fuit ut
+            aedificarem domum nomini Domini Dei mei :</ab>
+          <ab xml:id="d1e2398" n="8"> sed factus est sermo Domini ad me, dicens : Multum sanguinem
+            effudisti, et plurima bella bellasti : non poteris aedificare domum nomini meo, tanto
+            effuso sanguine coram me :</ab>
+          <ab xml:id="d1e2401" n="9"> filius qui nascetur tibi, erit vir quietissimus : faciam enim
+            eum requiescere ab omnibus inimicis suis per circuitum : et ob hanc causam Pacificus
+            vocabitur : et pacem et otium dabo in Israël cunctis diebus ejus.</ab>
+          <ab xml:id="d1e2404" n="10"> Ipse aedificabit domum nomini meo, et ipse erit mihi in
+            filium, et ego ero illi in patrem : firmaboque solium regni ejus super Israël in
+            aeternum.</ab>
+          <ab xml:id="d1e2407" n="11"> Nunc ergo fili mi, sit Dominus tecum, et prosperare, et
+            aedifica domum Domino Deo tuo sicut locutus est de te.</ab>
+          <ab xml:id="d1e2411" n="12"> Det quoque Dominus prudentiam et sensum ut regere possis
+            Israël, et custodire legem Domini Dei tui.</ab>
+          <ab xml:id="d1e2414" n="13"> Tunc enim proficere poteris, si custodieris mandata et
+            judicia quae praecepit Dominus Moysi ut doceret Israël. Confortare, et viriliter age :
+            ne timeas, neque paveas.</ab>
+          <ab xml:id="d1e2417" n="14"> Ecce ego in paupertate mea praeparavi impensas domus Domini,
+            auri talenta centum millia, et argenti mille millia talentorum : aeris vero et ferri non
+            est pondus, vincitur enim numerus magnitudine ; ligna et lapides praeparavi ad universa
+            impendia.</ab>
+          <ab xml:id="d1e2420" n="15"> Habes quoque plurimos artifices, latomos, et caementarios,
+            artificesque lignorum, et omnium artium ad faciendum opus prudentissimos,</ab>
+          <ab xml:id="d1e2423" n="16"> in auro et argento et aere et ferro, cujus non est numerus.
+            Surge igitur et fac, et erit Dominus tecum.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2427" n="17"> Praecepit quoque David cunctis principibus Israël ut
+            adjuvarent Salomonem filium suum :</ab>
+          <ab xml:id="d1e2431" n="18"> Cernitis, inquiens, quod Dominus Deus vester vobiscum sit, et
+            dederit vobis requiem per circuitum, et tradiderit omnes inimicos vestros in manus
+            vestras, et subjecta sit terra coram Domino, et coram populo ejus.</ab>
+          <ab xml:id="d1e2434" n="19"> Praebete igitur corda vestra et animas vestras, ut quaeratis
+            Dominum Deum vestrum : et consurgite, et aedificate sanctuarium Domino Deo, ut
+            introducatur arca foederis Domini, et vasa Domino consecrata, in domum quae aedificatur
+            nomini Domini.</ab>
+        </div>
+        <div xml:id="d1e2438" type="chap" n="23">
+          <ab xml:id="d1e2440" n="1"> Igitur David, senex et plenus dierum, regem constituit
+            Salomonem filium suum super Israël.</ab>
+          <ab xml:id="d1e2443" n="2"> Et congregavit omnes principes Israël, et sacerdotes atque
+            Levitas.</ab>
+          <ab xml:id="d1e2446" n="3"> Numeratique sunt Levitae a triginta annis et supra : et
+            inventa sunt triginta octo millia virorum.</ab>
+          <ab xml:id="d1e2449" n="4"> Ex his electi sunt, et distributi in ministerium domus Domini,
+            viginti quatuor millia : praepositorum autem et judicum, sex millia.</ab>
+          <ab xml:id="d1e2452" n="5"> Porro quatuor millia janitores, et totidem psaltae, canentes
+            Domino in organis quae fecerat ad canendum.</ab>
+          <ab xml:id="d1e2456" n="6"> Et distribuit eos David per vices filiorum Levi, Gerson
+            videlicet, et Caath, et Merari.</ab>
+          <ab xml:id="d1e2459" n="7"> Filii Gerson : Leedan, et Semei.</ab>
+          <ab xml:id="d1e2462" n="8"> Filii Leedan : princeps Jahiel, et Zethan, et Joël, tres.</ab>
+          <ab xml:id="d1e2465" n="9"> Filii Semei : Salomith, et Hosiel, et Aran, tres : isti
+            principes familiarum Leedan.</ab>
+          <ab xml:id="d1e2468" n="10"> Porro filii Semei : Leheth, et Ziza, et Jaus, et Baria : isti
+            filii Semei, quatuor.</ab>
+          <ab xml:id="d1e2471" n="11"> Erat autem Leheth prior, Ziza secundus : porro Jaus et Baria
+            non habuerunt plurimos filios, et idcirco in una familia, unaque domo computati
+            sunt.</ab>
+          <ab xml:id="d1e2475" n="12"> Filii Caath : Amram, et Isaar, Hebron, et Oziel,
+            quatuor.</ab>
+          <ab xml:id="d1e2478" n="13"> Filii Amram : Aaron et Moyses. Separatusque est Aaron ut
+            ministraret in Sancto sanctorum, ipse et filii ejus in sempiternum, et adoleret incensum
+            Domino secundum ritum suum, ac benediceret nomini ejus in perpetuum.</ab>
+          <ab xml:id="d1e2481" n="14"> Moysi quoque hominis Dei filii annumerati sunt in tribu
+            Levi.</ab>
+          <ab xml:id="d1e2484" n="15"> Filii Moysi : Gersom et Eliezer.</ab>
+          <ab xml:id="d1e2487" n="16"> Filii Gersom : Subuel primus.</ab>
+          <ab xml:id="d1e2490" n="17"> Fuerunt autem filii Eliezer : Rohobia primus : et non erant
+            Eliezer filii alii. Porro filii Rohobia multiplicati sunt nimis.</ab>
+          <ab xml:id="d1e2494" n="18"> Filii Isaar : Salomith primus.</ab>
+          <ab xml:id="d1e2497" n="19"> Filii Hebron : Jeriau primus, Amarias secundus, Jahaziel
+            tertius, Jecmaam quartus.</ab>
+          <ab xml:id="d1e2500" n="20"> Filii Oziel : Micha primus, Jesia secundus.</ab>
+          <ab xml:id="d1e2503" n="21"> Filii Merari : Moholi, et Musi. Filii Moholi : Eleazar et
+            Cis.</ab>
+          <ab xml:id="d1e2506" n="22"> Mortuus est autem Eleazar, et non habuit filios, sed filias :
+            acceperuntque eas filii Cis fratres earum.</ab>
+          <ab xml:id="d1e2509" n="23"> Filii Musi : Moholi, et Eder, et Jerimoth, tres.</ab>
+          <ab xml:id="d1e2513" n="24"> Hi filii Levi in cognationibus et familiis suis, principes
+            per vices, et numerum capitum singulorum qui faciebant opera ministerii domus Domini, a
+            viginti annis et supra.</ab>
+          <ab xml:id="d1e2516" n="25"> Dixit enim David : Requiem dedit Dominus Deus Israël populo
+            suo, et habitationem Jerusalem usque in aeternum.</ab>
+          <ab xml:id="d1e2519" n="26"> Nec erit officii Levitarum ut ultra portent tabernaculum et
+            omnia vasa ejus ad ministrandum.</ab>
+          <ab xml:id="d1e2522" n="27"> Juxta praecepta quoque David novissima, supputabitur numerus
+            filiorum Levi a viginti annis et supra.</ab>
+          <ab xml:id="d1e2525" n="28"> Et erunt sub manu filiorum Aaron in cultum domus Domini, in
+            vestibulis, et in exedris, et in loco purificationis, et in sanctuario, et in universis
+            operibus ministerii templi Domini.</ab>
+          <ab xml:id="d1e2528" n="29"> Sacerdotes autem, super panes propositionis, et ad similae
+            sacrificium, et ad lagana azyma, et sartaginem, et ad torrendum, et super omne pondus
+            atque mensuram.</ab>
+          <ab xml:id="d1e2532" n="30"> Levitae vero ut stent mane ad confitendum et canendum Domino
+            : similiterque ad vesperam,</ab>
+          <ab xml:id="d1e2535" n="31"> tam in oblatione holocaustorum Domini, quam in sabbatis et
+            calendis et solemnitatibus reliquis juxta numerum et caeremonias uniuscujusque rei,
+            jugiter coram Domino.</ab>
+          <ab xml:id="d1e2538" n="32"> Et custodiant observationes tabernaculi foederis, et ritum
+            sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo
+            Domini.</ab>
+        </div>
+        <div xml:id="d1e2543" type="chap" n="24">
+          <ab xml:id="d1e2545" n="1"> Porro filiis Aaron hae partitiones erant. Filii Aaron : Nadab,
+            et Abiu, et Eleazar, et Ithamar.</ab>
+          <ab xml:id="d1e2548" n="2"> Mortui sunt autem Nadab et Abiu ante patrem suum absque
+            liberis : sacerdotioque functus est Eleazar, et Ithamar.</ab>
+          <ab xml:id="d1e2551" n="3"> Et divisit eos David, id est, Sadoc de filiis Eleazari, et
+            Ahimelech de filiis Ithamar, secundum vices suas et ministerium.</ab>
+          <ab xml:id="d1e2554" n="4"> Inventique sunt multo plures filii Eleazar in principibus
+            viris, quam filii Ithamar. Divisit autem eis, hoc est, filiis Eleazar, principes per
+            familias sedecim : et filiis Ithamar per familias et domos suas octo.</ab>
+          <ab xml:id="d1e2557" n="5"> Porro divisit utrasque inter se familias sortibus : erant enim
+            principes sanctuarii, et principes Dei, tam de filiis Eleazar quam de filiis
+            Ithamar.</ab>
+          <ab xml:id="d1e2561" n="6"> Descripsitque eos Semeias filius Nathanaël scriba Levites,
+            coram rege et principibus, et Sadoc sacerdote, et Ahimelech filio Abiathar, principibus
+            quoque familiarum sacerdotalium, et Leviticarum : unam domum, quae ceteris praeerat,
+            Eleazar : et alteram domum, quae sub se habebat ceteros, Ithamar.</ab>
+          <ab xml:id="d1e2564" n="7"> Exivit autem sors prima Jojarib, secunda Jedei,</ab>
+          <ab xml:id="d1e2567" n="8"> tertia Harim, quarta Seorim,</ab>
+          <ab xml:id="d1e2570" n="9"> quinta Melchia, sexta Maiman,</ab>
+          <ab xml:id="d1e2573" n="10"> septima Accos, octava Abia,</ab>
+          <ab xml:id="d1e2576" n="11"> nona Jesua, decima Sechenia,</ab>
+          <ab xml:id="d1e2580" n="12"> undecima Eliasib, duodecima Jacim,</ab>
+          <ab xml:id="d1e2583" n="13"> tertiadecima Hoppha, decimaquarta Isbaab,</ab>
+          <ab xml:id="d1e2586" n="14"> decimaquinta Belga, decimasexta Emmer,</ab>
+          <ab xml:id="d1e2589" n="15"> decimaseptima Hezir, decimaoctava Aphses,</ab>
+          <ab xml:id="d1e2592" n="16"> decimanona Pheteia, vigesima Hezechiel,</ab>
+          <ab xml:id="d1e2595" n="17"> vigesima prima Jachin, vigesima secunda Gamul,</ab>
+          <ab xml:id="d1e2599" n="18"> vigesima tertia Dalaiau, vigesima quarta Maaziau.</ab>
+          <ab xml:id="d1e2602" n="19"> Hae vices eorum secundum ministeria sua, ut ingrediantur
+            domum Domini, et juxta ritum suum sub manu Aaron patris eorum, sicut praeceperat Dominus
+            Deus Israël.</ab>
+          <ab xml:id="d1e2605" n="20"> Porro filiorum Levi qui reliqui fuerant, de filiis Amram erat
+            Subaël, et de filiis Subaël, Jehedeia.</ab>
+          <ab xml:id="d1e2608" n="21"> De filiis quoque Rohobiae, princeps Jesias.</ab>
+          <ab xml:id="d1e2611" n="22"> Isaari vero filius Salemoth, filiusque Salemoth Jahath :</ab>
+          <ab xml:id="d1e2614" n="23"> filiusque ejus Jeriau primus, Amarias secundus, Jahaziel
+            tertius, Jecmaan quartus.</ab>
+          <ab xml:id="d1e2618" n="24"> Filius Oziel, Micha : filius Micha, Samir.</ab>
+          <ab xml:id="d1e2621" n="25"> Frater Micha, Jesia : filiusque Jesiae, Zacharias.</ab>
+          <ab xml:id="d1e2624" n="26"> Filii Merari : Moholi, et Musi. Filius Oziau : Benno.</ab>
+          <ab xml:id="d1e2627" n="27"> Filius quoque Merari : Oziau, et Soam, et Zachur, et
+            Hebri.</ab>
+          <ab xml:id="d1e2630" n="28"> Porro Moholi filius, Eleazar, qui non habebat liberos.</ab>
+          <ab xml:id="d1e2633" n="29"> Filius vero Cis, Jerameel.</ab>
+          <ab xml:id="d1e2637" n="30"> Filii Musi : Moholi, Eder et Jerimoth : isti filii Levi
+            secundum domos familiarum suarum.</ab>
+          <ab xml:id="d1e2640" n="31"> Miseruntque et ipsi sortes contra fratres suos filios Aaron
+            coram David rege, et Sadoc, et Ahimelech, et principibus familiarum sacerdotalium et
+            Leviticarum, tam majores quam minores : omnes sors aequaliter dividebat.</ab>
+        </div>
+        <div xml:id="d1e2644" type="chap" n="25">
+          <ab xml:id="d1e2646" n="1"> Igitur David et magistratus exercitus segregaverunt in
+            ministerium filios Asaph, et Heman, et Idithun, qui prophetarent in citharis, et
+            psalteriis, et cymbalis secundum numerum suum, dedicato sibi officio servientes.</ab>
+          <ab xml:id="d1e2649" n="2"> De filiis Asaph : Zachur, et Joseph, et Nathania, et Asarela,
+            filii Asaph : sub manu Asaph prophetantis juxta regem.</ab>
+          <ab xml:id="d1e2652" n="3"> Porro Idithun : filii Idithun, Godolias, Sori, Jeseias, et
+            Hasabias, et Mathathias, sex, sub manu patris sui Idithun, qui in cithara prophetabat
+            super confitentes et laudantes Dominum.</ab>
+          <ab xml:id="d1e2655" n="4"> Heman quoque : filii Heman, Bocciau, Mathaniau, Oziel, Subuel,
+            et Jerimoth, Hananias, Hanani, Eliatha, Geddelthi, et Romemthiezer, et Jesbacassa,
+            Mellothi, Othir, Mahazioth :</ab>
+          <ab xml:id="d1e2658" n="5"> omnes isti filii Heman videntis regis in sermonibus Dei, ut
+            exaltaret cornu : deditque Deus Heman filios quatuordecim, et filias tres.</ab>
+          <ab xml:id="d1e2662" n="6"> Universi sub manu patris sui ad cantandum in templo Domini
+            distributi erant, in cymbalis, et psalteriis, et citharis, in ministeria domus Domini
+            juxta regem : Asaph videlicet, et Idithun, et Heman.</ab>
+          <ab xml:id="d1e2665" n="7"> Fuit autem numerus eorum cum fratribus suis, qui erudiebant
+            canticum Domini, cuncti doctores, ducenti octoginta octo.</ab>
+          <ab xml:id="d1e2668" n="8"> Miseruntque sortes per vices suas, ex aequo tam major quam
+            minor, doctus pariter et indoctus.</ab>
+          <ab xml:id="d1e2671" n="9"> Egressaque est sors prima Joseph, qui erat de Asaph. Secunda
+            Godoliae, ipsi et filiis ejus, et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2674" n="10"> Tertia Zachur, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2677" n="11"> Quarta Isari, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2681" n="12"> Quinta Nathaniae, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2684" n="13"> Sexta Bocciau, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2687" n="14"> Septima Isreela, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2690" n="15"> Octava Jesaiae, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2693" n="16"> Nona Mathaniae, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2696" n="17"> Decima Semeiae, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2700" n="18"> Undecima Azareel, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2703" n="19"> Duodecima Hasabiae, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2706" n="20"> Tertiadecima Subaël, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2709" n="21"> Quartadecima Mathathiae, filiis et fratribus ejus
+            duodecim.</ab>
+          <ab xml:id="d1e2712" n="22"> Quintadecima Jerimoth, filiis et fratribus ejus
+            duodecim.</ab>
+          <ab xml:id="d1e2715" n="23"> Sextadecima Hananiae, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2719" n="24"> Septimadecima Jesbacassae, filiis et fratribus ejus
+            duodecim.</ab>
+          <ab xml:id="d1e2722" n="25"> Octavadecima Hanani, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2725" n="26"> Nonadecima Mellothi, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2728" n="27"> Vigesima Eliatha, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2731" n="28"> Vigesima prima Othir, filiis et fratribus ejus duodecim.</ab>
+          <ab xml:id="d1e2734" n="29"> Vigesima secunda Geddelthi, filiis et fratribus ejus
+            duodecim.</ab>
+          <ab xml:id="d1e2738" n="30"> Vigesima tertia Mahazioth, filiis et fratribus ejus
+            duodecim.</ab>
+          <ab xml:id="d1e2741" n="31"> Vigesima quarta Romemthiezer, filiis et fratribus ejus
+            duodecim.</ab>
+        </div>
+        <div xml:id="d1e2745" type="chap" n="26">
+          <ab xml:id="d1e2747" n="1"> Divisiones autem janitorum : de Coritis Meselemia, filius
+            Core, de filiis Asaph.</ab>
+          <ab xml:id="d1e2750" n="2"> Filii Meselemiae : Zacharias primogenitus, Jadihel secundus,
+            Zabadias tertius, Jathanaël quartus,</ab>
+          <ab xml:id="d1e2753" n="3"> Aelam quintus, Johanan sextus, Elioënai septimus.</ab>
+          <ab xml:id="d1e2756" n="4"> Filii autem Obededom : Semeias primogenitus, Jozabad secundus,
+            Joaha tertius, Sachar quartus, Nathanaël quintus,</ab>
+          <ab xml:id="d1e2759" n="5"> Ammiel sextus, Issachar septimus, Phollathi octavus : quia
+            benedixit illi Dominus.</ab>
+          <ab xml:id="d1e2763" n="6"> Semei autem filio ejus nati sunt filii, praefecti familiarum
+            suarum : erant enim viri fortissimi.</ab>
+          <ab xml:id="d1e2766" n="7"> Filii ergo Semeiae : Othni, et Raphaël, et Obed, Elzabad,
+            fratres ejus viri fortissimi : Eliu quoque et Samachias.</ab>
+          <ab xml:id="d1e2769" n="8"> Omnes hi, de filiis Obededom : ipsi, et filii et fratres
+            eorum, fortissimi ad ministrandum, sexaginta duo de Obededom.</ab>
+          <ab xml:id="d1e2772" n="9"> Porro Meselemiae filii, et fratres eorum robustissimi, decem
+            et octo.</ab>
+          <ab xml:id="d1e2775" n="10"> De Hosa autem, id est, de filiis Merari : Semri princeps (non
+            enim habuerat primogenitum, et idcirco posuerat eum pater ejus in principem),</ab>
+          <ab xml:id="d1e2778" n="11"> Helcias secundus, Tabelias tertius, Zacharias quartus : omnes
+            hi filii et fratres Hosa, tredecim.</ab>
+          <ab xml:id="d1e2782" n="12"> Hi divisi sunt in janitores, ut semper principes custodiarum,
+            sicut et fratres eorum ministrarent in domo Domini.</ab>
+          <ab xml:id="d1e2785" n="13"> Missae sunt ergo sortes ex aequo, et parvis et magnis, per
+            familias suas in unamquamque portarum.</ab>
+          <ab xml:id="d1e2788" n="14"> Cecidit ergo sors orientalis, Selemiae. Porro Zachariae filio
+            ejus, viro prudentissimo et erudito, sortito obtigit plaga septentrionalis.</ab>
+          <ab xml:id="d1e2791" n="15"> Obededom vero et filiis ejus ad austrum : in qua parte domus
+            erat seniorum concilium.</ab>
+          <ab xml:id="d1e2794" n="16"> Sephim et Hosa ad occidentem, juxta portam, quae ducit ad
+            viam ascensionis : custodia contra custodiam.</ab>
+          <ab xml:id="d1e2797" n="17"> Ad orientem vero Levitae sex : et ad aquilonem, quatuor per
+            diem : atque ad meridiem similiter in die quatuor : et ubi erat concilium bini et
+            bini.</ab>
+          <ab xml:id="d1e2801" n="18"> In cellulis quoque janitorum ad occidentem quatuor in via,
+            binique per cellulas.</ab>
+          <ab xml:id="d1e2804" n="19"> Hae sunt divisiones janitorum filiorum Core et Merari.<pc
+              ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2808" n="20"> Porro Achias erat super thesauros domus Dei, et vasa
+            sanctorum.</ab>
+          <ab xml:id="d1e2811" n="21"> Filii Ledan, filii Gersonni : de Ledan principes familiarum
+            Ledan, et Gersonni, Jehieli.</ab>
+          <ab xml:id="d1e2814" n="22"> Filii Jehieli : Zathan, et Joël fratres ejus super thesauros
+            domus Domini.</ab>
+          <ab xml:id="d1e2817" n="23"> Amramitis, et Isaaritis, et Hebronitis, et Ozihelitis.</ab>
+          <ab xml:id="d1e2821" n="24"> Subaël autem filius Gersom filii Moysi, praepositus
+            thesauris.</ab>
+          <ab xml:id="d1e2824" n="25"> Fratres quoque ejus Eliezer, cujus filius Rahabia, et hujus
+            filius Isaias, et hujus filius Joram, hujus quoque filius Zechri, et hujus filius
+            Selemith.</ab>
+          <ab xml:id="d1e2827" n="26"> Ipse Selemith, et fratres ejus, super thesauros sanctorum
+            quae sanctificavit David rex, et principes familiarum, et tribuni, et centuriones, et
+            duces exercitus,</ab>
+          <ab xml:id="d1e2830" n="27"> de bellis et manubiis praeliorum, quae consecraverant ad
+            instaurationem et supellectilem templi Domini.</ab>
+          <ab xml:id="d1e2833" n="28"> Haec autem universa sanctificavit Samuel videns, et Saul
+            filius Cis, et Abner filius Ner, et Joab filius Sarviae : omnes qui sanctificaverant ea
+            per manum Selemith et fratrum ejus.</ab>
+          <ab xml:id="d1e2836" n="29"> Isaaritis vero praeerat Chonenias, et filii ejus ad opera
+            forinsecus super Israël ad docendum et judicandum eos.</ab>
+          <ab xml:id="d1e2840" n="30"> Porro de Hebronitis Hasabias, et fratres ejus viri
+            fortissimi, mille septingenti praeerant Israëli trans Jordanem contra occidentem, in
+            cunctis operibus Domini, et in ministerium regis.</ab>
+          <ab xml:id="d1e2843" n="31"> Hebronitarum autem princeps fuit Jeria secundum familias et
+            cognationes eorum. Quadragesimo anno regni David recensiti sunt, et inventi sunt viri
+            fortissimi in Jazer Galaad,</ab>
+          <ab xml:id="d1e2846" n="32"> fratresque ejus robustioris aetatis, duo millia septingenti
+            principes familiarum. Praeposuit autem eos David rex Rubenitis, et Gadditis, et dimidiae
+            tribui Manasse, in omne ministerium Dei et regis.</ab>
+        </div>
+        <div xml:id="d1e2850" type="chap" n="27">
+          <ab xml:id="d1e2852" n="1"> Filii autem Israël secundum numerum suum, principes
+            familiarum, tribuni, et centuriones, et praefecti, qui ministrabant regi juxta turmas
+            suas, ingredientes et egredientes per singulos menses in anno, viginti quatuor millibus
+            singuli praeerant.</ab>
+          <ab xml:id="d1e2855" n="2"> Primae turmae in primo mense Jesboam praeerat filius Zabdiel,
+            et sub eo viginti quatuor millia ;</ab>
+          <ab xml:id="d1e2858" n="3"> de filiis Phares, princeps cunctorum principum in exercitu
+            mense primo.</ab>
+          <ab xml:id="d1e2861" n="4"> Secundi mensis habebat turmam Dudia Ahohites, et post se alter
+            nomine Macelloth, qui regebat partem exercitus viginti quatuor millium.</ab>
+          <ab xml:id="d1e2864" n="5"> Dux quoque turmae tertiae in mense tertio erat Banaias filius
+            Jojadae sacerdos : et in divisione sua viginti quatuor millia.</ab>
+          <ab xml:id="d1e2868" n="6"> Ipse est Banaias fortissimus inter triginta, et super triginta
+            : praeerat autem turmae ipsius Amizabad filius ejus.</ab>
+          <ab xml:id="d1e2871" n="7"> Quartus, mense quarto, Asahel frater Joab, et Zabadias filius
+            ejus post eum : et in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2874" n="8"> Quintus, mense quinto, princeps Samaoth Jezerites : et in
+            turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2877" n="9"> Sextus, mense sexto, Hira filius Acces Thecuites : et in turma
+            ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2880" n="10"> Septimus, mense septimo, Helles Phallonites de filiis Ephraim
+            : et in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2883" n="11"> Octavus, mense octavo, Sobochai Husathites de stirpe Zarahi :
+            et in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2887" n="12"> Nonus, mense nono, Abiezer Anathothites de filiis Jemini : et
+            in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2890" n="13"> Decimus, mense decimo, Marai, et ipse Netophathites de stirpe
+            Zarai : et in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2893" n="14"> Undecimus, mense undecimo, Banaias Pharathonites de filiis
+            Ephraim : et in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2896" n="15"> Duodecimus, mense duodecimo, Holdai Netophathites, de stirpe
+            Gothoniel : et in turma ejus viginti quatuor millia.</ab>
+          <ab xml:id="d1e2899" n="16"> Porro tribubus praeerant Israël, Rubenitis, dux Eliezer
+            filius Zechri : Simeonitis, dux Saphatias filius Maacha :</ab>
+          <ab xml:id="d1e2902" n="17"> Levitis, Hasabias filius Camuel : Aaronitis, Sadoc :</ab>
+          <ab xml:id="d1e2906" n="18"> Juda, Eliu frater David : Issachar, Amri filius Michaël.</ab>
+          <ab xml:id="d1e2909" n="19"> Zabulonitis, Jesmaias filius Abdiae : Nephthalitibus,
+            Jerimoth filius Ozriel :</ab>
+          <ab xml:id="d1e2912" n="20"> filiis Ephraim, Osee filius Ozaziu : dimidiae tribui Manasse,
+            Joël filius Phadaiae :</ab>
+          <ab xml:id="d1e2915" n="21"> et dimidiae tribui Manasse in Galaad, Jaddo filius Zachariae
+            : Benjamin autem, Jasiel filius Abner :</ab>
+          <ab xml:id="d1e2918" n="22"> Dan vero, Ezrihel filius Jeroham : hi principes filiorum
+            Israël.</ab>
+          <ab xml:id="d1e2921" n="23"> Noluit autem David numerare eos a viginti annis inferius :
+            quia dixerat Dominus ut multiplicaret Israël quasi stellas caeli.</ab>
+          <ab xml:id="d1e2925" n="24"> Joab filius Sarviae coeperat numerare, nec complevit : quia
+            super hoc ira irruerat in Israël, et idcirco numerus eorum qui fuerant recensiti, non
+            est relatus in fastos regis David.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2929" n="25"> Super thesauros autem regis fuit Azmoth filius Adiel : his
+            autem thesauris, qui erant in urbibus, et in vicis, et in turribus, praesidebat Jonathan
+            filius Oziae.</ab>
+          <ab xml:id="d1e2932" n="26"> Operi autem rustico, et agricolis qui exercebant terram,
+            praeerat Ezri filius Chelub :</ab>
+          <ab xml:id="d1e2935" n="27"> vinearumque cultoribus, Semeias Romathites : cellis autem
+            vinariis, Zabdias Aphonites.</ab>
+          <ab xml:id="d1e2938" n="28"> Nam super oliveta et ficeta quae erant in campestribus,
+            Balanam Gederites : super apothecas autem olei, Joas.</ab>
+          <ab xml:id="d1e2941" n="29"> Porro armentis quae pascebantur in Saron, praepositus fuit
+            Setrai Saronites : et super boves in vallibus, Saphat filius Adli :</ab>
+          <ab xml:id="d1e2945" n="30"> super camelos vero, Ubil Ismahelites : et super asinos,
+            Jadias Meronathites :</ab>
+          <ab xml:id="d1e2948" n="31"> super oves quoque, Jaziz Agareus : omnes hi, principes
+            substantiae regis David.</ab>
+          <ab xml:id="d1e2951" n="32"> Jonathan autem patruus David, consiliarius, vir prudens et
+            litteratus : ipse et Jahiel filius Hachamoni erant cum filiis regis.</ab>
+          <ab xml:id="d1e2954" n="33"> Achitophel etiam consiliarius regis, et Chusai Arachites
+            amicus regis.</ab>
+          <ab xml:id="d1e2957" n="34"> Post Achitophel fuit Jojada filius Banaiae, et Abiathar.
+            Princeps autem exercitus regis erat Joab.</ab>
+        </div>
+        <div xml:id="d1e2961" type="chap" n="28">
+          <ab xml:id="d1e2963" n="1"> Convocavit igitur David omnes principes Israël, duces tribuum,
+            et praepositos turmarum, qui ministrabant regi : tribunos quoque et centuriones, et qui
+            praeerant substantiae et possessionibus regis, filiosque suos cum eunuchis, et potentes
+            et robustissimos quosque in exercitu Jerusalem.</ab>
+          <ab xml:id="d1e2966" n="2"> Cumque surrexisset rex, et stetisset, ait : Audite me, fratres
+            mei et populus meus : cogitavi ut aedificarem domum, in qua requiesceret arca foederis
+            Domini, et scabellum pedum Dei nostri : et ad aedificandum, omnia praeparavi.</ab>
+          <ab xml:id="d1e2969" n="3"> Deus autem dixit mihi : Non aedificabis domum nomini meo, eo
+            quod sis vir bellator, et sanguinem fuderis.</ab>
+          <ab xml:id="d1e2972" n="4"> Sed elegit Dominus Deus Israël me de universa domo patris mei,
+            ut essem rex super Israël in sempiternum : de Juda enim elegit principes : porro de domo
+            Juda, domum patris mei, et de filiis patris mei placuit ei ut me eligeret regem super
+            cunctum Israël.</ab>
+          <ab xml:id="d1e2975" n="5"> Sed et de filiis meis (filios enim mihi multos dedit Dominus)
+            elegit Salomonem filium meum ut sederet in throno regni Domini super Israël,</ab>
+          <ab xml:id="d1e2979" n="6"> dixitque mihi : Salomon filius tuus aedificabit domum meam, et
+            atria mea : ipsum enim elegi mihi in filium, et ego ero ei in patrem.</ab>
+          <ab xml:id="d1e2982" n="7"> Et firmabo regnum ejus usque in aeternum, si perseveraverit
+            facere praecepta mea et judicia, sicut et hodie.</ab>
+          <ab xml:id="d1e2985" n="8"> Nunc ergo coram universo coetu Israël audiente Deo nostro,
+            custodite, et perquirite cuncta mandata Domini Dei nostri : ut possideatis terram bonam,
+            et relinquatis eam filiis vestris post vos usque in sempiternum.</ab>
+          <ab xml:id="d1e2988" n="9"> Tu autem, Salomon fili mi, scito Deum patris tui, et servito
+            ei corde perfecto, animo voluntario : omnia enim corda scrutatur Dominus, et universas
+            mentium cogitationes intelligit. Si quaesieris eum, invenies : si autem dereliqueris
+            eum, projiciet te in aeternum.</ab>
+          <ab xml:id="d1e2991" n="10"> Nunc ergo quia elegit te Dominus ut aedificares domum
+            sanctuarii, confortare, et perfice.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e2995" n="11"> Dedit autem David Salomoni filio suo descriptionem porticus,
+            et templi, et cellariorum, et coenaculi, et cubiculorum in adytis, et domus
+            propitiationis,</ab>
+          <ab xml:id="d1e2999" n="12"> necnon et omnium quae cogitaverat atriorum et exedrarum per
+            circuitum in thesauros domus Domini, et in thesauros sanctorum,</ab>
+          <ab xml:id="d1e3002" n="13"> divisionumque sacerdotalium et Leviticarum, in omnia opera
+            domus Domini, et in universa vasa ministerii templi Domini.</ab>
+          <ab xml:id="d1e3005" n="14"> Aurum in pondere per singula vasa ministerii. Argenti quoque
+            pondus pro vasorum et operum diversitate.</ab>
+          <ab xml:id="d1e3008" n="15"> Sed et in candelabra aurea, et ad lucernas eorum, aurum pro
+            mensura uniuscujusque candelabri et lucernarum. Similiter et in candelabra argentea, et
+            in lucernas eorum, pro diversitate mensurae, pondus argenti tradidit.</ab>
+          <ab xml:id="d1e3011" n="16"> Aurum quoque dedit in mensas propositionis pro diversitate
+            mensarum : similiter et argentum in alias mensas argenteas.</ab>
+          <ab xml:id="d1e3014" n="17"> Ad fuscinulas quoque, et phialas, et thuribula ex auro
+            purissimo, et leunculos aureos pro qualitate mensurae pondus distribuit in leunculum et
+            leunculum. Similiter et in leones argenteos diversum argenti pondus separavit.</ab>
+          <ab xml:id="d1e3018" n="18"> Altari autem, in quo adoletur incensum, aurum purissimum
+            dedit : ut ex ipso fieret similitudo quadrigae cherubim extendentium alas, et velantium
+            arcam foederis Domini.</ab>
+          <ab xml:id="d1e3021" n="19"> Omnia, inquit, venerunt scripta manu Domini ad me, ut
+            intelligerem universa opera exemplaris.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e3025" n="20"> Dixit quoque David Salomoni filio suo : Viriliter age, et
+            confortare, et fac : ne timeas, et ne paveas : Dominus enim Deus meus tecum erit, et non
+            dimittet te nec derelinquet, donec perficias omne opus ministerii domus Domini.</ab>
+          <ab xml:id="d1e3028" n="21"> Ecce divisiones sacerdotum et Levitarum : in omne ministerium
+            domus Domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus
+            facere omnia praecepta tua.</ab>
+        </div>
+        <div xml:id="d1e3032" type="chap" n="29">
+          <ab xml:id="d1e3034" n="1"> Locutusque est David rex ad omnem ecclesiam : Salomonem filium
+            meum unum elegit Deus, adhuc puerum et tenellum : opus namque grande est, neque enim
+            homini praeparatur habitatio, sed Deo.</ab>
+          <ab xml:id="d1e3037" n="2"> Ego autem totis viribus meis praeparavi impensas domus Dei
+            mei. Aurum ad vasa aurea, et argentum in argentea, aes in aenea, ferrum in ferrea, ligna
+            ad lignea : et lapides onychinos, et quasi stibinos, et diversorum colorum, omnemque
+            pretiosum lapidem, et marmor Parium abundantissime :</ab>
+          <ab xml:id="d1e3040" n="3"> et super haec quae obtuli in domum Dei mei de peculio meo
+            aurum et argentum, do in templum Dei mei, exceptis his quae praeparavi in aedem
+            sanctam.</ab>
+          <ab xml:id="d1e3043" n="4"> Tria millia talenta auri de auro Ophir, et septem millia
+            talentorum argenti probatissimi ad deaurandos parietes templi.</ab>
+          <ab xml:id="d1e3046" n="5"> Et ubicumque opus est aurum de auro, et ubicumque opus est
+            argentum de argento, opera fiant per manus artificum : et si quis sponte offert, impleat
+            manum suam hodie, et offerat quod voluerit Domino.</ab>
+          <ab xml:id="d1e3050" n="6"> Polliciti sunt itaque principes familiarum, et proceres
+            tribuum Israël, tribuni quoque, et centuriones, et principes possessionum regis.</ab>
+          <ab xml:id="d1e3053" n="7"> Dederuntque in opera domus Dei auri talenta quinque millia, et
+            solidos decem millia : argenti talenta decem millia, et aeris talenta decem et octo
+            millia : ferri quoque centum millia talentorum.</ab>
+          <ab xml:id="d1e3056" n="8"> Et apud quemcumque inventi sunt lapides, dederunt in thesauros
+            domus Domini per manum Jahiel Gersonitis.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e3060" n="9"> Laetatusque est populus cum vota sponte promitterent, quia
+            corde toto offerebant ea Domino : sed et David rex laetatus est gaudio magno.</ab>
+          <ab xml:id="d1e3063" n="10"> Et benedixit Domino coram universa multitudine, et ait :
+            Benedictus es, Domine Deus Israël patris nostri, ab aeterno in aeternum.</ab>
+          <ab xml:id="d1e3066" n="11"> Tua est, Domine, magnificentia, et potentia, et gloria, atque
+            victoria : et tibi laus : cuncta enim quae in caelo sunt et in terra, tua sunt : tuum,
+            Domine, regnum, et tu es super omnes principes.</ab>
+          <ab xml:id="d1e3070" n="12"> Tuae divitiae, et tua est gloria : tu dominaris omnium. In
+            manu tua virtus et potentia : in manu tua magnitudo, et imperium omnium.</ab>
+          <ab xml:id="d1e3073" n="13"> Nunc igitur Deus noster, confitemur tibi, et laudamus nomen
+            tuum inclytum.</ab>
+          <ab xml:id="d1e3076" n="14"> Quis ego, et quis populus meus, ut possimus haec tibi
+            universa promittere ? Tua sunt omnia : et quae de manu tua accepimus, dedimus tibi.</ab>
+          <ab xml:id="d1e3079" n="15"> Peregrini enim sumus coram te, et advenae, sicut omnes patres
+            nostri. Dies nostri quasi umbra super terram, et nulla est mora.</ab>
+          <ab xml:id="d1e3082" n="16"> Domine Deus noster, omnis haec copia quam paravimus ut
+            aedificaretur domus nomini sancto tuo, de manu tua est, et tua sunt omnia.</ab>
+          <ab xml:id="d1e3085" n="17"> Scio, Deus meus, quod probes corda, et simplicitatem diligas,
+            unde et ego in simplicitate cordis mei laetus obtuli universa haec : et populum tuum qui
+            hic repertus est, vidi cum ingenti gaudio tibi offerre donaria.</ab>
+          <ab xml:id="d1e3089" n="18"> Domine Deus Abraham, et Isaac, et Israël patrum nostrorum,
+            custodi in aeternum hanc voluntatem cordis eorum, et semper in venerationem tui mens
+            ista permaneat.</ab>
+          <ab xml:id="d1e3092" n="19"> Salomoni quoque filio meo da cor perfectum, ut custodiat
+            mandata tua, testimonia tua, et caeremonias tuas, et faciat universa : et aedificet
+            aedem, cujus impensas paravi.</ab>
+          <ab xml:id="d1e3095" n="20"> Praecepit autem David universae ecclesiae : Benedicite Domino
+            Deo nostro. Et benedixit omnis ecclesia Domino Deo patrum suorum : et inclinaverunt se,
+            et adoraverunt Deum, et deinde regem.</ab>
+          <ab xml:id="d1e3098" n="21"> Immolaveruntque victimas Domino : et obtulerunt holocausta
+            die sequenti, tauros mille, arietes mille, agnos mille cum libaminibus suis, et universo
+            ritu abundantissime in omnem Israël.</ab>
+          <ab xml:id="d1e3101" n="22"> Et comederunt, et biberunt coram Domino in die illo cum
+            grandi laetitia. Et unxerunt secundo Salomonem filium David. Unxerunt autem eum Domino
+            in principem, et Sadoc in pontificem.</ab>
+          <ab xml:id="d1e3104" n="23"> Seditque Salomon super solium Domini in regem pro David patre
+            suo, et cunctis placuit : et paruit illi omnis Israël.</ab>
+          <ab xml:id="d1e3108" n="24"> Sed et universi principes, et potentes, et cuncti filii regis
+            David dederunt manum, et subjecti fuerunt Salomoni regi.</ab>
+          <ab xml:id="d1e3111" n="25"> Magnificavit ergo Dominus Salomonem super omnem Israël : et
+            dedit illi gloriam regni, qualem nullus habuit ante eum rex Israël.</ab>
+          <ab xml:id="d1e3114" n="26"> Igitur David filius Isai regnavit super universum
+            Israël.</ab>
+          <ab xml:id="d1e3117" n="27"> Et dies quibus regnavit super Israël, fuerunt quadraginta
+            anni : in Hebron regnavit septem annis, et in Jerusalem annis triginta tribus.</ab>
+          <ab xml:id="d1e3120" n="28"> Et mortuus est in senectute bona, plenus dierum, et divitiis,
+            et gloria : et regnavit Salomon filius ejus pro eo.<pc ana="#pilcrow"/>
+          </ab>
+          <ab xml:id="d1e3124" n="29"> Gesta autem David regis priora et novissima scripta sunt in
+            libro Samuelis videntis, et in libro Nathan prophetae, atque in volumine Gad videntis
+            :</ab>
+          <ab xml:id="d1e3128" n="30"> universique regni ejus, et fortitudinis, et temporum quae
+            transierunt sub eo, sive in Israël, sive in cunctis regnis terrarum.</ab>
+        </div>
+      
+    </body>
+  </text>
+</TEI>
