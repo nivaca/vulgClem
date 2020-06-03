@@ -38,152 +38,152 @@
     <body>
       <!-- Old Testament -->
       <!-- Genesis -->
-      <xi:include href="Gn.xml"/>
+      <xi:include href="Gn.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Exodus -->
-      <xi:include href="Ex.xml"/>
+      <xi:include href="Ex.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Leviticus -->
-      <xi:include href="Lv.xml"/>
+      <xi:include href="Lv.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Numeri -->
-      <xi:include href="Nm.xml"/>
+      <xi:include href="Nm.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Deuteronomium -->
-      <xi:include href="Dt.xml"/>
+      <xi:include href="Dt.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Josue -->
-      <xi:include href="Jos.xml"/>
+      <xi:include href="Jos.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Judicum -->
-      <xi:include href="Jdc.xml"/>
+      <xi:include href="Jdc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Ruth -->
-      <xi:include href="Rt.xml"/>
+      <xi:include href="Rt.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Regum I -->
-      <xi:include href="1Rg.xml"/>
+      <xi:include href="1Rg.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Regum II -->
-      <xi:include href="2Rg.xml"/>
+      <xi:include href="2Rg.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Regum III -->
-      <xi:include href="3Rg.xml"/>
+      <xi:include href="3Rg.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Regum IV -->
-      <xi:include href="4Rg.xml"/>
+      <xi:include href="4Rg.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Paralipomenon I -->
-      <xi:include href="1Par.xml"/>
+      <xi:include href="1Par.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Paralipomenon II -->
-      <xi:include href="2Par.xml"/>
+      <xi:include href="2Par.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Esdræ -->
-      <xi:include href="Esr.xml"/>
+      <xi:include href="Esr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Nehemiæ -->
-      <xi:include href="Neh.xml"/>
+      <xi:include href="Neh.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Tobiæ -->
-      <xi:include href="Tob.xml"/>
+      <xi:include href="Tob.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Judith -->
-      <xi:include href="Jdt.xml"/>
+      <xi:include href="Jdt.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Esther -->
-      <xi:include href="Est.xml"/>
+      <xi:include href="Est.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Job -->
-      <xi:include href="Job.xml"/>
+      <xi:include href="Job.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Psalmi -->
-      <xi:include href="Ps.xml"/>
+      <xi:include href="Ps.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Proverbia -->
-      <xi:include href="Pr.xml"/>
+      <xi:include href="Pr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Ecclesiastes -->
-      <xi:include href="Ecl.xml"/>
+      <xi:include href="Ecl.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Canticum Canticorum -->
-      <xi:include href="Ct.xml"/>
+      <xi:include href="Ct.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Sapientia -->
-      <xi:include href="Sap.xml"/>
+      <xi:include href="Sap.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Ecclesiasticus -->
-      <xi:include href="Sir.xml"/>
+      <xi:include href="Sir.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Isaias -->
-      <xi:include href="Is.xml"/>
+      <xi:include href="Is.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Jeremias -->
-      <xi:include href="Jr.xml"/>
+      <xi:include href="Jr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Lamentationes -->
-      <xi:include href="Lam.xml"/>
+      <xi:include href="Lam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Baruch -->
-      <xi:include href="Bar.xml"/>
+      <xi:include href="Bar.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Ezechiel -->
-      <xi:include href="Ez.xml"/>
+      <xi:include href="Ez.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Daniel -->
-      <xi:include href="Dn.xml"/>
+      <xi:include href="Dn.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Osee -->
-      <xi:include href="Os.xml"/>
+      <xi:include href="Os.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Joël -->
-      <xi:include href="Joel.xml"/>
+      <xi:include href="Joel.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Amos -->
-      <xi:include href="Am.xml"/>
+      <xi:include href="Am.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Abdias -->
-      <xi:include href="Abd.xml"/>
+      <xi:include href="Abd.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Jonas -->
-      <xi:include href="Jon.xml"/>
+      <xi:include href="Jon.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Michæa -->
-      <xi:include href="Mch.xml"/>
+      <xi:include href="Mch.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Nahum -->
-      <xi:include href="Nah.xml"/>
+      <xi:include href="Nah.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Habacuc -->
-      <xi:include href="Hab.xml"/>
+      <xi:include href="Hab.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Sophonias -->
-      <xi:include href="Soph.xml"/>
+      <xi:include href="Soph.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Aggæus -->
-      <xi:include href="Agg.xml"/>
+      <xi:include href="Agg.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Zacharias -->
-      <xi:include href="Zach.xml"/>
+      <xi:include href="Zach.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Malachias -->
-      <xi:include href="Mal.xml"/>
+      <xi:include href="Mal.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Machabæorum I -->
-      <xi:include href="1Mcc.xml"/>
+      <xi:include href="1Mcc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Machabæorum II -->
-      <xi:include href="2Mcc.xml"/>
+      <xi:include href="2Mcc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- New Testament -->
       <!-- Matthæus -->
-      <xi:include href="Mt.xml"/>
+      <xi:include href="Mt.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Marcus -->
-      <xi:include href="Mc.xml"/>
+      <xi:include href="Mc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Lucas -->
-      <xi:include href="Lc.xml"/>
+      <xi:include href="Lc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Joannes -->
-      <xi:include href="Jo.xml"/>
+      <xi:include href="Jo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Actus Apostolorum -->
-      <xi:include href="Act.xml"/>
+      <xi:include href="Act.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Romanos -->
-      <xi:include href="Rom.xml"/>
+      <xi:include href="Rom.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Corinthios I -->
-      <xi:include href="1Cor.xml"/>
+      <xi:include href="1Cor.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Corinthios II -->
-      <xi:include href="2Cor.xml"/>
+      <xi:include href="2Cor.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Galatas -->
-      <xi:include href="Gal.xml"/>
+      <xi:include href="Gal.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Ephesios -->
-      <xi:include href="Eph.xml"/>
+      <xi:include href="Eph.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Philippenses -->
-      <xi:include href="Phlp.xml"/>
+      <xi:include href="Phlp.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Colossenses -->
-      <xi:include href="Col.xml"/>
+      <xi:include href="Col.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Thessalonicenses I -->
-      <xi:include href="1Thes.xml"/>
+      <xi:include href="1Thes.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Thessalonicenses II -->
-      <xi:include href="2Thes.xml"/>
+      <xi:include href="2Thes.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Timotheum I -->
-      <xi:include href="1Tim.xml"/>
+      <xi:include href="1Tim.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Timotheum II -->
-      <xi:include href="2Tim.xml"/>
+      <xi:include href="2Tim.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Titum -->
-      <xi:include href="Tit.xml"/>
+      <xi:include href="Tit.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Philemonem -->
-      <xi:include href="Phlm.xml"/>
+      <xi:include href="Phlm.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- ad Hebræos -->
-      <xi:include href="Hbr.xml"/>
+      <xi:include href="Hbr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Jacobi -->
-      <xi:include href="Jac.xml"/>
+      <xi:include href="Jac.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Petri I -->
-      <xi:include href="1Ptr.xml"/>
+      <xi:include href="1Ptr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Petri II -->
-      <xi:include href="2Ptr.xml"/>
+      <xi:include href="2Ptr.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Joannis I -->
-      <xi:include href="1Jo.xml"/>
+      <xi:include href="1Jo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Joannis II -->
-      <xi:include href="2Jo.xml"/>
+      <xi:include href="2Jo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Joannis III -->
-      <xi:include href="3Jo.xml"/>
+      <xi:include href="3Jo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Judæ -->
-      <xi:include href="Jud.xml"/>
+      <xi:include href="Jud.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
       <!-- Apocalypsis -->
-      <xi:include href="Apc.xml"/>
+      <xi:include href="Apc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
     </body>
   </text>
 </TEI>

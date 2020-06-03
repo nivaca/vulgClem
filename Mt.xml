@@ -33,7 +33,7 @@
           autem genuit Asa.</ab>
         <ab xml:id="d1e27" n="8">Asa autem genuit Josophat. Josophat autem genuit Joram. Joram
           autem genuit Oziam.</ab>
-        <ab xml:id="d1e30" n="9">Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz
+        <ab xml:id="d1e30o" n="9">Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz
           autem genuit Ezechiam.</ab>
         <ab xml:id="d1e33" n="10"> Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon
           autem genuit Josiam.</ab>
@@ -144,7 +144,7 @@
         <ab xml:id="d1e187" n="8">Facite ergo fructum dignum poenitentiae.</ab>
         <ab xml:id="d1e190" n="9">Et ne velitis dicere intra vos: Patrem habemus Abraham. Dico
           enim vobis quoniam potens est Deus de lapidibus istis suscitare filios Abrahae.</ab>
-        <ab xml:id="d1e193" n="10"> Jam enim securis ad radicem arborum posita est. Omnis ergo
+        <ab xml:id="d1e193j" n="10"> Jam enim securis ad radicem arborum posita est. Omnis ergo
           arbor, quae non facit fructum bonum, excidetur, et in ignem mittetur.</ab>
         <ab xml:id="d1e196" n="11"> Ego quidem baptizo vos in aqua in poenitentiam: qui autem post
           me venturus est, fortior me est, cujus non sum dignus calceamenta portare: ipse vos
@@ -237,7 +237,7 @@
         <ab xml:id="d1e331" n="9">Beati pacifici: quoniam filii Dei vocabuntur.</ab>
         <ab xml:id="d1e334" n="10"> Beati qui persecutionem patiuntur propter justitiam: quoniam
           ipsorum est regnum caelorum.</ab>
-        <ab xml:id="d1e337" n="11"> Beati estis cum maledixerint vobis, et persecuti vos fuerint, et
+        <ab xml:id="d1e337b" n="11"> Beati estis cum maledixerint vobis, et persecuti vos fuerint, et
           dixerint omne malum adversum vos mentientes, propter me : </ab>
         <ab xml:id="d1e341" n="12"> gaudete, et exsultate, quoniam merces vestra copiosa est in
           caelis. Sic enim persecuti sunt prophetas, qui fuerunt ante vos.
@@ -582,7 +582,7 @@
           jejunabunt.</ab>
         <ab xml:id="d1e844" n="16"> Nemo autem immittit commissuram panni rudis in vestimentum vetus
          : tollit enim plenitudinem ejus a vestimento, et pejor scissura fit.</ab>
-        <ab xml:id="d1e847" n="17"> Neque mittunt vinum novum in utres veteres: alioquin rumpuntur
+        <ab xml:id="d1e847n" n="17"> Neque mittunt vinum novum in utres veteres: alioquin rumpuntur
           utres, et vinum effunditur, et utres pereunt. Sed vinum novum in utres novos mittunt: et
           ambo conservantur.
         </ab>
@@ -759,7 +759,7 @@
           non planxistis.</ab>
         <ab xml:id="d1e1121" n="18"> Venit enim Joannes neque manducans, neque bibens, et dicunt : 
           Daemonium habet.</ab>
-        <ab xml:id="d1e1124" n="19"> Venit Filius hominis manducans, et bibens, et dicunt: Ecce
+        <ab xml:id="d1e1124v" n="19"> Venit Filius hominis manducans, et bibens, et dicunt: Ecce
           homo vorax, et potator vini, publicanorum et peccatorum amicus. Et justificata est
           sapientia a filiis suis.
         </ab>
@@ -1235,7 +1235,7 @@
           abneget semetipsum, et tollat crucem suam, et sequatur me.</ab>
         <ab xml:id="d1e1854" n="25"> Qui enim voluerit animam suam salvam facere, perdet eam: qui
           autem perdiderit animam suam propter me, inveniet eam.</ab>
-        <ab xml:id="d1e1857" n="26"> Quid enim prodest homini, si mundum universum lucretur, animae
+        <ab xml:id="d1e1857q" n="26"> Quid enim prodest homini, si mundum universum lucretur, animae
           vero suae detrimentum patiatur? aut quam dabit homo commutationem pro anima sua ?</ab>
         <ab xml:id="d1e1860" n="27"> Filius enim hominis venturus est in gloria Patris sui cum
           angelis suis: et tunc reddet unicuique secundum opera ejus.</ab>
@@ -1685,7 +1685,7 @@
           sicut angeli Dei in caelo.</ab>
         <ab xml:id="d1e2536" n="31"> De resurrectione autem mortuorum non legistis quod dictum est a
           Deo dicente vobis : </ab>
-        <ab xml:id="d1e2539" n="32"> Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob? Non est
+        <ab xml:id="d1e2539e" n="32"> Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob? Non est
           Deus mortuorum, sed viventium.</ab>
         <ab xml:id="d1e2542" n="33"> Et audientes turbae, mirabantur in doctrina ejus.<pc
             ana="#pilcrow"/>
