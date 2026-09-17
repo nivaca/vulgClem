@@ -1,17 +1,55 @@
-<div type="book" xmlns="http://www.tei-c.org/ns/1.0">
-<div type="chap" n="1">
-<ab  n="1"> Senior Elect&#x00E6; domin&#x00E6;, et natis ejus, quos ego diligo in veritate, et non ego solus, sed et omnes qui cognoverunt veritatem,</ab>
-<ab  n="2"> propter veritatem, qu&#x00E6; permanet in nobis, et nobiscum erit in &#x00E6;ternum.</ab>
-<ab  n="3"> Sit vobiscum gratia, misericordia, pax a Deo Patre, et a Christo Jesu Filio Patris in veritate, et caritate.&#x00B6;</ab>
-<ab  n="4"> Gavisus sum valde, quoniam inveni de filiis tuis ambulantes in veritate, sicut mandatum accepimus a Patre.</ab>
-<ab  n="5"> Et nunc rogo te domina, non tamquam mandatum novum scribens tibi, sed quod habuimus ab initio, ut diligamus alterutrum.</ab>
-<ab  n="6"> Et h&#x00E6;c est caritas, ut ambulemus secundum mandata ejus. Hoc est enim mandatum, ut quemadmodum audistis ab initio, in eo ambuletis.&#x00B6;</ab>
-<ab  n="7"> Quoniam multi seductores exierunt in mundum, qui non confitentur Jesum Christum venisse in carnem : hic est seductor, et antichristus.</ab>
-<ab  n="8"> Videte vosmetipsos, ne perdatis qu&#x00E6; operati estis : sed ut mercedem plenam accipiatis.</ab>
-<ab  n="9"> Omnis qui recedit, et non permanet in doctrina Christi, Deum non habet : qui permanet in doctrina, hic et Patrem et Filium habet.</ab>
-<ab  n="10"> Si quis venit ad vos, et hanc doctrinam non affert, nolite recipere eum in domum, nec Ave ei dixeritis.</ab>
-<ab  n="11"> Qui enim dicit illi Ave, communicat operibus ejus malignis.&#x00B6;</ab>
-<ab  n="12"> Plura habens vobis scribere, nolui per cartam et atramentum : spero enim me futurum apud vos, et os ad os loqui : ut gaudium vestrum plenum sit.</ab>
-<ab  n="13"> Salutant te filii sororis tu&#x00E6; Elect&#x00E6;.</ab>
-</div>
-</div>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>II Ioannis</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="d1e31" type="chap" n="1">
+        <ab xml:id="d1e33" n="1">Senior Electae dominae, et natis ejus, quos ego diligo in
+          veritate, et non ego solus, sed et omnes qui cognoverunt veritatem,</ab>
+        <ab xml:id="d1e36" n="2">propter veritatem, quae permanet in nobis, et nobiscum erit in
+          aeternum.</ab>
+        <ab xml:id="d1e39" n="3">Sit vobiscum gratia, misericordia, pax a Deo Patre, et a Christo
+          Jesu Filio Patris in veritate, et caritate.
+        </ab>
+        <ab xml:id="d1e43" n="4">Gavisus sum valde, quoniam inveni de filiis tuis ambulantes in
+          veritate, sicut mandatum accepimus a Patre.</ab>
+        <ab xml:id="d1e46" n="5">Et nunc rogo te domina, non tamquam mandatum novum scribens tibi,
+          sed quod habuimus ab initio, ut diligamus alterutrum.</ab>
+        <ab xml:id="d1e50" n="6">Et haec est caritas, ut ambulemus secundum mandata ejus. Hoc est
+          enim mandatum, ut quemadmodum audistis ab initio, in eo ambuletis.
+        </ab>
+        <ab xml:id="d1e54" n="7">Quoniam multi seductores exierunt in mundum, qui non confitentur
+          Jesum Christum venisse in carnem: hic est seductor, et antichristus.</ab>
+        <ab xml:id="d1e57" n="8">Videte vosmetipsos, ne perdatis quae operati estis: sed ut
+          mercedem plenam accipiatis.</ab>
+        <ab xml:id="d1e60" n="9">Omnis qui recedit, et non permanet in doctrina Christi, Deum non
+          habet: qui permanet in doctrina, hic et Patrem et Filium habet.</ab>
+        <ab xml:id="d1e63" n="10"> Si quis venit ad vos, et hanc doctrinam non affert, nolite
+          recipere eum in domum, nec Ave ei dixeritis.</ab>
+        <ab xml:id="d1e66" n="11"> Qui enim dicit illi Ave, communicat operibus ejus malignis.<pc
+            ana="#pilcrow"/>
+        </ab>
+        <ab xml:id="d1e71" n="12"> Plura habens vobis scribere, nolui per cartam et atramentum : 
+          spero enim me futurum apud vos, et os ad os loqui: ut gaudium vestrum plenum sit.</ab>
+        <ab xml:id="d1e74" n="13"> Salutant te filii sororis tuae Electae.</ab>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>
